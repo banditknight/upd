@@ -1,0 +1,25 @@
+{
+    "name": "yuliusardian/lumen-resource-routing",
+    "description": "Something",
+    "keywords": [
+        "lumen", "route", "group", "any", "match", "resource"
+    ],
+    "type": "library",
+    "require": {
+        "php": ">=7.3",
+        "laravel/lumen-framework": "^8.0",
+        "elemenx/lumen-advanced-route": "~0.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yuliusardian\\LumenResourceRouting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yulius Ardian Febrianto",
+            "email": "yuliusardin@gmail.com"
+        }
+    ]
+}
