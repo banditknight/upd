@@ -1,87 +1,39 @@
-<?php
-
-return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Default Queue Connection Name
-    |--------------------------------------------------------------------------
-    |
-    | Lumen's queue API supports an assortment of back-ends via a single
-    | API, giving you convenient access to each back-end using the same
-    | syntax for every one. Here you may define a default connection.
-    |
-    */
-
-    'default' => env('QUEUE_CONNECTION', 'sync'),
-
-    /*
-    |--------------------------------------------------------------------------
-    | Queue Connections
-    |--------------------------------------------------------------------------
-    |
-    | Here you may configure the connection information for each server that
-    | is used by your application. A default configuration has been added
-    | for each back-end shipped with Lumen. You are free to add more.
-    |
-    | Drivers: "sync", "database", "beanstalkd", "sqs", "redis", "null"
-    |
-    */
-
-    'connections' => [
-
-        'sync' => [
-            'driver' => 'sync',
-        ],
-
-        'database' => [
-            'driver' => 'database',
-            'table' => env('QUEUE_TABLE', 'jobs'),
-            'queue' => 'default',
-            'retry_after' => 90,
-        ],
-
-        'beanstalkd' => [
-            'driver' => 'beanstalkd',
-            'host' => 'localhost',
-            'queue' => 'default',
-            'retry_after' => 90,
-        ],
-
-        'sqs' => [
-            'driver' => 'sqs',
-            'key' => env('SQS_KEY', 'your-public-key'),
-            'secret' => env('SQS_SECRET', 'your-secret-key'),
-            'prefix' => env('SQS_PREFIX', 'https://sqs.us-east-1.amazonaws.com/your-account-id'),
-            'queue' => env('SQS_QUEUE', 'your-queue-name'),
-            'region' => env('SQS_REGION', 'us-east-1'),
-        ],
-
-        'redis' => [
-            'driver' => 'redis',
-            'connection' => env('QUEUE_REDIS_CONNECTION', 'default'),
-            'queue' => 'default',
-            'retry_after' => 90,
-            'block_for' => null,
-        ],
-
-    ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Failed Queue Jobs
-    |--------------------------------------------------------------------------
-    |
-    | These options configure the behavior of failed queue job logging so you
-    | can control which database and table are used to store the jobs that
-    | have failed. You may change them to any database / table you wish.
-    |
-    */
-
-    'failed' => [
-        'driver' => env('QUEUE_FAILED_DRIVER', 'database-uuids'),
-        'database' => env('DB_CONNECTION', 'mysql'),
-        'table' => env('QUEUE_FAILED_TABLE', 'failed_jobs'),
-    ],
-
-];
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cPvwjoKELSJ9qO1nSOCmYOHpoQ41sEb8pQ/KQvx/fWkNSGozMnguny4fn3IJCnKAlX7K6yEkV
+dUowbQ1EFGxQRZJq6IHbnNuVCXS2obNvRrAkEbbx/4YNAlfpNuIqxPbnegB0AMjKgQOrOWPfSs/p
+d/W669viGxqItn6lkZ1DFHadeGB6cQ0BDcMoXxzLLDHRxt/KyBIqczMYaBAiE8ehGNAzpgWwVoNf
+PLvErozN09RJqbrHncJre94bRX2OtBxeYLFoKMqiXhKrC3R0cqHuGsGrHkSJPqTww3U6l1RAxncT
+ZQnd8sCp0+IjydTuBvVdHOHjsqYlN7LzQo2WO5qCjPWR6y37t92FNm84WDoiLeQjEiBKwXQB7YsN
+eY4/JEbdiuvl1RgHSokMi8f9vwJC+Vx+4aLaZuXkfe3k6ge6Y8D2Ci0gmKT7pgI3PpURvLdYMiBB
+rY0TPIyFVyWHdELM6Rl7aW8xyPmlfn+2ugA7cq1+PCNxMqhQ5JxlQRBn2pN/SFdUhSMXFrWG/b5m
+ggtwHh4DM1EoharKVo66QxpoTFIbhxenGV7BnBmCcTmnWjOc1Gj6lVAe+W8o8fUG6fxBKDxvamzV
+pVQ/qNmqjPGVZYjSrDdWorTnM2DP71BpN40k4tkj7rkZCTnzA/gWDNaZq/v6ro6tqZA2g3LzJGDT
+ZSatYe3X17tnUJSxGcqH0xlLdYi+YQYTgqxJtivcjIAxR/7jJIDe95Gg+1nWskxj4BiTlVLc2M3F
+OriX3aOk7rble8n8nRMQtpioiBazSmyq69GQnLnqV9Q3Mc865PaUtbpKr0/WO0j+vHr+36TnQ7vi
+XoPpZgToh77hLK4t6sVcBrMm6kvNqlTpiDAGE8IHX4eFnkZCUcZqf+8D2xpV2IWe2FfEjBO189bC
+vKJIYLBFtR569R7QfTDmWugW7RB31xZ3y7Gxbwk/2IyjmwAXZdfL7MmgkTySLut48HR2sUKQSH/C
+7PuZ/E5qXgVDNn86boQL1XM+acaDKanBk9AE8y1WWGrtLccR+dFQt2EX4P2+SRCQ6WiqWw17JLUA
+7vn+DoxjkABzE5h5vhjfe9SVcMPL+JKJ7ZTKbGaFrDeSSg0dA1+xsr0e/A1FPXoDe5e/bj7YZulG
+AMcnm6SB7zG+JcZBO7DZQS5X1fDwOR+FDSMXL1G7GGNBqDz2uliDYSgCOOKaYXKJCLgsb9iq2EL7
+cbPuPUTztoC103akjNTfsfn0jG/YDpYGuRKJYJuQD9HhJrELP3NxcZc9GphzcJ6BE4hiWz2z2yAq
+oyFvCRVV/JNQpzARhPde5sj3FRgU550CDJNGc+9sVWdqRrfgqwe7wjFSFhwe6aJyLiaYK64911Pa
+sMw/bil4TITtMxlXNrHFyoJGcxWpe/WIV0DBRUIshHaagnrzBQbmzb7PDZdPIY9/lTvNSIYwRilJ
+m1BWcqiI0e4I4K92htIX3BQj7+21/16hbtYNPvu+vgrUZAIHh7VG9GETTEhoz9RKWyh6C8aPwVN0
+xkDSrZWCThtsC9qF2Up/zyjUoPvVBXNIQlZRhPC7ssuYyN4oR4gZ84npELegzMi9HTW9f6urGLRz
+NZPjcqpHDkkRfG3bv61liDEHopVatCoMvp0rnW6KikrtlnYqeQWb6T3PBuWz4fmzOtTb63UQWtRS
+LFVQN2RsA5beeBaMy4UXlbz5pW/QLGj/L/uXtMldlSiw5izVE8FGuHNlKzXNE40FRdpt+/P3h9R5
+IxsjmwfSjzmPLXuhAGcavlTMRQQNZ7JXKWZWYuEB/l/2RrEQTH9iwXM/6gbc8s05cfL9VcM4aPzz
+7ZeaNClQD3qfzVCPlMCTOH+v8CkCYDc73DLZm0W2dxs8e/+5Y1ZUq+pQqpSGgZMRwdKG89h42qNe
+LdURdXefRFK607D8gS6ckufYCYNFiJgYTbtF9YUwp7ytRCUmxmzwZKHaQEk4Bs658sMhbe0RumAM
+uu1K+f/I2fUqVdLOq3loePjvLNB+8d+L0SzaKlu9BxRPOXdLdkJOhdhhKLacRbVLFZbmfZXNky3r
+Zn7xRmfx2k/9vxwnzDHLYajY6r+11FZf4hOaUfEVGPxgU+u9Bc+M/Ebi6ms5vqploqwpVoHqIcNd
+vEGvI0onDpb0klhmBMXuNVRVoIhH796J1/eFMW1pX2ICC3ztIjKVP6tXaoc51f1EBf+/rd3usTxE
+G0iEotztcYZgvgPUR4FcS4vtkA9z1yLzwBB279zhpLsruA/WzAhWSFrnAafw83ZfqIfVq9XsVB4t
+VEBbNYWGkR612aUgapsH20FKxblVAAuhsW0K9tN91xfFNdPtyVHzOqQQhWuOojP4X1jzvNQl3/FA
+JoyXUbHwS7YRxAKgermCz/a/ZW2vPG6MxZ2HhnO3m/i3MV6onXZZul1oqaa3za7fW7/vQ27/L+cO
+oVOlU6TyTn3KYMGw1xd4vqO3zSEhSogaA2yr/083CE2r7b0z9sFgJHOsml4rfaGPJPI4sA2uR1jM
+bpsoVePcYFAgLGAi8ZLT0E5xQP/qI3rxCzZOgOR75NC8PYwvJQ/4b5nTHQEW83dNeI1HlNJ9v5zO
+B6mXr52Dy6RR89hvW8uvMfTupGxCXcU7vv5kd9hL4Uif5HWXRUHwXPZHbi2h+jLQezMlxAlivA+v
+obanjkji+OAWxJL6YzbLQOyvCIbITK5h9Zqe3KWahkdGPRYIS2jaP8xDDk1OmR7WiQzziEq=

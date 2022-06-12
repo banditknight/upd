@@ -1,154 +1,23 @@
-<?php
-
-return [
-
-    'models' => [
-
-        /*
-         * When using the "HasPermissions" trait from this package, we need to know which
-         * Eloquent model should be used to retrieve your permissions. Of course, it
-         * is often just the "Permission" model but you may use whatever you like.
-         *
-         * The model you want to use as a Permission model needs to implement the
-         * `Spatie\Permission\Contracts\Permission` contract.
-         */
-
-        'permission' => Spatie\Permission\Models\Permission::class,
-
-        /*
-         * When using the "HasRoles" trait from this package, we need to know which
-         * Eloquent model should be used to retrieve your roles. Of course, it
-         * is often just the "Role" model but you may use whatever you like.
-         *
-         * The model you want to use as a Role model needs to implement the
-         * `Spatie\Permission\Contracts\Role` contract.
-         */
-
-        'role' => Spatie\Permission\Models\Role::class,
-
-    ],
-
-    'table_names' => [
-
-        /*
-         * When using the "HasRoles" trait from this package, we need to know which
-         * table should be used to retrieve your roles. We have chosen a basic
-         * default value but you may easily change it to any table you like.
-         */
-
-        'roles' => 'spatieRoles',
-
-        /*
-         * When using the "HasPermissions" trait from this package, we need to know which
-         * table should be used to retrieve your permissions. We have chosen a basic
-         * default value but you may easily change it to any table you like.
-         */
-
-        'permissions' => 'spatiePermissions',
-
-        /*
-         * When using the "HasPermissions" trait from this package, we need to know which
-         * table should be used to retrieve your models permissions. We have chosen a
-         * basic default value but you may easily change it to any table you like.
-         */
-
-        'model_has_permissions' => 'spatieModelHasPermissions',
-
-        /*
-         * When using the "HasRoles" trait from this package, we need to know which
-         * table should be used to retrieve your models roles. We have chosen a
-         * basic default value but you may easily change it to any table you like.
-         */
-
-        'model_has_roles' => 'spatieModelHasRoles',
-
-        /*
-         * When using the "HasRoles" trait from this package, we need to know which
-         * table should be used to retrieve your roles permissions. We have chosen a
-         * basic default value but you may easily change it to any table you like.
-         */
-
-        'role_has_permissions' => 'spatieRoleHasPermissions',
-    ],
-
-    'column_names' => [
-        /*
-         * Change this if you want to name the related pivots other than defaults
-         */
-        'role_pivot_key' => null, //default 'role_id',
-        'permission_pivot_key' => null, //default 'permission_id',
-
-        /*
-         * Change this if you want to name the related model primary key other than
-         * `model_id`.
-         *
-         * For example, this would be nice if your primary keys are all UUIDs. In
-         * that case, name this `model_uuid`.
-         */
-
-        'model_morph_key' => 'model_id',
-
-        /*
-         * Change this if you want to use the teams feature and your related model's
-         * foreign key is other than `team_id`.
-         */
-
-        'team_foreign_key' => 'team_id',
-    ],
-
-    /*
-     * When set to true the package implements teams using the 'team_foreign_key'. If you want
-     * the migrations to register the 'team_foreign_key', you must set this to true
-     * before doing the migration. If you already did the migration then you must make a new
-     * migration to also add 'team_foreign_key' to 'roles', 'model_has_roles', and
-     * 'model_has_permissions'(view the latest version of package's migration file)
-     */
-
-    'teams' => false,
-
-    /*
-     * When set to true, the required permission names are added to the exception
-     * message. This could be considered an information leak in some contexts, so
-     * the default setting is false here for optimum safety.
-     */
-
-    'display_permission_in_exception' => false,
-
-    /*
-     * When set to true, the required role names are added to the exception
-     * message. This could be considered an information leak in some contexts, so
-     * the default setting is false here for optimum safety.
-     */
-
-    'display_role_in_exception' => false,
-
-    /*
-     * By default wildcard permission lookups are disabled.
-     */
-
-    'enable_wildcard_permission' => false,
-
-    'cache' => [
-
-        /*
-         * By default all permissions are cached for 24 hours to speed up performance.
-         * When permissions or roles are updated the cache is flushed automatically.
-         */
-
-        'expiration_time' => \DateInterval::createFromDateString('24 hours'),
-
-        /*
-         * The cache key used to store all permissions.
-         */
-
-        'key' => 'spatie.permission.cache',
-
-        /*
-         * You may optionally indicate a specific cache driver to use for permission and
-         * role caching using any of the `store` drivers listed in the cache.php config
-         * file. Using 'default' here means to use the `default` set in cache.php.
-         */
-
-        'store' => 'default',
-    ],
-];
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cPzi5IObWuh6kVR3SgcF0yj8uHKfZjCAh5vUuFk/TFLeKHVVtJqUAL2pTGiA7cHHuxy++hjAn
+eRk88sJ7MzrobQu1rYykQpPx87Gche7aKi979taC8qmgEZT3aip9xWeCspu+Icoj54iV1l+7oZDw
+KZ9DENmfviOFAGUCwHSJNuaOeWovjU4XQ41+YGulOb746PSQLhdNU2P+Vphwpcsue5qRRLLjnR+O
+DHO5WUNjQnqOsrRCPbB7pwy1WWRmqV0Eca6kRIo6jJKmDi2RH7X3P3L6vvDX1Qvpzh/gPiEy9PsD
+h6SZdkR03xkk/qaENdEX5pzQL4+UdagjKu//rCxxOGibPijPb31W+DhGopO3tvNbeH+aA1atrynC
+e0QZ7nNYw0FAUg2JCOHlZFZiPwWn+uExTomHGaxS9WYHRGmNUBSK34XX4t+MkBpfwvnrYFcPJmUn
+2k8YoflCxo9NEXuLorCu2kgjAb9ZICdz2RYwk4U8SC3nxZvYxgfO1N+Q3/W/BugQW/0cAFAye0TH
+CfMQ5yRkdXGTWeK3NvHRxB5z7dsi/LZWwPTvsiEjyoNlFLk6NaaJXbvAIFpIjSoXvoDYr2ls9Via
+quaB72F18sQ3BO9+nUL5IZJzrRpxxiNWyqRgkeC+ZTeqGcclfleYFcF/vIGmE8Wqs8erS4TTMbAL
+S1xDV1XhUtSMjEjmepYsG0N8LNW+2Io0JOG6t0MS0jcLMFxEbstBd0gy2iWPcyMiD20ZDKyOI5JM
+wLc5e8peA+jHdpEPmDK1Kll2XLoomaVqSxepcUjr5iX1qXaPxEaQitZvlZxjuWMxrsIKWFc25KIh
+UgQ3sPcYQQ5mqpq+cGUtWbKrXOFwMZ+t7D9MTxKnf1/0hKLPIgpbvnN0T9ra+hcN4NjyFGM3f/bc
+13ez8xuVQSuCjtvM6ZxpNNBQ1DJRoZ13G1u0bnhbdxLk5vwdrdto6U5Z1HNQBBTW5l9aQLI015iJ
+47Q6uVRmkgHV+lFzUq68g+hGcK7pZm2SVdUor5EhapGd+aXV46yNJ1aXg0ds68A1sB14irZhBeQA
+XWu8lQ9UL7I0QHZ7Nc8tdA9Z5fF/wvio1xrJ4OyZphyW6GyXSxSqvYyr5t9OEXeoCJxxk8UwHQX8
+4WGKvVYloL+xcZJ0P33mZtA9g08xCfLWuTME6eA22uf9dWulEemc02Ptds0JfIxG3GYdqzGQch7z
+hNcml2NYivhKJfx+9SlX+LUwekUOf3fElGFBqSyMZSdDdQJh5cf/oSoD8HSzxs+AzU9J5SYjNu7y
+vsZo3ckRqbIy2FLCaX/gTKkeWXw4Obbiu3yt2WHl8yVlplfVTQPMEcEtD5PJN94xh7Ulm8KLth3G
+5tkj+HIGj/O4B4XjL+xzT9Ko8mOCBwwQp25hYUjaLLcDchACEf3TdUuzbPQNjRNz0rqY0sU9dP1W
+Y+ZGfLuHCKmDGToAC8Cq6J/5dM0FLyIZlAoiwaC=

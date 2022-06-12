@@ -1,137 +1,34 @@
-<?php
-
-// Full workflow, annotated.
-return [
-    // Name of the workflow is the key
-    'tender' => [
-        'type' => 'state_machine', // or 'state_machine', defaults to 'workflow' if omitted
-        // The marking store can be omitted, and will default to 'multiple_state'
-        // for workflow and 'single_state' for state_machine if the type is omitted
-        'marking_store' => [
-            'type' => 'single_state', // or 'single_state', can be omitted to default to workflow type's default
-            'property' => 'currentPlace', // this is the property on the model, defaults to 'marking'
-            'class' => \ZeroDaHero\LaravelWorkflow\MarkingStores\EloquentMarkingStore::class, // optional, uses EloquentMethodMarkingStore by default (for Eloquent models)
-        ],
-        // optional top-level metadata
-        'metadata' => [
-            // any data
-        ],
-        'supports' => [\App\Models\v1\Tender::class], // objects this workflow supports
-        // Specifies events to dispatch (only in 'workflow', not 'state_machine')
-        // - set `null` to dispatch all events (default, if omitted)
-        // - set to empty array (`[]`) to dispatch no events
-        // - set to array of events to dispatch only specific events
-        // Note that announce will dispatch a guard event on the next transition
-        // (if announce isn't dispatched the next transition won't guard until checked/applied)
-        'events_to_dispatch' => [
-            Symfony\Component\Workflow\WorkflowEvents::ENTER,
-            Symfony\Component\Workflow\WorkflowEvents::LEAVE,
-            Symfony\Component\Workflow\WorkflowEvents::TRANSITION,
-            Symfony\Component\Workflow\WorkflowEvents::ENTERED,
-            Symfony\Component\Workflow\WorkflowEvents::COMPLETED,
-            Symfony\Component\Workflow\WorkflowEvents::ANNOUNCE,
-        ],
-        'places' => [
-            'draft',
-            'inProgress',
-            'inApprovalLevelOne',
-            'inApprovalLevelTwo',
-            'inApprovalLevelThree',
-            'inApprovalLevelFour',
-            'inApprovalLevelFive',
-            'inApprovalLevelSix',
-            'done',
-            'rejected'
-        ],
-        'initial_places' => ['draft'], // defaults to the first place if omitted
-        'transitions' => [
-            'start_progress' => [
-                'from' => 'draft',
-                'to' => 'inProgress',
-                // optional transition-level metadata
-                'metadata' => [
-                    // any data
-                ]
-            ],
-            'mark_as_reject_to_draft' => [
-                'from' => 'rejected',
-                'to' => 'draft'
-            ],
-            'mark_as_in_approval_level_one' => [
-                'from' => 'inProgress',
-                'to' => 'inApprovalLevelOne',
-                'metadata' => [
-                    'role' => 'approveTenderLevelOne',
-                    'note' => [
-
-                    ],
-                ]
-            ],
-            'mark_as_in_approval_level_two' => [
-                'from' => 'inApprovalLevelOne',
-                'to' => 'inApprovalLevelTwo',
-                'metadata' => [
-                    'role' => 'approveTenderLevelTwo',
-                    'note' => [
-
-                    ],
-                ]
-            ],
-            'mark_as_in_approval_level_three' => [
-                'from' => 'inApprovalLevelTwo',
-                'to' => 'inApprovalLevelThree',
-                'metadata' => [
-                    'role' => 'approveTenderLevelThree',
-                    'note' => [
-
-                    ],
-                ]
-            ],
-            'mark_as_in_approval_level_four' => [
-                'from' => 'inApprovalLevelThree',
-                'to' => 'inApprovalLevelFour',
-                'metadata' => [
-                    'role' => 'approveTenderLevelFour',
-                    'note' => [
-
-                    ],
-                ]
-            ],
-            'mark_as_in_approval_level_five' => [
-                'from' => 'inApprovalLevelFour',
-                'to' => 'inApprovalLevelFive',
-                'metadata' => [
-                    'role' => 'approveTenderLevelFive',
-                    'note' => [
-
-                    ],
-                ]
-            ],
-            'mark_as_in_approval_level_six' => [
-                'from' => 'inApprovalLevelFive',
-                'to' => 'inApprovalLevelSix',
-                'metadata' => [
-                    'role' => 'approveTenderLevelSix',
-                    'note' => [
-
-                    ],
-                ]
-            ],
-            'mark_as_reject' => [
-                'from' => [
-                    'inApprovalLevelOne',
-                    'inApprovalLevelTwo',
-                    'inApprovalLevelThree',
-                    'inApprovalLevelFour',
-                    'inApprovalLevelFive',
-                    'inApprovalLevelSix',
-                ],
-                'to' => 'inProgress'
-            ],
-            'mark_as_done' => [
-                'from' => 'inApprovalLevelSix',
-                'to' => 'done'
-            ]
-        ],
-    ]
-];
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
