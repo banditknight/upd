@@ -1,33 +1,45 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Listeners\v1\VendorRegistered;
+
+use App\Events\v1\VendorRegistered;
+use App\Models\v1\User;
+
+class CreateUserAccount
+{
+    /**
+     * Create the event listener.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        //
+    }
+
+    /**
+     * Handle the event.
+     *
+     * @param  VendorRegistered  $event
+     * @return void
+     */
+    public function handle(VendorRegistered $event)
+    {
+        /** @var User $user */
+        $user = User::factory()->create([
+            'code' => 'U'.sprintf('%05d',User::count()+1),
+            'name' => $event->vendor->picFullName,
+            'email' => $event->vendor->picEmail,
+            'phone' => $event->vendor->picMobileNumber,
+            'vendorId' => $event->vendor->id,
+            'isPrimary' => true
+        ]);
+
+        // assign vendor role.
+        $user->assignRole('vendor');
+
+        $event->vendor->update([
+            'picId' => $user->id
+        ]);
+    }
+}

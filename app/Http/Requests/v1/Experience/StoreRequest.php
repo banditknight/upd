@@ -1,65 +1,166 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-zngAWsIMROYbELHmYW==
+<?php
+
+namespace App\Http\Requests\v1\Experience;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\AlphaSpaceDotNumber;
+use App\Rules\BusinessTypeValid;
+use App\Rules\CityValid;
+use App\Rules\CountryValid;
+use App\Rules\CurrencyValid;
+use App\Rules\DistrictValid;
+use App\Rules\FileValid;
+use App\Rules\ProvinceValid;
+use App\Rules\SubBusinessTypeValid;
+
+class StoreRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'businessTypeId' => [
+                'required',
+                'numeric',
+                new BusinessTypeValid()
+            ],
+            'subBusinessTypeId' => [
+                'required',
+                'numeric',
+                new SubBusinessTypeValid()
+            ],
+            'workPackageName' => [
+                'required',
+                'min:5',
+                'max:256',
+                new AlphaSpaceDotComma()
+            ],
+            'workPackageLocation' => [
+                'required',
+                'min:5',
+                'max:256',
+            ],
+            'contactOwner' => [
+                'required',
+                'min:5',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+            'address' => [
+                'required',
+                'min:5',
+                'max:100',
+                new AlphaSpaceDotNumber()
+            ],
+            'countryId' => [
+                'required',
+                'numeric',
+                new CountryValid()
+            ],
+            'provinceId' => [
+                'required',
+                'numeric',
+                new ProvinceValid()
+            ],
+            'cityId' => [
+                'required',
+                'numeric',
+                new CityValid()
+            ],
+            'districtId' => [
+                'required',
+                'numeric',
+                new DistrictValid()
+            ],
+            'postalCode' => [
+                'required',
+                'min:3',
+                'max:10',
+            ],
+            'contactPerson' => [
+                'required',
+                'min:5',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+            'phoneNumber' => [
+                'required',
+                'numeric',
+                'digits_between:10,16',
+            ],
+            'contractValue' => [
+                'required',
+                'numeric',
+                'max:20000000000'
+            ],
+            'contractNumber' => [
+                'required',
+                'min:5',
+                'max:32'
+            ],
+            'contractHandOverLetterNumber' => [
+                'required',
+                'min:5',
+                'max:32'
+            ],
+            'contractHandOverLetterDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'contractHandOverLetterAttachment' => [
+                'required',
+                'numeric',
+                new FileValid()
+            ],
+            'validFromDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'validThruDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'currencyId' => [
+                'required',
+                'numeric',
+                new CurrencyValid()
+            ],
+            'testimony' => [
+                'required',
+                'min:10',
+                'max:256'
+            ],
+            'testimonyAttachment' => [
+                'required',
+                'numeric',
+                new FileValid()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

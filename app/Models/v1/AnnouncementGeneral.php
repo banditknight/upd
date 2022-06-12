@@ -1,37 +1,56 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-rIRw+aCuXucWe1Oo7Uu=
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Traits\Log as LogAble;
+
+/**
+ * App\Models\v1\AnnouncementGeneral
+ *
+ * @property int $id
+ * @property string $title
+ * @property string $description
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Database\Factories\v1\AnnouncementGeneralFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementGeneral newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementGeneral newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementGeneral query()
+ * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementGeneral whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementGeneral whereDescription($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementGeneral whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementGeneral whereTitle($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementGeneral whereUpdatedAt($value)
+ * @mixin \Eloquent
+ */
+class AnnouncementGeneral extends AbstractModel
+{
+    use HasFactory, LogAble;
+
+    protected $table = 'announcementGenerals';
+
+
+    protected $appends = [
+        'createdAt'
+    ];
+
+    public function getCreatedAtAttribute()
+    {
+        $createdAt = null;
+
+        try {
+            $createdAt = $this->attributes['created_at'] ?
+                Carbon::createFromFormat(
+                    env('TIMESTAMP_FORMAT') === 'SQL_SERVER' ?
+                        self::DEFAULT_TIMESTAMP_FORMAT_SQL_SERVER : self::DEFAULT_TIMESTAMP_FORMAT_MYSQL
+                    , $this->attributes['created_at'])->timestamp :
+                null;
+        } catch (\Exception $e) {
+            $this->info($e->getMessage());
+        }
+
+        return $createdAt;
+    }
+}

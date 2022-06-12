@@ -1,36 +1,47 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-JCOkUN+zK0BPfByVJHWrct22Mqou2Ia2iG==
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+
+class TenderProcessTechnicalOffering extends AbstractModel
+{
+    protected $table = 'tenderProcessTechnicalOfferings';
+
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'tenderId',
+        'number',
+        'fromDate',
+        'toDate',
+        'bidAttachment',
+        'handOverInDay',
+        'note',
+    ];
+
+    protected $hidden = [
+        'userId',
+        'vendorId',
+        'updated_at',
+        'created_at'
+    ];
+
+    protected $appends = [
+        'vendor'
+    ];
+
+    public function setFromDateAttribute($value)
+    {
+        $this->attributes['fromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setToDateAttribute($value)
+    {
+        $this->attributes['toDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function getVendorAttribute(){
+        return Vendor::find($this->vendorId)->only(['id','registrationNumber','name']);
+    }
+}

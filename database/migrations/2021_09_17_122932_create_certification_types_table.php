@@ -1,32 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-AG8=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateCertificationTypesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+            Schema::create('certificationTypes', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code')->unique();
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('certificationTypes');
+    }
+}

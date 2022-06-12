@@ -1,34 +1,43 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Controllers\App\v1;
+
+use App\Exceptions\Custom\ModelNotFoundException;
+use App\Http\Requests\ResourceRequest;
+use App\Models\v1\TenderProcessCommercial;
+use Illuminate\Http\JsonResponse;
+
+class TenderProcessCommercialController extends ResourceController
+{
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param ResourceRequest $resourceRequest
+     * @return JsonResponse
+     */
+    public function store(ResourceRequest $resourceRequest): JsonResponse
+    {
+        $tenderProcessTechnical = TenderProcessCommercial::create(
+            $resourceRequest->all()
+        );
+
+        return $this->responseSuccess([]);
+    }
+
+    /**
+     * @throws ModelNotFoundException
+     */
+    public function destroy(int $id): JsonResponse
+    {
+        $tenderProcessCommercial = TenderProcessCommercial::find($id);
+
+        if (!$tenderProcessCommercial) {
+            throw new ModelNotFoundException();
+        }
+
+        $tenderProcessCommercial->isDeleted = 1;
+        $tenderProcessCommercial->save();
+
+        return $this->responseSuccess([]);
+    }
+}

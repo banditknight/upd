@@ -1,35 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Criteria;
+
+use App\Contracts\CriteriaInterface;
+use App\Contracts\RepositoryInterface;
+use App\Models\v1\TenderRequirementDocument;
+
+class TenderProcessPraQualificationCriteria implements CriteriaInterface
+{
+    public function apply($model, RepositoryInterface $repository)
+    {
+        if (!$model instanceof TenderRequirementDocument) {
+            return $model;
+        }
+
+        $model = $model
+            ->select([
+                'tenderProcessDocumentPraQualifications.attachment',
+                'tenderRequirementDocuments.description',
+                'tenderRequirementDocuments.id',
+                'tenderRequirementDocuments.isMandatory',
+                'tenderRequirementDocuments.name',
+                'tenderRequirementDocuments.stepType',
+                'tenderRequirementDocuments.tenderId',
+                'tenderProcessDocumentPraQualifications.id AS finished'
+            ])
+            ->where('tenderRequirementDocuments.praQualification', '=', 1)
+            ->leftJoin('tenderProcessDocumentPraQualifications', function($join) {
+                $join->on(
+                    'tenderProcessDocumentPraQualifications.tenderRequirementDocumentId', '=', 'tenderRequirementDocuments.id'
+                )->where('tenderProcessDocumentPraQualifications.isDeleted', '=', 0);
+            });
+
+        return $model;
+    }
+}

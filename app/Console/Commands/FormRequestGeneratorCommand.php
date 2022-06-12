@@ -1,45 +1,69 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-l4lFKdS86xrqTbsrOHrDqG==
+<?php
+
+namespace App\Console\Commands;
+
+use Illuminate\Console\Command;
+use Illuminate\Support\Facades\Artisan;
+use Illuminate\Support\Facades\Route;
+
+class FormRequestGeneratorCommand extends Command
+{
+    /**
+     * The name and signature of the console command.
+     *
+     * @var string
+     */
+    protected $signature = 'app:form-request:generator';
+
+    /**
+     * The console command description.
+     *
+     * @var string
+     */
+    protected $description = 'Generate form request based on pattern.';
+
+    /**
+     * Create a new command instance.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        parent::__construct();
+    }
+
+    /**
+     * Execute the console command.
+     *
+     * @return mixed
+     */
+    public function handle()
+    {
+        $routes = Route::getRoutes();
+
+        foreach ($routes as $route) {
+            if (!isset($route['action']['model'])) {
+                continue;
+            }
+
+            $model = $route['action']['model'];
+            $method = $route['action']['method'];
+
+            $modelInstance = new $model();
+            $formRequestNameSpace = class_basename($modelInstance);
+
+            if (
+                method_exists($modelInstance, 'getRules') &&
+                $modelInstance->getRules()
+            ) {
+                $this->info('Skip generating form request.');
+                continue;
+            }
+
+            $formRequestNameSpace = sprintf('%s/%s/%sRequest', 'v1', $formRequestNameSpace, ucfirst($method));
+
+            $this->info(sprintf('Generating form request with name %s', $formRequestNameSpace));
+            Artisan::call('make:request', ['name' => $formRequestNameSpace]);
+        }
+    }
+}

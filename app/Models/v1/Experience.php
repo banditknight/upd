@@ -1,77 +1,193 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\Experience
+ *
+ * @property int $id
+ * @property int|null $userId
+ * @property int|null $vendorId
+ * @property int $businessTypeId
+ * @property int $subBusinessTypeId
+ * @property string $workPackageName
+ * @property string $workPackageLocation
+ * @property string $contactOwner
+ * @property string $address
+ * @property int $countryId
+ * @property int $provinceId
+ * @property int $cityId
+ * @property int $districtId
+ * @property string $postalCode
+ * @property string $contactPerson
+ * @property string $phoneNumber
+ * @property string $contractNumber
+ * @property int $validFromDate
+ * @property int $validThruDate
+ * @property int $currencyId
+ * @property int $contractValue
+ * @property int $contractHandOverLetterDate
+ * @property int $contractHandOverLetterNumber
+ * @property int $contractHandOverLetterAttachment
+ * @property string $testimony
+ * @property int $testimonyAttachment
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-write mixed $contract_hand_over_letter_date
+ * @property-write mixed $valid_from_date
+ * @property-write mixed $valid_thru_date
+ * @method static \Database\Factories\v1\ExperienceFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereAddress($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereBusinessTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereCityId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereContactOwner($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereContactPerson($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereContractHandOverLetterAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereContractHandOverLetterDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereContractHandOverLetterNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereContractNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereContractValue($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereCountryId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereCurrencyId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereDistrictId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience wherePhoneNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience wherePostalCode($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereProvinceId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereSubBusinessTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereTestimony($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereTestimonyAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereValidFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereValidThruDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereVendorId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereWorkPackageLocation($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Experience whereWorkPackageName($value)
+ * @mixin \Eloquent
+ * @property-read mixed $business_type
+ * @property-read mixed $city
+ * @property-read mixed $country
+ * @property-read mixed $currency
+ * @property-read mixed $district
+ * @property-read mixed $province
+ * @property-read mixed $sub_business_type
+ */
+class Experience extends AbstractModel
+{
+    use HasFactory;
+
+    protected $table = 'experiences';
+
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'businessTypeId',
+        'subBusinessTypeId',
+        'workPackageName',
+        'workPackageLocation',
+        'contactOwner',
+        'address',
+        'countryId',
+        'provinceId',
+        'cityId',
+        'districtId',
+        'postalCode',
+        'contactPerson',
+        'phoneNumber',
+        'contactEmail',
+        'contractNumber',
+        'validFromDate',
+        'validThruDate',
+        'currencyId',
+        'contractValue',
+        'contractHandOverLetterDate',
+        'contractHandOverLetterNumber',
+        'contractHandOverLetterAttachment',
+        'testimony',
+        'testimonyAttachment',
+    ];
+
+    protected $hidden = [
+        'userId',
+        'vendorId',
+        'businessTypeId',
+        'subBusinessTypeId',
+        'countryId',
+        'provinceId',
+        'cityId',
+        'districtId',
+        'currencyId',
+        'created_at',
+        'updated_at'
+    ];
+
+    protected $appends = [
+        'businessType',
+        'subBusinessType',
+        'country',
+        'province',
+        'city',
+        'district',
+        'currency',
+    ];
+
+
+    public function setContractHandOverLetterDateAttribute($value)
+    {
+        $this->attributes['contractHandOverLetterDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setValidFromDateAttribute($value)
+    {
+        $this->attributes['validFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setValidThruDateAttribute($value)
+    {
+        $this->attributes['validThruDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function getBusinessTypeAttribute()
+    {
+        return BusinessType::find($this->businessTypeId)->only(['id', 'code', 'name']);
+    }
+
+    public function getSubBusinessTypeAttribute()
+    {
+        return SubBusinessType::find($this->subBusinessTypeId)->only(['id', 'code', 'name']);
+    }
+
+    public function getCountryAttribute()
+    {
+        return Country::find($this->countryId)->only(['id', 'code', 'name', 'currencyCode']);
+    }
+
+    public function getProvinceAttribute()
+    {
+        return Province::find($this->provinceId);
+    }
+
+    public function getCityAttribute()
+    {
+        return City::find($this->cityId);
+    }
+
+    public function getDistrictAttribute()
+    {
+        return District::find($this->districtId);
+    }
+
+    public function getCurrencyAttribute()
+    {
+        return Currency::find($this->currencyId)->only(['id', 'code', 'name']);
+    }
+
+}

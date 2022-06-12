@@ -1,36 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-hl0HvyS=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateFieldOfStudiesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('fieldOfStudies', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code');
+            $table->string('name');
+            $table->unsignedBigInteger('educationId');
+            $table->foreign('educationId')->references('id')->on('education');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('fieldOfStudies');
+    }
+}

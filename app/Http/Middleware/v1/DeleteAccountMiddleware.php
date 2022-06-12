@@ -1,49 +1,68 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPqOxvLQh6jwPieXmTSCquIOnfDXascNTgP2uYXe/7g2zzmEqP4Tatpi/y6He98bxrusTI+Lp
-/YVey5JAbh6WOjaRTM1aHQSInR/e5ynLlNak97t/ezHj1Eykl72JUop2dPMq7RykpjhsFXN0tlsL
-QJF4bsgTni0/3jP2Gf0HcfPXipKXpFdX6oGlKuqfblwgr+YOJvy8jo9cmaaRuYzor2PLEiJdH6m7
-WcgTEO3oKmCczgUpL8Dmo3UnSoU/tYkY/6DUk4eXWJe7y8K+FYzUL8cLU9jfKjH1yqYOnn6YgcCf
-O/8bVSrZpap5FXr2dJcrCTvpptmKSu+/PJB4UmI+voEZj/Y1BLlunSw4vV60g6lkkn1Zwm0Qf6z0
-P5QtHU+Spv9tAqZoKrKH4ap0QjHnZMTymrB8SH9yfrKheOSaaA7R9sfRY5qBgbYr8mBTLTaRf1x+
-Tg3pkHP9KslDK75TNuk0XHWdWKT8F/lf4LVgTlQwUdp0x55Nh2XuhfsXwG5auGvLIdWgybdj7jlj
-szcVyJk4OTmzgNp26k+pm0kh02wUQ8NNl9f8p//xbwaHGcFc2DJB6u/Z3Rv5kBfecBJRjuNzqoP6
-UjUVxYyNxdPY0FZqmMCbnSnB5pE25l/BTtxj8LNkoyL0ZWabsRyezuB+lziJCjznIpOBQJ9q7FKt
-/sLn9TTKhafUngmZKU7kBecCH4xhqqS9SZO3bHLt+NIDKzRO3S0j+CwHtTDibt62wWEl5g7CtyE7
-jkNP1ouBZwYhDAyLSQI/2oHJuIHZtM37MuwFeAou6RWg0x7MVgKDPSg4VoYAVzV0pIu3jFsKodh4
-akQtrI1XCgyN0nxSeUGb+Dv5tDkI3kgSbYQvcMIupIP3dF7O/bTy0gbJbmlORm0oDlL8BQEObh+8
-InfavI/7oSRKO2uhVJNv47e9p0ItwM2ijjwi41J/BKtXCk/jXFQe7wOkPyaitYu1JkTl8zoh0bBC
-IWnylNSaXPsB1ZJAGF+Zg/T12JY5Nbj2e5Ghy4oYzGT950qq5H4mvqINmdIpvT9rYDGXExHuHUR6
-I95IcTfFSXWkzc5CMJPjdCdmGoIKV+oqXCIUJlRI41Z/QTpB+lEyZH/5qmcCKszjOzGsUlh8Q4wC
-FsWRrDHGgjgKWzQ3yS/xQzmF9yQqrZ1ENLSpPui0nvAIu7TjTDETrY99+bPRK2XWrw4lqK+8CQ4I
-QXAI9a6OmNk4RV8WczUYX/8NxehE6nLZBVwKmyGb9dfZuptd+KHVzk9yEP5juIKf5Y+8M+mYq+y1
-RmDX95qBlKODH17Si4R7HXOlOMT9b21OJVSEWnNDYXWJ/sJwgbPNZ3eN6VSYZfvSGYOJg7iFf2wq
-s/hB0xiFuwh+zpwNmpZb8SHu9NQn+iZiG2FgOAkihfPd2BftG6nuYO31oXe3zS4f9aNFvyYY/AUT
-+ZDOC75Ht6XntcdSUr9S3e0pmJD2uGfJXGaF7T+eES3hhaIRQ56OLGrJSE5PVfkzE9MJjQWMu2YQ
-6nEJVxq2dW4duOBlWnT8Lnpv/TzF29msmAzxrlcvsXiqlnhTgD9m+yivehTL6Z4XzP49DGmtY0Xz
-US6+tzOpE++/usjdM7tedc8APQZmbEV4surCwaBrkc7DYvIWGiy6+eU2XayFBGQAUBiC58E7K7/a
-86X8x9lIHSXTLwd8C+fMXX8t3G4vDN4MjBj52cuQzZYUQ45bmTY+HbB3PHvl7BN0ERwHlAGP6UBs
-3p/qhrCjtPRC88PXIvfqWfAQHSURrFDXRqSd8rMdL2E406ZLTaSl8QDwwX9BJ2wxSTzmwfQYsBGs
-0n3uXNiP6xExdI+kQX9SDl+ONViSRhHP0jfBfgiR4hDw0E2wX29PsYygRvh1NGbXcWyvbz2fdDg9
-IN0KNdvq3RN/j4MZZ6cqINaYkKPeJV2fwj8OFlOiw9zaLHSChVtMmUK91cE5UQnyeNfOTWRi7QE/
-kEOSvKh3HnJB56Sv++HfKEb2WZDfipefSxRj55xkT6ITikozgAvom3Y+SII/Api0ISoDYwsV9SbO
-BkhSVojl150DwPumL73g5civuKziNkKt6NDULl63c5l0aWcy1QlbtQw+ESGPI9ZTn1E1IrVLcU2/
-8SWMnMu98/7gTB0qEP5xIsmc1QSbTwkI1wixM1Q9Bq9ogKEi2oRYZ0dSlxthdl9h+A2acKwY3A1d
-y2cUFKV1F/PV0gd5rBqzQq0vuSB2N/uK7KJjSnWAPL42Kc+TtYlr1Fc3LIhFU0PhuuWvQUIDU+De
-v9oSHkc7Ek9Tads1vdj9dR/W2k5DpC2VXAY9iWyo+6k6mK9CXB7jgvpvcW4zi0572z7PJ6Fv8Di8
-Ahb5LorYaA6E/G9Sg22vPMK/DHb5UYXr0NwLzXtzxaZntLhYFvGfoDTWgMPssjzcT7sXv+vr/hjw
-+r2debpHI99yr+O7v/ocLs5m6i11jpdUcId2R0AiVJQo7no449fH8sgsPt2/HxmDhN2wBzu9rDFA
-GYyGavpFCvLEyt+qxxFR6TrDmg/tfSJeiKqU5H5wC9RubVJUN6QDs9s/WXcfVjQrzUPCT5D+AdVe
-9ArhBCE1VcheFYMf4ejO8DtsRbhfB3NYrKv0TrLdvJ8f4/5nDa4wUARURqv2jnNKfYisQeRmtFE5
-knHP8uNuE9zLqrW/va0xY5XuxvA5WqvNEcCGYxGKcxC54W/Hm7gahSA61zqee95J6UHYCGfveqJ/
-nu9GjAC5CWMPgu7DtJLzuSCoj7fZYRfiTgfWZimezUnwM8g4zl5hbUdpt1KCf0xqkPnLmQ1pEuTR
-U9CoggZwROjipgO2qRO5yrUw7Oio7YH19UH2y+iALO4Llbm2FOXRIfLZpVAsgqBHZX/eMHn2+lT2
-HmHvRsE08w2H6DANDv731uYNzSgpwzwbkM4N0zM/ySjlrnlc7PBrPQUxHtIj+o11iJUtHo2zbbZ8
-qcoaE7RoaTY4Gmi0EmrlkvsmBlGbmEuzUURAzWaYaYiIRBv5hzTGXUtdLL+8fHXN/JegSZ8U0wjh
-8l2J/OnKJIx8ik51YP8qj57cnlenAKkv8CWtSJW7fkNRsaeXyBo/Aw9hlRsCentHoMglPJxjEUUf
-ikZtG5Sp3lZ95WSO6z0I3t9Nwi7Do8b2Gzm67v7X8vVYI6amG9eODMAaW+mx4Qc898TcBnuncDuU
-6JlShVTLSydnUVu9OiGabZxZIrp35c8jZyLpX80bcbEPkQ3xqkBdmtRzVSkcZUwEQhJnLoiaCoWH
-EnOmqSyJXbYRCVKt/7KjdKZDjVJJ/vxzHiFz8IPVeuysHv03TgPb7+EerP+ZGkKpLOLXYah/Dsa3
-ulN2gbT+mkKmbabsW/50ALtLt3KinyqBbXdreDxtOpcDoglwkbdgNzy/b02cx07UEvXGRccmcLfe
-gs+EjWC=
+<?php
+
+namespace App\Http\Middleware\v1;
+
+use App\Exceptions\Custom\Account\{CantDeleteAccountDueMinimalAccountException,
+    CantDeleteSelfException,
+    PrimaryAccountCantBeDeleteException,
+    PrimaryAccountOnlyAllowedToDeleteException};
+use App\Traits\User;
+use Closure;
+use Illuminate\Support\Facades\DB;
+use Symfony\Component\HttpFoundation\Request;
+
+class DeleteAccountMiddleware
+{
+    use User;
+
+    /**
+     * Handle an incoming request.
+     *
+     * @param \Illuminate\Http\Request $request
+     * @param \Closure $next
+     * @return mixed
+     * @throws CantDeleteSelfException
+     * @throws PrimaryAccountCantBeDeleteException
+     * @throws CantDeleteAccountDueMinimalAccountException
+     */
+    public function handle($request, Closure $next)
+    {
+        $checkUser = \App\Models\v1\User::find($request->route('id'));
+        DB::beginTransaction();
+        // Pre-Middleware Action
+        $response = $next($request);
+
+        if ($request->getMethod() !== Request::METHOD_DELETE) {
+            return $response;
+        }
+
+        $user = $this->getUser();
+        if (!$user) {
+            return $response;
+        }
+
+        if ($checkUser && $checkUser->isPrimary) {
+            DB::rollBack();
+            throw new PrimaryAccountCantBeDeleteException();
+        }
+
+        if ((int)$request->route('id') === $user->id && $request->getMethod() === Request::METHOD_DELETE) {
+            if ($user->isPrimary === 1) {
+                DB::rollBack();
+                throw new PrimaryAccountCantBeDeleteException();
+            }
+
+            DB::rollBack();
+            throw new CantDeleteSelfException();
+        }
+
+        if ($user->isPrimary === null) {
+            DB::rollBack();
+            throw new PrimaryAccountOnlyAllowedToDeleteException();
+        }
+
+        DB::commit();
+        // Post-Middleware Action
+        return $response;
+    }
+}

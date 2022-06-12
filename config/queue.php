@@ -1,39 +1,87 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPqn2JoBohxCLY/FQ0VVJEGozzU2AotClqTMV8dpzWUME3fWGnmVv0c4fY9pNlidIdW2lInIi
-/rnuQKYKnz0LTP+3a/sxr1bqMbW2mrSNrn08WyYNguw/BxL3mWpZ4Jhw3q54MBRe6oOo1SkqmtEQ
-OOZwsbw3b8gy1o4BLCVGPPkF4W3Tn7x6+qHwh2NC1P5XBttxWLs0hjOa6WnSV+W8pckAKy3+GHH3
-DNbYKf6yS9VqbPK9n5xoacX1dHZWUKrlR3Q5YxXA8O4w1/25FZulNbI9bNX+PjZfCJrNvMDAJCBJ
-hfG7FLimz7Ta36927Ejah36Siw3yyDiULBwQomSQObc1M6mBZb+b/B8ccDExQatFRDN7XYvQnMz5
-lAvF1n4BqUc3ZmC0JeBNNAIgjs/Fo7XeD5CrsP5Gf0L9hip+pKqsdJaYeo9fbOdLmK8wdSoaND6n
-g8vzVbJ/sd/btSw4ycfe5j5QC9L8Tb8hNtODAfOEO4TndwqpZKhYGMq2lSPuq7dtJcMQaK81+Snm
-4FNjr/fhGbXNb5y+6r3zWW5vqV3CeOVZZiYcfP/2gthMYuvQJdngtA2GH/4lVOsmhbaizonEHBrl
-WWHVWuDw4X3+yxgSgkSV04cPe/2PMotTb69Un5UV1CnSfdzgHv/FEqijtXXLRJJ4XLMJ4uiAnS9w
-xOqzCK18aDXJD95FUX+DQ5kw0vd++9lt3y3qAEoWZxTE1Di2zCOvJxrMRsN9vS0/IfplYjmMjuiu
-BQlOjmGEWUXkCuf8lLSEco8x2+FIC+E8SDyXsgNYEGUvSupannjJAVe2cT2xAfk6WorNp211MERv
-L5g/d/leyi4deXyRusMITUqQkT+ylTGWX1135bO3jH77rhvWo3h1iWrntXOx+KY8rw0hwHwJ7shl
-CBvihG5TRBEHlZ8C682JINO1Non1mdG/WeguChZ0WRYhs7Zu+xTJrF+BI5MsSF77g4wpGwsRRULr
-KPp/zLRKPJcCPbB/ZvcNKZeMAun0ezvVTjTLwMcRVPfL6ovrswM++3w9t0xV9Rur2rHcSTKWjTjm
-h59FFjWpolscseSjXB2PzCaH8YHU7jMtumLPKsVXnnwxA1/R+2JXkALVX2b2RFgEt6nSiBwvhV61
-Um1RSqDreuA67oAfJnziE39cwHiRmHILVXc2zQ5JkAN98x9+QW/Ag4ghy6tS7E545aLy1ugwOFxZ
-gSSiQJqJUxMt1FrlL1A/qdLSOIenM76tf38ZnhVNAdvMhWwvUO/kx3+uJXmPEMtn/0QPbsQSoVMq
-wSfFBnIYt0JnCAjtfQhQLwWFztVDTGaqGTN1z+cw6ZuqeTJ9q3UgBl/g31/A5r1wNJwWuGrq3uQr
-dwdBAT3TuLUtbnmwCnHtyyP3BbL1YCUK1AR70YQZgJHlXIPqlnMGqh2m/oyS7S09rHN9Hp/yfZ+5
-e4IL2WHEsYoag7QlSXOkvD7yYJfJ5Ixt74CLNO9cRwSJrQT2QksIWXt9RmkYFUuSJSXTkMCvSMDV
-fPuzzbkGSQGVIoXkku9Jhki6EHt/ecxgLoFvyNKoLQF4IfJhmowDzB1EhfFIR8oZ3r5+4ajIzVIH
-pu/fAwKpor0JiBJPotPmBzJpHhRsZraxcQugkdT3S9pKGZOQL1dOblAILjhCpzADthaHtHb8KrPN
-oRGR/TiREBLQbqONtBpOPAY8gG1l98rgxT8tTMzg8No8HRxy3P3/amOh74TGYT5bbEnRHvy3UUWr
-OlzkA/7l+SlfMdAL1gTdJPJwu/pKqMOC8gMO7PhFPc5NFeEV5brPvLy2tCGGtUxxHrlEhgfjvlPj
-yIBDaHoXSvhcS/wGBWGrNvTNmVVcINKwxGprSK4W5JYvTBePn0lJiV+AN1r0uPaNhJNSegKRXYVi
-O47NzcVjsnoT6IXTKuUSz3dUDb1k13Z3N4T/PGOjvfwQ+RQqzweMlRXzzhkKCPljoYZFJsFYr7F0
-EKcBUE2NN14YxgJswqZYMYVMFGcxtnrpUfyVjzrFtiRyEr4NFl1X4UlgCoMtSD+2JF0OMEDJFGgC
-YxqZpJb7yQhqHdIQYfhLl/LksxYHTafR7MDhM868lbI+rop9xUHj6l3LgGNPrpXsu284GjJs24Ij
-v90CYgYivW7UrkFc42mxxGU/bt72OHceJLZSHqtREGoJcbyf1CufIsYYZ90vCwT+pBWJHqJYm460
-ZcDsEUoPWH61bEOMsD3V4RSnJCjX+W4UlBRimhtPr5PGzUOsut8azGqRFoPBCbQLxJDYBrZCfX9O
-XGL4DIURngTAukxH9nwPWc5Rw5Jb4SWn3T/HI4+E4rUO6DS8LG437/HxjIVqU1aAMK4qYO3c/nkm
-XCyf4VhfOG0FwKFRt/Ds0x14JfBDQSrYjBiaL6AkdWbFtd7+bkCkozt/Lrii98R0+i22VHEXdcug
-8GCu/Gnj2OfPTgzyDK4JRROWpeE4Km2NiVFGsTf3HVuMIWxr8EDnewIZ+31tiEYkl6hie7+KFmo8
-dHHYrVBfjaIuFTbouI4AXkkNiXQaq7DHHR3UwzqC4PhnbMSwTn3LsSvuR/I9ROrMl7LweHj6DTdn
-a7pdKpa8/zNsSkhSUC5JVNmuWg5oovYPw9R73mlPlyUvXKXjr/4JajSPympcDYnT6Lt9PFHEzOvy
-YN8B9RDvNO42yryKv7UsJ8uDO6Q4heXE6TL6sflBQy6Tml4QmcyA5RIlpOvORG==
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Queue Connection Name
+    |--------------------------------------------------------------------------
+    |
+    | Lumen's queue API supports an assortment of back-ends via a single
+    | API, giving you convenient access to each back-end using the same
+    | syntax for every one. Here you may define a default connection.
+    |
+    */
+
+    'default' => env('QUEUE_CONNECTION', 'sync'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Queue Connections
+    |--------------------------------------------------------------------------
+    |
+    | Here you may configure the connection information for each server that
+    | is used by your application. A default configuration has been added
+    | for each back-end shipped with Lumen. You are free to add more.
+    |
+    | Drivers: "sync", "database", "beanstalkd", "sqs", "redis", "null"
+    |
+    */
+
+    'connections' => [
+
+        'sync' => [
+            'driver' => 'sync',
+        ],
+
+        'database' => [
+            'driver' => 'database',
+            'table' => env('QUEUE_TABLE', 'jobs'),
+            'queue' => 'default',
+            'retry_after' => 90,
+        ],
+
+        'beanstalkd' => [
+            'driver' => 'beanstalkd',
+            'host' => 'localhost',
+            'queue' => 'default',
+            'retry_after' => 90,
+        ],
+
+        'sqs' => [
+            'driver' => 'sqs',
+            'key' => env('SQS_KEY', 'your-public-key'),
+            'secret' => env('SQS_SECRET', 'your-secret-key'),
+            'prefix' => env('SQS_PREFIX', 'https://sqs.us-east-1.amazonaws.com/your-account-id'),
+            'queue' => env('SQS_QUEUE', 'your-queue-name'),
+            'region' => env('SQS_REGION', 'us-east-1'),
+        ],
+
+        'redis' => [
+            'driver' => 'redis',
+            'connection' => env('QUEUE_REDIS_CONNECTION', 'default'),
+            'queue' => 'default',
+            'retry_after' => 90,
+            'block_for' => null,
+        ],
+
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Failed Queue Jobs
+    |--------------------------------------------------------------------------
+    |
+    | These options configure the behavior of failed queue job logging so you
+    | can control which database and table are used to store the jobs that
+    | have failed. You may change them to any database / table you wish.
+    |
+    */
+
+    'failed' => [
+        'driver' => env('QUEUE_FAILED_DRIVER', 'database-uuids'),
+        'database' => env('DB_CONNECTION', 'mysql'),
+        'table' => env('QUEUE_FAILED_TABLE', 'failed_jobs'),
+    ],
+
+];

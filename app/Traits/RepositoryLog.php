@@ -1,41 +1,51 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-TLkI7ivsfSAlSbK=
+<?php
+
+namespace App\Traits;
+
+trait RepositoryLog {
+    public function log($action, $oldValue, $newValue){
+        $user = auth()->user();
+        $token = auth()->getToken();
+        $ipAddress = request()->ip();
+        $rid = 0;
+        $uid = null;
+        $vid = null;
+        if(!empty($user->id) && !empty($user->vendorId)){
+            $uid = $user->id;
+            $vid = $user->vendorId;
+        }
+
+        $table = null;
+
+        $naction = 0;
+        if($action == 'create'){
+            $naction = 2;
+            $table = $newValue->getTable();
+            $rid = $newValue->id;
+            $oldValue = null;
+        }else if($action == 'update'){
+            $naction = 3;
+            $table = $newValue->getTable();
+            $rid = $newValue->id;
+        }else if($action =='delete') {
+            $naction = 4;
+            $table = $oldValue->getTable();
+            $rid = $oldValue->id;
+        }
+
+        \App\Models\v1\Log::create([
+            'userId' => $uid,
+            'vendorId' => $vid,
+            'method' => $action,
+            'content' => empty($oldValue) ? $newValue : $oldValue,
+            'oldValue' => $oldValue,
+            'table' => $table,
+            'recordID' => $rid,
+            'token' => sha1($token),
+            'newValue' => $newValue,
+            'ipAddress' => $ipAddress,
+            'action' => $naction
+        ]);
+
+    }
+}

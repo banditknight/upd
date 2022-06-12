@@ -1,34 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateWindowsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('windows', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('organizationId');
+
+            $table->string('name');
+            $table->text('description')->nullable();
+            $table->string('title');
+            $table->string('value');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('windows');
+    }
+}

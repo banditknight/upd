@@ -1,38 +1,74 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-aZ6N6FBYn44204I1drO01rGLQ4AckrMD5m==
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+
+/**
+ * App\Models\v1\Notification
+ *
+ * @property int $id
+ * @property int $toVendorId
+ * @property int $toUserId
+ * @property string $title
+ * @property string $message
+ * @property int $isRead
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Illuminate\Database\Eloquent\Builder|Notification newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Notification newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Notification query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Notification whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Notification whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Notification whereIsRead($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Notification whereMessage($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Notification whereTitle($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Notification whereToUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Notification whereToVendorId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Notification whereUpdatedAt($value)
+ * @mixin \Eloquent
+ */
+class Notification extends AbstractModel
+{
+    protected $fillable = [
+        'toVendorId',
+        'toUserId',
+        'title',
+        'message',
+        'isRead',
+        'context',
+        'recordId',
+    ];
+
+    protected $hidden = [
+        'toVendorId',
+        'toUserId',
+        'created_at',
+        'updated_at',
+    ];
+
+    protected $appends = [
+        'createdAt',
+        'updatedAt'
+    ];
+
+    public function getCreatedAtAttribute()
+    {
+        return $this->attributes['created_at'] ?
+            Carbon::createFromFormat(
+                env('TIMESTAMP_FORMAT') === 'SQL_SERVER' ?
+                    self::DEFAULT_TIMESTAMP_FORMAT_SQL_SERVER : self::DEFAULT_TIMESTAMP_FORMAT_MYSQL
+                , $this->attributes['created_at']
+            )->timestamp : 0;
+    }
+
+    public function getUpdatedAtAttribute()
+    {
+        return $this->attributes['updated_at'] ?
+            Carbon::createFromFormat(
+                env('TIMESTAMP_FORMAT') === 'SQL_SERVER' ?
+                    self::DEFAULT_TIMESTAMP_FORMAT_SQL_SERVER : self::DEFAULT_TIMESTAMP_FORMAT_MYSQL
+                , $this->attributes['updated_at']
+            )->timestamp : 0;
+    }
+}

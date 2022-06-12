@@ -1,34 +1,40 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPvjqtvAatoEbiSDAiVwX0DxwMI+U6P1Bkxsu9GYRv56ZEtndjd3NfagEmit+nfvqAsmthhgl
-wHJgtIJIgcHWMJfWGsyFPtoXcx12BGSG64sHs++whaHXP7IxBI6YpfSf8VbA/Fxhlu6iJkVWEkZO
-X8fGqFtJGh7foWn4jGU+JMVtI2OD7xjIu7+9sUUBPma4PfcjW9k5LMfijJjJX08KW2/oGly0Om7H
-VLsJFpKjEihdSAicJK74fwVn43M6e5Wt8vmrk4eXWJe7y8K+FYzUL8cLUBfduYBWR5V65b38QBCx
-oJKvf+PUU/gWBMahCuJkAOMyQITtc7YHFfC244CvVMvIo9cIsQ3C3Nntek4bfcYR6E9PKeClOUF0
-tUx5sKCj+VoUdP3wzv0n8J7IDnN9Q3+0ff4uC7DSdhuNa9ChTuNqFGf2QOXHFjDqJsJMRlvao2+G
-R6aRZ3EA1ztH7B16Nt60zkLneEBo+cNtkJ3pBfPkxmm12PCVAZC2C+zXAqDvjDwNb20X/Zf9DUqH
-cN12L/coGD2FqHIvMDIRo4E3WBkG96isrv/LZLIMpOZcQS+R9nsLOLkqshCT6KsnQVsX/FJBVMBG
-Zh9lJCCk3F8/B6p4pWyGvTAc+6xSlbByuYJzKhaAozZIe4h/1S6N4rCDzuRPzaUjqUx1qlZyiXc2
-6VOC1Akv8i+MC+BPtLLa/0cxCm498YbLKHTgMkJ2eOj9R81Y0SXXNH2yxC+ukp0gcRdGvmdQda5l
-2B4QqC/TLrHyvG768vT05AnEAY26tox92hu8PRxkl3F1C7Adx8OSWn5eXEsevaUor335C53sTao9
-PXA2NYrknQNPLzeFnutEWvvoiZOgC34iWfWM1F+8nB0AWBcPM4VWZaPYGJFocrE+Uo99NzZr7sOj
-67X82Bk+XEBoWSe6uw1FqLEQPc35voqADi1ozUV4UpDcQgP/Emj2MYEPY2rhAbRGj5A28LGfsa4K
-aQXq9ertBVzDClv0yxZLOOM0YLoM/rOY+WJAt7or9KXtYhhhrGsz2zyQyDFAHvyo7xtoaWiSBQvm
-yaZLqlfotYnGnO3YIEXyQ2KHUba/NzwtfM0V4+XjuuPQ3PX+tz0m6h1asiaeABF0crhJR/x7+/JP
-Oy+Ykd3++mC9RuLIqEyQLn+a/WZ0+gwSShk+Ds6VVIpou8JMZjDshyzEgTS1rSpy6CI/jx8M7Cni
-P6GUgP8nnfr2AEWWgKcahZKfRwS9jYcte+szovhqKpdSNAVwFsRRoqlLNs5cBxBtdabSj2j4+TFg
-sg60pDLdxYR0tvV6lcw6TUH/61hqCs+NO7JnLXuGJbAyK884OweSyi0bmZZiojd82gQvNRjVafam
-H4alOwAhjfVIv5IxQNA9AzL+pRfBItmGbL6QkBpWlcRGlPkiLjRyVoj602uBY7ZblZ8bDxnbLpzy
-npzevrxUJfmuMJCK0cZAk6t++W6Jz8Jg3fk0LRkw2f0dpeUNAN3EHgFGJAxR5TdaBM51uOV8COwf
-VeZU47MKNvFaoMwe8BIz75sdIt4MXh/1Di2kNy2elF4Z7HXAj2p8Ucvefwg9oNqFtCMGNUr1OLq6
-96Dsh2HY3HAf/CEVIoHe65kGHXC+5LgpAbh9e4nmx9sS0vq1UuK+1ZU6+tTzQ6hm1XBxlAO+faGU
-5XQUAI0RZW4cfnp/EmJibQtS6+1vea5x5bhg1HworyVVKYqhNItU8kVRKcpDQjR+kPSA6NEVHi5L
-QJcumnAr8qAPZ02phhLCnSpm71klnTYGcI29VbTzrUhKXMEXcgGOfSXOLZ2bDMY/G7XWZLAUhn3S
-pbEIG4RUqSqcZFvCK0tfzoty15L2ki3DXSXRkSl7Rv28LIe2D8FnKjENEkZdibWP7vzhr6nVXP1A
-KFviBEgbv6DX3QZkVY5N1EwdUsodnOPAaCRj9QX2u1Ic6aAbn5H1Kdr3nvNaruMSdvUpKGWnTsSm
-EApINVtQUIFspdyBHRDbXYluStoP9KZDGdqagUtyrhI1v+pT6uIrRjo/kt2KMgDJxGrKRUn216Uw
-2lLFKd7mPvAj/DpFnd/9gW6bxjKebqifJlxbwwuhJWZHprUPFaxtZLPgM8Nkz1uWeLDsust2jJ0x
-9dzQ+UsIwuZ6v2kVK9JE6pFC1mK25REqzvSDcy43cSbXy0MEHOrVkNUpzN4JkD11zmDzTcyHYmyI
-zNS37SrEyMjMUpzYZ8vz3DRp6+R/SFAirXl+esSSc6OInb3o3dcjcOnJYMTovBLlpoTQnYTAGNrG
-VLjTxxtodDw6L5SI2GMWZvNPkRQm+s3+Ooaf84mggTa1gJh+mri=
+<?php
+
+namespace Database\Seeders;
+
+use App\Traits\ExcelReader;
+use Carbon\Carbon;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class AnnouncementGeneralSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'AnnouncementGeneral');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'title' => $data[0],
+                'description' => $data[1],
+
+                'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
+                'updated_at' => Carbon::now()->format('Y-m-d H:i:s'),
+            ];
+        }
+
+        DB::table('announcementGenerals')->insert($dataSeeder);
+    }
+}

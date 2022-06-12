@@ -1,29 +1,43 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Mail\v1;
+
+use App\Models\v1\ResetPasswordToken;
+use App\Models\v1\User;
+use App\Models\v1\Vendor;
+use Illuminate\Bus\Queueable;
+use Illuminate\Mail\Mailable;
+use Illuminate\Queue\SerializesModels;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Str;
+
+class SendInActivationEmail extends Mailable
+{
+    use Queueable, SerializesModels;
+
+    /**
+     * @var Vendor
+     */
+    public $vendor;
+
+    /**
+     * Create a new message instance.
+     *
+     * @return void
+     */
+    public function __construct(Vendor $vendor)
+    {
+        $this->vendor = $vendor;
+    }
+
+    /**
+     * Build the message.
+     *
+     * @return $this
+     */
+    public function build()
+    {
+        return $this->view('email.account.inactive')->with([
+        ])->subject(__('email.subject_inactivation'));
+    }
+}

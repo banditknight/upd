@@ -1,34 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateForeignKeys extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        //@TODO create all foreign key index here
+
+        Schema::table('purchaseRequestItems', function (Blueprint $table) {
+            $table->foreign('purchaseRequestId')->references('id')->on('purchaseRequests');
+        });
+
+        Schema::table('tenderItems', function (Blueprint $table) {
+            $table->foreign('purchaseRequestItemId')->references('id')->on('purchaseRequestItems');
+            // $table->foreignId('purchaseRequestItemId')->constrained('purchaseRequestItems');
+        });        
+
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        // Schema::dropIfExists('foreign_keys');
+    }
+}

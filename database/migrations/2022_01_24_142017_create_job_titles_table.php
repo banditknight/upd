@@ -1,33 +1,34 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateJobTitlesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('jobTitles', function (Blueprint $table) {
+            $table->id();
+            $table->string('code')->unique();
+            $table->string('name');
+            $table->string('description')->nullable();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('jobTitles');
+    }
+}

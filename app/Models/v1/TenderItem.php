@@ -1,83 +1,161 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Traits\User as UserTrait;
+
+/**
+ * App\Models\v1\TenderItem
+ *
+ * @property int $id
+ * @property int $tenderId
+ * @property string $productCodeId
+ * @property string $productGroupCodeId
+ * @property string $description
+ * @property int $quantity
+ * @property string $measurementUnitSymbol
+ * @property int $currencyId
+ * @property int $value
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Database\Factories\v1\TenderItemFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem query()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereCurrencyId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereDescription($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereMeasurementUnitSymbol($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereProductCodeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereProductGroupCodeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereQuantity($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereTenderId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereValue($value)
+ * @mixin \Eloquent
+ * @property-read mixed $comply
+ * @property int $unitOfMeasureId
+ * @property-read mixed $currency
+ * @property-read mixed $product_code
+ * @property-read mixed $product_group_code
+ * @property-read mixed $unit_of_measure
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereUnitOfMeasureId($value)
+ */
+class TenderItem extends AbstractModel
+{
+    use HasFactory, UserTrait;
+
+    protected $table = 'tenderItems';
+
+    protected $fillable = [
+        'tenderId',
+        'productCodeId',
+        'productGroupCodeId',
+        'description',
+        'quantity',
+        'unitOfMeasureId',
+        'currencyId',
+        'value',
+        'purchaseRequestItemId',
+    ];
+
+    protected $appends = [
+        'complyCbe',
+        'complyTbe',
+        'productCode',
+        'productGroupCode',
+        'unitOfMeasure',
+        'currency',
+        'itemComponent',
+        'itemPr',
+    ];
+
+    protected $hidden = [
+        'tenderId',
+        'productCodeId',
+        'productGroupCodeId',
+        'unitOfMeasureId',
+        'currencyId',
+        'created_at',
+        'updated_at'
+    ];
+
+    public function getProductCodeAttribute()
+    {
+        return ProductCode::find($this->productCodeId);
+    }
+
+    public function getProductGroupCodeAttribute()
+    {
+        return ProductGroupCode::find($this->productGroupCodeId);
+    }
+
+    public function getUnitOfMeasureAttribute()
+    {
+        return UnitOfMeasure::find($this->unitOfMeasureId)->only(['id', 'name']);
+    }
+
+    public function getCurrencyAttribute()
+    {
+        $currency = Currency::find($this->currencyId);
+        if (!$currency) {
+            return null;
+        }
+
+        return $currency->only(['id', 'name', 'code']);
+    }
+
+    public function getComplyCbeAttribute()
+    {
+        $vendor = $this->getUser();
+
+        if ($vendor && !$vendor->hasRole('vendor')) {
+            return null;
+        }
+
+        return TenderItemComply::where('tenderItemId', '=', $this->id)
+            ->where('vendorId', '=', $vendor->vendorId ?? 0)
+            ->where('isCbe', '=', 1)
+            ->where('isTbe', '=', 0)
+            ->get()
+            ->last();
+    }
+
+    public function getComplyTbeAttribute()
+    {
+        $vendor = $this->getUser();
+
+        if ($vendor && !$vendor->hasRole('vendor')) {
+            return null;
+        }
+
+        return TenderItemComply::where('tenderItemId', '=', $this->id)
+            ->where('vendorId', '=', $vendor->vendorId ?? 0)
+            ->where('isCbe', '=', 0)
+            ->where('isTbe', '=', 1)
+            ->get()
+            ->last();
+    }
+
+    public function getItemComponentAttribute()
+    {
+        return TenderItemComponent::where('tenderId', '=', $this->tenderId)->get();
+    }
+
+    public function getItemPrAttribute()
+    {
+        $vendor = $this->getUser();
+
+        if ($vendor && $vendor->hasRole('vendor')) {
+            $pritem = PurchaseRequestItem::find($this->purchaseRequestItemId);
+            if($pritem != null){
+                return $pritem->only(['isService','description','qty','uom','estimationUnitCost']);
+            }
+            return null;
+        }
+
+        return PurchaseRequestItem::find($this->purchaseRequestItemId);
+    }
+}

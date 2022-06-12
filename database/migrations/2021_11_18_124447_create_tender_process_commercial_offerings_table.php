@@ -1,44 +1,49 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateTenderProcessCommercialOfferingsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('tenderProcessCommercialOfferings', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId');
+            $table->bigInteger('vendorId');
+            $table->bigInteger('tenderId');
+
+            $table->string('number');
+            $table->bigInteger('fromDate');
+            $table->bigInteger('toDate');
+            $table->bigInteger('bidAttachment');
+            $table->bigInteger('additionalCost');
+            $table->text('note');
+
+            $table->bigInteger('bidGuaranteeValue');
+            $table->bigInteger('bidGuaranteeAttachment');
+            $table->bigInteger('bidGuaranteeExpired');
+            $table->bigInteger('incotermId');
+            $table->text('incotermNote');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('tenderProcessCommercialOfferings');
+    }
+}

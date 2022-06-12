@@ -1,55 +1,104 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Yuliusardian\LumenResourceRouting\Routing;
+
+class Router extends \ElemenX\AdvancedRoute\Routing\Router
+{
+    /**
+     * Register a route with the application with all methods:
+     * GET, POST, PUT, PATCH, DELETE and OPTIONS
+     *
+     * @param  string  $uri
+     * @param  mixed  $action
+     * @return $this
+     */
+    public function any($uri, $action)
+    {
+        $methods = [
+            'GET',
+            'POST',
+            'PUT',
+            'PATCH',
+            'DELETE',
+            'OPTIONS',
+        ];
+
+        return $this->match($methods, $uri, $action);
+    }
+
+    /**
+     * Register a route with the application with exactly defined methods.
+     *
+     * @param  array $methods
+     * @param  string $uri
+     * @param  mixed $action
+     * @return $this
+     */
+    public function match($methods, $uri, $action)
+    {
+        foreach ($methods as $method) {
+            $this->addRoute($method, $uri, $action);
+        }
+
+        return $this;
+    }
+
+    /**
+     * Register an array of resource controllers.
+     *
+     * @param  array  $resources
+     * @return void
+     */
+    public function resources(array $resources)
+    {
+        foreach ($resources as $name => $controller) {
+            $this->resource($name, $controller);
+        }
+    }
+
+    /**
+     * Route a resource to a controller.
+     *
+     * @param  string  $name
+     * @param  string  $controller
+     * @param  array  $options
+     * @return PendingResourceRegistration
+     */
+    public function resource($name, $controller, array $options = [])
+    {
+        if ($this->app->bound(ResourceRegistrar::class)) {
+            $registrar = $this->app->make(ResourceRegistrar::class);
+        } else {
+            $registrar = new ResourceRegistrar($this);
+        }
+
+        return new PendingResourceRegistration(
+            $registrar,
+            $name,
+            $controller,
+            $options
+        );
+    }
+
+    /**
+     * Set the unmapped global resource parameters to singular.
+     *
+     * @param  bool  $singular
+     * @return void
+     */
+    public function singularResourceParameters($singular = true)
+    {
+        ResourceRegistrar::singularParameters($singular);
+    }
+
+    /**
+     * Set the global resource parameter mapping.
+     *
+     * @param  array  $parameters
+     * @return void
+     */
+    public function resourceParameters(array $parameters = [])
+    {
+        ResourceRegistrar::setParameters($parameters);
+    }
+}

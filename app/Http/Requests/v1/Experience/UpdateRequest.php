@@ -1,63 +1,166 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Requests\v1\Experience;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\AlphaSpaceDotNumber;
+use App\Rules\BusinessTypeValid;
+use App\Rules\CityValid;
+use App\Rules\CountryValid;
+use App\Rules\CurrencyValid;
+use App\Rules\DistrictValid;
+use App\Rules\FileValid;
+use App\Rules\ProvinceValid;
+use App\Rules\SubBusinessTypeValid;
+
+class UpdateRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'businessTypeId' => [
+                'required',
+                'numeric',
+                new BusinessTypeValid()
+            ],
+            'subBusinessTypeId' => [
+                'required',
+                'numeric',
+                new SubBusinessTypeValid()
+            ],
+            'workPackageName' => [
+                'required',
+                'min:5',
+                'max:256',
+                new AlphaSpaceDotComma()
+            ],
+            'workPackageLocation' => [
+                'required',
+                'min:5',
+                'max:256',
+            ],
+            'contactOwner' => [
+                'required',
+                'min:5',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+            'address' => [
+                'required',
+                'min:5',
+                'max:100',
+                new AlphaSpaceDotNumber()
+            ],
+            'countryId' => [
+                'required',
+                'numeric',
+                new CountryValid()
+            ],
+            'provinceId' => [
+                'required',
+                'numeric',
+                new ProvinceValid()
+            ],
+            'cityId' => [
+                'required',
+                'numeric',
+                new CityValid()
+            ],
+            'districtId' => [
+                'required',
+                'numeric',
+                new DistrictValid()
+            ],
+            'postalCode' => [
+                'required',
+                'min:3',
+                'max:10',
+            ],
+            'contactPerson' => [
+                'required',
+                'min:5',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+            'phoneNumber' => [
+                'required',
+                'numeric',
+                'digits_between:10,16',
+            ],
+            'contractValue' => [
+                'required',
+                'numeric',
+                'max:20000000000'
+            ],
+            'contractNumber' => [
+                'required',
+                'min:5',
+                'max:32'
+            ],
+            'contractHandOverLetterNumber' => [
+                'required',
+                'min:5',
+                'max:32'
+            ],
+            'contractHandOverLetterDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'contractHandOverLetterAttachment' => [
+                'required',
+                'numeric',
+                new FileValid()
+            ],
+            'validFromDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'validThruDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'currencyId' => [
+                'required',
+                'numeric',
+                new CurrencyValid()
+            ],
+            'testimony' => [
+                'required',
+                'min:10',
+                'max:256'
+            ],
+            'testimonyAttachment' => [
+                'required',
+                'numeric',
+                new FileValid()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

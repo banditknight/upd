@@ -1,30 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Tn/9
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\CompanyType;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class CompanyTypeSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'CompanyType');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1],
+                'name' => $data[2],
+                'domainId' => 1,
+            ];
+        }
+
+        DB::table('companyTypes')->insert($dataSeeder);
+    }
+}

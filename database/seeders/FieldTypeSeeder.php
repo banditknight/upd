@@ -1,33 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\FieldType;
+use Illuminate\Database\Seeder;
+
+class FieldTypeSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        FieldType::factory()->count(4)->create()->each(function($item, $key) {
+            if ($key === 0) {
+                $item->code = 'TEXT';
+                $item->name = 'text';
+            }
+
+            if ($key === 1) {
+                $item->code = 'NUMBER';
+                $item->name = 'number';
+            }
+
+            if ($key === 2) {
+                $item->code = 'SELECT_STATIC';
+                $item->name = 'select';
+            }
+
+            if ($key === 3) {
+                $item->code = 'SELECT_DYNAMIC';
+                $item->name = 'select';
+            }
+
+            $item->save();
+        });
+    }
+}

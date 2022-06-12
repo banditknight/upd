@@ -1,32 +1,84 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+/**
+ * App\Models\v1\Tool
+ *
+ * @property int $id
+ * @property int $userId
+ * @property int $vendorId
+ * @property int $toolTypeId
+ * @property int $total
+ * @property string $description
+ * @property string $capacity
+ * @property string $brand
+ * @property int $isNew
+ * @property string $location
+ * @property int $toolOwnerTypeId
+ * @property string $attachment
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereBrand($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereCapacity($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereDescription($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereIsNew($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereLocation($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereToolOwnerTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereToolTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereTotal($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Tool whereVendorId($value)
+ * @mixin \Eloquent
+ * @property-read mixed $tool_owner_type
+ * @property-read mixed $tool_type
+ */
+class Tool extends AbstractModel
+{
+
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'toolTypeId',
+        'total',
+        'description',
+        'capacity',
+        'brand',
+        'isNew',
+        'location',
+        'toolOwnerTypeId',
+        'attachment',
+    ];
+
+    protected $hidden = [
+        'userId',
+        'vendorId',
+        'toolTypeId',
+        'toolOwnerTypeId',
+        'created_at',
+        'updated_at',
+    ];
+
+    protected $appends = [
+        'toolType',
+        'toolOwnerType',
+    ];
+
+    public function getToolTypeAttribute()
+    {
+        return ToolType::find($this->toolTypeId);
+    }
+
+    public function getToolOwnerTypeAttribute()
+    {
+        return ToolOwnerType::find($this->toolOwnerTypeId);
+    }
+
+}

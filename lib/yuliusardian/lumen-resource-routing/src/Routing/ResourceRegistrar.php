@@ -1,30 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Yuliusardian\LumenResourceRouting\Routing;
+
+class ResourceRegistrar extends \ElemenX\AdvancedRoute\Routing\ResourceRegistrar
+{
+    protected function getResourceAction($resource, $controller, $method, $options)
+    {
+        $name = $this->getResourceRouteName($resource, $method, $options);
+
+        $action = ['as' => $name, 'uses' => $controller . '@' . $method];
+
+        if (isset($options['middleware'])) {
+            $action['middleware'] = $options['middleware'];
+        }
+
+        if (isset($options['model'])) {
+            $action['model'] = $options['model'];
+        }
+
+        if (isset($options['repository'])) {
+            $action['repository'] = $options['repository'];
+        }
+
+        if (isset($options['requestFilter'])) {
+            $action['requestFilter'] = $options['requestFilter'];
+        }
+
+        if (isset($options['requestCriteria'])) {
+            $action['requestCriteria'] = $options['requestCriteria'];
+        }
+
+        $action['method'] = $method;
+
+        return $action;
+    }
+}

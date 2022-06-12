@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateTermAndConditionsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('termAndConditions', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('title');
+            $table->text('content');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('termAndConditions');
+    }
+}

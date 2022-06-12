@@ -1,40 +1,83 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-r1Xr1Sjff3X/Kue=
+<?php
+
+namespace App\Http\Requests\v1\BusinessPermit;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\BusinessPermitTypeValid;
+use App\Rules\FileValid;
+
+class StoreRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'businessPermitTypeId' => [
+                'required',
+                new BusinessPermitTypeValid()
+            ],
+            'attachment' => [
+                'required',
+                new FileValid()
+            ],
+            'legalOrganizationScaleId' => [
+                'required_if:businessPermitTypeId,3',
+                'nullable',
+                'numeric'
+            ],
+            'number' => [
+                'required',
+                'min:8',
+                'max:16',
+                'unique:businessPermits,number'
+            ],
+            'validFromDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'validThruDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'issuedBy' => [
+                'required',
+                'min:8',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+            'otherBusinessPermitType' => [
+                'required_if:businessPermitTypeId,8',
+                'nullable',
+                'min:10',
+                'max:256',
+                new AlphaSpaceDotComma()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

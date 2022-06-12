@@ -1,31 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPsv7dExnecJ1ZF09pKsdddS1BfFfVey1Tggub/kJr8ejmpKlsENiFKq5WjOP3bftPvlrCMji
-vCMUQCl76KFnDvAvjyHEsIsLP050ueYRdOxSspCQxMYhrK7mOUzRDchg2boaShbgp4sjXujx0G/C
-oMRA07NkMlJGCJ8HS7Bt5/qLoFS69Xmxk/T249u2A34GNsfcFOLVae1LAogUOrSZCrz8Igl1hBId
-hGI8mz8BcsdSWg5xNgArn167GtisUBIRpTGIk4eXWJe7y8K+FYzUL8cLU2Xc3GJvrma+jjatxBCx
-73So/o5Uy+9XGSu3aGfZOjomFGoGJQ96EHH2kB4MX9MlTloVOj25IXLGz2oei/irCLvPgoxhhoik
-+S7clqMlLz3wKC+m/YZvrU/r3HZmQvGh79/Jg3T64KV8ljjGONubQhEvJOV7ZNqwPAqGgKdzJQfF
-leDqMqvHUyWHVDAOWN+KwFLZxuRDPTpFDwRN5borO1OU429H+5JICBN5Q6pLykr8961c8c8Daml8
-vhPqMEcRemEQ5M93de9tA39VMQd6tJTLab/fxyvXTK0EP5KWEPFP17b4ED+xREkn3EnItQWcC/hy
-ENpMxdkN/x1CYU6qK1YwjgOXkvAClXSO/1TFEBzCKdd/58vPbT6hWlFxYPhoTF7Y4IgChzdCxOX8
-eXK4Tz8fObreRvykSc503HaLyDzqYmJ9PfjJU2qfQQFwbcMzH+dZa4slbO1QE8DUsL8w837zv32x
-pLlYnD4Tc943V59JkJaevM/FysHRjQcsWM56i9goL9OogZzwXqPjnWxIbr/CWP1WhKiIyMwVgxq2
-rBxqDiaH8XNSUH1vIeq9u2ub2gacsy2d//cL9g6CQvHCbsxeV8+EEpBmJP601t+rkNDkHctjrmSP
-y7j0zXgLhoWaDWXKLfktfXZSufYy+KL8UUa6syEQMYxIPHoYIRKsq12F0tNDt0W5JTxO9Flbcjpt
-WSrFGOQtNsVO0ckMepGB/ZyDeuyctVh98ngyZz2Srzrop+uD5POcKwE4G9aJSwHDBHYlrQGTLZSR
-wVrJn4q8YMrUnDK1sFfsyIN5vG4Bm8m/h0VYjGgafl6aGjdMAl0rOurO8BGlejIB1VpOtJK2T4pl
-6ReQY9ZMWF29ObTN0BjjUeZAkbJFnpvj6u7bIcxVxDS+ckaq0IdxnaNdAXeBUbB5VsTCnuc1snRx
-8Bq/SV58yJHznBmejXz2excC1/J4zBVqRXxSnXX20aEacNTV3/xdOGb7D7q9dEobfjzsWPudW6Km
-Etd5Lf3jUXNccIKEtJApxesiYPcmHN1iv8h10Wd72F7ltLFBOIqZ/+im1K9ckZbn2oz32ebTVayO
-Mu5ZR5J4L8lX69x1W9j7JGPG4v00OC1rHQaOXiHflKAGdwdr/V33DEyUg4KHeSR0uovoaTQvUaAS
-PDLohGMJV6PgsQh0mzwIj9QJ/d7ljzwqHzK0t5PLnrbSaYv1n8DqiVbi+jkQLPea6sSlwctK/jDX
-UmXFFj33z3kSE+FI2iz0WZ55CxAMQrUyLHFC3JQmKAqhm8dqQasLcKubuJ35zrRefefjcd1x5cW7
-2t/tpGLZfDiRv0P7RJ1BvqDFrsLIcK1+H1Pms8j1X+g4oTtq5cix82ddqg9LNsVbDZwHALkiJaV6
-xtdu4wgMfhy2d2l/PQNdZTi2mqYWK2dtfVMy0BYKdowErTU4UaOB8x/hEWxSjMcbnOrjbfzRYIEq
-Uepeq69KNVnuT/4bUvdfMAffCYAq5osZzd9j/5r0euZqEhY4y1s0tVDtUhMtJ2Nnpnxkk+FtjcEV
-vTMWkZROa4jSEG/RHau/kviUzZqHbDEmvgm8x4oxmua6lPviEGP9OtmbYx+5kJC8u5J27vxfTz6a
-EVf+92AsMXvJfIhwL4sJnILIMKXvOr/HW1vOrpGhBedRLPiKm9onNSAQO/Lqg0sZNzyeXEpZoDnG
-F+eWvv7g5FXAUZIrLbqMre3OQz3qBgjwfRhWNxqSkLTrwt4qLEs/3YGSv7fwcV2/h+KjWdm9bIuA
-RbzfFzRn/w8pCBfK8RogEHLj4Z2yGPyPlW==
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\Field;
+use Illuminate\Database\Seeder;
+
+class FieldSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        Field::factory()->count(4)->create()->each(function($item, $key) {
+            if ($key === 0) {
+                $item->fieldTypeId = 1;
+                $item->tabId = 1;
+            }
+
+            if ($key === 1) {
+                $item->fieldTypeId = 2;
+                $item->tabId = 1;
+            }
+
+            if ($key === 2) {
+                $item->fieldTypeId = 3;
+                $item->tabId = 2;
+            }
+
+            if ($key === 3) {
+                $item->fieldTypeId = 4;
+                $item->tabId = 3;
+            }
+
+            $item->save();
+        });
+    }
+}

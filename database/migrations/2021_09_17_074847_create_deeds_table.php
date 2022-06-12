@@ -1,37 +1,43 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateDeedsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('deeds', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId');
+            $table->bigInteger('vendorId');
+
+            $table->bigInteger('deedTypeId');
+            $table->string('number');
+            $table->bigInteger('issuedDate');
+            $table->string('notaryFullName');
+
+            $table->string('ackLetterNumber');
+            $table->bigInteger('ackLetterDate');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('deeds');
+    }
+}

@@ -1,39 +1,28 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use Carbon\Carbon;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use Laravolt\Indonesia\Seeds\CsvtoArray;
+
+class ProvincesSeeder extends Seeder
+{
+    public function run()
+    {
+        $now = Carbon::now();
+        $csv = new CsvtoArray();
+        $file = __DIR__.'/../../resources/csv/provinces.csv';
+        $header = ['id', 'name', 'lat', 'long'];
+        $data = $csv->csv_to_array($file, $header);
+        $data = array_map(function ($arr) use ($now) {
+            $arr['meta'] = json_encode(['lat' => $arr['lat'], 'long' => $arr['long']]);
+            unset($arr['lat'], $arr['long']);
+
+            return $arr + ['created_at' => $now, 'updated_at' => $now];
+        }, $data);
+
+        DB::table(config('volt.indonesia.table_prefix').'provinces')->insert($data);
+    }
+}

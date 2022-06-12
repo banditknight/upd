@@ -1,35 +1,46 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-gUqbq+dc2VEclHksWFd4OG==
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use App\Models\v1\PurchaseRequestItem;
+use App\Traits\ExcelReader;
+use Illuminate\Support\Facades\DB;
+
+class PurchaseRequestItemSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'PR Items');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'purchaseRequestId' => $data[0],
+                'catItemNo' => $data[1],
+                'materialNo' => $data[2],
+                'description' => $data[3],
+                'qty' => $data[4],
+                'uom' => $data[5],
+                'estimationUnitCost' => $data[6],
+                'remarks' => $data[7],
+                'isService' => $data[8],
+                'PRItemId' => $data[9],
+            ];
+        }
+
+        DB::table('purchaseRequestItems')->insert($dataSeeder);
+
+    }
+}

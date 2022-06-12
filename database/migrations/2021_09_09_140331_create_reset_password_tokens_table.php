@@ -1,34 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateResetPasswordTokensTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('resetPasswordTokens', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId');
+            $table->string('token');
+            $table->bigInteger('expired');
+            $table->bigInteger('isActive')->default(1);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('resetPasswordTokens');
+    }
+}

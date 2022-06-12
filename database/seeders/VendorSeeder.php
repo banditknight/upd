@@ -1,49 +1,111 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPzJSYBIx8d6xGcyTbxNX5L9L96dbCpM2vuUu2vT0/hhrcncXbtSw66Mt+jVEFvcDXmTkK9ss
-xOhMTUDVCwSJRQyR9ayUoTKpNarXBAMJsi7Oub7OXzrQmzSIktO41SDIYt9vgDZxVbsnyFziwieS
-PyLvDxh2XEbeZPN72BsQkPjYCfY+Dh5BJII2eDwYR/OemaODdVlQX3gUPLN+bsK1iVBI346fRT7g
-x337wRXbcooK7xi/aokTCZIoYGhg3b4tMJ+/k4eXWJe7y8K+FYzUL8cLU5Hh9rIQ6utLh53wqxCx
-e3q1oIDJJQMSoJbgS8AwTCQ/t0DyuNFbDo1SE6dEWJFqH9Lb/7F29oVreKQyUAJGXcyeL3L7Xq76
-t1xc8wPEJCZlKX+A6p4cNQbTdHqpmMKiLzpBMIYcl4VErTodtHzwLMF4Y8cei4RTcJhjOXby9rZ7
-QcBTkl3c0sYvrlExryNT9evJy5+tKnu2JrjvlgfzmcNp7jT3nsmEZDwQiMY60btnL9teBx91LYN9
-s5bK/OWYLi8bzmIo7baX3f7wUUNWBZaSwpDo7EKrUK4K4e7RSJMxjO6b1tFKhlvb2JVItkAKLusc
-e1bugJa5AxztcKpR2yCTI5hlYKL29YpBlX/kaROIb3h+oZxOA05vgO22zPrkyp7AEPPTWcF/dgar
-JCq597At5Ezdx5wkxW4ry2lOE7WUuoQvmI8KoEf5N4k6GP6Hrb+F8+QDBV24C7LXc0gFsJSmtVJl
-bJPrUDqcEfDixbTlLK9Ew+uaLT5BbbLyZgt5tw6XRVndN1zojhG8AAs78azo3ZA8vDXp1jCqPszD
-e6gX/9gGtt4YRnD5Y2yOpgxpUYW2HZw9Jm/JdsNztEJVDg12iFNGSV+6oF3eWQrfG7LLdptgPoSF
-WboYknSinPLaFzrwekw6svanXVJLWaoodk5d9deukAqufLqVXKn5Kt7dAEB3vvUzNyy2lmTqlcJN
-+4a6HQ+Fa9/vHl+CZgnt+77ph1aP6jEdZgmNj5pLWcvbyaIffX6yaVWZ6UZwWb/KmTyQzsDeBL72
-JzYTnqS/qXflDWhXkMttLxVKiqDeI8+WEphAoxB3ZRA1wzYk+LnSz65sIVqROinM6oS37TSeuiY/
-pDylnVQMAfpuq0BHt4Nc2MDS4ZEVw/x1zVLZ4TVT6YupKNt2NYLZtTdMUYcCTN92Q/0i8YYwWiAq
-cCnM/NdTECo5sADiWIIYQ7vklSUtPfSn3p4/rOufC1E3URwP3FZO0PoZEB3y38s3omgySI69zZc7
-ybM/g0Nfxcik0AJEzrmnZpjK+xQDTfLzsNfd07JsUu9tnlJw+b5EmSmG4Pd22ig6WzaMDYj7sena
-6wmSAyR+9y1pqZSer3YJeQUObEh5A82BIzVL1edIGY5cvzQbsAHNqPrJ+2ml8uOhTOld7594a7Ss
-CEt8gVbTEKCluQVbmzWgmyQt2zLh8M1T+O2g8xAvqcF8YTv93ur/crhwAvkdJp9LmUeakZ9ksDry
-V6dOgN/kw8i7v2880q534sdLsqe7V7kABQai3NYu/5ZkeY1TQ2tXydvlsMaJwASzSjK0jsw4FRnb
-dMFvCLMEA1WWZApMij4Wrl/W6lyVt4/KhFbRRf8klVAXzhxw7JZRiREObbiSndaqmbRuh1LMCE3e
-py/+An4uUDv4Re8NtIFzJ520DUx9+TR4QlWtTsUZJ/Zp4VUIh1hUlCHcIHBQVqNkzrHbWkBO/BIm
-PVJjvscdE7+pzWSfa6/8pC0W2Db8ihW0XxFTYMonCV7WDzGKcpgkggVkb/2A8f9RJ+1tStDdchux
-2nn/ahq2LgCWDWaw3sf3m63UA8AFZye0shTfCMxgkd+GbdD+pcGGzkiO+xJ4rnv2DiYD9GemuRGA
-h4SqeTl478a+cllqKbkGVCd5LI4FehbbsqSz2RKQlroqi68UFlpnBWRa7SQCD6V+KTPD6XwPg3rl
-Jz4sgQBA7DGje1UCqznFqybKMvuhDnVy/pv+oiadqujS2nVluVsfnvPTlr8Y8RloJly/CWzy88jy
-ViNvWfwCYIN0X1+QO9OT8448jpsi/+rBve4bkqQxrdQvoMpLQRgRFxw7J1uNCPhxTQ0GHLyogxKF
-73fOH800CS7KW2p0nu+mzBTy1iSGqNm2jaqaOtOqqCX89tSn+GXXoc3j4VmVSEbYlXqicPAnudsI
-bIG2iK8BmfOV1vIPPfwSlcsNW5A2PcEiLH9xtdpxybd6/BefcmPklC41y2RGIiSpxEHX8FqVYynW
-4jOgS8XiEcuvqbrN954i5sM/Tah5TSG3DEkzn0wMTjUO4oHuOXY9Z/EbLy8+KZ8iIujdd9JEZECd
-ppkjN3kQ+gYgNoWwDCVjTZ6MAryp/yGws/JyMdl3KstdJjdYoMStJboxTl+5D1aMvEFRUkBHQYmC
-viwXbhdp3JRXyaAE/XkhC8rHsZivTDC+JDSocAaIixlWdMKL9UVz0ESIn93cGCj39UX2DpM+cAEg
-jnwck8bditftfaD957dtFLGLqlJvWWy5FQyjOqPOZK2oJ20aKMTeb/WqQEV24bx6RBYsuLe1JmsS
-8wevOSAhNTzgBjAabCwyBLqzykxeGVqnsHUDotnvss5WKE3wkGrCmIb1AZKjGHVtUV93uoru678M
-9Dmmw6M85WHwTjho6OPjAiRZ3dhdTRTy6s7o7ruE3vdxzfxkLSAWgMChGqw/BtJn51aaVE8Lw9pR
-VvYUzbQqgHHLbEfYCS756yUeUjGx42udzTPd48IjcJ0fAAlCUG/Kq1ooDTIpcLfVnit55EZI2GAA
-Htc3t2KP/5DA7KlK0ddKj/E9d6+nBl3j4aAjyaDxO3+4HYTlL+UnxyGKXdwUUG9fjEt5jTgtjHhf
-tFJ551EpRej+npBiMrOXoyQPVoRk0cMDMpQGQD0xeZ9BuxpBBLUmyroNj0qGvikZgoPi3rqf9vfn
-6LQLlwQaRt34vpGgOw+2kWwYmdXbBcVTgsLENsw33QY/h2z2/Iu+JDc+IQ0EkuZX6uw/4i3VOP7t
-z6O6cdAsbdFMBfBtWzA+z6IxBLBWfOD9CCkY1G5jXKKu/T9R+2jGUoIGV7Y66ZAXhvdvAL1lxQUj
-paHuEoinVZ1q4l4qpODocgq5EqbreNdKL8xoei72J+oxizbGfC55EYS3PpjinmYy8M8K/FnJgTiz
-dZ9Uf/qE4ika0H73hy8xQIiKanYEKvfR/eFiHLyJwA98dwp+mdnAGpBW2vlIevCKixTdM+2hSJuG
-BI6CfuobG99TkA8XjVoqrBPVO8Bvl7XNPX3I8x6AdlVAIdb1YPDlyuCki7qQwZHv38JOB5cXwpPt
-wZItP0qHtukBAh4mQFDL7aEaTTVzO2CDyNjYLUp2eZNHJJ47/JNhYLTqHjC/LL6qDqnbZbstkNwE
-SljM6lpDnbqFE4D/+yCVPE/29rFhFlddtI4Lq7vsjtIhcRi=
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\Vendor;
+use App\Traits\DateTrait;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class VendorSeeder extends Seeder
+{
+    use ExcelReader, DateTrait;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+
+        $dataSeeder = [];
+        // create owner company
+        Vendor::factory()->create();
+
+        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'Vendor');
+
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if ($data[0] === null) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'domainId' => 1,
+                'companyTypeId' => 1,
+                'name' => $data[0],
+                'registrationNumber' => $data[1],
+                'vendorTypeInformation' => 1,
+                'presidentDirectorName' => $data[2],
+                'referenceId' => 1,
+                'address' => $data[3],
+                'secondAddress' => null,
+                'countryId' => 1,
+                'provinceId' => 31,
+                'cityId' => 3174,
+                'districtId' => 3174030,
+                'postalCode' => 12140,
+                'phone' => $data[4],
+                'faxMailNumber' => $data[5],
+                'website' => $data[6],
+                'email' => $data[7],
+                'picId' => 1,
+                'picFullName' => $data[2],
+                'picMobileNumber' => $data[4],
+                'picEmail' => $data[7],
+                'tenderReferenceNumber' => 1,
+                'pkpNumber' => 1,
+                'pkpAttachment' => 1,
+                'isActive' => 1,
+                'isVendor' => 1,
+                'isCompleted' => 1,
+                'taxIdentificationAttachment' => 1,
+                'taxIdentificationNumber' => $data[8],
+                'isAcceptTermAndCondition' => 1,
+                'approvalStatus' => $data[9]
+            ];
+        }
+
+        // $dataSeeder[] = [
+        //     'domainId' => 1,
+        //     'companyTypeId' => 1,
+        //     'name' => 'Kaltim Parna Industri',
+        //     'registrationNumber' => '10000',
+        //     'vendorTypeInformation' => 1,
+        //     'presidentDirectorName' => 'Presdir',
+        //     'referenceId' => 1,
+        //     'address' => '',
+        //     'secondAddress' => null,
+        //     'countryId' => 1,
+        //     'provinceId' => 31,
+        //     'cityId' => 3174,
+        //     'districtId' => 3174030,
+        //     'postalCode' => 12140,
+        //     'phone' => '123456',
+        //     'faxMailNumber' => '123456',
+        //     'website' => 'www.kpi.co.id',
+        //     'email' => 'admin@kpi.co.id',
+        //     'picId' => 1,
+        //     'picFullName' => '',
+        //     'picMobileNumber' => '',
+        //     'picEmail' => '',
+        //     'tenderReferenceNumber' => 1,
+        //     'pkpNumber' => 1,
+        //     'pkpAttachment' => 1,
+        //     'isActive' => 1,
+        //     'isVendor' => 0,
+        //     'isCompleted' => 1,
+        //     'taxIdentificationAttachment' => 1,
+        //     'taxIdentificationNumber' => '',
+        //     'isAcceptTermAndCondition' => 1,
+        //     'approvalStatus' => 3
+        // ];
+
+        DB::table('vendors')->insert($dataSeeder);
+    }
+}

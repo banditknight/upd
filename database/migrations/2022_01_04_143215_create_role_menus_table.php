@@ -1,32 +1,34 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-46gg2v1C2nXG19xUYYpg7SGpsDTHInwkRB8lem==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateRoleMenusTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('roleMenus', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('roleId');
+            $table->bigInteger('menuId');
+            $table->boolean('isReadOnly');
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('roleMenus');
+    }
+}

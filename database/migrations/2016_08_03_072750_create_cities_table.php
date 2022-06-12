@@ -1,41 +1,40 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-udVYeYYfv30=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateCitiesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create(config('volt.indonesia.table_prefix').'cities', function (Blueprint $table) {
+            $table->char('id', 4);
+            $table->char('province_id', 2);
+            $table->string('name', 255);
+            $table->text('meta')->nullable();
+            $table->primary('id');
+            $table->timestamps();
+
+            $table->foreign('province_id')
+                ->references('id')
+                ->on(config('volt.indonesia.table_prefix').'provinces')
+                ->onUpdate('cascade')->onDelete(null);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        // Schema::drop(config('volt.indonesia.table_prefix').'cities');
+    }
+}

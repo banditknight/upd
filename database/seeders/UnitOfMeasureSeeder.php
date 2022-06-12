@@ -1,29 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPrn3ZtkEg7DyL/KQM9AYjHBBXe1S4b0pbPAu22/MY1rUBnxhU9fv6PJyGtX5cR1KmAbMgep5
-q/6J40KvwtMNNgcAREUr7e1/xaHtk2Xmi94ICMqefTsY6DtA9dMoHoVD1sRRkrgX1PVlQUoe1dpC
-5DiCuI6cZxAyGRsXIidKRDvtJrX5egXoyCPxgF/3geCPjYGQioiDEZTaDZV1h+JgbYD8RMA/4pzv
-PBVU37X67BHDYuX2WKIMYKlYgImUX4dAp5WAk4eXWJe7y8K+FYzUL8cLU2Da4WyQWvabnhbeZxFx
-R3e/62g/Fa8kcIbR8LMzX82Ch0QGiV2M4wSjXPzgLwfWeq+Gxz+AanjrfbrN4jrnbqP+Tnd7Hz3p
-FKNaveXz0mpyECXYkL1K3qUYHvPy4vuQBC6CHatFQ+VuKW8c0DMCyeT/BPkwzTLuUk1GbdHdDL0Y
-Z82DfwCCsolfhVVvPOzQNuyjAHBzt8aB8AsQ4cX1Ac8Te+P4B7WAcK/VMQznyBtCMKlU5GKKum//
-YU/WJd6MBVswM7YcUjKfY84bpfuEWMXflLKHdYD23vSkTJlIdX6bTWLSjKkj4pWweAyWoIPq3YIb
-KX3f9HJW1K1G6xd6D8gQgHHFEY8bG+bMI5kzj1iXzaN2xsd2G5J/ViQ2ntG6CPz2kfYWCbC0zDMB
-wq/X3XU/9xLv9OaVrZ93gmZkaNOarzxoUDLmAAszp+OCBGBpFrLSNpUiuwILS7+pbkkw+qOKYuOf
-NCzyVmy/lQ+6obMc5wO9ixP05fZMmSXr4hEfBIvGpVrQgcvcZ+dnb1/TeexzLs7bIsKse0bcRnEk
-KrwKxsdusTLw4TPXfK2SrG+L/bGoTFpb00XKsdHoC83om/JXxBTEV6kmM+pnpJK382DyAFkSRFy3
-xGMlPpQdeFQag9+u0RixXcoDvwYj+pCsu6jQJ7jrXU3nWSNe8Bs4TaAoVLSiLoIIBK5pnIrgxFGP
-V+xOwS4xg7cHG/y1qBQdmc0IKG3mhFlrZ2J5Zs1k01PfW1B6AQKfZy62mwKrWmXVw0xS7IRncHH5
-bSXhI11pYDTgRHY6aaI0apHp9nw2Lc2nX+Y/O8/m9FDYTJZONJCn4C0l2gjtvqGbpBuiBlsWdde4
-g8Hryav5hyqcIGIpWFRPIZvLqgX+MpCPZrcqNlhZMFXRu8we1sJ7zT41akz+8hEVsEnGV9/pfqDb
-9GBXkXx99Q/Y2Rbj79vkMdF2nC6DLZH4LGtSSJ3LimXeQzMK+0v3p9/6KUleRHZEgbdrJI7P8bzj
-TPA7T4qTgy3QebWnSojH8kTl9eSH5Pprw83P28uW4iLCggBjs2andCBKc41Z79V7n//35iZ3mZP5
-cOIy2/qODS2C/Vy7Fggq728+v/TAFZ7BKk11C5NcQcM5EdpjQPagB/B4GeYR2+Epa8dLdRv+9DEk
-uFkNTr2IzcALSkfBy9TKg+elb0xom0hslyhGAO1JlMEvFITRa62fDvDO9wrWylP3kPp6sycrseQr
-dwFSWo2s55safFEl1LkryvIlJE90q6XZDP5XT3goh5YcP+I0g/qRwWrXR03EwJsRjf9ofjgI+XyO
-L6CJZk/PMxbaQVpfGhjYXX2kh9g8ru/4RW0+M0nubFWQ9nU8DGmJ5Oy+61+r+QGb5lzTng4cVUCJ
-dDi8KZX2kgud0FIcp+Xqto+u8cwU/nBL7HgFhKOBCSJTTpq8/lbphLah4LeGPVrol5XEKTNNnJj2
-oRTlb/okGLxS1Bwf8fmbBPvOavAVyjyK8drjvIwaQqpbtR+9Bl+71solLlcKentMoms3MYludvg7
-8JkInYAaDxUimF+2rK8lidfy36qpYeksl3FCJcdARFBw2d1Y8FoJRMC4iW4TshuTWXCwaErvoXjE
-6DyuIF+0ftyYHMKlY3ij+HFL37Sh+LoEQ+ndNAdOlxdjNo1F
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class UnitOfMeasureSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        DB::table('unitOfMeasures')->insert([
+            'code' => 'Pc',
+            'name' => 'Piece',
+            'description' => 'Piece',
+        ]);
+        DB::table('unitOfMeasures')->insert([
+            'code' => 'M',
+            'name' => 'Meter',
+            'description' => 'Meter',
+        ]);
+        DB::table('unitOfMeasures')->insert([
+            'code' => 'L',
+            'name' => 'Liter',
+            'description' => 'Liter',
+        ]);
+        DB::table('unitOfMeasures')->insert([
+            'code' => 'Kg',
+            'name' => 'Kilogram',
+            'description' => 'Kilogram',
+        ]);
+    }
+}

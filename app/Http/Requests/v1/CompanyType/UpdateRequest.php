@@ -1,32 +1,57 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-MIdr4ErGMiaNgiMOyRm4SHOc6bt1jgIN/qQb
+<?php
+
+namespace App\Http\Requests\v1\CompanyType;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\AlphaUpperUnderScore;
+use App\Rules\DomainValid;
+use Pearl\RequestValidate\RequestAbstract;
+
+class UpdateRequest extends RequestAbstract
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'code' => [
+                'required',
+                new AlphaUpperUnderScore()
+            ],
+            'name' => [
+                'required',
+                new AlphaSpaceDotComma()
+            ],
+            'domainId' => [
+                'required',
+                'integer',
+                new DomainValid()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

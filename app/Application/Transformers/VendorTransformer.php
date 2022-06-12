@@ -1,112 +1,113 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-eaM7/yBC
+<?php
+
+namespace App\Application\Transformers;
+
+use App\Application\AbstractTransformer;
+use App\Models\v1\AbstractModel;
+use App\Models\v1\BankAccount;
+use App\Models\v1\Board;
+use App\Models\v1\BusinessPermit;
+use App\Models\v1\Certification;
+use App\Models\v1\City;
+use App\Models\v1\Competency;
+use App\Models\v1\Country;
+use App\Models\v1\Deed;
+use App\Models\v1\District;
+use App\Models\v1\Employee;
+use App\Models\v1\Experience;
+use App\Models\v1\FinancialStatement;
+use App\Models\v1\Province;
+use App\Models\v1\ShareHolder;
+use App\Models\v1\TaxDocument;
+use App\Models\v1\Tool;
+use App\Models\v1\User;
+use App\Models\v1\Vendor;
+use App\Models\v1\VendorTypeInformation;
+use App\Traits\VendorStatusTrait;
+use Illuminate\Database\Eloquent\Model;
+
+class VendorTransformer extends AbstractTransformer
+{
+    use VendorStatusTrait;
+
+    public function transform(AbstractModel $vendor)
+    {
+        // @ todo need to refactor this hardcoded data.
+        return [
+            'id' => $vendor->id,
+            'name' => $vendor->name,
+            'companyType' => $vendor->companyType,
+            'presidentDirectorName' => $vendor->presidentDirectorName,
+            'registrationNumber' => $vendor->registrationNumber,
+            'email' => $vendor->email,
+            'website' => $vendor->website,
+            'phone' => $vendor->phone,
+            'faxMailNumber' => $vendor->faxMailNumber,
+            'picFullName' => $vendor->picFullName,
+            'address' => $vendor->address,
+            'vendorTypeInformation' => VendorTypeInformation::find($vendor->vendorTypeInformation, ['id', 'name']),
+            'administrationData' => [
+                'organization' => $this->statusDecider($vendor, new Vendor(), null),
+                'legalBases' => $this->statusDecider($vendor, new Deed(), new Vendor()),
+                'shareHolders' => $this->statusDecider($vendor, new ShareHolder(), new Deed()),
+                'boards' => $this->statusDecider($vendor, new Board(), new ShareHolder()),
+                'businessPermit' => $this->statusDecider($vendor, new BusinessPermit(), new Board()),
+                'personInCharges' => $this->statusDecider($vendor, new User(), new BusinessPermit())
+            ],
+            'competenciesAndExperiences' => [
+                'tools' => $this->statusDecider($vendor, new Tool(), new User()),
+                'experts' => $this->statusDecider($vendor, new Employee(), new Tool()),
+                'certifications' => $this->statusDecider($vendor, new Certification(), new Employee()),
+                'competencies' => $this->statusDecider($vendor, new Competency(), new Certification()),
+                'portfolios' => $this->statusDecider($vendor, new Experience(), new Competency())
+            ],
+            'financial' => [
+                'bankAccount' => $this->statusDecider($vendor, new BankAccount(), new Experience()),
+                'financialStatements' => $this->statusDecider($vendor, new FinancialStatement, new BankAccount()),
+                'taxDocuments' => $this->statusDecider($vendor, new TaxDocument, new FinancialStatement)
+            ],
+            'country' => Country::find($vendor->countryId, ['id', 'name']),
+            'province' => Province::find($vendor->provinceId, ['id', 'name']),
+            'city' => City::find($vendor->cityId, ['id', 'name']),
+            'district' => District::find($vendor->districtId, ['id', 'name']),
+            'postalCode' => $vendor->postalCode,
+            'status' => $this->vendorStatus($vendor),
+            'approvalStatus' => $this->approvalStatus($vendor->approvalStatus),
+            'description' => $vendor->description,
+            'liquidity' => $vendor->liquidity,
+            'competency' => $vendor->competency,
+            'rating' => $vendor->rating,
+            'logo' => $vendor->logo,
+            'taxNumber' => $vendor->taxIdentificationNumber,
+            'taxDocument' => $vendor->taxIdentificationAttachment
+        ];
+    }
+
+    private function statusDecider($vendor, $currentModel, $previousModel)
+    {
+        $hasPrevious = true;
+
+        if ($previousModel instanceof Model) {
+            $hasPrevious = $previousModel instanceof Vendor ?
+                $vendor :
+                $previousModel::where('vendorId', '=', $vendor->id)->first();
+        }
+
+        $statusCode = 'DISABLED';
+
+        if ($hasPrevious) {
+            $hasCurrent = $currentModel instanceof Vendor ?
+                $vendor :
+                $currentModel::where('vendorId', '=', $vendor->id)->first();
+
+            $statusCode = $hasCurrent ? 'COMPLETED' : 'OPEN';
+        }
+
+        return [
+            'status' => [
+                'code' => $statusCode,
+                'title' => __('status.' . $statusCode)
+            ]
+        ];
+    }
+}

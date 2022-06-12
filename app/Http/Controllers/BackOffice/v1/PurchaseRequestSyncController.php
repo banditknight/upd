@@ -1,32 +1,26 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-kJymEjsTL/PbMMMXftMZpVzC
+<?php
+
+namespace App\Http\Controllers\BackOffice\v1;
+
+use App\Http\Requests\ResourceRequest;
+use Illuminate\Http\JsonResponse;
+use Illuminate\Support\Facades\Artisan;
+
+class PurchaseRequestSyncController extends ResourceController
+{
+    /**
+     * @throws \JsonException
+     */
+    public function store(ResourceRequest $resourceRequest): JsonResponse
+    {
+        Artisan::call('pr:sync');
+        $output = Artisan::output();
+
+        $data['data'] = is_string($output) ?
+            json_decode($output, true, 512, JSON_THROW_ON_ERROR) : [];
+
+        return $this->responseSuccess(
+            $data
+        );
+    }
+}

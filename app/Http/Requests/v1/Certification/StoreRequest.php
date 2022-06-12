@@ -1,35 +1,67 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-7V/kIOLA2Ze5m2xijr3k8aS=
+<?php
+
+namespace App\Http\Requests\v1\Certification;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\CertificationTypeValid;
+use App\Rules\FileValid;
+use Pearl\RequestValidate\RequestAbstract;
+
+class StoreRequest extends RequestAbstract
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'certificationTypeId' => [
+                'required',
+                'numeric',
+                new CertificationTypeValid()
+            ],
+            'description' => [
+                'required',
+                'min:3',
+                'max:256',
+                new AlphaSpaceDotComma()
+            ],
+            'validFrom' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'validThruDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'attachment' => [
+                'required',
+                new FileValid()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

@@ -1,33 +1,36 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-9kLKjvMMjzMw8p4=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateTabGroupsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('tabGroups', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('windowId');
+            $table->string('name');
+            $table->string('description')->nullable();
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('tabGroups');
+    }
+}

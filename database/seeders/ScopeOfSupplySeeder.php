@@ -1,47 +1,71 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\PurchasingGroup;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use PhpOffice\PhpSpreadsheet\Exception;
+
+class ScopeOfSupplySeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $max = 100;
+        // skip 0 since 0 is worksheet for purchasing group.
+        for ($i = 1; $i <= $max; $i++) {
+            $this->perWorkSheet($i);
+        }
+    }
+
+    /**
+     * @throws Exception
+     */
+    private function perWorkSheet(int $sheetIndex)
+    {
+        $dataOnSheets = $this->readWorkSheetByIndex(storage_path('seeders/ScopeOfSupply.xlsx'), $sheetIndex);
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if (!$data[0]) {
+                continue;
+            }
+
+            $purchasingGroupCode = $data[3];
+            $purchasingGroupObject = PurchasingGroup::where('code', '=', $purchasingGroupCode)->first();
+
+            $reCheckFound = false;
+            if (!$purchasingGroupObject) {
+
+                $newPurchasingGroupCode = str_replace('D0', 'D', $purchasingGroupCode);
+
+                $purchasingGroupObject = PurchasingGroup::where('code', '=', $newPurchasingGroupCode)->first();
+                $reCheckFound = (bool)$purchasingGroupObject;
+            }
+
+            if (!$reCheckFound) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[0],
+                'name' => $data[1],
+                'purchasingGroupId' => $purchasingGroupObject->id ?? null
+            ];
+        }
+
+        DB::table('scopeOfSupplies')->insert($dataSeeder);
+    }
+}

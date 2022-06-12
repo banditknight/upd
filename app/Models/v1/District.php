@@ -1,33 +1,59 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+/**
+ * App\Models\v1\District
+ *
+ * @property int $id
+ * @property string $city_id
+ * @property string $name
+ * @property array|null $meta
+ * @property string|null $created_at
+ * @property string|null $updated_at
+ * @property-read \App\Models\v1\City $city
+ * @property-read mixed $city_name
+ * @property-read mixed $province_name
+ * @property-read \Illuminate\Database\Eloquent\Collection|\App\Models\v1\Village[] $villages
+ * @property-read int|null $villages_count
+ * @method static \Illuminate\Database\Eloquent\Builder|District newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|District newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|District query()
+ * @method static \Illuminate\Database\Eloquent\Builder|District whereCityId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|District whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|District whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|District whereMeta($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|District whereName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|District whereUpdatedAt($value)
+ * @mixin \Eloquent
+ */
+class District extends AbstractModel
+{
+    protected $table = 'districts';
+
+    protected $casts = [
+        'meta' => 'array',
+    ];
+
+    public $timestamps = false;
+
+    public function city()
+    {
+        return $this->belongsTo(City::class, 'city_id');
+    }
+
+    public function villages()
+    {
+        return $this->hasMany(Village::class, 'district_id');
+    }
+
+    public function getCityNameAttribute()
+    {
+        return $this->city->name;
+    }
+
+    public function getProvinceNameAttribute()
+    {
+        return $this->city->province->name;
+    }
+}

@@ -1,30 +1,26 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Rules;
+
+use Illuminate\Contracts\Validation\Rule;
+
+class Confirmed implements Rule
+{
+    public function passes($attribute, $value)
+    {
+        $hasConfirm = request()->has(sprintf('confirm%s', ucfirst($attribute)));
+
+        if (!$hasConfirm) {
+            return false;
+        }
+
+        $getConfirmAttribute = request()->get(sprintf('confirm%s', ucfirst($attribute)));
+
+        return $getConfirmAttribute === $value;
+    }
+
+    public function message()
+    {
+        return __('validation.rule_confirmed_not_valid');
+    }
+}

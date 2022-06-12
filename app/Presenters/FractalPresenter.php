@@ -1,82 +1,164 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+namespace App\Presenters;
+
+use App\Contracts\PresenterInterface;
+use Exception;
+use Illuminate\Database\Eloquent\Collection as EloquentCollection;
+use Illuminate\Pagination\AbstractPaginator;
+use Illuminate\Pagination\LengthAwarePaginator;
+use Illuminate\Pagination\Paginator;
+use League\Fractal\Manager;
+use League\Fractal\Pagination\IlluminatePaginatorAdapter;
+use League\Fractal\Resource\Collection;
+use League\Fractal\Resource\Item;
+use League\Fractal\Serializer\SerializerAbstract;
+
+/**
+ * Class FractalPresenter
+ * @package App\Presenter
+ * @author Anderson Andrade <contato@andersonandra.de>
+ */
+abstract class FractalPresenter implements PresenterInterface
+{
+    /**
+     * @var string
+     */
+    protected $resourceKeyItem = null;
+
+    /**
+     * @var string
+     */
+    protected $resourceKeyCollection = null;
+
+    /**
+     * @var Manager
+     */
+    protected $fractal = null;
+
+    /**
+     * @var Collection
+     */
+    protected $resource = null;
+
+    /**
+     * @throws Exception
+     */
+    public function __construct()
+    {
+        if (!class_exists(Manager::class)) {
+            throw new Exception(trans('repository::packages.league_fractal_required'));
+        }
+
+        $this->fractal = new Manager();
+        $this->parseIncludes();
+        $this->setupSerializer();
+    }
+
+    /**
+     * @return $this
+     */
+    protected function setupSerializer()
+    {
+        $serializer = $this->serializer();
+
+        if ($serializer instanceof SerializerAbstract) {
+            $this->fractal->setSerializer(new $serializer());
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return $this
+     */
+    protected function parseIncludes()
+    {
+
+        $request = app('Illuminate\Http\Request');
+        $paramIncludes = config('repository.fractal.params.include', 'include');
+
+        if ($request->has($paramIncludes)) {
+            $this->fractal->parseIncludes($request->get($paramIncludes));
+        }
+
+        return $this;
+    }
+
+    /**
+     * Get Serializer
+     *
+     * @return SerializerAbstract
+     */
+    public function serializer()
+    {
+        $serializer = config('repository.fractal.serializer', 'League\\Fractal\\Serializer\\DataArraySerializer');
+
+        return new $serializer();
+    }
+
+    /**
+     * Transformer
+     *
+     * @return \League\Fractal\TransformerAbstract
+     */
+    abstract public function getTransformer();
+
+    /**
+     * Prepare data to present
+     *
+     * @param $data
+     *
+     * @return mixed
+     * @throws Exception
+     */
+    public function present($data)
+    {
+        if (!class_exists('League\Fractal\Manager')) {
+            throw new Exception(trans('repository::packages.league_fractal_required'));
+        }
+
+        if ($data instanceof EloquentCollection) {
+            $this->resource = $this->transformCollection($data);
+        } elseif ($data instanceof AbstractPaginator) {
+            $this->resource = $this->transformPaginator($data);
+        } else {
+            $this->resource = $this->transformItem($data);
+        }
+
+        return $this->fractal->createData($this->resource)->toArray();
+    }
+
+    /**
+     * @param $data
+     *
+     * @return Item
+     */
+    protected function transformItem($data)
+    {
+        return new Item($data, $this->getTransformer(), $this->resourceKeyItem);
+    }
+
+    /**
+     * @param $data
+     *
+     * @return Collection
+     */
+    protected function transformCollection($data)
+    {
+        return new Collection($data, $this->getTransformer(), $this->resourceKeyCollection);
+    }
+
+    /**
+     * @param AbstractPaginator|LengthAwarePaginator|Paginator $paginator
+     *
+     * @return Collection
+     */
+    protected function transformPaginator($paginator)
+    {
+        $collection = $paginator->getCollection();
+        $resource = new Collection($collection, $this->getTransformer(), $this->resourceKeyCollection);
+        $resource->setPaginator(new IlluminatePaginatorAdapter($paginator));
+
+        return $resource;
+    }
+}

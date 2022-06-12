@@ -1,44 +1,45 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Repositories\Application;
+
+use App\Repositories\AbstractRepository;
+use Carbon\Carbon;
+
+class TenderRepository extends AbstractRepository
+{
+    public function findByFilter($filter)
+    {
+        if (!empty($filter['tenderId'])) {
+            $tenderById = $this->findBy('id', $filter['tenderId']);
+
+            return $tenderById ?: null;
+        }
+
+        if (!empty($filter['tenderTypeId'])) {
+            $tenderByTypeId = $this->all()->where('tenderTypeId', '=', $filter['tenderTypeId']);
+
+            return $tenderByTypeId ?: null;
+        }
+
+        if (!empty($filter['fromDate']) || !empty($filter['toDate'])) {
+            $now = Carbon::now();
+
+            $fromTimeStamp = Carbon::createFromFormat(
+                'd-m-Y',
+                !empty($filter['from']) ? $filter['from'] : $now->firstOfMonth()->format('d-m-Y')
+            )->timestamp;
+
+            $toTimeStamp = Carbon::createFromFormat(
+                'd-m-Y',
+                !empty($filter['to']) ? $filter['to'] : $now->addMonth(1)->lastOfMonth()->format('d-m-Y')
+            )->timestamp;
+
+            $tenderByFilterDate = $this->all()->where('fromDate', '>=', $fromTimeStamp)
+                ->where('toDate', '<=', $toTimeStamp);
+
+            return $tenderByFilterDate ?: null;
+        }
+
+        return null;
+    }
+}

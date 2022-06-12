@@ -1,39 +1,61 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-czUsg7tnSlJap9MWgN626G==
+<?php
+
+namespace App\Http\RequestFilters;
+
+use App\Contracts\RequestFilterInterface;
+
+abstract class AbstractRequestFilter implements RequestFilterInterface
+{
+    protected $request;
+
+    protected $except = [];
+
+    protected $only = [];
+
+    public function __construct()
+    {
+        $this->request = request();
+    }
+
+    public function except(array $except = []): array
+    {
+        return $this->request->except($this->except ?? $except);
+    }
+
+    public function only(array $only = []): array
+    {
+        return $this->request->only($this->only ?? $only);
+    }
+
+    /**
+     * @return array
+     */
+    public function getExcept(): array
+    {
+        return $this->except;
+    }
+
+    /**
+     * @param array $except
+     */
+    public function setExcept(array $except): void
+    {
+        $this->except = $except;
+    }
+
+    /**
+     * @return array
+     */
+    public function getOnly(): array
+    {
+        return $this->only;
+    }
+
+    /**
+     * @param array $only
+     */
+    public function setOnly(array $only): void
+    {
+        $this->only = $only;
+    }
+}

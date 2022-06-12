@@ -1,29 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPy5mCsO4s8T9qSQcHL2zAHX4ygcfHkqJnBIuOlDRJEp8CgecMK3viQG/Gs2FS+d8O1Tfyjqs
-de9H9GUqfx74SpBAbwFJHkLUg1QFjru2gmu1OMxJO5cl5FOglPnmYXhqUdiqSc8DAYo6orgkLxkd
-xw3Ms/bnaBTZdTNS/td6cGxx/X8YyGKXC7lcslIW9/U5HtJENDIYNWpeL4bXg4gQWtNJjTMcJOdM
-67D9MkLZB1YwCtOq0HPD9gHr3CjbiSCNm/ATk4eXWJe7y8K+FYzUL8cLUAvef1L7uFX+vs7ifBDx
-63TCPtDFjwGDeEIrRuXiLacLDdIhb+p2D5IVTEN2RctEDCNNrfrMTWcuWsXQ5otCXuXb6Lxi+NeF
-FyNK7TU2wKBgUtVVqlxNgSVzj1xA2Fv9ix0J6/b9X6dSTMv0urCZKoGl6GHhI4LsPRoCpJYNQjXg
-dNlUZbGaSU0/e4PwaIem9+pGqY4bCsP8UPYxwxbKx7EP0ny7ES2HNT8UGObo3ejz46Al2EbKGm/A
-1PMDdQcdj15au87gLUxpDsIRcvjEm4h1jngy2B6w33hZBRcjW+cJwnZxM5xylnlzLhllwLrj5zSp
-qtoocDRP8B/KIlniY2ukxeX8P/3Z19wQsBMQUSf8whkveGZ/3XiYRZVo2zTIyIztXm3J+pC6l15k
-BKef3qW2pNq3maKvi/oKBfOdUrdG9FXX3pstZIVU+UXqL9kqHI5++ABAn7sMYe78rFpYgxqM1iBX
-+yGl0rA1RSGqGF383fwfEkNZlj2qAXqkFt5eBLw2CM0Cfw59G04vBwWQdtUS4AF0hks/+gheTxyE
-2aWXkVHLb6I2MOISAdBhlB+R1qPoCLuSga/KZJl4oroTWclRTa8GVztPvoIA1Hhj1WDgouEH+sWx
-0NADvqES4NnwnyOC5jKjbhfMIxGkjHQMjmx4xr+nkw92eqMKMdyz2vzRFlpoFoqfnM9Yrm/d972a
-wocPZdLV6/z4RI61SNmbnyS9MkCpzSNoLeIX/A8q1OJWiq0pnyBaE+/uSkdD0q/6IZwcXbUsd1ZY
-VuIZKRLUNCwTRcQXSVJ4rMDxVVR8QXxgfQFq0OG/Y1arWpP1q8MfwXgj/3CljH+qC7GfdIdXpoau
-7DMh92bDbmyA7cRdq8HDAvTyRwmsKuXUHSstoIg6t8gGog3NbfIOfaVG5RV/WWj5qUPMogT4XT6/
-Jzu68MBkfKSOZkdGQqfB64vNGc0A5RwKXHFbvMtKtjhrVdULPBodzzN2UltRwORkR9oqug6/3lOY
-FwF0E5RqgfaLSEOvvkPCU2EdLSQbqWpBwbPfV7U6CKHRCEPN/vvwDVq2gOULt6Fu1eOPjSzXsFoW
-HVSrtJRSvevcGB+aRnz1oue+2b9idPsHpNhxxtN+YOFbAz+kivmNLxal/BEt2Eu+WVa5UGUr2K0A
-zJwbPMM/Qp9qHcFP79pnkJfmajSscQXYug7lr12vFeYlIDn6HDG8T2s4m7S6J2juQmObHMlsqzmH
-xLUnCsSirH0NbCgYypZuq99OmPg5sMp7aquzlOZLd9TzTobRd7WfUB7rNWRRFLLloUejyH1KMlzR
-5o64wpQ9icEGrBJV0Qt0KGFUXPjifCapIDkQhw1b72tQL92j9GnV0+7ruwTnVagOh0B86Tt9+tyb
-CVB7oRQTKYK79zbPODtUbuLy3Qwlr2Akjv/KkZwmBRFu5q5llY6LMXBVgd9RfNLe92B4q6EqChn4
-Ubx4V+V4dHnyMglHOM4eVvz1ygZj2YwreSWaOxaTP+ajeFOwv+GpKe4Q38ksOp4KiI+/vmDPhKMe
-xl+AHb7CbaZrVm81fsQ2aU8g/cjvkJCnVhUxGzrOT7YGDm8kp4JHF+sBY1i6mKJAkYEzq+B2cTJz
-T0FINOau2VK+2n6Gk47YkPBBz4VWvRMp/vnhukK=
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\Education;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class EducationSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Education');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1],
+                'name' => $data[2]
+            ];
+        }
+
+        DB::table('education')->insert($dataSeeder);
+    }
+}

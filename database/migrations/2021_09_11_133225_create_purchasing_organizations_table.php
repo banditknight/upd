@@ -1,35 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-rx8D4cms
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreatePurchasingOrganizationsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('purchasingOrganizations', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code');
+            $table->string('name');
+            $table->string('description')->nullable();
+            $table->boolean('isactive')->default(true);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('purchasingOrganizations');
+    }
+}

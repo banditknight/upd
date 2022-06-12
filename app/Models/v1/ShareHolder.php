@@ -1,31 +1,75 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Z7TggG==
+<?php
+
+namespace App\Models\v1;
+
+/**
+ * App\Models\v1\ShareHolder
+ *
+ * @property int $id
+ * @property int $userId
+ * @property int $vendorId
+ * @property string $name
+ * @property int $nationalityId
+ * @property int $sharePercentage
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder query()
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereNationalityId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereSharePercentage($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereVendorId($value)
+ * @mixin \Eloquent
+ * @property int $taxIdentificationNumber
+ * @property int $taxIdentificationAttachment
+ * @property int $ktpNumber
+ * @property int $ktpAttachment
+ * @property int $kitasNumber
+ * @property int $kitasAttachment
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereKitasAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereKitasNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereKtpAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereKtpNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereTaxIdentificationAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereTaxIdentificationNumber($value)
+ */
+class ShareHolder extends AbstractModel
+{
+    protected $table = 'shareHolders';
+
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'name',
+        'nationalityId',
+        'sharePercentage',
+
+        'taxIdentificationNumber',
+        'taxIdentificationAttachment',
+        'ktpNumber',
+        'ktpAttachment',
+        'kitasNumber',
+        'kitasAttachment',
+    ];
+
+    protected $hidden = [
+        'vendorId',
+        'userId',
+        'created_at',
+        'updated_at',
+    ];
+
+    protected $appends = [
+        'nationality'
+    ];
+
+    public function getNationalityAttribute()
+    {
+        return Nationality::find($this->nationalityId);
+    }
+}

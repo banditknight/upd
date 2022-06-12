@@ -1,38 +1,63 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-WyVbnB3HSAZcNSP3g4KLELHIlPWvlsrUahO=
+<?php
+
+namespace App\Models\v1;
+
+use Illuminate\Database\Eloquent\Model;
+
+class RequestForQuotationItem extends AbstractModel
+{
+    protected $table = 'requestForQuotationItems';
+
+    protected $fillable = [
+        'rfqId',
+        'productCodeId',
+        'productGroupCodeId',
+        'description',
+        'quantity',
+        'unitOfMeasureId',
+        'currencyId',
+        'value',
+    ];
+
+    protected $appends = [
+        'productCode',
+        'productGroupCode',
+        'unitOfMeasure',
+        'currency',
+    ];
+
+    protected $hidden = [
+        'productCodeId',
+        'productGroupCodeId',
+        'unitOfMeasureId',
+        'currencyId',
+        'created_at',
+        'updated_at'
+    ];
+
+    public function getProductCodeAttribute()
+    {
+        return ProductCode::find($this->productCodeId);
+    }
+
+    public function getProductGroupCodeAttribute()
+    {
+        return ProductGroupCode::find($this->productGroupCodeId);
+    }
+
+    public function getUnitOfMeasureAttribute()
+    {
+        return UnitOfMeasure::find($this->unitOfMeasureId)->only(['id', 'name']);
+    }
+
+    public function getCurrencyAttribute()
+    {
+        $currency = Currency::find($this->currencyId);
+        if (!$currency) {
+            return null;
+        }
+
+        return $currency->only(['id', 'name', 'code']);
+    }
+
+}

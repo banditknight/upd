@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateBanksTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('banks', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code')->unique();
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('banks');
+    }
+}

@@ -1,87 +1,170 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\RequestForQuotation
+ *
+ * @property int $id
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Database\Factories\v1\RequestForQuotationFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation query()
+ * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation whereUpdatedAt($value)
+ * @mixin \Eloquent
+ */
+class RequestForQuotation extends AbstractModel
+{
+    use HasFactory;
+
+    protected $table = 'requestForQuotations';
+
+
+    protected $fillable = [
+        'number',
+        'name',
+        'purchasingOrganizationId',
+        'scopeOfWorkId',
+        'tenderTypeId',
+        'tenderDetailId',
+        'dateRequired',
+        'sectorId',
+        'projectId',
+        'docStatusId',
+        'deliveryLocation',
+        'purchasingGroupId',
+        'incotermId',
+        'noteForVendor',
+        'lingkupPekerjaan',
+        'marking',
+        'buyerId',
+    ];
+
+    protected $hidden = [
+        'scopeOfWorkId',
+        'purchasingOrganizationId',
+        'purchasingGroupId',
+        'incotermId',
+        'sectorId',
+        'dateRequired',
+        'docStatusId',
+        'updated_at',
+        'created_at',
+        'buyerId',
+    ];
+
+
+    protected $appends = [
+        'scopeOfWork',
+        'purchasingOrganization',
+        'purchasingGroup',
+        'incoterm',
+        'sector',
+        'status',
+        'docStatus',
+        'buyer',
+        'dateRequiredFormatted'
+        // 'project',
+
+    ];
+
+    public function getDateRequiredFormattedAttribute($value)
+    {
+        return [
+            'timestamp' => $this->dateRequired,
+            'humanReadAbleDate' => Carbon::createFromTimestamp($this->dateRequired)->format('d-m-Y'),
+            'humanReadAbleDateTime' => Carbon::createFromTimestamp($this->dateRequired)->format('d-m-Y H:i')
+        ];
+    }
+
+    public function getScopeOfWorkAttribute($value)
+    {
+        return ScopeOfWork::find($this->scopeOfWorkId);
+    }
+
+    public function getPurchasingOrganizationAttribute($value)
+    {
+        $purchasingOrganization = PurchasingOrganization::find($this->purchasingOrganizationId);
+
+        if (!$purchasingOrganization) {
+            return null;
+        }
+
+        return $purchasingOrganization->only(['id', 'code', 'name']);
+    }
+
+    public function getSectorAttribute($value)
+    {
+        return Sector::find($this->sectorId);
+    }
+
+    public function getPurchasingGroupAttribute($value)
+    {
+        $purchasingGroup = PurchasingGroup::find($this->purchasingGroupId);
+
+        if (!$purchasingGroup) {
+            return null;
+        }
+
+        return $purchasingGroup->only(['id', 'code', 'name']);
+    }
+
+    public function getIncotermAttribute($value)
+    {
+        $incoterm = TenderIncoterm::find($this->incotermId);
+
+        if(!$incoterm){
+            return null;
+        }
+
+        return $incoterm->only(['id','code','description']);
+    }
+
+    public function getDocStatusAttribute()
+    {
+        $docStatus = DocStatus::find($this->docStatusId);
+
+        if (!$docStatus) {
+            return 666;
+        }
+
+        return $docStatus;
+    }
+
+    public function getStatusAttribute()
+    {
+        $user = auth()->user();
+
+        if (!$user) {
+            return null;
+        }
+
+        if (!$user->hasRole('vendor')) {
+            return null;
+        }
+
+        $joinStatusId = TenderParticipant::where([
+            ['tenderId', '=', $this->id], ['vendorId', '=', $user->vendorId]
+        ])->first();
+
+        return $joinStatusId ? $joinStatusId['status'] : null;
+    }
+
+    public function getBuyerAttribute($value)
+    {
+        $buyer = User::find($this->buyerId);
+
+        if(!$buyer){
+            return null;
+        }
+
+        return $buyer;
+    }
+}

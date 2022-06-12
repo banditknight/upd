@@ -1,29 +1,56 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPxFE9vm3AfpJsdYol+HmjcEJIaeXS77svAIuRyIAqxnYuepMLHAp3O8dxfVQAheK540bdTc7
-6rPPT0a0zemvucEaCwTfFHXwseSQQsFz0gu/su2nOw4tL/HbWvINHawt1iDtQMjhnXnN/nIOnVKg
-zmlKXR/r2WQ/FQj523H3LU+DDQ3l0G18kocyNQTmV/4J3HeNkhGH4w7cV/2LbkSry8We7nFyT6EA
-K1MggHfTVEiqQS/4mrFxkxyDwNhH0rG4dIu2k4eXWJe7y8K+FYzUL8cLUBfZGuA5WVgrHV6Ur6Ef
-lSaR//gyjdIQf4rvu1yj/vq4KPWwu2s0qiz7XWClcW7l8f+5gaoeqlxXfgZVFK44OYTDI4n2wQcx
-7iVq1Nmski+F9eePFrk1p5UCmLM1WUR4tUFzSbIsnVG2QX4HYrFRevvsBHPO2tfXE6ZTyamLRuTQ
-NF7WMtbdvEPhLQURIvzcC1Uen0RfOCD04W/TRr8rIAEtQVQUYhOgthlsxF5KQjYze8Zzapc3y1oe
-kQ4n4kulSFfjejdRFP6B8qOENrS+VFnGcA6YQI5PssXDYlQ/emEkkYAti8NhtlY7gSzt+4soxCgZ
-1n3gtHla8viFewiFmu6Q2hNyKtPn5y3Y4qray7zq93Z/Et0agY+Ld/93XcmsRgS1oN7rAwjvr6Rv
-ViJUX2LdZqmYUEuYoojrVi2nDYJhCBMmNlX1pvORCQlmBhqO5AxoZcr5lJJvUPckl/N1uQ0/TBLo
-6U61blit27huRhqpVV0zoEbMbYsh2g//gWgxBeQ0bweApx3jOn9Vtv19160H6iJidk484ywbgbau
-mbQz0p09UdLYsmtFHYmLGOdSZMxHJAAbUPeUc4AFYh+b0nPTOvIGddRb6cpShcNX5HzRvgA+XoBH
-At+QGXDatAWabvvRRQnS6Q8OXAaxPuLe93Z87Aa84qv9nQ/ge7rJ2YLQSyd9AqW2Rkpjl7lJhOjZ
-Dl4x1l+jtVlvuh3Blwg4ZUKdjyt+uFeOb5aCCWHS35Jxo0UruS8ALIyFqzyopfZ13HujHQOsVAQj
-9NqPZmZbha/x+ZAbOgOlfUmYQN6xT4eQ7UUPd+955lfW7z7dHqzzOFMS/zSuvERVG+B8XYQQ4XRa
-VACu39zAPzP/G2mEvmLzVOB7gw/BkLNBsFsNE3Buh4/mgSUP0nH1ecdWWshj9Sy2nmkSKG4+5ujZ
-qfqxdSTtEPXAZZAHbGzTZ1VGaycOgyfKtDTvR4pS0pVtjTcnxLzllQgPz8qhlfyRxiwxDrofxDFJ
-hh2FQ5Q5ZFWBpXK2moTlUqhVJgXusFl4S4kItbPOGBSr/pEmwwP+feocNJ+pdCtq3mp4svtCTDIp
-TuuNn4ZYtdg7jHwLgecL4r2EIxUFFaRDOepkRDVNvL3EwG3nnAsPWvsuXlES9MeZ9/HIBCsL7KNQ
-HUKk12MsqURmCrHDLF5UTMUjjWu7bvZuUjQUfESsym4HcouewbkJgjId9VVSUn7qtuHDi/j8U/BT
-/xJE2e7LLkBUY5PqNRTvTNDGST/Ae0PPbCodEHtRO9kJr626x5KVYed8tr6a4R3aJCJh2TnH6o9c
-D7M2sMf3Ou58ffiJm2iDIqkFCBSC+HEEwLRzBfcLz9tFRJWWuzFzQwTLa+cvWNvc+6JKyhzWQ7oi
-ZYSqYM+cZh7EJhdxot+52ntA4GaevMQJhP01YEcaDl+rxPzZHVtR31QCgQrdVc5qXXnnmG0VngB8
-Ro7N9EA6Y3Q8Yzr7/p3wVoG0198xddJUwhQjDMy4xn14tWcMFYC/LA/zsbL2flqONIbzNvW4Vwwf
-B+IVtA6Q8YEnmtlwjCPX82j6VsV9Q87NXJsIQhU1JM7EGzDgUIcnOM2yrk3+w5yaQ40i26IT7FBw
-nASYQBgN
+<?php
+
+namespace App\Models\v1;
+
+use App\Traits\TransformableTrait;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\SubBusinessType
+ *
+ * @property int $id
+ * @property int $businessTypeId
+ * @property string $code
+ * @property string $name
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-read mixed $business_type
+ * @method static \Database\Factories\v1\SubBusinessTypeFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|SubBusinessType newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|SubBusinessType newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|SubBusinessType query()
+ * @method static \Illuminate\Database\Eloquent\Builder|SubBusinessType whereBusinessTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|SubBusinessType whereCode($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|SubBusinessType whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|SubBusinessType whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|SubBusinessType whereName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|SubBusinessType whereUpdatedAt($value)
+ * @mixin \Eloquent
+ */
+class SubBusinessType extends AbstractModel
+{
+    use HasFactory, TransformableTrait;
+
+    protected $table = 'subBusinessTypes';
+
+    protected $fillable = [
+        'businessTypeId',
+        'code',
+        'name'
+    ];
+
+    protected $hidden = [
+        'businessTypeId',
+        'created_at',
+        'updated_at'
+    ];
+
+    protected $appends = [
+        'businessType'
+    ];
+
+    public function getBusinessTypeAttribute()
+    {
+        return BusinessType::find($this->businessTypeId);
+    }
+}

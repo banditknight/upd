@@ -1,36 +1,52 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPwVo0xLFNFYw5aAMbgwu5EDe/IiwczjnrfYukN0/91t1vTUc1H0le5yMMdVwpLbE7Yn1QJI7
-1WfIaTyrEbiF6oqiFGBzGWYTFR6WJAnX0xuTqG7Ia9EKVstxb7Yci1P8Nx7nYU7WT2eZQ5cDZjvw
-JxIgfU1kgdwyD/NSlZrzDk2zsnAsVkVs2HK0rJv4rwS3c7sDQt/oW0Ux9By64Bpi2aG+5bf4WlOX
-n468yr4RmEeISOY+Vyf0/LjmbM4qhpXu3boYk4eXWJe7y8K+FYzUL8cLU6fYw/Fo/yvD3YYxGsFf
-l+TKfaZVmr8PLe1X6CToVt2lFSxU7/yrYcVX+X4WEgCeGzB/IbRXSDXnBhJhSq/pDFoq88qn5qa4
-JBfaFIBW5LbvFSl52544ONjHdkia/p4buUFmCDfgfyCkSi/6OggOjjXFzZTDymHi4dhnB0HX2WOc
-5PSXg+MsWfc9T6mffY0q8y70SlaxOmHdgt+no12RnKdM73AIUml9clgve27FXs8JChg5m/WBleYK
-T1fOv5EfaUQ/BygLUXGBhZisOPE9jSfXn4SEndjLAmRG0E6Ke0QBqAMqcqoQsC3pwITCH5OjRKKH
-jfYAGoNZL/lIwlYDaSwiqdQGpXuADAx3Td5/f47fsAlzv6Gt6HIQj8XQchb3IdBhUU21NQGnxu2f
-1IcX4YPsjFnw5NMhq9JO2f5gTPrQ5E+uNLiMCd9I/7AU/OGSQ4nPgs9m5x80mthnr54Vi3AINOl4
-RJfM3MhJf2nIjK1qVWh+3edFa8b3CY0a0S7U3aV7aGc9G/GjiBf9P9y8O1yNn0/wpYOLJImuPU+0
-Y89pUlZGCJAodK3vtnRyBWFA+TSU9q4SGgO3w+DxPeZw8OKKVVi0oyLnPVazo1Xv+tRhHr0hr4YL
-ofJDG/4+ZF73aXpM4/4bBUOhe1Y4wXuKGrSJeYvUmT7H39p5K5eIJeIANyB9KGQy/iRx1LdSL+hc
-qJIYp4leCDmQhkeiRB4cR/k3SIQJ9QxtFed1N/Tbd6zBaNiB5wbkQEJofe5NZiBjaedG8W4Ip2fb
-kb7A7FwKf17N1sdZnPlGc22ceEM8mo038pM+hNQy0E0pFdtVkBzvK8zrkXFjeA09qJW7Rhhd7eDB
-iP3cCIdDL9DhjBdunbBpI5cobKd+/9TtVvx14CUPzSz/OOZ+IQxkgLFqA8EdV/PsSROG0GcY14tZ
-OPCEXBTOnaOpg9Z9z3WclRFLwHkCg4LDb1CDt7YGGocK/RGHAzL+UpWxppftY4H/orfLpXcEGjIi
-mUJm0qnxd7mCq4hzonEMFPmhaUM4KVDdvm+CWu841aeoBXJIsGF2MgkWXX0kMErPBQBwND3Xoewf
-vvwYTE8g21HfjepkHBb7csOdpmuFQYBiXDHXPwVFgHHGx/idKIWKMiJyaSE9SsG94R9cB/c/Mec4
-ICKASpNKMkHRFOBOcx8UXLs6StcEz3QSFV8XR2ruCAoYySUyDweiqbJHxeT4sCPiVBWVMjppSly3
-XUHtlTXZe9gFfO2ugCWGhxIr+/EWoKWF7tg/6ZwG/FKNRiBOADDpWsNRmUpzLOxI0wAkxUvnkGSw
-QEphVfa9foRKGEBIE2inDLJgeFOPoNa8+j50r8fUQUDl/F+6UWso9flyUChMISAbV7+3JWqGSnYF
-iTEGqg1sgJQ7bav02HMTlepyMYiq2ZwIZnRDeUkdSudtOG4UVu3k5WGLad232ItqIKrb2VQ8Y1cf
-zA+UtdlwjKSuUOHxt8G1RpakmKt89gEL1JfQhJwGuMrJGW5qyjO22LLu2xOZqH9Icxpk02hwlDfB
-PpBc+4FaAjB3JfyqjzMUWEmdU8KVUJkPNN2hekKJ3/SZexeVHLP4pzF+6NZFr/oxz9drrheINMUU
-mcvFprJ2gjwk0IWUK3ihQqjX473hFjSqk3a+IF56RFUmZgIs1a8EVguiRf1/KJHfUZZllIywA63l
-KaW4c1F2/XlF4ePQLHIy2qjWAREhKLd6Aex631pA877FGX+zInUxCx05NqpDXH8re9KzQp+5e9R4
-HmhezRt3EpE0y4Q7Xx5ZxP4KqpHKYLlmVBGjvieQP8xEu/bZBwLX8AJjjsNC/L+UmJlVfZVojv0Y
-ZgCuZuq9DMrJoNhys/ccNv0JnH2gGRJwdtT1FOeiPi1jsDFKFX8BB6PK4KmoE2l/psElIdraMNej
-PO4/zf7JKLX66Dc0rfhwV1CZtBlBaOa3aK8dXl6oYACW9st3QP6V/iNnfl5gmWJtULzmBeRQZyRN
-RUbZfbnKcxvuiGetSq4TyME6//6tpceeQSyUn2yaedbW5QdWQ3QTv3ukHftnACuqkOpHcOZPnD01
-aGG6aaZIMiJvAemAmrxiURh0DtkFxkcdhODPNWRSpUPLsnz3Ff/ZndclTmGdObLGL1frn8LBp0jG
-ve6Pv56YNX/o5wpYJ7fQCh9tHHOHnfHIL5WYSDbbqIK3Oj0k/CMEyOXLeCCk1+C=
+<?php
+
+namespace App\Contracts\Providers;
+
+use App\Exceptions\Custom\Account\AccountNotFoundException;
+use App\Exceptions\Custom\Account\InActiveAccountException;
+use App\Exceptions\Custom\Account\InvalidPasswordException;
+use App\Models\v1\User;
+use Illuminate\Support\Facades\Hash;
+
+class Auth implements \Tymon\JWTAuth\Contracts\Providers\Auth
+{
+    private $user;
+
+    /**
+     * @param array $credentials
+     * @return mixed
+     * @throws InvalidPasswordException
+     * @throws InActiveAccountException
+     * @throws AccountNotFoundException
+     */
+    public function byCredentials(array $credentials)
+    {
+        $user = User::where('email', '=', $credentials['email'])->first();
+
+        if (!$user) {
+            throw new AccountNotFoundException();
+        }
+
+        if (!Hash::check($credentials['password'], $user->password)) {
+            // for security reason, do not throw message wrong password.
+            throw new InvalidPasswordException();
+        }
+
+        // @todo check if user active or not
+        if (!$user->isActive) {
+            throw new InActiveAccountException();
+        }
+
+        return $this->user = $user;
+    }
+
+    public function byId($id)
+    {
+
+    }
+
+    public function user()
+    {
+        return $this->user;
+    }
+}

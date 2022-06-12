@@ -1,33 +1,51 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Middleware\v1;
+
+use App\Contracts\RequestFilterInterface;
+use Closure;
+
+class RequestFilterMiddleware
+{
+    /**
+     * Handle an incoming request.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \Closure  $next
+     * @return mixed
+     */
+    public function handle($request, Closure $next)
+    {
+        // Pre-Middleware Action
+        $requestExcept = $this->resolveRequestFilter($request->route());
+
+        if ($requestExcept instanceof RequestFilterInterface) {
+            if ($requestExcept->getExcept()) {
+                $request->request->replace($requestExcept->except());
+            }
+
+            if ($requestExcept->getOnly()) {
+                $request->request->replace($requestExcept->only());
+            }
+        }
+
+        // Post-Middleware Action
+
+        return $next($request);
+    }
+
+    private function resolveRequestFilter($route)
+    {
+        if (!isset($route[1]['requestFilter'])) {
+            return null;
+        }
+
+        $requestFilterClass = $route[1]['requestFilter'];
+
+        if (!class_exists($requestFilterClass)) {
+            return null;
+        }
+
+        return new $requestFilterClass();
+    }
+}

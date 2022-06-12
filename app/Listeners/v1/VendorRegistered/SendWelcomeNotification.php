@@ -1,41 +1,59 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Listeners\v1\VendorRegistered;
+
+use App\Events\v1\VendorRegistered;
+use App\Models\v1\Notification;
+use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Mail;
+
+class SendWelcomeNotification implements ShouldQueue
+{
+    /**
+     * Create the event listener.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        //
+    }
+
+    /**
+     * Handle the event.
+     *
+     * @param  VendorRegistered  $event
+     * @return void
+     */
+    public function handle(VendorRegistered $event)
+    {
+        //
+    }
+
+    /**
+     * Determine whether the listener should be queued.
+     *
+     * @param VendorRegistered $event
+     * @return bool
+     */
+    public function shouldQueue(VendorRegistered $event)
+    {
+        $vendor = $event->vendor;
+
+        Mail::to(env('MAIL_ADMIN_APPROVAL', 'admin@sentralnusa.com'))
+            ->send(new \App\Mail\v1\SendVendorRegisteredNotificationToAdmin($event->vendor));
+
+        (new Notification)->create([
+            'toVendorId' => $vendor->id,
+            'toUserId' => $vendor->picId,
+            'title' => __('notification.title_welcoming_vendor'),
+            'message' => __('notification.message_welcoming_vendor', [
+                'picFullName' => $vendor->picFullName
+            ]),
+            'isRead' => false,
+        ]);
+
+        return true;
+    }
+}

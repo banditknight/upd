@@ -1,48 +1,64 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Controllers\App\v1;
+
+use App\Exceptions\Custom\Repository\RepositoryException;
+use App\Http\Requests\ResourceRequest;
+use App\Traits\Asset;
+use Illuminate\Http\JsonResponse;
+use Prettus\Validator\Exceptions\ValidatorException;
+
+class AssetController extends ResourceController
+{
+    use Asset;
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param ResourceRequest $resourceRequest
+     * @return JsonResponse
+     */
+    public function store(ResourceRequest $resourceRequest): JsonResponse
+    {
+        $auth = auth();
+        $store = [];
+        $par = $resourceRequest->all();
+        if ($user = $auth->user()) {
+            $par['userId'] = $user->id;
+            $par['vendorId'] = $user->vendorId;
+        }
+        $par['mimeType'] = $resourceRequest->file('attachment')->getMimeType();
+
+        try {
+            $store = $this->repo->create($par);
+
+            $store->update([
+                'attachment' => $this->move($resourceRequest->file('attachment'))
+            ]);
+
+        } catch (RepositoryException | ValidatorException $e) {
+
+        }
+
+        return $this->responseSuccess($store);
+    }
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param ResourceRequest $resourceRequest
+     * @param int $id
+     * @return JsonResponse
+     */
+    public function update(ResourceRequest $resourceRequest, int $id): JsonResponse
+    {
+        $update = [];
+        try {
+            $update = $this->repo->update($resourceRequest->all(), $id);
+        } catch (RepositoryException | ValidatorException $e) {
+
+        }
+
+        return $this->responseSuccess($update);
+    }
+}

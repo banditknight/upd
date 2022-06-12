@@ -1,89 +1,123 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPz4Oty6CiIFsITnAucEn4sfkTYooweo33AAunb1DhK8cEA9ZpSTl7OTI9wGNX1QJN/yGMjsK
-WHuNIYWg/rBNjrQ0aSHj0gi5cATlFkgR4M0B65l+pXDqRjpZGDqqR31mmZ405fOZJ6g5O/dOpE4V
-lYWudJLBwxqcvVu9QEVma2GW/DsG8CVNbKf+Z/5plqTCi1qSljdcRD0QjzsYFYJ0PPnEMkBD2JVY
-ngsZBQE/VUsNL0tPyTo6hgw/TT9cGALWbKZ7k4eXWJe7y8K+FYzUL8cLU2ve+aCqcKEz0Ee4WsEf
-VV1a/m06YbAthUZ0s8NXl1zie+cuVgrIXNRsIhhrlXlsJAV8QoWZVIVDn5nczRaFe7aXL5Nnu2Kq
-JE11AAuMxguSmNzL8ATH4rPXXluF0vfF2UMbW+zRtHaBLlbyRCxFntji8X9m7sq+udAxIWhMB0qH
-ujcQW3JO3MZhj1bpGtqWvEAjyJRcOW9T1hjT9JHk66eYUphEPj5047gnOMls/QKM/g+NHFbhtYhN
-GY5stHTOGkFt0JjCSqNot3X831Fbof6UR3sUmtLIYhIcuXVk4QZXMzSDaMsPTAIC3Hg28zZj1br8
-xH9RPf1w6ibIEXJwzgf5K+zqGhyVgA9IRHXpxn0UvbMfIY/gauWaJderFboUFZLUzYMLT/G6lPX5
-/hfKi0Ec9K3oKQ9twJ31zHFZOXuo2ozgKELqQBWjv1KocnPjn72VjKNCjmQYwLdY7k1PuN0II94+
-NcP/1cmHo6q05Hm396bsfSqhJTPyHXyMC2UGjTLBsumDkabL1qPkBwPnmYt1y+nk6JvjivvUqgjU
-Pd3gbx8aOpQc/NbYbmoUdD9r3LkFK57qXm1wgZdQ6fLxTrM3RLmuXdUU9tM43XIbcoNDQ/Y0jnpL
-8JYN1F9nm9eolheC6c2SxLzKIc/pYiEegzwtLFQrPiqPMJ367pVqPaaUe6p2dPzmCwBCSnfyu100
-o7B5K19VRXRNQsZmmVVaV1vK/yOitQl8jE6BIRnKZY8FhtGa/6tHlouDWe6Zs/bAQ73LzlVs9lZ3
-Vqp2cz6o6+26ZcffNA8QAbT5wqaTgotoOexKvx9zH0CWwDw119gb41FQnpcmwq1Y2I+v3NvZHGZ1
-I/+StAH4orzKQHfaBmLS0EWNeULqAKw97MD/g8/JHn847N4+g6dPja2d7Vx+2n9bximk6CTSqrBn
-90odU0gqC+AL1S961hJmX0KjSfyLLUj7gA14QsHzJ7Qk/Q/zuCgF/7Wumg2BgJNcm4GiGctgOhh+
-9Lp6yq6/4eY6Q/thv0I79CjvqS90y4ZwayhXoSprdJvh5YLPESSFnW092oLGKlUtodVgaGgJYN9u
-QBP4CK3y+02uQNYts89GtMDlCjjPArZ/mVGdkc4HD2V5yXxuP1/Mj0dEV6KGgDK2/A4sqfCXG1FK
-iDa1YsYVdhjf5EzWqTb99y2KciD369sItI5+EDKma8Vqus8+DZEWyeGYNtiQGauPcCG4Rqj3YlZa
-WBiTVoff/mv4grGWjozXok+oAy2eO6jaINjef0JhcopnCXA572MTIvs8BlzRGdd2A1SB3/uKrd9Z
-gpB0S81Qz4rkgBddquuPUeb98cbsaKxGHKBmOiaMsisZLAIumkEp+DY59wSsFSKV0uIU81hm5OL8
-7PQqipXploc0KEn13pXWLZUOLvsOisd/pvQOrSkd8tBhqpd/lhLvoTev+dScXvdCIw58gzKIJrpE
-qJN2jAwPYaHDYPLBBJNjQEPPctcGlJ9hJIIUpOF5zTZO07svkXXDZjnBJsSpjIgkfbMtUoAcigSv
-JUlrR8yphYfLA6xp0Ywz8OE3+rlVb98cQZwSM5zvK9bNBODKDm7+tYHedR3zpqusmezaFhCFXUTD
-aZa/+rTecTBUQ/L0vvqAWb1kNLWEBAZtDkDbx53Yg161TxczhVp75vJzh2Y9mX177BRUtCzVeoYq
-Uk8kB2UX4ZjBZNOpD76xrYV0fZM+Dri4LsPaJJXxlYm7D5n9P43qCpkwhBipwl30j3lWEF/qAbQt
-mUUlFWfNg0F+TZKeFub+g3h3eGghf28sJCkPaw56/35mhHJf+6mx3M0nMqbaot6ZpWOwvfuASE66
-uf/L8TECuerbxkG2wqMmu/a8kNR7gHf+nktmXfZL/CVVBphCSDzn8Gn5maGaasD7fzt2W21ESPPv
-pRMdD58DQGUcEJNXtW99G91z0OLshlhB3rJu16zdlhB4RqZpG9UKEfLkejiZZh3JWuNyRT5jb8vK
-TDSNZMfBomPzvTduEBwYOyP00KPXA1hMqQrlJIndJccWq+3zSuhfIIRTiVkrTAfKZpYMRqjtNk9X
-2lTjBmCDlFNU8oTbvFaSfoKaAraBN8f8/vb/Quo7uhauO63ZD4iKlzYpx2Z+dBEvGUEoqJENVnCe
-CEm58xpXoHXKIL1r+UJ/Rhiv+5U+tB8MSYfWZPoluISEJUC19+e2+CfbJtdFhBBr9K8N/Lz3ZoSn
-TzvQnVxYdF1qCktgS6ChkimsiPNXqVKw9Fzy13vDVQq5vd41yfDkusVtlti9f4vLJ8Re63rqY2vj
-aN8jHN0JsBOm8V74zxGN5id0zILa89/htj19bW1atc3uJY3EiW4ffQDc1BgVB4QtLqp40eieYqYo
-b9nNpsdI4Vkbe7FCqjOEYmTd0mFUP399yanw9n3bKDv0TROcvhOHm8tPm+3Xo4scd4/GdLB/dOoR
-B5aG1gqoBS8rK5pqJEHzx7uNSLZ0WUSMc0l+pnA29cumCp34x59tKqx+a+fnSe1n/Dhgo5f1LLbH
-WX20dN5u7vurwGbC4uERyywOYTGOxZ3JM07oLjCNXONtfz2AfCZ0Da+pigoFTtzD8tU5j6vQr9Od
-l1RtWPbVX4ZFI9qMZEA36fX97XKw5SFUxJkJGjwtGxxwKKu6S1z1Xtshgzve1JXDAEa3lw8i0CMH
-B5meTHXDcQ+zwE/uH+NbwFyVoLCo6uQcm0kB04lDTEAoS3YJkNojR/f8ltw5l+XDr1sne+0S0Fet
-Tmq7vy5bZzPK8cI7bnljRAfnWRVdZTGOVuITiLk5aMa9jaLD9FJMIha51CSjNh9ik+WcnCHVsXTb
-KA2Igjr8Aa44Dnfzu+Fdd673rD/Vr1m4VvBZbgXzuGz9HWPHft3xbyk6yjBVxeBd7XMWMOOip/vN
-h5lSD5EJeUW7AogN7AuRRWc6JVPvkocVCxeNAIBsp9GnAyKieh4Qmp/s0LMVc0SL0N3RdvQIck9T
-y8xxkiOwO9l4oLTyX+5yP6VQmVBsom9qmL0LIiKnGu/qfnUT8my3c7+/DOTR5ewy2RdKcFJ8pwaE
-Y5iAKRgFTOU9wC4cgbLEgUyRXycJ56AW4p/OY2aoZFRp4BuQpAzJXRYBYsxX74Hb35jrgRP+cy37
-oBed/pz9RJ1vVxydSYDNvabTtCLk/Hd5CJ/NsSfA+QNTRCJiZJzVYGoYAR6szT0flyb+rl8ZMVex
-XRvFGgs30moUVYX2+Aez7S394qQljEdNY6RCmkHDSVBjDJv0mFWe6ylSmT/fr9s319swk1C9dqT7
-IMyMhJZIikj0y8uQ5XZjpW7vWsczbk4B8AwnrD3VeLTWcJDEz/CU1vW2ZFQZnculxVLaz436vaEV
-lEk+htn1LcVPVmh5wjQehhY3jQKNH558c3H33qJbOou/kSm6WzWlXk+Y69npl2DuT7wbP6Qn6506
-cf5WK8qrQlVJCxIz0X58XR50Gr5Cypu/84fkL4+W/H3/h1DInsYCVVLniK8JTMSOJz1u4es1+yom
-4oaUpLVpKgm/eNPVcZZzfHOso9OskgeFn3680i0LumUv6KBqneb/GWw+m4J66S00PFphZSCt0gI9
-5WZPrR/t+zwVLoM0jtodemFA1/gy10RXwr2NeUaMOuwSJc9ZN0IrWYxcJlJSP36k7w6yROIzAwAP
-rYB9MuMBMNMM01Z/67xdOpDQecF5/i1NvVhBfnj8r/Y+P+lA+mwi+zMMPchwY++wHnflyDPgLnta
-O+Aad0giAy0th81bGZ2HYG+d3QFzYD3zdomTjUkp3ZZLXjdC2IdF2HwwPBCeNxZ616KqRdOluuQi
-EiWuIlzPZ/Jcjie0pq0K6EFjSdSry6dUy+b/SiKGXTAKpN3JeGXGnxdH8dpMirq4L4wk8ki79etN
-3M84d0ehGxhd65iTKIvaf4KcTdLUETXMQ/AWX8tSlzeV7RBIt/J6LXzi2IoEAgzVneF/w58AHaxJ
-/1cCMAxYO5HUwq3N00RWssSsjEg86SRchy2UdVARJoXseIez6N2yJTZXtGGaetMmaMy1pXdw9K5k
-bV4lkNS/PVOjMDBf5o7VdbRduU8MEz5ARTg+3kKhYQxQ21wZWCc/stbR+k9RRhnM66IMFlz6r/fZ
-PENkUEn4GbETZLjxZKx/0EahiwOVxMoXi6N3M2Rnd2aE/tN9ImDrnmVC++u+CryevOZsyrbn2A2b
-Vh6Q5BdptFYzDd/nY6i2v0wcD5G7YB+/CaY0SoneoETWNsDCQ11JOjoVSxVTrsH0Xt2Pnru37tpG
-GxO7W7ilFRx7uo6GHb7/o0ISb3EoYUChSK+eWCTYInDTXeJEgDnra4OSgN93YMf3TXoXpcvc71eR
-UsId7KybyD4wVv5Pt6wAXvGoY3uDjcFzRt1jELy5/WKJX7rCGtfZOhBZlqCNusVYG2qaGEPGnBgS
-jrNEDPg4Uzd8+QkfoQeWZIq5yDMo5esQIOYHA3DXaHKLqR3WO2+g6WW46rhE3u9nYtVQ94M5LY6O
-yWsFvnO1Q9OrN/t9YVUP5gGIRIDO5z/tsCYX8JeTN9ZWJglaY1STB9uDkrWnyO9k6gkeXEqLNcUR
-lV0V7Z1HDYTyruV1dr5A4F4jyEZa+CVZzjdbgJ3R3OgTzchnqz1e+5H7Vwee8JdoM74QcmY0eIze
-JR+c9oFZUTpWrJtSC61zpbz/wmAbSXiVlFDJq+IJics1y404jS5RXDci+abwsO7vGVAEQc5/FWlN
-pN6SPdp6nzFyVvWk+AaGCcwZfq7DSnDTFklno9eLhAwgcNGY/UPkDAexNJ6f6OU02GHes8lbvSl9
-fxlNWmiXvtYyIWp67IbDYRk9oM/P7Jx7ZBeO+pZpxir/QS9fT6ksu+/6jyToqxnRmqfYzLL8RvY6
-CfWvaNRQ9J/C89+tYbZFOzuKy2DTfWUDO1hYHzb8xjnx93h7cfYZna97SuG8OqynkbH/8C/iOF/r
-EuWiONoLCxTRcWYuffRVL5yG7goZNbCaPoGQj/vXn9JYQalIHzIDOAqov1IL758zxl4w264Rm5xj
-bfvFn2KgeK5U7OlJFlsaHF7OuQS5SF9X8oiXFHo8x20w43Zhg/7w5zPyt7jPkBKQiZ3AKZsA/5yG
-541k278+EEMRy60SkrraXfzRUpPzyQV4griV8WfOAa38sas5V7ctjILoSBBZv84YVAlq8mNltA20
-CNHo9ooMBtShbttJBlAbK5HQOaelIGNqGGB+pH1jHvcSiPTPJBzgFNJwZ17uWvdc2jftSZ0e6kmd
-GijMJHeacm+3xcOQNYPeh7sEFbD8d4vTMUxoPV5/Wj8+SidwhJA1ssiDT6W5Mbqq+yCiTQSQeD9C
-qCQJcemPNGJGOIpQEnazqaAC6E4OdcRTHOoBU7rKEUAssKHIcs0S2Q12UotdvZ/mLwyZKM6BDvCU
-NK7ntI+5UqIReuX3hhvAfu0Fav/w8lkHLIiNggI/mCoT/hlQ+lPGTabz3fcF3pvBBy4FQdHQwmIn
-VEuej1KnfRPyMJvvBQRFIjbX49aRSWx1vez20T1uIuEe+4IUid7jx9adYVnmpkRpggBVcd8TVBEg
-1YsMZ48rr8uEVPuq/qCHjXHcPxle1n/AlmEIA6gcLYzG/N/EmVtnl0EyQAgR7DVNlEPZYYLpQzRm
-ysIZrIxsc/teZkmtk8cRVHIjqZZwN8+Mqyf6yxdpjrdJ9keRaVYRzJ87KJe0kpQoiNWQ4Pnxy/GN
-G7w5AZrU1VxbBkGV8JNTxiCiTlYdJihXJQ5DfXUQIdhQ/IS+fB1T3sSd06AorYCh+IY7wEFwc8CA
-D/RNNLxHpOhYYce8r8RkJLjLm6U6NT3keOg80ZhBPw+8qwtLWRHjsFNrMaTjnY9gtJsqW7ytqU0F
-A9RReQZ3ilrAkJ0N5h6ee1F5nrDK5M1BpcUZrTPy2yFKpRX6p9YTc/FDSEYwb9WbelKLefk1l8Cu
-Q6uLPF8E2akXV2ZTYFdx5wwHvdCADP+WZkFqpZe9kBYP7zcGDuLZah7eijfGN2ej3Xr+dDvUbdJ1
-Ub329VB8CY3Gs0C9N2tqMzmVKHeAwhxrfhBDoSoZc+Y2lCm5qGgwNSujCJLXyJBDbgF9VKO8KIva
-HO5KbpWheccxbmDDfT1XB6pM2JQSUteHGrNSYIwje+XW+TNJAs71vbjZUx9pvJyaFG0k2ylLjw2B
-720nv/3xHkgDUqhfGvHdL12P6tNq7bPdCnt9ZWIBZRdihl4iOMSpO7R+dSzcAfyQ0BZDqgsK6sAV
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Exceptions\Custom\File\FileDoesNotBelongToYouException;
+use App\Exceptions\Custom\File\LoginToAccessFileException;
+use App\Http\Requests\File\PdfRequest;
+use App\Models\v1\AssessmentCriteria;
+use App\Models\v1\Asset;
+use App\Models\v1\TenderTechnicalBidEvaluation;
+use App\Traits\User;
+use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Writer\Exception;
+use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
+use Ramsey\Uuid\Uuid;
+use Symfony\Component\HttpFoundation\BinaryFileResponse;
+use Symfony\Component\HttpFoundation\ResponseHeaderBag;
+use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
+use Tymon\JWTAuth\Facades\JWTAuth;
+use Illuminate\Http\Request;
+
+class FileController extends Controller
+{
+    use User;
+
+    /**
+     * @throws Exception
+     */
+    public function xlsx()
+    {
+        $exportFile = storage_path('/report-export-' . Uuid::uuid4() . '.xlsx');
+        @unlink($exportFile);
+
+        $fp = fopen($exportFile, 'wb');
+
+        $headerSummary = [
+            'Description',
+            'Weight'
+        ];
+
+        $data = [];
+
+        $spreadsheet = new Spreadsheet();
+
+        $tbeList = TenderTechnicalBidEvaluation::where('tenderId', '=', 1)->get(['assessmentCriteriaId', 'assessmentCriteriaItem']);
+
+        foreach ($tbeList as $tbe) {
+            $assessmentCriteria = AssessmentCriteria::find($tbe->assessmentCriteriaId);
+
+            $data[] = [
+                $assessmentCriteria->name,
+                $assessmentCriteria->weight,
+            ];
+        }
+
+        $sheetSummary = $spreadsheet->getActiveSheet()->setTitle('TBE');
+        $sheetSummary->fromArray($headerSummary);
+        $sheetSummary->fromArray(
+            $data
+        , '', 'A2');
+
+        $writer = new Xlsx($spreadsheet);
+        $writer->save($exportFile);
+
+        fclose($fp);
+
+        //https://docs.microsoft.com/en-us/previous-versions/office/office-2007-resource-kit/ee309278(v=office.12)?redirectedfrom=MSDN
+        $response = new BinaryFileResponse($exportFile);
+        $response->headers->set('Content-Type', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; charset=UTF-8');
+        $response->setContentDisposition(ResponseHeaderBag::DISPOSITION_ATTACHMENT, 'export.xlsx');
+        $response->deleteFileAfterSend(true);
+
+        return $response;
+
+    }
+
+    /**
+     * @throws FileDoesNotBelongToYouException
+     * @throws LoginToAccessFileException
+     */
+    public function pdf(PdfRequest $pdfRequest)
+    {
+        $assetId = $pdfRequest->get('id');
+
+        $asset = Asset::find($assetId);
+
+        if (!$asset) { throw new NotFoundHttpException('File not found'); }
+
+        $userId = $asset->userId;
+        $loggedInUser = $this->getUser();
+
+        if ($userId !== null && $loggedInUser === null) {
+            throw new LoginToAccessFileException();
+        }
+
+        if ($userId !== null && $loggedInUser && $loggedInUser->id !== $userId && !$loggedInUser->isSuperAdmin()) {
+            throw new FileDoesNotBelongToYouException();
+        }
+
+        return new BinaryFileResponse($asset->rawPathAttachment, 200);
+    }
+
+    public function files(Request $request){
+        $assetId = $request->get('id');
+
+        $asset = Asset::find($assetId);
+
+        if (!$asset) { throw new NotFoundHttpException('File not found'); }
+
+        $userId = $asset->userId;
+        $loggedInUser = $this->getUser();
+
+        if ($userId !== null && $loggedInUser === null) {
+            throw new LoginToAccessFileException();
+        }
+
+        if ($userId !== null && $loggedInUser && $loggedInUser->vendorId !== $asset->vendorId && $loggedInUser->hasRole('vendor')) {
+            throw new FileDoesNotBelongToYouException();
+        }
+
+        return new BinaryFileResponse($asset->rawPathAttachment, 200);
+    }
+}

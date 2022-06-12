@@ -1,35 +1,49 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-pC3fjFmjcR9KUXLe1pkfnZ04lAL8SQPz/r5BfG==
+<?php
+
+namespace App\Http\Middleware\v1;
+
+use App\Traits\HasRouteModel;
+use App\Traits\User;
+use Closure;
+use Symfony\Component\HttpFoundation\Request;
+
+class NotificationMiddleware
+{
+    use HasRouteModel, User;
+
+    /**
+     * Handle an incoming request.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \Closure  $next
+     * @return mixed
+     */
+    public function handle($request, Closure $next)
+    {
+        $user = $this->getUser();
+        // Pre-Middleware Action
+        $method = $request->getMethod();
+        if (
+            $method === Request::METHOD_PUT
+        ) {
+            $request = new \Laravel\Lumen\Http\Request();
+            $request->request->set('isRead', true);
+        }
+
+        if (
+            $method === Request::METHOD_GET
+        ) {
+            $toUserId = null;
+            if ($user) {
+                $toUserId = $user->hasRole('superAdmin') ? 0 : $user->id;
+            }
+            $request->request->set('toUserId', $toUserId);
+        }
+
+        $response = $next($request);
+
+        // Post-Middleware Action
+
+        return $response;
+    }
+}

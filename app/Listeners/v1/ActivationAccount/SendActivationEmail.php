@@ -1,44 +1,95 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-hxnbxeHN4gDO/3/y
+<?php
+
+namespace App\Listeners\v1\ActivationAccount;
+
+use App\Events\v1\ActivationAccount;
+use App\Jobs\v1\SendActivationEmailJob;
+use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Queue\InteractsWithQueue;
+
+class SendActivationEmail implements ShouldQueue
+{
+    use InteractsWithQueue;
+
+    /**
+     * The name of the queue the job should be sent to.
+     *
+     * @var string|null
+     */
+    public $queue = 'listeners';
+
+    /**
+     * The time (seconds) before the job should be processed.
+     *
+     * @var int
+     */
+    public $delay = 60;
+
+    /**
+     * The number of times the queued listener may be attempted.
+     *
+     * @var int
+     */
+    public $tries = 5;
+
+    /**
+     * Create the event listener.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        //
+    }
+
+    /**
+     * Handle the event.
+     *
+     * @param  ActivationAccount  $event
+     * @return void
+     */
+    public function handle(ActivationAccount $event)
+    {
+        //
+    }
+
+    /**
+     * Determine whether the listener should be queued.
+     *
+     * @param ActivationAccount $event
+     * @return bool
+     */
+    public function shouldQueue(ActivationAccount $event)
+    {
+        $vendor = $event->vendor;
+        $requestData = $event->requestData;
+
+        if ($requestData['isActive'] === 1) {
+            dispatch(new SendActivationEmailJob($vendor));
+        }
+
+        return true;
+    }
+
+    /**
+     * Handle a job failure.
+     *
+     * @param  ActivationAccount  $event
+     * @param  \Throwable  $exception
+     * @return void
+     */
+    public function failed(ActivationAccount $event, $exception)
+    {
+        //
+    }
+
+    /**
+     * Determine the time at which the listener should timeout.
+     *
+     * @return \DateTime
+     */
+    public function retryUntil()
+    {
+        return \Carbon\Carbon::now()->addMinutes(5);
+    }
+}

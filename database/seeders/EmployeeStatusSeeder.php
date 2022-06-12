@@ -1,31 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-XyWj/Na2WCobcHb3AnVY+9YbmvSp8G==
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\EmployeeStatus;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class EmployeeStatusSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Employee');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1] ?? 'HARDCODED',
+                'name' => strtoupper($data[2])
+            ];
+        }
+
+        DB::table('employeeStatuses')->insert($dataSeeder);
+    }
+}

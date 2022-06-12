@@ -1,30 +1,25 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-CxkV7zva4NVOYQH4qj+I0g69TwbR
+<?php
+
+namespace App\Traits;
+
+use Carbon\Carbon;
+use Illuminate\Http\UploadedFile;
+
+trait Asset
+{
+    public function move(UploadedFile $uploadedFile)
+    {
+        $auth = auth();
+        $defaultPath = storage_path('app/default');
+
+        if ($user = $auth->user()) {
+            $defaultPath = sprintf('%s/%s/%s', storage_path(), 'app/file', $user->id);
+        }
+
+        $currentTimeStamp = Carbon::now()->timestamp;
+
+        $fileName = sprintf('%d.%s', $currentTimeStamp, $uploadedFile->getClientOriginalExtension());
+
+        return $uploadedFile->move($defaultPath, $fileName)->getRealPath();
+    }
+}

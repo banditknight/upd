@@ -1,36 +1,50 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-yh6G0/SzyVDAGPAXdhkt945W
+<?php
+
+namespace App\Mail\v1;
+
+use App\Models\v1\ResetPasswordToken;
+use App\Models\v1\User;
+use App\Models\v1\Vendor;
+use Illuminate\Bus\Queueable;
+use Illuminate\Mail\Mailable;
+use Illuminate\Queue\SerializesModels;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Str;
+
+class SendActivationEmail extends Mailable
+{
+    use Queueable, SerializesModels;
+
+    /**
+     * @var Vendor
+     */
+    public $vendor;
+
+    /**
+     * Create a new message instance.
+     *
+     * @return void
+     */
+    public function __construct(Vendor $vendor)
+    {
+        $this->vendor = $vendor;
+    }
+
+    /**
+     * Build the message.
+     *
+     * @return $this
+     */
+    public function build()
+    {
+        $randomPassword = Str::random(10);
+
+        $user = User::find($this->vendor->picId);
+        $user->password = $randomPassword;
+        $user->save();
+
+        return $this->view('email.account.active')->with([
+            'password' => $randomPassword
+        ])->subject(__('email.subject_activation'));
+    }
+}

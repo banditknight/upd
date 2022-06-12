@@ -1,112 +1,258 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+
+/**
+ * App\Models\v1\TenderSchedule
+ *
+ * @property int $id
+ * @property int $tenderId
+ * @property int $fromDate
+ * @property int $toDate
+ * @property int $registrationFromDate
+ * @property int $registrationToDate
+ * @property int $preQualificationFromDate
+ * @property int $preQualificationToDate
+ * @property int $downloadDocumentTenderFromDate
+ * @property int $downloadDocumentTenderToDate
+ * @property int $aanwijzingFromDate
+ * @property int $aanwijzingToDate
+ * @property int $tenderFromDate
+ * @property int $tenderToDate
+ * @property int $bidOpeningFromDate
+ * @property int $bidOpeningToDate
+ * @property int $clarificationFromDate
+ * @property int $clarificationToDate
+ * @property int $auctionFromDate
+ * @property int $auctionToDate
+ * @property int $listOfWinnerFromDate
+ * @property int $listOfWinnerToDate
+ * @property int $approvalListOfWinnerFromDate
+ * @property int $approvalListOfWinnerToDate
+ * @property int $objectionFromDate
+ * @property int $objectionToDate
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-write mixed $aanwijzing_from_date
+ * @property-write mixed $aanwijzing_to_date
+ * @property-write mixed $approval_list_of_winner_from_date
+ * @property-write mixed $approval_list_of_winner_to_date
+ * @property-write mixed $auction_from_date
+ * @property-write mixed $auction_to_date
+ * @property-write mixed $bid_opening_from_date
+ * @property-write mixed $bid_opening_to_date
+ * @property-write mixed $clarification_from_date
+ * @property-write mixed $clarification_to_date
+ * @property-write mixed $download_document_tender_from_date
+ * @property-write mixed $download_document_tender_to_date
+ * @property-write mixed $from_date
+ * @property-write mixed $list_of_winner_from_date
+ * @property-write mixed $list_of_winner_to_date
+ * @property-write mixed $objection_from_date
+ * @property-write mixed $objection_to_date
+ * @property-write mixed $pre_qualification_from_date
+ * @property-write mixed $pre_qualification_to_date
+ * @property-write mixed $registration_from_date
+ * @property-write mixed $registration_to_date
+ * @property-write mixed $tender_from_date
+ * @property-write mixed $tender_to_date
+ * @property-write mixed $to_date
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule query()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereAanwijzingFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereAanwijzingToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereApprovalListOfWinnerFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereApprovalListOfWinnerToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereAuctionFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereAuctionToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereBidOpeningFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereBidOpeningToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereClarificationFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereClarificationToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereDownloadDocumentTenderFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereDownloadDocumentTenderToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereListOfWinnerFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereListOfWinnerToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereObjectionFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereObjectionToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule wherePreQualificationFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule wherePreQualificationToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereRegistrationFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereRegistrationToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereTenderFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereTenderId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereTenderToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereToDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderSchedule whereUpdatedAt($value)
+ * @mixin \Eloquent
+ */
+class TenderSchedule extends AbstractModel
+{
+    protected $table = 'tenderSchedules';
+
+    protected $fillable = [
+        'tenderId',
+
+        'fromDate',
+        'toDate',
+
+        'registrationFromDate',
+        'registrationToDate',
+
+        'preQualificationFromDate',
+        'preQualificationToDate',
+
+        'downloadDocumentTenderFromDate',
+        'downloadDocumentTenderToDate',
+
+        'aanwijzingFromDate',
+        'aanwijzingToDate',
+
+        'tenderFromDate',
+        'tenderToDate',
+
+        'bidOpeningFromDate',
+        'bidOpeningToDate',
+
+        'clarificationFromDate',
+        'clarificationToDate',
+
+        'auctionFromDate',
+        'auctionToDate',
+
+        'listOfWinnerFromDate',
+        'listOfWinnerToDate',
+
+        'approvalListOfWinnerFromDate',
+        'approvalListOfWinnerToDate',
+
+        'objectionFromDate',
+        'objectionToDate',
+    ];
+
+    public function setFromDateAttribute($value)
+    {
+        $this->attributes['fromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setToDateAttribute($value)
+    {
+        $this->attributes['toDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setRegistrationFromDateAttribute($value)
+    {
+        $this->attributes['registrationFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setRegistrationToDateAttribute($value)
+    {
+        $this->attributes['registrationToDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setPreQualificationFromDateAttribute($value)
+    {
+        $this->attributes['preQualificationFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setPreQualificationToDateAttribute($value)
+    {
+        $this->attributes['preQualificationToDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setDownloadDocumentTenderFromDateAttribute($value)
+    {
+        $this->attributes['downloadDocumentTenderFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setDownloadDocumentTenderToDateAttribute($value)
+    {
+        $this->attributes['downloadDocumentTenderToDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setAanwijzingFromDateAttribute($value)
+    {
+        $this->attributes['aanwijzingFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setAanwijzingToDateAttribute($value)
+    {
+        $this->attributes['aanwijzingToDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setTenderFromDateAttribute($value)
+    {
+        $this->attributes['tenderFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setTenderToDateAttribute($value)
+    {
+        $this->attributes['tenderToDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setBidOpeningFromDateAttribute($value)
+    {
+        $this->attributes['bidOpeningFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setBidOpeningToDateAttribute($value)
+    {
+        $this->attributes['bidOpeningToDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setClarificationFromDateAttribute($value)
+    {
+        $this->attributes['clarificationFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setClarificationToDateAttribute($value)
+    {
+        $this->attributes['clarificationToDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setAuctionFromDateAttribute($value)
+    {
+        $this->attributes['auctionFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setAuctionToDateAttribute($value)
+    {
+        $this->attributes['auctionToDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setListOfWinnerFromDateAttribute($value)
+    {
+        $this->attributes['listOfWinnerFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setListOfWinnerToDateAttribute($value)
+    {
+        $this->attributes['listOfWinnerToDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setApprovalListOfWinnerFromDateAttribute($value)
+    {
+        $this->attributes['approvalListOfWinnerFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setApprovalListOfWinnerToDateAttribute($value)
+    {
+        $this->attributes['approvalListOfWinnerToDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setObjectionFromDateAttribute($value)
+    {
+        $this->attributes['objectionFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setObjectionToDateAttribute($value)
+    {
+        $this->attributes['objectionToDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+}

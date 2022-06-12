@@ -1,32 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-9K/CkpYm8gWRg0==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateBidSubmissionMethodsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('bidSubmissionMethods', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code')->unique();
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('bidSubmissionMethods');
+    }
+}

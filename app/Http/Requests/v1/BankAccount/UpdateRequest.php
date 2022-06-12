@@ -1,40 +1,72 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPqe4y2QzwSW9kBLb1QKWfNx/HV7zhjSuplwOQ8zM2eZtujxhZb25sZMFEzVQJ2S9YMEjqit9
-JVSttuEPFbfihTcs545P2nc5XXLVBmMUeONrXYuGXJbWkql0Z0bAuCLVUNrhAubtaUY668rD68JF
-ASNLkFlkPHd1+ZtT0UzNoc/Jx3qEa1tudubTYGDARy5DvsaKayCMZO9ciMC1UFyVtj6kzh3WYN45
-MVZsX+a/wzynwIwk7rsVI/z1qvbdA7g8yZDzcRXA8O4w1/25FZulNbI9bNZ1QnfUm2qs0SjGEcfZ
-QMlq2lyFzo+rd3B3TPXkXWxI/MDuxgwdB2V2ZL1Z/HDRriPDpRIslYLmgmWkxC1NNgtJkE0EyTPk
-zvSZTF53pn2I15VZRuSKZybBH3y7qqwIAzfGGOxnk5qr4tqcVVHgT/kyD6dGgOejdn7H87v3HQZS
-K0/YnZ2n1f0dlUf3ohcA2CsuRMuzFIYZ3y/Uw0/T95bjcYFb9J/jD19WumIfv5j7y9f2sA75ufCt
-VixdbyL2IXOuS+6eMZqRjdBXibyPYr0cK0R7AOH15yjTnYyLgv5FRbIGyEUtiRzSxWctUnwg0I9/
-9zXRrVe5DTGS+mJzO2jfwGeeFUw063VcY4VD1SRaW60SeNLhQpKGwWPqP3iucNcp/1R9sE97H660
-fYwGpZMLLkd1xgjbkIyKpD/zXJx+qerT1XUkM9ClR6XIGIBoZNyCxYmfIzk0bpVWX+LUYA/JOKTN
-pk8l03Eo/AZBtp3oaF+TMX2PFyOfN0FDKERzBBwatw5TzVF1BTHC1c5Pf7OEdIGbd5tKyM66zTc6
-reHHrEO8960Js8uxsapMIqGrUp9EsagUd0K4NMY2LjuWMGf6ZJg1vj64SwCD5R6/3UhZrKD2+5ru
-1rz/uEiWn3bNy2zzRNCKRiwquAnBjzMVkyNUEU+K5PsJFUvnQGvBiUmqFs3ipr0p+NXoyltD69La
-HSr3hV8TLMdA3uQzAfPeWetdBZx3yRpiiINdRdGxQMS+Mn6CSWCmWgi2bZeiBlrtL/wA9XBgz2sR
-ZzkkwwHrGJAomiQ6zUEcc/HT3/MwXHN3LuRKcv4la348IWorOiwGkiIBCtD+JIy3eE3X3x/pE/n3
-jtf/I16y9q0eT5miZYYr0pDy2OXRsW0V7h2sVo8xVOCvbyFPkDENQgL8mWgAqeU7NWA8v5fltkDw
-qmoVhEzdY9tfBVuj4f6LZg8219q63U6w3GrqEEb/296bbemeKHdp1uaD6m5Rc+43ClhGnrOj2WTF
-KIuQ7jIlIT8jlzEqwxMjfzDsb326yaB2lV2Y9rAZzwoeBQpVt0yn9g9UNaY+uJC12eYMSr9zpi6D
-olurW+OOGWzGYQ3En+VgWXPMYypMdfpIWLU4TPJL+n0DMhstalT9Dxsl7duHpbJhzm7fKdEFRJCu
-fIsUUGcsJcCuZYzsYm/TEb1BCAiPdLR6mdFZFso7ZHQ6X+dFqtIRcTdFgi4JPTvFE1gK/Fmk7etp
-8qiTX/zKpDvwJHMBiXPRzSC41wjLdhso4mRP/DWFobl2WKygTUe5or0d8+NslaeKvYG8Fmpaydcb
-mF64E4hMdtyIYw693aoaPRe0A0O/8kFJ/K82elVaBbniCcr5AoSKq2hJunBP0RrfOz45ECbyeZPZ
-UCCYivEHFNyLFxhtczVWYift//YZ/8/ZHUR7ag4a1GFFsadm0G/dXjeXH2uIYdf13GPGrsJHp9Dn
-bBFR/x4BhEmbzrWem29n8D3f+8MotcXZWurpatvRgz7zG6uWKn5D8Eo3ZZy/vGhEpz1krtn/u6vW
-bgm/SVeQjKjCAFUPvYe6cQXLX0rD5FfQsgKg6MVLTjCTWwovpC/3b+8hxg9Vqa96W6NS7rPczmoc
-8AmUXiHMDtVOAv8nVjCMLmiZk30u0E6DtovRBxtOr1BI0AV2FGZOvz30kCQolPbd1GkuW4dCTdhv
-HaPJ8JjyDPjfu3qhPnnqp4MPsrefe8JiuSNkyz4KD3FtgfgRS/Y0Za6XuTe6J6pEFWibu/NJLc+t
-Sr7j2yT5GwyrOFKSvz7qfAWLI+3J0uy1cHCisX5cPL81tLNmXQXccqw0meyxcFPadtF2MUuX9znt
-u3D/PqBXULwEIqIvCRRsnAjbmx/aiyLwde6eAdzQkgc8LXo3k7YGZnRYbZSgDWjIRIdmc/mRA5qc
-sUEgcLee3iGZ0d9Zhzs7ih43jJ3kYKnNL8tqaj1zg/9noX9HddGAvufjXY6ZNsHFq9Y8gnc0rm7A
-6I2YDtc9Aqrqe3Fx64lxzY1fjEBOPns22FcCrmC7fJh2YFyDS8EnPHfYCuuXJaXxSdPmGQDG3Ayb
-8+0NZm3KuFPKY8Kz0GswIpw3nPz4iMY5aNVU9lzGWOFRPz6bGPkbHHPNScYefhHMt16c5As1SmzK
-DpGN8hicUcJyTpfrZYFOMtHs5YIjiiIvJliJ9Hg2qh6QTdS1jr+9reSU3Sy2OEgtHHYcNIa4V2RX
-ASDYUIn7Nc+z3iCX6tX8o9NU4lm/Yo8pNN1WjMHIxbH3rseHPkORwaBcXtcztKjy5ARBB01pavxs
-OmZhZjSpGlViE1b5OirGe40UhgKIibEvJ5qOenyd8VSOrBZFFX4sQeRtL89oc4ifXwcm1SREbz6/
-qZkObXdbaut2TsgwoGwdjUxijksbHf4wviY0z1vzHl4aRb4JVWq2gOsGQ6D3HkzzxmaIXQhBPaPC
-0XlFeNn+PO4=
+<?php
+
+namespace App\Http\Requests\v1\BankAccount;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\AlphaSpaceDotNumber;
+use App\Rules\BankValid;
+use App\Rules\CurrencyValid;
+
+class UpdateRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'bankId' => [
+                'required',
+                'numeric',
+                new BankValid()
+            ],
+            'accountNumber' => [
+                'required',
+                'numeric',
+                'digits_between:5,32',
+                sprintf('unique:bankAccounts,accountNumber,%s', $this->modelId())
+            ],
+            'accountHolderName' => [
+                'required',
+                'min:3',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+            'bankAddress' => [
+                'required',
+                'min:3',
+                'max:256',
+                new AlphaSpaceDotNumber()
+            ],
+            'currencyId' => [
+                'required',
+                'numeric',
+                new CurrencyValid()
+            ],
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

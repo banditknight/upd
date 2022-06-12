@@ -1,30 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class SanctionTypeSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'SanctionTypes');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[0],
+                'name' => $data[1],
+                'description' => $data[2],
+                'score' => $data[3],
+            ];
+        }
+
+        DB::table('sanctionTypes')->insert($dataSeeder);
+    }
+}

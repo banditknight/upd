@@ -1,30 +1,36 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP/2Eq5G9QYcRr3X5To5BgCgflPOwInYSME4KzOWWa2cu+CY56aFs2Eaasij1yxdEGkiVyJO2
-6MZmZRC5dSKB5wVckDky8wHhXUnZ+Q2uMNNStzYnmMonyrAPaNEpuHaN4cIrSCRGNt3Ja2xHFS4j
-yuk5NOfW7kDd9SBnRQz9V3d18M8BxhPTt0vZaLtnp8Pf/uoQ2WSojFd40uhzMmoaoV6I1m9JoDR4
-R4u+5e84hvyKVvmvPhXRNYzvCZL6EfcWibkjXjEuIY61EWVmXJu+BrvKYPLupcadYF1gUdXFYM5X
-ixktE2J/VCG9B1jH9FyVl82PYHIsEluIUPbtv1jtvgEAAEK+ySq52lNwfzX+mtlJE2TCuNbIivM7
-XZeIXpPhLhERXrCGwSDMsK4rNBXWxhejJa9q2teLayfskjdVDtBi3n2Fsoksm3MZHnC68PlHe5/T
-BIRBa7sCe6J7b2xYH7+J2ltphCOrxT4vVnKIqO1jU6sNycUs/8uIf1z+4zTDTc/9IxLm1cmadrqd
-wT3Z+q2FiOOp/Lz1+/bFeSGx+SyZvotz/IXE0PSHN6zAQWai4vt9p/FtX51ScDd8xeHnxo3GEOwt
-NgmNCHFIcOYk521Mg9g3IYeXdh4i/ifSolVJ9xJLvHJpQl+Ics3I9gqriyIMPu5K/fG5KwIG4AGZ
-49G/mzhPpeSGg7zu4QOMOr8IIy8uAThH3pI1VP2Jlit0n48+ck+ImAqM8as9W+quBRT2qcrq468B
-lsadAjaPHiGCakfsdY3+lLt6ywwuRFk29Vb+2dN4R35JP6Z/RdhXbTZp1xvyZalzKpRHgJHeT5ho
-7sk6l+jc82WTaeMte63RbS0KrpsQ0AM+pH7SJk/HbGBSEPUrU1fS4rOPFRHheq7gGlOmaNYBa/1G
-vh00Z9ZpgwlFneCsPPEG/i1O17iMbPgS1gu/AeV+YaRJCdiDxLWUjG37fs6l4a2UgZaTcPUPXbV/
-icWuVHLY/wQ5F/xdE58jT7sV+Py5S83ey3uOhdUOr4qgVrLjSqfO/so+817SAdtTpwhpzLAkL5n5
-qvgtz0fvN6mqBqejS9cpRthh0hElXyf+31rrWUNh3vQUpVdrcx0FwSsAMaNcdWDmZXBLpSqhG7Iq
-BveXZlwvVYF4m2tlcV6WRBcX17K+/BcDz3udjKZrv2kMLESA8PTXq25durtTtlNb9vE5qzxc/qBR
-P/jpice7yG4Tjj1AWulc8aOfW+cbfneh8+kN+LFgF/uSFWlu1MidjSVslBuDHqKIqyfglIEoRs/p
-H+2ouO82ASLfm0yMYy4emTUTVE5FizwajyPr8+RMB4OX4KS8D8KZQK3Tms27XGtsrWgxHzuimbQh
-eMfjl22PuXElPyb+vP8Q4kRfv0dpoQ0wOZhx+dk9WKRT42qEohl3Z37e3le/5Hy1gZWgdi3ZrebW
-MaRf95/aBaHwdLN+SAdT7vF0eGgiTXviLQg7CuvqRL+uxCJBUZxruhJvCLRRUZlnI8jnxpKduoNb
-deV5zgrxSI7eLsxq8ro0lGHlMduGhHJgQoEP8CTLI/c8Na3csm/4ejz4Ky4lwNUSSlnlCE+EgMcz
-OMB6gmucZmW3810rVaugz2ac4RIGDWhmFxW6jEn9gjGif543DR2DPKhZZunDfCnl/XsHalnlVezJ
-tdaxRJAtq2C5Y/m4HmpZMZ+BsOozWp4qcy97QKeBpDeQC5iIwrx9gwNpk/PmCqczl67vq9uBZ/h1
-TqDSbLru2fMe22vhHV7Wt5z8nqfq0eehAxG9XF4ALUQj9RQv9++VHwAv3FX5xO0SbZBSc4kQaTN4
-15dbdnxg9fFG1iHiPX0hZCpN9LiYrpZyoFqWQ5e5d+HLBl2wd6SXm7d1mQoZRw1yKW6KLLb+gtdh
-XVsA/0u+LI7IONnVuNqnm26n3nBX+0VEh8RjKrYCybp54+a5nfhZGhHCGzIPZ/9prJgvSGCAgx/7
-hMCUblmER9JmbO+vEtw6sW==
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use App\Traits\ExcelReader;
+use Illuminate\Support\Facades\DB;
+
+class RoleMenuSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'RoleMenu');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+            $dataSeeder[] = [
+                'roleId' => $data[0],
+                'menuId' => $data[1],
+                'isReadOnly' => $data[2],
+            ];
+        }
+
+        DB::table('roleMenus')->insert($dataSeeder);
+    }
+}

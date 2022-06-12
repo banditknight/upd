@@ -1,31 +1,32 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Controllers\App\v1;
+
+use App\Http\Requests\ResourceRequest;
+use App\Repositories\ResourceRepository;
+use App\Criteria\TenderOpenedCriteria;
+use App\Criteria\OnGoingTenderCriteria;
+use Illuminate\Http\JsonResponse;
+
+class TenderVendorController extends AbstractController
+{
+    public $repo;
+
+    public function index(ResourceRequest $resourceRequest): JsonResponse
+    {
+        $index = $this->repo->pushCriteria(new TenderOpenedCriteria())->paginate($resourceRequest->get('limit', 0));
+        // $index = $this->repo->pushCriteria(new TenderOpenedCriteria())
+        //     ->pushCriteria(new OnGoingTenderCriteria())
+        //     ->orderBy('id','desc')->all();
+
+        return $this->responseSuccess($index);
+    }
+
+    public function show(int $id): JsonResponse
+    {
+        $show = $this->repo->find($id);
+
+        return $this->responseSuccess($show);
+    }
+
+}

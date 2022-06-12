@@ -1,52 +1,57 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateRequestForQuotationsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('requestForQuotations', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('number');
+            $table->string('name');
+
+            $table->text('deliveryLocation');
+            $table->bigInteger('incotermId');
+
+            $table->bigInteger('purchasingGroupId');
+            $table->bigInteger('purchasingOrganizationId');
+
+            $table->string('lingkupPekerjaan')->nullable();
+            $table->bigInteger('scopeOfWorkId')->nullable();
+
+            $table->bigInteger('approvalDate')->nullable();
+            $table->bigInteger('dateRequired')->nullable();
+
+            $table->bigInteger('sectorId')->nullable();
+
+            $table->text('noteForVendor')->nullable();
+            $table->string('marking')->nullable();
+
+            $table->bigInteger('projectId')->nullable();
+
+            $table->integer('docStatusId')->default(1);
+            $table->bigInteger('buyerId');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('requestForQuotations');
+    }
+}

@@ -1,31 +1,64 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\Sanction
+ *
+ * @property int $id
+ * @property int $vendorId
+ * @property int $sanctionTypeId
+ * @property string $description
+ * @property int $issuedDate
+ * @property int $expiredDate
+ * @property int $actionId
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-read mixed $action
+ * @property-read mixed $sanction_type
+ * @method static \Database\Factories\v1\SanctionFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction whereActionId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction whereDescription($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction whereExpiredDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction whereIssuedDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction whereSanctionTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Sanction whereVendorId($value)
+ * @mixin \Eloquent
+ */
+class Sanction extends AbstractModel
+{
+    use HasFactory;
+
+    protected $hidden = [
+        'vendorId',
+        'actionId',
+        'sanctionTypeId',
+        'created_at',
+        'updated_at'
+    ];
+
+    protected $appends = [
+        'action',
+        'sanctionType',
+    ];
+
+    public function getActionAttribute()
+    {
+
+    }
+
+    public function getSanctionTypeAttribute()
+    {
+        return SanctionType::find($this->sanctionTypeId, [
+            'code', 'name', 'description', 'score'
+        ]);
+    }
+}

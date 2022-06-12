@@ -1,33 +1,36 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ryNSFW==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateCountriesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('countries', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code')->unique();
+            $table->string('name');
+            $table->bigInteger('currencyId');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('countries');
+    }
+}

@@ -1,35 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-R0tCKb/Jc0OoJxQKMBpDLiU+vGDwZW==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateConfigsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('configs', function (Blueprint $table) {
+            $table->id();
+            $table->string('name')->unique();
+            $table->string('value');
+            $table->string('description')->nullable();
+            $table->boolean('isactive')->default(true);
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('configs');
+    }
+}

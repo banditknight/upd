@@ -1,40 +1,49 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP/P18EbXefZEVF2rofBxkD23RCVlrqpx2Eq6Ek1+90nD+OKCH4ZOw4N0H4gBcBfotSXOglzy
-IzER7jYa3gIVx3fmoAGn87tep44t7XI9xFIMBjlsJeg0EJYeeEA03YtJDeGOReWGvzA/yXi03lV7
-SYX4db49Sj9WBHa3p/hWyRMJoBZsqYDwBcY3V2dmEGs37fXSoiWic8i+SyzyBHqPq97ey4A4Aole
-a2icSAX28XLpgvAHOTCYPIM1583/6eYLLnFwmkUuIY61EWVmXJu+BrvKYPLugMclQYAl6X9e4x3Z
-i/imC7uq8jAimC9fP+eGEs2eCOuxeeqYkcAKI+lnkU0RijkvETi8ouNHEnAdPUFm9uT86uCFPjMs
-a9ueY2XA47xYvLA5uZgoOkD+BGkzdlEA0W45c7qiIKQ16L12g6XWBnYpVivKf2NiYbxpPFiBN96q
-Ng5rQL1hQ+6KQBrrgWWrS669DEcs3Y9Ls6Wrai2eb4zBs0L/NmGucGt6g0+va1m667CnnLvf95/9
-PUSCGBm8ej8pU6Uc+kaJ2eRyBbPX+tSf8QSOVIYJjgorQpueAH/JkRX7ZaBUozhbYFB/JyI4PD30
-7Q5nV7NxklQd46PZH4GzIQY41jo0PtjIpRZP59xe2zZun4mjOuZM7Hn53uU2bH3Oo0B/+ySLiWe5
-G7bzejxxDTBe/Jf4N2/uLEcwFZz5oSrBv9Bx8oYC7UnarfQWwy4OUbskbhgYW9OAfRMSKml/nEu8
-iNCASds0rZvwvvi1Jcm8sevsdQUpLDtBE2rXHPiwzH/kqJlWPe8fatiiDFXrYq2KnxZMSbWmCgC7
-LaPuItObhChKtTA95KHWQZBMdO0Jdt0Vx9dE9EIqxku0eUlaNKPr6J9DtkNnDWzDZDHTvgPPcSxP
-7+kT+BgQHV93LrLlXwy/qb+awVwufYnc+gXyXRe7mk7M7cmvD7gbgdyFOGJ/wvRFdHieB3rQdJMI
-LDHVbUef99OraFif9Q+OzcbAS1Z8RV/IWEl2grgX8Mf0MxdYqPB6xMP/0SKoTMxIE9GfmPglARpM
-2Wy7wskRJCpV02Lhf4vsEL61ySe4Jkyp7CpKlTc6cPo7B2hSARGquDBntLpUXrlWYxYLbvV49CrR
-Zz6g60RJKqeKw6JuaB9JNN+EYdrZnjKOIg1VjlWBeZZM1GOIy7g8AzVKAcff7a+jbZ2bZdQqqrMW
-ykC6afQ7bG40+DoSP5dNQ/E5HynC9VFKgEBKqq9Y5MX+0uhmH+g511SbyIe7pV7djwe8LFImepx6
-4gfXtIFJ4zS5Q+rB+Ec6wUpTjlKvbUcf9ES5yjuxhWrPM2qjvSS+x2OD7Z/P5myal9zyJHlWgpGW
-iKPzIUgRQ/cQdAFrgHu6Lu4J8Guvt9hYNeE9BHbSSTL02L+iwCAabk9V0FQEqCIRHq28ReHTNISz
-T/f44YTKjLMPZDPTa6JTd9GDiJwdABzGEjqP2EsYu1bu3E01gxgHMW9zZzKnoeUflIS67VvFKU8n
-rLbjfRg+xNh6w88kyRs7qKsO9aksTWCwqAuTOIJwTgdBQZ6tsNSnsq2nY3wqEah8acqK5691lqsh
-19JhxMFEMG1+mZ6nK99bTK2clNIzaY+irbMbhUOaZu31gM1cMNy3dfUdfy1PyxkRhEvZgV8sdxB4
-UtjhBgEIk2DXYDYo/eXvrGzvVZ6DlNE5477/PBUg578c0w9INkDUXCI4b/ps1J1cSRQEkn7tlb8H
-yqa7lMNVvOjKGjROdA45RoETQrB/6mIAOgrssSm2O8TGtHw8VkkrmyZI11lkO0Q/m0HGYJrao50W
-NKHeEEkit3ebxsz3fuldP0tCKBJ1ORhOjkH2EO84TIoF6UTkbNs4ir9VMlg0Z+9unPPMWxyzQrxx
-mGwJXXWAq9O7gcXWLAGnxw+jcvm2lqDXBBQMj0wXia3u95avEd02RBmMtrtHZDO7uXd7asndElHa
-JVhUobL3/wDp1xC8fK58S6QhZriXXcq7t/h/f65ZCul5GrZ3jEOHSZ2AIoedLCasRH556BCLIOYr
-cqoZHbn7cSeeusdUmWpOkYsegSu3KF2cb0CCOPZIQP9e68RgWy5/40QLPjkQhNGT62wFiYv73jjO
-mdqd1YK3div8bnCQhwYzsjm75iMvOoblahguikXX1BDrpxjrGgH1cMaq2hu3Y9euMlLcHQ8eJa5B
-2kOVloAZo87YkSCDULM74pytsbDLYJKeIvp3aqPFIp0d047o34C39pclQY1vRb6H/Nt4PNv/Dgdo
-XtsFxju5h//jUGyNhATrc/4Gpdu2Zt94cY9qWBaMZCEZgPnqtwlP2IPC3uZ5Sogkceu4D+oiWKgR
-69ppbzxkzr31HzSu6k8ZAXF7ICTQayLydWJpw9SHtyKuuNPWYtnoH+293pLXcXXuDxNDnSx+mHw/
-4uA/HNfqW3zWHuseIFzGZh9i1aXUvBYNAaYXYtGCrlUaDcwzX3L46MDRofSNBDL6K2ycThwM5d3v
-PskGfvnomH+6jgpyqI0M0BVliU8cAdJK3fbyMERjPqt+dgmToeV73Dak6Id5+AXRZ9dVqOfogYUO
-3FOIa4hdWe74/fWwZjdt1MQcZFZHtIBmT1gbQGJNquo94Mwke4VGhdaSuL2WBU2QQB1RlrmmQoXL
-LQGtgY1skSHc1lO0Ob7NTaK7Ht1tequuNtwACBZdEvX431tARKNpjlKWiL59p2MunNI9hDsyl6Ec
-wTqKJrLggYeY5KxKLn63e3baEQrPmUevlDBkFSK6Xwj1w8GXxOzeoLhU2xtZcZhR
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateTenderItemsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('tenderItems', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('tenderId');
+
+            $table->unsignedBigInteger('purchaseRequestItemId')->nullable();
+
+            $table->bigInteger('productCodeId');
+            $table->bigInteger('productGroupCodeId');
+
+            $table->text('description')->nullable();
+
+            $table->bigInteger('quantity');
+
+            $table->bigInteger('unitOfMeasureId');
+
+            $table->bigInteger('currencyId');
+
+            $table->bigInteger('value');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('tenderItems');
+    }
+}

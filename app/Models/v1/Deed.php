@@ -1,39 +1,74 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-1XPaRv3rZBI3WHm9Xbl4oxiPnx2zlMJETm==
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+
+/**
+ * App\Models\v1\Deed
+ *
+ * @property int $id
+ * @property int $userId
+ * @property int $vendorId
+ * @property int $deedTypeId
+ * @property string $number
+ * @property int $issuedDate
+ * @property string $notaryFullName
+ * @property string $ackLetterNumber
+ * @property int $ackLetterDate
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-write mixed $ack_letter_date
+ * @property-write mixed $issued_date
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed whereAckLetterDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed whereAckLetterNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed whereDeedTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed whereIssuedDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed whereNotaryFullName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed whereNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Deed whereVendorId($value)
+ * @mixin \Eloquent
+ */
+class Deed extends AbstractModel
+{
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'deedTypeId',
+        'number',
+        'issuedDate',
+        'notaryFullName',
+        'ackLetterNumber',
+        'ackLetterDate',
+    ];
+
+    protected $appends = [
+        'deedType'
+    ];
+
+    protected $hidden = [
+        'deedTypeId'
+    ];
+
+    public function setIssuedDateAttribute($value)
+    {
+        $this->attributes['issuedDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setAckLetterDateAttribute($value)
+    {
+        $this->attributes['ackLetterDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function getDeedTypeAttribute($value)
+    {
+        return DeedType::find($this->deedTypeId);
+    }
+}

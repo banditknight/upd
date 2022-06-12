@@ -1,30 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-kXrqHXq=
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\Bank;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Str;
+
+class BankSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Bank');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $code = $data[0];
+            $name = $data[1];
+
+            $dataSeeder[] = [
+                'code' => $code,
+                'name' => $name
+            ];
+        }
+
+        DB::table('banks')->insert($dataSeeder);
+    }
+}

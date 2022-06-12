@@ -1,30 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateNationalitiesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('nationalities', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code');
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('nationalities');
+    }
+}

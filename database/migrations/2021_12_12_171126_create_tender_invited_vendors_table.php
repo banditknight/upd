@@ -1,39 +1,36 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-/HRw61Dm0vgrvhRGKKwGz9wfzdkEd0==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateTenderInvitedVendorsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('tenderInvitedVendors', function (Blueprint $table) {
+            $table->id();
+            $table->unsignedBigInteger('tenderId');
+            $table->foreign('tenderId')->references('id')->on('tenders');
+            $table->unsignedBigInteger('invitedVendorId');
+            $table->foreign('invitedVendorId')->references('id')->on('vendors');
+            $table->string('description')->nullable();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('tenderInvitedVendors');
+    }
+}

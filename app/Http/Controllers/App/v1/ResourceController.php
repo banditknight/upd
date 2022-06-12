@@ -1,62 +1,95 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ZXoLK2eDqNRWulpiYZq8S5k1bUCpnNHGjMyNEX0=
+<?php
+
+namespace App\Http\Controllers\App\v1;
+
+use App\Exceptions\Custom\Repository\RepositoryException;
+use App\Http\Requests\ResourceRequest;
+use App\Repositories\ResourceRepository;
+use Illuminate\Http\JsonResponse;
+use Prettus\Validator\Exceptions\ValidatorException;
+use Symfony\Component\HttpFoundation\Response;
+
+class ResourceController extends AbstractController
+{
+    /** @var ResourceRepository */
+    public $repo;
+
+    /**
+     * Display a listing of the resource.
+     *
+     * @param ResourceRequest $resourceRequest
+     * @return JsonResponse
+     * @throws RepositoryException
+     */
+    public function index(ResourceRequest $resourceRequest): JsonResponse
+    {
+        $index = $this->repo->paginate($resourceRequest->get('limit', 0));
+
+        return $this->responseSuccess($index);
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param ResourceRequest $resourceRequest
+     * @return JsonResponse
+     */
+    public function store(ResourceRequest $resourceRequest): JsonResponse
+    {
+        $store = [];
+        try {
+            $store = $this->repo->create($resourceRequest->all());
+        } catch (RepositoryException | ValidatorException $e) {
+
+        }
+
+        return $this->responseSuccess($store, Response::HTTP_OK, __('status.status_created'));
+    }
+
+    /**
+     * Display the specified resource.
+     *
+     * @param int $id
+     * @return JsonResponse
+     * @throws RepositoryException
+     */
+    public function show(int $id): JsonResponse
+    {
+        $show = $this->repo->find($id);
+
+        return $this->responseSuccess($show);
+    }
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param ResourceRequest $resourceRequest
+     * @param int $id
+     * @return JsonResponse
+     */
+    public function update(ResourceRequest $resourceRequest, int $id): JsonResponse
+    {
+        $update = [];
+        try {
+            $update = $this->repo->update($resourceRequest->all(), $id);
+        } catch (RepositoryException | ValidatorException $e) {
+
+        }
+
+        return $this->responseSuccess($update, Response::HTTP_OK, __('status.status_updated'));
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param int $id
+     * @return JsonResponse
+     * @throws RepositoryException
+     */
+    public function destroy(int $id): JsonResponse
+    {
+        $destroy = $this->repo->delete($id);
+
+        return $this->responseSuccess([], Response::HTTP_OK, __('status.status_deleted'));
+    }
+}

@@ -1,38 +1,118 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-NPOO79jS348og7LH9ji=
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Mailer
+    |--------------------------------------------------------------------------
+    |
+    | This option controls the default mailer that is used to send any email
+    | messages sent by your application. Alternative mailers may be setup
+    | and used as needed; however, this mailer will be used by default.
+    |
+    */
+
+    'default' => env('MAIL_MAILER', 'smtp'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Mailer Configurations
+    |--------------------------------------------------------------------------
+    |
+    | Here you may configure all of the mailers used by your application plus
+    | their respective settings. Several examples have been configured for
+    | you and you are free to add your own as your application requires.
+    |
+    | Laravel supports a variety of mail "transport" drivers to be used while
+    | sending an e-mail. You will specify which one you are using for your
+    | mailers below. You are free to add additional mailers as required.
+    |
+    | Supported: "smtp", "sendmail", "mailgun", "ses",
+    |            "postmark", "log", "array"
+    |
+    */
+
+    'mailers' => [
+        'smtp' => [
+            'transport' => 'smtp',
+            'host' => env('MAIL_HOST', 'smtp.mailgun.org'),
+            'port' => env('MAIL_PORT', 587),
+            'encryption' => env('MAIL_ENCRYPTION', 'tls'),
+            'username' => env('MAIL_USERNAME'),
+            'password' => env('MAIL_PASSWORD'),
+            'timeout' => null,
+            'auth_mode' => null,
+        ],
+
+        'ses' => [
+            'transport' => 'ses',
+        ],
+
+        'mailgun' => [
+            'transport' => 'mailgun',
+        ],
+
+        'postmark' => [
+            'transport' => 'postmark',
+        ],
+
+        'sendmail' => [
+            'transport' => 'sendmail',
+            'path' => '/usr/sbin/sendmail -bs',
+        ],
+
+        'log' => [
+            'transport' => 'log',
+            'channel' => env('MAIL_LOG_CHANNEL'),
+        ],
+
+        'array' => [
+            'transport' => 'array',
+        ],
+
+        'failover' => [
+            'transport' => 'failover',
+            'mailers' => [
+                'smtp',
+                'log',
+            ],
+        ],
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Global "From" Address
+    |--------------------------------------------------------------------------
+    |
+    | You may wish for all e-mails sent by your application to be sent from
+    | the same address. Here, you may specify a name and address that is
+    | used globally for all e-mails that are sent by your application.
+    |
+    */
+
+    'from' => [
+        'address' => env('MAIL_FROM_ADDRESS', 'hello@example.com'),
+        'name' => env('MAIL_FROM_NAME', 'Example'),
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Markdown Mail Settings
+    |--------------------------------------------------------------------------
+    |
+    | If you are using Markdown based email rendering, you may configure your
+    | theme and component paths here, allowing you to customize the design
+    | of the emails. Or, you may simply stick with the Laravel defaults!
+    |
+    */
+
+    'markdown' => [
+        'theme' => 'default',
+
+        'paths' => [
+            resource_path('views/vendor/mail'),
+        ],
+    ],
+
+];

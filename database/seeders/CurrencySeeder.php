@@ -1,30 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-BMIXD7RlXG==
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\Currency;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class CurrencySeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Currency');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1],
+                'name' => $data[2],
+                'symbol' => $data[3],
+            ];
+        }
+
+        DB::table('currencies')->insert($dataSeeder);
+    }
+}

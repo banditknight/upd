@@ -1,42 +1,31 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-9jNtuLNAXig4SbJL6WBfRPPwjg/7aiS=
+<?php
+
+namespace Database\Factories\v1;
+
+use App\Models\v1\Tender;
+use Illuminate\Database\Eloquent\Factories\Factory;
+
+class TenderFactory extends Factory
+{
+    protected $model = Tender::class;
+
+    public function definition(): array
+    {
+    	return [
+            'number' => $this->faker->creditCardNumber,
+            'name' => $this->faker->name,
+            'purchasingOrganizationId' => 1,
+            'scopeOfWorkId' => 1,
+            'tenderTypeId' => 1,
+            'tenderDetailId' => 1,
+            'bidSubmissionMethodId' => 1,
+            'fromDate' => \Carbon\Carbon::now()->addDays(20)->format('d-m-Y'),
+            'toDate' => \Carbon\Carbon::now()->addDays(27)->format('d-m-Y'),
+            'registrationFromDate' => \Carbon\Carbon::now()->format('d-m-Y'),
+            'registrationToDate' => \Carbon\Carbon::now()->addDays(7)->format('d-m-Y'),
+            'preQualificationFromDate' => \Carbon\Carbon::now()->addDays(10)->format('d-m-Y'),
+            'preQualificationToDate' => \Carbon\Carbon::now()->addDays(17)->format('d-m-Y'),
+            'sectorId' => 1,
+    	];
+    }
+}

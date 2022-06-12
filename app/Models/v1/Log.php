@@ -1,29 +1,61 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPol3paQwA3DfGtLRPH/WQsUW5ZIUwY6fkesuhQROgx4UMtvlJtav4DQkWmtDHTFwbqpzSLSr
-jjTNBVv4MyX+UXqwqJ0bibw0Qjibptyl48e2E0zu61OFsXZLrgIKpJroVThDWK+vxLyNoz1wUZc8
-8jbAMe9+1n4Ztpv4/cX3YvaxiHT5agZioyjME9AUDZeBkriz3hO+X5UboqcuFcnamCLcDaIs4juU
-wYuRCYdpU2vLtuzahC/9tSlEmrzihhcbcKkAk4eXWJe7y8K+FYzUL8cLU0XZGyzmwpEUp+bE7sCf
-jibf/+XxY/Z9SVuK7uu+9qPXcjw8sy8awNj1KRHFvXLB5g8YjnYr+aPKP5SSYb+0ehSBeR7DyLz4
-VEIFspZN4QWDYODQL9/Nzvz/C90NSwlkRi/uYieCr9n5l0zTlmw/lFzpcghUSp2XWR1GOuPvy7mS
-uJ8GSl9gb3V/AtI7PNSqOTUckuQPY3G5QmokAi+BY7/YwhuEB0L2fjC0e/u5Xslw1xsQyqSr5cE4
-cilks6T9CeRq+6iHKHVOYD8M1cOuagNerkWn6pq5FZWhCw5mBAKgLorZO7kE2tWtxwDH4dF5+DfO
-KYB5BvQJLujPIRM/+zmQtFyshwDdPVXSBNU4RtTyNa4n5+EKXrBy78m9kp1SrQGumNtkoqzqalQC
-qGKwqOeOhRinbdj2SzCT8cNIBTtCKi2d487D5SsTzjyl+2MuZmn+Y50v2/zJnISnjQSp8cwlQIjm
-oorVgZ52yedGnvC8R+iwS4MIkZ/MaM2Yp02m5rdvrgP/nI1QqDf00qQUPm2qCP5byKzaWkt+GtdG
-XLLlbvtl/Q7AhFWvM2YmOLt3XCrMsjCN3CmYY9YBMyfFNl1Hv5i92QoYUYLT69iQ2l4PGXZbaGyh
-nDQ+nHbOlJjsv0RFJ+NRgbNtLFyDP5Vesm6d0xfiFHMCPwCAHno7WG8rFjFqCFirBTBfEaLUGSkj
-iAH5M64EGVzGX64kQ9/aUl62Z+V8wAd56aPO4AnPMBAYWkZQhHqhe3zGNsnSc4zw6xtuibOZKT3C
-2DvcXmL4xSU9tk75osgiZ/H8RDrzzZW91KUDljnxAOpUX/fplwjysRyhHDRNulXMfswY0HQ/VSvt
-KPqg41O8HUqcjaQRXdJggf4R/Dkc9LIU2V2+7T9DJsQzugnnnz6Dd390rJqYgHw7LJsmk2XEOKhO
-nCHb/6IkBPvFUcc/KkGr3NM1FGhvcfiQhkuz2WVJb9rUg8ao2C9V+sGmIeSuOqlSpMqLoNQ+wzNR
-iqPmr4wghnRD9hvm2usLVf7EUQdkhJtxNWdE3HZf+2scG4Ge/r76sxs6r4x7KyGA55Dzt1/cLSU/
-ZeEr7TT9S7yRwdARdt3/4ahYe6MsB3rVwNdqkV2Gf3cYka2fT+nOEhgbp/hux4zgS2jjenHHcIwj
-9Ih+4VbnCVA2CC30385xXXho/RaSayhCbFONVZOlQAJcHdXupqAy0bgTc/uXDLJp8xewzEE7Z9Ku
-M3Ox+ZTDJxgQeKksqshkvrxpEi/eIBzwcnQMN81M3V4c4hh2WHZyQOLowjAAdX44PZOLqNahECf3
-BeQDZqgluBtO03ck4aeBo1+PsCQO2UjfnLzDBurka5VMeBbfTwPXsyFMgaX+qsko3rhyXVtZtn1h
-zl/tBdJ3w06YsbmzwTTpqKUwG2xhf3TGP/b/HIgFHnBTGbzaebs3gau6ae3uUGEZBzo51+CLEv59
-ss6105nGfHwUFjEZHNSdB3YxTDoGuyj3CcjTeQEXwAMFuO6vWGlFIQf0aLAhxF2uM/S8CEb4LND+
-UjI0sFt4fs+nQUFlbDd1ToQEh1CbNqHwMui3ozPEDdUBhaouB6EDOjvKSbKGdjPbusfuVXI63Orw
-jF5PzLm=
+<?php
+
+namespace App\Models\v1;
+
+/**
+ * App\Models\v1\Log
+ *
+ * @property int $id
+ * @property int|null $userId
+ * @property int|null $vendorId
+ * @property string $method
+ * @property string|null $oldValue
+ * @property string|null $newValue
+ * @property string $content
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Illuminate\Database\Eloquent\Builder|Log newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Log newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Log query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Log whereContent($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Log whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Log whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Log whereMethod($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Log whereNewValue($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Log whereOldValue($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Log whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Log whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Log whereVendorId($value)
+ * @mixin \Eloquent
+ */
+class Log extends AbstractModel
+{
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'content',
+        'method',
+        'oldValue',
+        'newValue',
+        'ipAddress',
+        'token',
+        'table',
+        'recordID',
+        'action',
+    ];
+
+    protected $appends = [
+        'user',
+    ];
+
+    public function getUserAttribute()
+    {
+        $user = User::find($this->userId);
+
+        if (!$user) {
+            return null;
+        }
+
+        return $user->name;
+    }    
+}

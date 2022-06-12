@@ -1,32 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateTenderJoinStatusesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('tenderJoinStatuses', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('name');
+            $table->text('description')->nullable();
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('tenderJoinStatuses');
+    }
+}

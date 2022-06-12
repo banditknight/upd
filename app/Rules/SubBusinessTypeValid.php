@@ -1,32 +1,32 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Rules;
+
+use App\Models\v1\SubBusinessType;
+use Illuminate\Contracts\Validation\Rule;
+
+class SubBusinessTypeValid implements Rule
+{
+    protected $request;
+
+    public function __construct()
+    {
+        $this->request = request();
+    }
+
+    public function passes($attribute, $value)
+    {
+        if (!$this->request->has('businessTypeId')) {
+            return false;
+        }
+
+        $subBusinessType = SubBusinessType::find($value);
+
+        return $subBusinessType && (int)$subBusinessType->businessTypeId === (int)$this->request->request->get('businessTypeId');
+    }
+
+    public function message()
+    {
+        return __('validation.sub_business_type_not_valid');
+    }
+}

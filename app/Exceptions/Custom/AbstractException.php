@@ -1,33 +1,40 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP+L3SWNwhaOhW/Jd9dJ24MkXqu0mEwAjXSqD36Pc60CInTB0Hb3y1wwgd6UHujH6P0R74vyf
-/pOhj08HccwrPQlE1vXE7qIXQJyNoCOxEtgQiGIbIOokqRpbFRC07C7Mjaq11RN4O5yYYRAeo98B
-Z7VYVer3TlAD4c82/LNzmSaaw3LswcYHTPTCYr+idJKs17EM0Pu07X2ouuKYYgB0OclR6T1yPm6i
-YK2FGuKsSecEq4OV1JuwAro8RIVh6IBxai6tJBXA8O4w1/25FZulNbI9bNW+OBl3fSi/mUK0w6nZ
-gNJjLlyzm417ilpFnHWOCzsWdtydGI+y0uXtFjcALvC+gCKc12PKnDXqfik/psDNKcv1m80Eau8C
-pybcCspW1F9RghJtYr/VrNhl4jRyErjsQ68JeEcbv9hwA1BrC17i3crTskB46ByW8z1uiuUlfPdl
-aVqIzVVN0LfL/cm3tPj7X06saQ/JVAzfiLiitFAUSeV/Fx7tM9hsdTOXqp30r0u7NGk5LFLmQJSw
-X6xXBQVndNXsCkYYXIsEybhwFZ1m8SfQIGc6EsfVdE/w1R0E96WSrfe6hYUXUbdys97rAInOMI1s
-g4BYMBQJBL5bMMNzSTyCN8n/LsKFPgTa+CoYf9I3X1yG/niILjbsDxBo2/67mt2+MqHf9ugI8t/y
-WQPJjEwMcdOnkB9Ln8OC7ptUJ45nG+8ceW42ZcdMZke+9Yu3t8e0TOLfseVREwv9tisy/uzJXbY2
-++B5ApJc+NjkMyO+iAnACLqugKCevBa3nOnjJGlWtcRr5iWJVj5Brt4h3/IPv5lHxjFJhZRMmKwu
-lOSE8YNY3wi2nsWvYB3f+YA9lIbajUNFGF5iH76xguWoLGTT8W89A8mUEr7uV/arBn63E7WQBBqa
-w4IcDLw/PLHExZzfV4/tUGl3DIl9SDmhyad5Tpl6HQ4pJkdbNnph9gUSg3MnfceQkXz2LNjFuGdg
-nIfaQ5F/2LOak26j+htyR5N2KgCsowGnjEkrUMMKYhEcb2dl3ShdUOG4Wud7NMjRNxfsGRNwA8zQ
-H+S1UEs+k4j1L0Vp94yr504etvqq1tJkJLpqhinobupbY+6m0VKE7HdRa9tRGprYrFlk8IIyXaAa
-0u0Ie1U96sKiEVY+x0y0l8uLngznfZrZg/k8XjG/u9WKk1y+Hx66GLdfMKkDUYXAHsSr9l9PAAsj
-/i+rBwELHQokXPS4kOd4jRKnOmEQVnAyY1bLNKj8EOxwC1FoWdev4ddawMddZDqP5SjawrWQajHx
-IA+pWzUGkNnwvlf0o8V5mEg2QVbQtmqFZvwQr8fAogsv4VyN4aZYELlgbCwG3OMAH8lDg2RMEgZm
-EVfPlyuNNTydjG8vwteSpP3erlaaABrTvQvDFNcegMYj8QKkRZJkQA7Jzu5ltbD2EhojGrapD8CX
-p6Dd+PzTVnDA6yqwNd/qbh6BGfk98EdBqYpu7FmPCb5kfZK+VMcx+etpIv/t4FSUpwwoZk3Qaazh
-A35PELdOU8yV6m9A4XwNy7OaZgUliniNk7xi3YwJxblzKfIDyXHHMMOqNeSWdHa1YW469HvtFUsY
-PRdl+NggbjE0GjesgsfiHUxp+4aWGIgkNcx/igunIpQumt1/K7ROWCKBkJaGk0p1NYh8ifmQKw0h
-GE5DxZrROHtPg2aGOIoemSkvOCPXX2/T2K9JYZ+b8YgKDSS9mf9Crg9wM5NX/O6itS+M2SwXY4RD
-n8pTDHi8v+jbbg87RpN1jW/oNLQ++sH0sOTtn6jRYOIngH6ICzTcU3V2UkPsRKkRTKg0EV+7HLDY
-Qv27MMRicl6yRcok3LdktOHdgfYogCvfre/67QJ/8sYxh5YIE5KmYuB58TiqkqGCghsZ3IOtj9Za
-0T40SAnw3k2LEfY5YzP2a5mDEYzP9OD8vUtQKFwyp+AU3d+yBVz18bdAsmQwyjUp04RF1D300MOm
-y2crAVv2muQAemiSdRjWLHG1J1irsmPBRYoGw2S3uLeS3ai2cQRlm72VE+zBrLJ0ZB/MqqndZ9H4
-wquM2L/iKbsIilUfCkCICoRVMnBobWIRsMReUuE1W9KxvUAphdAenT2MRcBq3H7QTJ7TiSK3W1Of
-EnP5c+REwxnuh//EsC2KbXzMaudNSdUiD+B3xHpdX11CVLun7O6lOyux1V6iUWREPm1M9zX/ggL2
-rIVY6HVDM7LcnOlt/JM2e/qhwrrzwrN4SSoUaV+PiodKqjW=
+<?php
+
+namespace App\Exceptions\Custom;
+
+use Illuminate\Support\Facades\Log;
+use Symfony\Component\HttpFoundation\Response;
+
+abstract class AbstractException extends \Exception
+{
+    protected $statusCode;
+
+    protected $statusMessage;
+
+    protected $httpStatusCode;
+
+    public function __construct(
+        string $statusMessage = 'Something went wrong',
+        int $statusCode = 400,
+        int $httpStatusCode = Response::HTTP_BAD_REQUEST
+    ) {
+        parent::__construct();
+
+        Log::info($statusMessage);
+
+        $this->statusCode = $statusCode;
+        $this->statusMessage = $statusMessage;
+        $this->httpStatusCode = $httpStatusCode;
+    }
+
+    public function jsonErrorResponse(): \Illuminate\Http\JsonResponse
+    {
+        return response()->json([
+            'status' => [
+                'code'    => $this->statusCode,
+                'message' => $this->statusMessage
+            ],
+            'data' => null
+        ], $this->httpStatusCode);
+    }
+}

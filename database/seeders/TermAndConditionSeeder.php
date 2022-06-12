@@ -1,29 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\TermAndCondition;
+use App\Models\v1\UserManual;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class TermAndConditionSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'TermAndCondition');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'title' => $data[0],
+                'content' => $data[1]
+            ];
+        }
+
+        DB::table('termAndConditions')->insert($dataSeeder);
+    }
+}

@@ -1,37 +1,52 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class BoardSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'CompanyStructure');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if ($data[0] === null) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'userId' => $data[0],
+                'vendorId' => $data[1],
+                'boardTypeId' => $data[2],
+                'nationalityId' => $data[3],
+                'isListed' => $data[4],
+                'isCompanyHead' => $data[5],
+                'name' => $data[6],
+                'position' => $data[7],
+                'taxIdentificationNumber' => $data[8],
+                'taxIdentificationAttachment' => 1,
+                'ktpNumber' => $data[9],
+                'ktpAttachment' => 2,
+                'kitasNumber' => $data[10],
+                'kitasAttachment' => 3,
+            ];
+        }
+
+        DB::table('boards')->insert($dataSeeder);
+    }
+}

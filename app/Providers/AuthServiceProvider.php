@@ -1,30 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-xBYr7GNHKJEQAsiFiQx2Lhgt+7AU70==
+<?php
+
+namespace App\Providers;
+
+use App\Models\v1\User;
+use Illuminate\Support\ServiceProvider;
+
+class AuthServiceProvider extends ServiceProvider
+{
+    /**
+     * Register any application services.
+     *
+     * @return void
+     */
+    public function register()
+    {
+        //
+    }
+
+    /**
+     * Boot the authentication services for the application.
+     *
+     * @return void
+     */
+    public function boot()
+    {
+        // Here you may define how you wish users to be authenticated for your Lumen
+        // application. The callback which receives the incoming request instance
+        // should return either a User instance or null. You're free to obtain
+        // the User instance via an API token or any other method necessary.
+
+        $this->app['auth']->viaRequest('api', function ($request) {
+            if ($request->input('api_token')) {
+                return User::where('api_token', $request->input('api_token'))->first();
+            }
+        });
+    }
+}

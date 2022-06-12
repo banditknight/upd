@@ -1,36 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateTenderProcessCommercialsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('tenderProcessCommercials', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId');
+            $table->bigInteger('vendorId');
+            $table->bigInteger('tenderId');
+
+            $table->bigInteger('tenderRequirementDocumentId');
+            $table->bigInteger('attachment');
+
+            $table->boolean('isDeleted')->default(false);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('tenderProcessCommercials');
+    }
+}

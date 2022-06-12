@@ -1,46 +1,58 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ZTivP6dw5uhO1sCU0Pb/i+WhQCS=
+<?php
+
+namespace App\Http\Controllers\App\v1;
+
+use App\Exceptions\Custom\Repository\RepositoryException;
+use App\Http\Requests\v1\Vendor\VendorRegisterRequest;
+use App\Http\Requests\v1\Vendor\VendorVerificationRequest;
+use App\Models\v1\Vendor;
+use App\Repositories\ResourceRepository;
+use App\Traits\User;
+use App\Traits\VendorRegisterTransaction;
+use App\Traits\VendorVerification;
+use Illuminate\Http\Request;
+use League\Fractal\Manager;
+use Tymon\JWTAuth\JWTAuth;
+
+class VendorController extends AbstractController
+{
+    use VendorRegisterTransaction, VendorVerification, User;
+
+    /**
+     * @throws RepositoryException
+     */
+    public function __construct(Manager $fractal, Request $request, JWTAuth $JWTAuth)
+    {
+        parent::__construct($fractal, $request, $JWTAuth);
+
+        $this->repo = new ResourceRepository(new Vendor());
+    }
+
+    public function register(VendorRegisterRequest $request)
+    {
+        $transaction = $this->transaction($request);
+
+        return $this->responseSuccess($transaction);
+    }
+
+    public function profile()
+    {
+        $user = $this->getUser();
+
+        return $this->responseSuccess($user->vendor ?? []);
+    }
+
+    public function index()
+    {
+        $user = $this->getUser();
+
+        return $this->responseSuccess($user->vendor ?? []);
+    }
+
+    public function verification(VendorVerificationRequest $request)
+    {
+        $verify = $this->verify($this->getUser(), $request->get('comment'));
+
+        return $this->responseSuccess($verify);
+    }
+}

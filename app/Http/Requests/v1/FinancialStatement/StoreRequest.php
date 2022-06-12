@@ -1,40 +1,114 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-yBs1LclDThnTYFeP
+<?php
+
+namespace App\Http\Requests\v1\FinancialStatement;
+
+use App\Rules\CurrencyValid;
+use App\Rules\FinancialReportValid;
+
+class StoreRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'financialStatementDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'financialReportId' => [
+                'required',
+                'numeric',
+                new FinancialReportValid()
+            ],
+            'publicAccountantFullName' => [
+                'required',
+                'min:3',
+                'max:100',
+            ],
+            'year' => [
+                'required',
+                'numeric',
+                'digits_between:4,4',
+            ],
+            'currencyId' => [
+                'required',
+                'numeric',
+                new CurrencyValid()
+            ],
+            'currentAssets' => [
+                'required',
+                'integer',
+                'min:1',
+                'max:999999999999999999',
+            ],
+            'nonCurrentAssets' => [
+                'required',
+                'integer',
+                'min:1',
+                'max:999999999999999999',
+            ],
+            'otherAssets' => [
+                'required',
+                'integer',
+                'min:1',
+                'max:999999999999999999',
+            ],
+            'currentPayable' => [
+                'required',
+                'integer',
+                'min:1',
+                'max:999999999999999999',
+            ],
+            'otherPayable' => [
+                'required',
+                'integer',
+                'min:1',
+                'max:999999999999999999',
+            ],
+            'paidInCapital' => [
+                'required',
+                'integer',
+                'min:1',
+                'max:999999999999999999',
+            ],
+            'retainedEarning' => [
+                'required',
+                'integer',
+                'min:1',
+                'max:999999999999999999',
+            ],
+            'annualRevenue' => [
+                'required',
+                'integer',
+                'min:1',
+                'max:999999999999999999',
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

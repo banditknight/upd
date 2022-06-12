@@ -1,40 +1,71 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-o2xJJh5VE8YtfvTsqaZ6ROYHWwXJdqFw
+<?php
+
+namespace App\Models\v1;
+
+/**
+ * App\Models\v1\Asset
+ *
+ * @property int $id
+ * @property int|null $userId
+ * @property string $attachment
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Illuminate\Database\Eloquent\Builder|Asset newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Asset newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Asset query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Asset whereAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Asset whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Asset whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Asset whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Asset whereUserId($value)
+ * @mixin \Eloquent
+ * @property int|null $vendorId
+ * @property-read mixed $raw_path_attachment
+ * @property-read mixed $url
+ * @method static \Illuminate\Database\Eloquent\Builder|Asset whereVendorId($value)
+ */
+class Asset extends AbstractModel
+{
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'attachment',
+        'mimeType',
+    ];
+
+    protected $hidden = [
+        // 'userId',
+        'attachment',
+        'created_at',
+        'updated_at'
+    ];
+
+    protected $appends = [
+    //    'rawPathAttachment',
+        'url'
+    ];
+
+    public function getAttachmentAttribute()
+    {
+        return str_replace(env('REPLACE_ATTACHMENT_PATH'), env('ASSET_BASE_URL'), $this->attributes['attachment']);
+    }
+
+    public function getRawPathAttachmentAttribute()
+    {
+        return $this->attributes['attachment'];
+    }
+
+    public function getUrlAttribute()
+    {
+        $path = 'pdf';
+        if($this->mimeType !== 'application/pdf'){
+            $path = 'assets';
+        }
+
+        return sprintf('%s%s?id=%d',
+            env('ASSET_BASE_URL'),
+            $path,
+            $this->id
+        );
+    }
+}

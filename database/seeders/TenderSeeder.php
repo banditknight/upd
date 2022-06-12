@@ -1,55 +1,62 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\Tender;
+use Illuminate\Database\Seeder;
+use App\Traits\ExcelReader;
+use Illuminate\Support\Facades\DB;
+use Carbon\Carbon;
+
+class TenderSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Tender');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'number' => $data[0],
+                'name' => $data[1],
+                'lingkupPekerjaan' => $data[2],
+                'purchasingOrganizationId' => $data[3],
+                'scopeOfWorkId' => $data[4],
+                'tenderTypeId' => $data[5],
+                'tenderDetailId' => $data[6],
+                'bidSubmissionMethodId' => $data[7],
+                'fromDate' => Carbon::createFromFormat('d-m-Y', $data[8])->timestamp,
+                'toDate' => Carbon::createFromFormat('d-m-Y', $data[9])->timestamp,
+                'registrationFromDate' => Carbon::createFromFormat('d-m-Y', $data[10])->timestamp,
+                'registrationToDate' => Carbon::createFromFormat('d-m-Y', $data[11])->timestamp,
+                'preQualificationFromDate' => Carbon::createFromFormat('d-m-Y', $data[12])->timestamp,
+                'preQualificationToDate' => Carbon::createFromFormat('d-m-Y', $data[13])->timestamp,
+                'sectorId' => $data[14],
+                'deliveryLocation' => 'Warehouse KPI Bontang',
+                'purchasingGroupId' => 1,
+                'incotermId' => 1,
+                'isPreQualification' => 1,
+                'isBidBond' => 0,
+                'isEAuction' => 1,
+                'isEAanwijzing' => 0,
+                'docStatusId' => $data[15],
+                'noteForVendor' => null,
+                'buyerId' => 1,
+                'tenderUserId' => 1,
+            ];
+        }
+
+        DB::table('tenders')->insert($dataSeeder);
+    }
+}

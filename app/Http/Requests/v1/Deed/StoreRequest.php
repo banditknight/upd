@@ -1,33 +1,70 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Requests\v1\Deed;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\DeedTypeNotValid;
+
+class StoreRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'deedTypeId' => [
+                'required',
+                new DeedTypeNotValid()
+            ],
+            'number' => [
+                'required',
+                'min:10',
+                'max:255'
+            ],
+            'issuedDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'notaryFullName' => [
+                'required',
+                'min:3',
+                'max:100',
+                // new AlphaSpaceDotComma(),
+            ],
+            'ackLetterNumber' => [
+                'required',
+                'min:10',
+                'max:255'
+            ],
+            'ackLetterDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

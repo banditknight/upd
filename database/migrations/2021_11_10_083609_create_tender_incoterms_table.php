@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateTenderIncotermsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('tenderIncoterms', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code');
+            $table->text('description');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('tenderIncoterms');
+    }
+}

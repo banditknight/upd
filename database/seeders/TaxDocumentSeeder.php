@@ -1,33 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-NzAQnOQj4MP3muUEisSskw32dp4=
+<?php
+
+namespace Database\Seeders;
+
+use App\Traits\DateTrait;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class TaxDocumentSeeder extends Seeder
+{
+    use ExcelReader, DateTrait;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'TaxDocument');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'userId' => $data[0],
+                'vendorId' => $data[1],
+                'taxDocumentTypeId' => $data[2],
+                'number' => $data[3],
+                'issuedDate' => $data[4],
+                'attachment' => $data[5],
+            ];
+        }
+
+        DB::table('taxDocuments')->insert($dataSeeder);
+    }
+}

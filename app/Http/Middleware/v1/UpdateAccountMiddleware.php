@@ -1,33 +1,42 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Middleware\v1;
+
+use App\Exceptions\Custom\Account\PrimaryAccountOnlyAllowedToUpdateException;
+use App\Traits\User;
+use Closure;
+use Illuminate\Support\Facades\DB;
+use Symfony\Component\HttpFoundation\Request;
+
+class UpdateAccountMiddleware
+{
+    use User;
+
+    /**
+     * Handle an incoming request.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \Closure  $next
+     * @return mixed
+     */
+    public function handle($request, Closure $next)
+    {
+        // Pre-Middleware Action
+        $response = $next($request);
+
+        if ($request->getMethod() !== Request::METHOD_PUT) {
+            return $response;
+        }
+
+        $user = $this->getUser();
+
+        if ($user && $user->isPrimary === null && $user->id !== (int)$request->route('id')) {
+            DB::rollBack();
+            throw new PrimaryAccountOnlyAllowedToUpdateException();
+        }
+
+        DB::commit();
+        // Post-Middleware Action
+        return $response;
+    }
+}

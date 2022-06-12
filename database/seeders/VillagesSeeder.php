@@ -1,50 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-O4OrmKS6D94OC1aR3eIC7VbzoE5u3xbVk0OZ
+<?php
+
+namespace Database\Seeders;
+
+use Carbon\Carbon;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\File;
+use Laravolt\Indonesia\Seeds\CsvtoArray;
+
+class VillagesSeeder extends Seeder
+{
+    public function run()
+    {
+        $now = Carbon::now();
+        $csv = new CsvtoArray();
+        $resourceFiles = File::allFiles(__DIR__.'/../../resources/csv/villages');
+        foreach ($resourceFiles as $file) {
+            $header = ['id', 'district_id', 'name', 'lat', 'long'];
+            $data = $csv->csv_to_array($file->getRealPath(), $header);
+
+            $data = array_map(function ($arr) use ($now) {
+                $arr['meta'] = json_encode(['lat' => $arr['lat'], 'long' => $arr['long']]);
+                unset($arr['lat'], $arr['long']);
+
+                $arr['name'] = ucwords(strtolower($arr['name']));
+
+                return $arr + ['created_at' => $now, 'updated_at' => $now];
+            }, $data);
+
+            $collection = collect($data);
+            foreach ($collection->chunk(200) as $chunk) {
+                DB::table(config('volt.indonesia.table_prefix').'villages')->insert($chunk->toArray());
+            }
+        }
+    }
+}

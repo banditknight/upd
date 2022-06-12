@@ -1,30 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-fwHekFe=
+<?php
+
+namespace App\Mail\v1;
+
+use App\Models\v1\Vendor;
+use Illuminate\Bus\Queueable;
+use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Mail\Mailable;
+use Illuminate\Queue\SerializesModels;
+
+class SendVendorRegisteredNotificationToAdmin extends Mailable
+{
+    use Queueable, SerializesModels;
+
+    public $vendor;
+
+    /**
+     * Create a new message instance.
+     *
+     * @return void
+     */
+    public function __construct(Vendor $vendor)
+    {
+        $this->vendor = $vendor;
+    }
+
+    /**
+     * Build the message.
+     *
+     * @return $this
+     */
+    public function build()
+    {
+        return $this->view('email.admin.vendor')->with([
+            'vendor' => $this->vendor
+        ])->subject(__('email.subject_new_vendor_registered'));
+    }
+}

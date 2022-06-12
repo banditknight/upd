@@ -1,36 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-vg6DQHDyJ7iDh2KV2dqatsMJvApYAVbh
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateWorkflowTransitionConditionTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('workflowTranstionConditions', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('workflowTransitionId');
+            $table->integer('sequence');
+            $table->string('seqJoinOperator'); // 0 = Or, 1 = And 
+            $table->string('columnName'); // table column to check
+            $table->string('checkOperation'); // sql operator for checking. =, != , <, <=, >, >=
+            $table->string('checkValue'); // checked value
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('workflowTranstionConditions');
+    }
+}

@@ -1,37 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateBankAccountsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('bankAccounts', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId');
+            $table->bigInteger('vendorId');
+            $table->bigInteger('bankId');
+            $table->string('accountNumber')->unique();
+            $table->string('accountHolderName');
+            $table->string('bankAddress');
+
+            $table->bigInteger('currencyId');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('bankAccounts');
+    }
+}

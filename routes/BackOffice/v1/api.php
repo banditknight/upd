@@ -1,378 +1,399 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-7QJhm2008Cy7Ey+oGi8pdgPxg8SFwju=
+<?php
+
+use Yuliusardian\LumenResourceRouting\Routing\Router;
+use Illuminate\Support\Facades\DB;
+
+/** @var Router $router */
+
+/*
+|--------------------------------------------------------------------------
+| Application Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register all the routes for an application.
+| It is a breeze. Simply tell Lumen the URIs it should respond to
+| and give it the Closure to call when that URI is requested.
+|
+*/
+
+$router->options('/{any:.*}', function () {
+    return response([
+        'status' => [
+            'code'    => 200,
+            'message' => __('status.status_success')
+        ],
+    ]);
+});
+
+$router->resource('bank', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\Bank::class)->parameters(['bank' => 'id']);
+
+$router->resource('currency', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\Currency::class)->parameters(['currency' => 'id']);
+
+$router->resource('business/type', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\BusinessType::class)->parameters(['type' => 'id']);
+
+$router->resource('sub-business/type', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\SubBusinessType::class)->parameters(['type' => 'id']);
+
+$router->resource('company/type', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\CompanyType::class)->parameters(['type' => 'id']);
+
+$router->resource('request/quotation', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\RequestForQuotation::class)->parameters(['quotation' => 'id']);
+
+$router->resource('rfq/item', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\RequestForQuotationItem::class)->parameters(['item' => 'id']);
+
+$router->resource('rfq/vendor', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\RequestForQuotationVendor::class)->parameters(['vendor' => 'id']);
+
+$router->resource('purchase/request/synchronization', 'PurchaseRequestSyncController', [
+    'only' => ['index', 'store', 'show'],
+])->model(\App\Models\v1\PurchaseRequest::class)->parameters(['synchronization' => 'id']);
+
+$router->resource('purchase/request', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\PurchaseRequest::class)->parameters(['request' => 'id']);
+
+$router->resource('purchaserequest/item', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\PurchaseRequestItem::class)->parameters(['item' => 'id']);
+
+$router->resource('tender/item/component', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\TenderItemComponent::class)->parameters(['component' => 'id']);
+
+$router->get('/tender/activity', 'TenderActivityController@index');
+
+$router->get('/workflowprocess', 'WorkflowController@status');
+// $router->post('/workflow', 'WorkflowController@store');
+$router->resource('workflow', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\Workflow::class)->parameters(['workflow' => 'id']);
+
+$router->resource('workflownode', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\WorkflowNode::class)->parameters(['workflownode' => 'id']);
+
+$router->resource('workflowtransition', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\WorkflowTransition::class)->parameters(['workflowtransition' => 'id']);
+
+$router->resource('workflowcondition', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\WorkflowTransitionCondition::class)->parameters(['workflowcondition' => 'id']);
+
+$router->resource('tender/item', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\TenderItem::class)->parameters(['item' => 'id']);
+
+$router->resource('tender/requirement-document', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\TenderRequirementDocument::class)->parameters(['requirement-document' => 'id']);
+
+$router->resource('tender/schedule', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\TenderSchedule::class)->parameters(['schedule' => 'id']);
+
+$router->resource('tender/aanwijzing', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\TenderAanwijzing::class)->parameters(['aanwijzing' => 'id']);
+
+$router->resource('tender/negotiation', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\TenderNegotiation::class)->parameters(['negotiation' => 'id']);
+
+$router->resource('tender/participant', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'show'],
+])->model(\App\Models\v1\TenderParticipant::class)->parameters(['participant' => 'id']);
+
+$router->resource('tender/prequalification', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'show'],
+])->model(\App\Models\v1\TenderProcessDocumentPraQualification::class)->parameters(['prequalification' => 'id']);
+
+$router->resource('tender/technical', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'show'],
+])->model(\App\Models\v1\TenderProcessTechnicalOffering::class)->parameters(['technical' => 'id']);
+
+$router->resource('tender/tbe', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\TenderTechnicalBidEvaluation::class)->parameters(['tbe' => 'id']);
+
+$router->resource('tender/cbe', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\TenderCommercialBidEvaluation::class)->parameters(['cbe' => 'id']);
+
+$router->resource('tender/document', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\TenderDocument::class)->parameters(['document' => 'id']);
+
+$router->resource('tender/type', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\TenderType::class)->parameters(['type' => 'id']);
+
+$router->resource('tender/pr', 'TenderPurchaseRequestController', [
+    'only' => ['store'],
+])->model(\App\Models\v1\PurchaseRequest::class)->parameters(['pr' => 'id']);
+
+$router->resource('tender', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\Tender::class)->parameters(['tender' => 'id']);
+
+$router->resource('vendor/group/classification', 'ResourceController', [
+    'only' => ['index', 'show', 'update'],
+])->model(\App\Models\v1\VendorGroupClassification::class)->parameters(['classification' => 'id']);
+
+$router->resource('vendor/group/category', 'ResourceController', [
+    'only' => ['index', 'show', 'update'],
+])->model(\App\Models\v1\VendorGroupCategory::class)->parameters(['category' => 'id']);
+
+$router->resource('vendor/group', 'ResourceController', [
+    'only' => ['index', 'show', 'update'],
+])->model(\App\Models\v1\VendorGroup::class)->parameters(['group' => 'id']);
+
+$router->resource('vendor/data', 'ResourceController', [
+    'only' => ['index', 'show', 'update'],
+])->model(\App\Models\v1\Vendor::class)->parameters(['vendor' => 'id']);
+
+$router->resource('log', 'ResourceController', [
+    'only' => ['index', 'show'],
+])->model(\App\Models\v1\Log::class)->parameters(['vendor' => 'id']);
+
+$router->resource('deed/type', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\DeedType::class)->parameters(['type' => 'id']);
+
+$router->resource('certification/type', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\CertificationType::class)->parameters(['type' => 'id']);
+
+$router->resource('business/permit/type', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\BusinessPermitType::class)->parameters(['type' => 'id']);
+
+$router->resource('board/type', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\BoardType::class)->parameters(['type' => 'id']);
+
+// $router->resource('uom', 'ResourceController', [
+//     'only' => ['index', 'store', 'update', 'destroy', 'show'],
+// ])->model(\App\Models\v1\UnitOfMeasure::class)->parameters(['uom' => 'id']);
+
+$router->resource('uom', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\UnitOfMeasure::class)->parameters(['uom' => 'id']);
+
+$router->resource('bid-submission/method', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\BidSubmissionMethod::class)->parameters(['method' => 'id']);
+
+$router->resource('asset', 'ResourceController', [
+    'only' => ['index', 'show'],
+])->model(\App\Models\v1\Asset::class)->parameters(['asset' => 'id']);
+
+$router->resource('vendor', 'ResourceController', [
+    'only' => ['index', 'update', 'show'],
+    'middleware' => ['activation']
+])->model(\App\Models\v1\Vendor::class)->parameters(['vendor' => 'id']);
+
+$router->resource('assessment/criteria/item', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\AssessmentCriteriaItem::class)->parameters(['item' => 'id']);
+
+$router->resource('assessment/criteria', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\AssessmentCriteria::class)->parameters(['criteria' => 'id']);
+
+$router->resource('country', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\Country::class)->parameters(['country' => 'id']);
+
+$router->resource('province', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\Province::class)->parameters(['province' => 'id']);
+
+$router->resource('city', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\City::class)->parameters(['city' => 'id']);
+
+$router->resource('domain', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\Domain::class)->parameters(['domain' => 'id']);
+
+$router->resource('scope-of-supply', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\ScopeOfSupply::class)->parameters(['scope-of-supply' => 'id']);
+
+$router->resource('scope-of-work', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\ScopeOfWork::class)->parameters(['scope-of-work' => 'id']);
+
+$router->resource('purchasing-group', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\PurchasingGroup::class)->parameters(['purchasing-group' => 'id']);
+
+$router->resource('purchasing-organization', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\PurchasingOrganization::class)->parameters(['purchasing-organization' => 'id']);
+
+$router->resource('sector', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\Sector::class)->parameters(['sector' => 'id']);
+
+$router->resource('product/code', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\ProductCode::class)->parameters(['code' => 'id']);
+
+$router->resource('product/group/code', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\ProductGroupCode::class)->parameters(['code' => 'id']);
+
+$router->resource('spatie/role', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+    'middleware' => ['permission:editRole'],
+])->model(\App\Models\v1\SpatieRole::class)->parameters(['role' => 'id']);
+
+$router->resource('spatie/permission', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+    'middleware' => ['permission:editPermission'],
+])->model(\App\Models\v1\SpatiePermission::class)->parameters(['permission' => 'id']);
+
+$router->resource('spatie/role-has-permission', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+    'middleware' => ['permission:editRoleHasPermission'],
+])->model(\App\Models\v1\SpatieRoleHasPermission::class)->parameters(['role-has-permission' => 'id']);
+
+$router->resource('notification', 'ResourceController', [
+    'only' => ['index', 'update', 'show'],
+    'middleware' => ['notification']
+])->model(\App\Models\v1\Notification::class)->parameters(['notification' => 'id']);
+
+$router->resource('user', 'UserController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\User::class)->parameters(['user' => 'id']);
+
+$router->resource('configs', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\Config::class)->parameters(['configs' => 'id']);
+
+$router->resource('incoterm', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\TenderIncoterm::class)->parameters(['incoterm' => 'id']);
+
+$router->resource('dashboard', 'DashboardController', [
+    'only' => ['index'],
+]);
+
+$router->resource('department', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\Department::class)->parameters(['department' => 'id']);
+
+$router->resource('jobTitle', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\JobTitle::class)->parameters(['jobTitle' => 'id']);
+
+$router->resource('tender/vendors/invited', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+    // 'middleware' => ['auth'],
+])->model(\App\Models\v1\TenderInvitedVendor::class)->parameters(['invited' => 'id']);
+
+$router->resource('tender/vendors/blocked', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+    // 'middleware' => ['auth'],
+])->model(\App\Models\v1\TenderBlockedVendor::class)->parameters(['blocked' => 'id']);
+
+$router->resource('menu', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\Menu::class)->parameters(['menu' => 'id']);
+
+$router->resource('rolemenu', 'ResourceController', [
+    'only' => ['index', 'store', 'update', 'destroy', 'show'],
+])->model(\App\Models\v1\RoleMenu::class)->parameters(['rolemenu' => 'id']);
+
+$router->get('/mainmenu/{id}', function ($id) {
+    $role = \App\Models\v1\SpatieRole::find($id);
+    $menus = [];
+    foreach ($role->menus as $m) {
+        if ($m->isParent)
+            $menus[] = $m;
+    }
+    return $menus;
+});
+
+$router->group(['middleware' => ['auth']], static function () use ($router) {
+    $router->get('/aanwijzingvendor', 'TenderProcessController@index');
+    $router->get('/aanwijzingvendor/{id}', 'TenderProcessController@show');
+    $router->put('/aanwijzingvendor/{id}', 'TenderProcessController@aanwijzingvendor');
+    $router->put('/aanwijzingvendordestroy/{id}', 'TenderProcessController@aanwijzingvendordestroy');
+});
+
+$router->get('prsync', function(){
+    $pr = DB::connection('avantis')->select("select * from kpi_eproc where PRNumber like '%3578%' order by PRNumber");
+    $s = '';
+    $prnumber = '';
+    $prid = 0;
+
+    DB::beginTransaction();
+
+    try {
+
+        DB::table('purchaseRequestItems')->where('id','>',22)->delete();
+        DB::table('purchaseRequests')->where('id','>',30)->delete();
+
+        foreach ($pr as $r) {
+            if($prnumber != trim($r->PRNumber)){
+                //insert PR Header
+
+                $prnumber = trim($r->PRNumber);
+
+                $prid = DB::table('purchaseRequests')->insertGetId([
+                    'no' => $prnumber,
+                    'name' => $r->PRDescription,
+                    'departmentid' => 1,
+                    'itemtypeid' => 1,
+                    'currencyid' => 1,
+                    'confirmeddate' => $r->ApprovedDate,
+                    'totalamount' => $r->EstUnitCost,
+                    'totalqty' => (int)$r->Qty,
+                    'wono' => trim($r->WONumber),
+                    'wotitle' => 'WO '.$r->WOTitel,
+                    'document' => 'WO'. $r->UserPR,
+                ]);
+
+            }
+
+            $dataSeederdetail[] = [
+                'purchaseRequestId' => $prid,
+                'pritemid' => $r->PRLineNumber,
+                'catItemNo' => $r->ItemType,
+                'materialNo' => $r->PRLineNumber,
+                'description' => $r->ItemDescription,
+                'qty' => (int)$r->Qty,
+                'uom' => $r->UoM,
+                'estimationUnitCost' => (int)$r->EstUnitCost,
+                'remarks' => $r->UserPR,
+                'isService' => false,
+            ];
+
+        }
+        DB::table('purchaseRequestItems')->insert($dataSeederdetail);
+
+        DB::commit();
+
+    } catch (\Exception $e) {
+        DB::rollback();
+        $s = $e->getMessage();
+    }
+    // [catItemNo], [description], [estimationUnitCost], [isService], [materialNo], [purchaseRequestId], [qty], [remarks], [uom])
+    return ['s'=>$s,'pr'=>$pr];
+});

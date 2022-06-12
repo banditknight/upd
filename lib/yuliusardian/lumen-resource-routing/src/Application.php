@@ -1,32 +1,53 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Yuliusardian\LumenResourceRouting;
+
+use Yuliusardian\LumenResourceRouting\Routing\Router;
+
+class Application extends \ElemenX\AdvancedRoute\Application
+{
+    protected function registerContainerAliases()
+    {
+        $this->aliases = [
+            \Illuminate\Contracts\Foundation\Application::class => 'app',
+            \Illuminate\Contracts\Auth\Factory::class => 'auth',
+            \Illuminate\Contracts\Auth\Guard::class => 'auth.driver',
+            \Illuminate\Contracts\Cache\Factory::class => 'cache',
+            \Illuminate\Contracts\Cache\Repository::class => 'cache.store',
+            \Illuminate\Contracts\Config\Repository::class => 'config',
+            \Illuminate\Container\Container::class => 'app',
+            \Illuminate\Contracts\Container\Container::class => 'app',
+            \Illuminate\Database\ConnectionResolverInterface::class => 'db',
+            \Illuminate\Database\DatabaseManager::class => 'db',
+            \Illuminate\Contracts\Encryption\Encrypter::class => 'encrypter',
+            \Illuminate\Contracts\Events\Dispatcher::class => 'events',
+            \Illuminate\Contracts\Filesystem\Factory::class => 'filesystem',
+            \Illuminate\Contracts\Filesystem\Filesystem::class => 'filesystem.disk',
+            \Illuminate\Contracts\Filesystem\Cloud::class => 'filesystem.cloud',
+            \Illuminate\Contracts\Hashing\Hasher::class => 'hash',
+            'log' => \Psr\Log\LoggerInterface::class,
+            \Illuminate\Contracts\Queue\Factory::class => 'queue',
+            \Illuminate\Contracts\Queue\Queue::class => 'queue.connection',
+            \Illuminate\Redis\RedisManager::class => 'redis',
+            \Illuminate\Contracts\Redis\Factory::class => 'redis',
+            \Illuminate\Redis\Connections\Connection::class => 'redis.connection',
+            \Illuminate\Contracts\Redis\Connection::class => 'redis.connection',
+            'request' => \Illuminate\Http\Request::class,
+            \Yuliusardian\LumenResourceRouting\Routing\Router::class => 'router',
+            \Illuminate\Contracts\Translation\Translator::class => 'translator',
+            \Laravel\Lumen\Routing\UrlGenerator::class => 'url',
+            \Illuminate\Contracts\Validation\Factory::class => 'validator',
+            \Illuminate\Contracts\View\Factory::class => 'view',
+        ];
+    }
+
+    /**
+     * Bootstrap the router instance.
+     *
+     * @return void
+     */
+    public function bootstrapRouter()
+    {
+        $this->router = new Router($this);
+    }
+}

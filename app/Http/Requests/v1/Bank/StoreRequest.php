@@ -1,30 +1,53 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPvn1S+MigqVBgVVcnfyJlyYiBjHbobLSphMulogNBoeSnEo4ENZC0DO5+OmbRWcpL3tjooHm
-hA9enXoK3VqQrjItPiNnkfDpKsDcl0kwUiAEN/9oUZ/TXvZMC0pZoHTZe9RYp0QQN27R5KiYUGwB
-yF9WgRVxzYid0O/MGUB4p+vUuN4OJvGFHKu+bQPo28VRvoTdsWoZt3dqwkx75DPEYswMQemg6Bxe
-YxAtj25JoUg6a19E25VFupjjf/AuZ2tzGDvnk4eXWJe7y8K+FYzUL8cLU01jvmWBKLZz+M78I6Cf
-PlHxksBWhYwH2+RvYzfd1OPfdYFf4HoEWFe8JYFOF+40zvPayWHe4W1adgJELlzxWYOp2cU3M6j4
-eh04jnzsB2RN7jBALzPdNGk08qbgkhw4cLNfRXNKNjGMIV7D+6gvKztxvgFn2Lhc32rNAmabo7oT
-v48qbqCP2g1cwEfPJd2+lwsWHfwtZG2CtGHIgZeOq3iXSFmIywlQgSU37hTSrqrPzY7x8Ku02hgn
-ms4+kmNze+tNmlE/krSQpwb4DV6Rn3j3c+PM95TVsCPFubU4GAw6zr7HFtaOoE/fCuG11mU8EMSo
-boG0KxQLk8KuChZVWVEq+8ytlnlAig5V5wD0S7LHHGPoPmAUluBGtjVwc6jYam6wNUJaRKZ8BLq7
-I4WKTjhkZtpjpqvBNpQydKEwQ/ZsWDFl3bJl908N0n7QiFYqQYhZuALi37Mp9+L3TTstgKXPxCU3
-RBOowj2aSqFEasCAOV3D6tHcemKQ8nDSdXfcSiLJYTZImfunIXUqxocz8xKHEFSevfrptknjiPKa
-C3EBdgNol/S+XoSd7D0TMAML4sW1ZzM2HsfWSYddhMWTrhs0D9I9voiXoCCV84V9Z4Ig6wTdi1Pw
-eRRu7rZk79mPN3u5XCdOteikTF+eZQioJD1dmu7VJnHScK6REu3Vp0cd2yGdJICSDEE2ofhpYUtk
-LT3vIl5XSk2RNeT5lLE66jjgoeoJtp21EJZQE4H9UvGofWAuFkVE0Ky2nEQ3s84OKFKEy+iAA3Gp
-xhDvkbHZWnM7SG/QwJA7DOHwBM9LMEMtq/OcXnZGQdhVIKAd7IkeLqU9nRlE51tC+Etf/JZSPgEC
-Y81mIipPFt8l9sDfEk8Rc8aPOcy2R2onkWMVnIHCvcgUktTttZluJs+ErOIkyr0klkw7elMXSXrw
-SXCzG79G+EnrfOO6yEAwt/h6d8uxVoO2RGzykb4G7vCYwoEQG5/llWGd6Gnii425xS+UFoT5dYh7
-Ie42mjBbrP8JMRb9eOxS+7xqRxLY4Bnz+Ro4akiUb9F6kThdZ78Hsf0RCezM4RREVlS2fhkCAmnx
-whEreNBnvbTXOtJnta2pZ2B3xREtvzaPG5e3CVpHnza+XT9NcpzT6N7/N7jJ/udScpup2uD2BKcu
-9d2Zp1TIpVETdqQo2GQtRng0ckbkvBqwLakdK+jGxE6LJa6DojyLlQDwMO46/8NvBAR1c+4ihjni
-XKh5xlLavGhXHjc+jP999QeFjjvXvpv3V4M2K7EjT1LthCbmyIinCsS3YF4kYXb1dXu5hLZziUeD
-54LlxxIi5S4ifhT263Z22dhaQQLpZz1J12D8q+hrnHNIq2VtESGbibQl4PJffHjmqXTeTrz9u2ct
-gBnKCFeOhG4vHcmLE8QG7l6YNLHn7wytAux35U/6LyE7HYtZxxFgxyoZs/BqwsBZbdMVkGq+5Qln
-uj5g5x09p0xMqm104jnSzMbVGf9P30xt/To7QGxgf7KGkikAHWre/OFXYSKnGfO9aKTdGZT1hfTM
-M+V2f2U6nifQE4L3gfdvU95aUZIK/0jM45PycxZaCWISrYohTcmVg5ArEZ0jrKcf87cqG+ZhRdVG
-tRZigbZ25RTQHIilBuB7hDeRe8ocJZFeU7GimfIcvdYshxkoRA6P/BGVzA6CEpqMq8iT9jggEt4A
-em==
+<?php
+
+namespace App\Http\Requests\v1\Bank;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\AlphaUpperUnderScore;
+use Pearl\RequestValidate\RequestAbstract;
+
+class StoreRequest extends RequestAbstract
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'code' => [
+                'required',
+                'digits:3'
+            ],
+            'name' => [
+                'required',
+                'min:3',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

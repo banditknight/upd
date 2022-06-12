@@ -1,29 +1,78 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP/U6R/liObJzwJ3ws65EHzHNivc+vuaS0FUMTmbwuZSTow7nEIP8hSjHyHG2WVrQgQw1hrfu
-uPhPIVZxH2G4IbxZB7KM21iqKQyRsxJ3rHgoBbmz7lfjjIgW9m9dEKqaAgtIIPNyGZt8SY4uXHfY
-9Z/naiMDQ1WS0Pgp342IPzzl69WaHz4RWClRp7MVD+bLQIeWFKU8nR9np1JxQa98Z4XvqXWxcIKa
-LDNsGJFVhdP2g24mA3krN+eh/IB5nmneIirzkxXA8O4w1/25FZulNbI9bNXKOg2Obv6tLQNtN9jZ
-gNS2MHg8OGsolyBIhympo6xYKYltJfENojFoh+XJRvdONkGg0bgO16PrWev5rpeQUatOypBQ/Or/
-NPRktqkbD+1RhwTZmCHptIDGaqValDtDZ8YEA1eQWNXJFaXdm2cnuxHHe0n73SO8oNACJv9oTVtS
-za5LDqepcmzrEARunSpmBRskxmDH4w4BO1TzVV7a6jTSGXzPp10i9dhN/fV9XTFUB6mFQ6WZc3vb
-Yapg1DZEqP2O9QslZ7MM1Z88LusY2JcMkXfd2tMMU9hmJVfjUnMuk5/74QQerhGrFpqEdI4O0o4v
-uaXTJ6qBtce1KM+yUewisxpufd2bANEXtFV4Lyj1pSdnIFPW/x1Puul0yGMg+kyzi2trMeptkD2j
-/VzDqcvzbopttCip+Apj+tgf5e1xcJV9SnOlEr39JqVsRU8ZcqwfT2b0FHI8kY10RAO0llXNdJQF
-fdoiVX40OnWMyn1yMiJ5n5pPKzwK0U+Ea5hsqjQK3FT5cSv8Hm2UXXDG0qgxzNnioG7oBSqQOfpw
-YpPbEXeGpdn15sQEB4NmS8d6Oi3reyEfl6FX4zs/DaRiY5dvtYlpxsvWMIOOLgZa3EwVmta40p9h
-G4HQcYOioiR8hidGhWfIpuZYBb5NvZlMzhSkYAgu5QcWO5zhkaXd1NnmEF6xNwWMCfa732smshz+
-sf1zE9aD16N/NTCJpgyOcXSkiWOjQjmWhUmXKInWc6yR7y2X3WYdE3FuTIppXY9p6ghjh/R8RfHy
-c4bekuYCNcPcceEtI6zSSBlKkjRf3wlMAKVorlSl6jFtBZdL+ChCggFfxkW3k31OxnGOu+dxCVt+
-Bm5gX70dWA5prS2yVtcGjUDWNcu5qe54cEH7ksu4HRdzVqp8zsEidOfmxZc8klXtojigvI9MdmvH
-YQYwB1A6t9+5q1i0YAq2VHHi5H4XO2hAB0DehVQAYTk2ArTr8LqLZoaBkJvkTzuxVYA7SfyjGFnh
-jWhxRWFQEWOdppje8wJ3lFffnr6agFWVHMz3gQoIGfOmYfXqRCdsrChtCrHX7p5mkfk5qPXJw6Wv
-Qv//9Va1WAm4f28ZYzxjKDcFRGUw/4iOn3KziC7St25HEFjTxw0Qzw9XIR342Bz/MlqWyq00DE0B
-de9dPqSrXbQzQBiN7UTRDDAzcCKQyjAn/xM0P39juZHjJYKRpSncF/vJBhexjhTelLxTQmAbfNWh
-W2FQRlodBs75wYXkKpCEcULl7xPbAzYRY9EiWMcSuCkFHpdwAw22AI3j8ypk1NN/C9iRIDbsiY5v
-J0oXuE1Z13rVR9cCLMOrwduHhmsDYOa6J9VYtZQuhn9YloyIbsypPM1gJWuV3WUxT2zE3f7gSNAI
-msY3Q9pNodBt8GKdg0mIaYV9X06w2GjCh83jpGwZzCBpfdl1Bo83riAqdeimRCoS5LcBq9UGyUPk
-kUPygIGsfcYFxC6X+ksh7nPFjuDYvlS8sHWsaj4PTtsYDG3SCBqOE/psglQlOhQ1MDUJU7wBNhDP
-SQbX2u/8ftadk+MFJhsMFmDjXKqWJuNcJIgqdToJBJgrER3f1BcCTvh6MZbiggvdwzpqdtZsOdvv
-yHi+lJ1V3yY68hcrM9XN
+<?php
+
+namespace App\Http\Requests\v1\TenderItemComply;
+
+use Pearl\RequestValidate\RequestAbstract;
+
+class UpdateRequest extends RequestAbstract
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'tenderId' => [
+                'numeric',
+            ],
+            'tenderItemId' => [
+                'numeric'
+            ],
+            'isComply' => [
+                'boolean',
+            ],
+            'isTbe' => [
+                'required_if:isCbe,null',
+                'boolean',
+            ],
+            'isCbe' => [
+                'required_if:isTbe,null',
+                'boolean',
+            ],
+            'unitPrice' => [
+                'required_if:isCbe,true',
+                'numeric',
+                'max:20000000000'
+            ],
+            'additionalCost' => [
+                'required_if:isCbe,true',
+                'numeric',
+                'max:20000000000'
+            ],
+            'additionalCostDescription' => [
+                'required_if:additionalCost,>0',
+                'min:10',
+                'max:256',
+            ],
+            'comment' => [
+                'min:10',
+                'max:256',
+                'required_if:isComply,0'
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

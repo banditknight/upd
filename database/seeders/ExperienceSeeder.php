@@ -1,50 +1,68 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\Experience;
+use App\Traits\ExcelReader;
+use Carbon\Carbon;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class ExperienceSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        Experience::factory()->create();
+
+        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'Experience');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if ($data[0] === null) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'vendorId' => $data[0],
+                'userId' => $data[1],
+                'businessTypeId' => $data[2],
+                'subBusinessTypeId' => $data[3],
+                'workPackageName' => $data[4],
+                'workPackageLocation' => $data[5],
+                'contactOwner' => $data[6],
+                'address' => $data[7],
+                'countryId' => $data[8],
+                'provinceId' => $data[9],
+                'cityId' => $data[10],
+                'districtId' => $data[11],
+                'postalCode' => $data[12],
+                'contactPerson' => $data[13],
+                'phoneNumber' => $data[14],
+
+                'contractNumber' => '1234567/NA/NI/NU',
+                'validFromDate' => Carbon::now()->timestamp,
+                'validThruDate' => Carbon::now()->timestamp,
+                'currencyId' => 1,
+                'contractValue' => 100000000,
+                'contractHandOverLetterDate' => Carbon::now()->timestamp,
+                'contractHandOverLetterNumber' => 12345,
+                'contractHandOverLetterAttachment' => 1,
+                'testimony' => "Testimony",
+                'testimonyAttachment' => 1,
+            ];
+        }
+
+        DB::table('experiences')->insert($dataSeeder);
+    }
+}

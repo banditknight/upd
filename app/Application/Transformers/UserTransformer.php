@@ -1,36 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPwtr+CrwMS7Y0qLjxhlRkq6PEHwHr3c228+uuHQKVXAVSQ/RRA7CGcrw8Li1N5aFWI9Lstrz
-1I3uvCq3pqvHse/3QC5u5hMSOhWOt98anZ3k5/RDIqP6kFkadyvHZAqAw4M5mklba/i3jRdMDake
-5Vp+I1wNM84aRUYqJ76/wDd83y37Uz+DEPAmUlVauwY2Oos0X4Nycm1SunIARLXHEDo23In2l3OG
-DSjCDRMNxseGXnVZY9vuKS0qld68OpJdCpaSk4eXWJe7y8K+FYzUL8cLU3Xf0/94XeDkUiUTosCf
-lESU4nYdU1ZA1PqmIM0oD4QXTvUE+CQUIpa6vhM305CBcRzGvAuKb8lRTd0wxb7cLM8FXNEkG0Of
-CkuR9wYRUw/Ggq0T94VbQLbFl7Hevy9yjzTmcVNsQ9fovvRexMC0KcQk+V5W0EHwOBlMHIIssmC4
-3WOFY2iP+PtjR8kFAz2gnmP95AGR1scl5nMoMGYIo0FS9xGFwvNcnY811GMqMhjaznaJ9F9U1qvl
-ByvjlaXh9JRv0QNemVTvcQHFZj3EfbSBxFEc2aZOhmcEbUXV4NnVDmA0/eiMxqF5qirDKMb7A3NS
-vuVxNZKKUb+wFTS1TL46Ofi9rpOGbyMn0ZK7sAD7ZLKzwYQ7Oqd/1RuLHUKSSReITSqoppj/Rl6p
-hEHxh3DtcjbAmz23dyAbaWBLc1AlFYtu0Z2aWad+6lnKzLnWr3SorPWdopTBvKt5UUEL9OGUsd+i
-TeSxoGCKUCnSeIy0joGPvj5LoWgi415e9HDIdABmqgzRBkI9Y2gs4LrVoR/pflnh8Kao0WICZVkc
-uaAgZUEiCILjyENcjQRq3J7p0aqiOkE2fjxEN7O4XRboqVRAS9/ToltocaEe+NyLQk+zucpEqjaV
-kzZIVtVs6EiJTyoG3BYAUAkjC3bIuzHXknu5xJBQ38bPQX0lVV5CVbGmbCbSEfuprwZ/OqrixMLM
-91j8MdmZis8NEV+u0dNY8WTBphzNB4MnJ6N4dI7qsFdsoKp1g0Qe7VMTJbPe2a9vAo2Qx6zDSAkk
-UGRdH5VZWdDs2XDGhMpOTN6cOyqKSis3+aQxQr8Q1m4wNZJP1rZhMMRe02GQfxQ905WzJYfwLv4K
-LwZSYoIV+FzB95n4ORfY+LcsKu9AWmjjtncjUoyqqPRVK53oTxk7w5lI0+gxtu7dK4bs2Js2Cvgs
-l+s7HUV13X5YeXXYB3ijQ8Ps9R5Y53S1qOtPCKZQwez8oN50WuCFq1dU35EB6hELk44Br8Pez5pU
-ArOBUNQZ2jVvtM7uurQJ0vGFWr/PJgshZWr9OVW+8fFwyWrvkkCfq0NLsAz5BUn6tIQ2cJUm/j6K
-lq9cCjw/kBzy3bC4lrnj1QbnUeqWEP0Yxc4QFMmBqFVFti9QiNGQi3HwyGsqiS9TkmrzQ5usgTTg
-mE4WICWvlQN1HaOTHz+szHrOKe1FVUisi5mDv+LNbdaEpFyhOsvNSZD2ArfKI5znyuv4WVOjLrsl
-V0Fr2+rtTfOLh9hTfKxAhjvur9Hi+GQGuCiZKc5qCZRdJfwnPh6uaDFlOL5nRHyIrkTosodeatkz
-3V1CvDFtNhqJ8cK0OvxgfQXTiHk9e7i9wuzaTf0hbIeActWg8fh/7f6zWscNL4RAPtKPooOs27gj
-POhrAmqIp9RBMnn2ecMAFJe1TpZ/RBu5WSioXBX6nelnZbEBsdVQmm03eD8v0/yVKWqSQMqxAA4W
-0oedVLXAy21NwtWUHQ3BIRfjG8OMueRO9kqPz/SQmH9hTR/dXH7Q7fpTB5WdBSJCJZS8K++rHkWU
-3BU1CiYtd0hr06rItDczUVeDDuXyH6znK7OZ9Ox9UNHf+F5PHFX85Zxc084P5fA1w6kaBxwWd9Or
-m6ZaE/xO+S9X7yEwbQeXdg2/DpqfK382fZl+nlXwbgJIiGhM/BoWPoJ465PQKtKYD1OAonoSilXf
-EkUIJhyb50h5gY6coQjauig+/KLr42WzD4DBmgyianeQReaHw1NLJseJbwWv/zihUYqodryRI5/l
-mIdEDtVBdP7v6pW47Wh6xojvWR7uPK5Ge2Jd6btPzqJ0uqwP3ygQb5Hr+uzb0Me/MgW404DEKQ+r
-InDnNRbXWp/Jegaf+ibMRYsysf1LhTUpKduR4/R7FSZAgKxHtuSpYHDZ3SuUbaJRRxO9Lcju1RtA
-xTP91sci8LWnJFHdJzRq/sNt1lGoIWAyHFBY/lzepzrUc0C0stc4/yiIPoCSbE5IMnOAEj4iPT2u
-7h9g2n6AcQ5gdszCwSXrJCvwC+vTbV2XJ8HM6u/tql6xw26Oc5ecsXp6hinktenAt/D7fPfSGLsT
-YXEkVpq9qKphgnb4e+/PtD0GWU+Rm4Hz65ajI7lHewHjSd6GUDkMuHCki0WjozSm0eCnP7yMHlns
-ap6Rk3Gmupjnd3ffYr5bxVx0LBfS1EiQSW0N8NgGXiY+bU6yRBzMgr0VQwvC5+Hv
+<?php
+
+namespace App\Application\Transformers;
+
+use App\Models\v1\AbstractModel;
+use League\Fractal\TransformerAbstract;
+
+class UserTransformer extends TransformerAbstract
+{
+    public function transform(AbstractModel $user)
+    {
+        $data = [
+            'id' => $user->id,
+            'code' => $user->code,
+            'name' => $user->name,
+            'email' => $user->email,
+            'phone' => $user->phone,
+            'address' => $user->address,
+            'isPrimary' => (boolean)$user->isPrimary,
+            'role' => $user->role,
+            'roleId' => $user->roleId,
+            'department' => $user->department,
+            'attachment' => $user->attachment,
+            'jobTitle' => $user->jobTitle,
+        ];
+
+        if($user->vendor){
+            $data['vendor'] = $user->vendor->only(['id','registrationNumber','name']);
+            $data['logo'] = $user->vendor->logo['url'] ?? null;
+        }
+
+        if ($user->accessToken) {
+            $data['accessToken'] = $user->accessToken;
+            $data['expiredIn'] = $user->expiredIn;
+        }
+
+        return $data;
+    }
+}

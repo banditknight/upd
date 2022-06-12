@@ -1,40 +1,40 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-8Xq0g6K1bQ4eTsTK
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateWorkflowNodeTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('workflowNodes', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('workflowId');
+            $table->string('code');
+            $table->string('name');
+            $table->string('description')->nullable();
+            $table->string('comment')->nullable();
+            $table->string('action'); // user choice
+            $table->string('columnName')->nullable();
+            $table->bigInteger('responsibleRoleId')->nullable();
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('workflowNodes');
+    }
+}

@@ -1,30 +1,47 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-SkMKlyYtRvAdpPgYYdIW90==
+<?php
+
+namespace Database\Factories\v1;
+
+use App\Models\v1\Vendor;
+use Illuminate\Database\Eloquent\Factories\Factory;
+
+class VendorFactory extends Factory
+{
+    protected $model = Vendor::class;
+
+    public function definition(): array
+    {
+    	return [
+            'domainId' => 1,
+            'companyTypeId' => 1,
+            'name' => 'Kaltim Parna Industri',
+            'registrationNumber' => '10000',
+            'vendorTypeInformation' => 1,
+            'presidentDirectorName' => 'BAPAK MARIHAD SIMON SIMBOLON',
+            'referenceId' => 1,
+            'address' => 'Jalan Pupuk Raya Km.2 RT.52 Kelurahan Loktuan Kecamatan Bontang Utara',
+            'secondAddress' => 'Kota Bontang 75314 Kalimantan Timur',
+            'countryId' => 1,
+            'provinceId' => 64,
+            'cityId' => 6474,
+            'districtId' => 6474020,
+            'postalCode' => 75314,
+            'phone' => '+62-548 41717',
+            'faxMailNumber' => '',
+            'email' => 'eproc@kpi.co.id',
+            'website' => 'https://www.kpi.co.id',
+            'picId' => 1,
+            'picFullName' => 'Procurement User',
+            'picMobileNumber' => '08123456780',
+            'picEmail' => 'eproc@kpi.co.id',
+            'tenderReferenceNumber' => 1,
+            'pkpNumber' => 1,
+            'pkpAttachment' => 1,
+            'isActive' => 1,
+            'isCompleted' => 1,
+            'taxIdentificationNumber' => '01.719.838.3052.000',
+            'isAcceptTermAndCondition' => 1,
+            'description' => 'Salah satu perusahaan Penanaman Modal Dalam Negeri (PMDN) terbesar yang memproduksi Anhydrous Ammonia di Indonesia.'
+    	];
+    }
+}

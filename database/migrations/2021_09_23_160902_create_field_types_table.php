@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-KWEDQi2wVOg6K0==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateFieldTypesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('fieldTypes', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code');
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('fieldTypes');
+    }
+}

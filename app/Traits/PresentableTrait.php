@@ -1,35 +1,69 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Traits;
+
+use App\Contracts\PresenterInterface;
+use Illuminate\Support\Arr;
+
+/**
+ * Class PresentableTrait
+ * @package App\Traits
+ * @author Anderson Andrade <contato@andersonandra.de>
+ */
+trait PresentableTrait
+{
+
+    /**
+     * @var PresenterInterface
+     */
+    protected $presenter = null;
+
+    /**
+     * @param \App\Contracts\PresenterInterface $presenter
+     *
+     * @return $this
+     */
+    public function setPresenter(PresenterInterface $presenter)
+    {
+        $this->presenter = $presenter;
+
+        return $this;
+    }
+
+    /**
+     * @param      $key
+     * @param null $default
+     *
+     * @return mixed|null
+     */
+    public function present($key, $default = null)
+    {
+        if ($this->hasPresenter()) {
+            $data = $this->presenter()['data'];
+
+            return Arr::get($data, $key, $default);
+        }
+
+        return $default;
+    }
+
+    /**
+     * @return bool
+     */
+    protected function hasPresenter()
+    {
+        return isset($this->presenter) && $this->presenter instanceof PresenterInterface;
+    }
+
+    /**
+     * @return $this|mixed
+     */
+    public function presenter()
+    {
+        if ($this->hasPresenter()) {
+            return $this->presenter->present($this);
+        }
+
+        return $this;
+    }
+}

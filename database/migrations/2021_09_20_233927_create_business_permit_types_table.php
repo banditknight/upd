@@ -1,32 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-3XLCLFB5Hx5xdDRm
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateBusinessPermitTypesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('businessPermitTypes', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code')->unique();
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('businessPermitTypes');
+    }
+}

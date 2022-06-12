@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-N5iMuFDtiPk2IBW=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateUserManualsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('userManuals', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('title');
+            $table->text('content');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('userManuals');
+    }
+}

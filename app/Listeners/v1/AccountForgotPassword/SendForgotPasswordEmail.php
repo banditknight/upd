@@ -1,63 +1,113 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPnhIjpJ5TWmxa1mY5ypmeTWrzGl+PBTwEuAunMVuNF5NATpOrYEjW2wqJsknFhqTVB0/W4ns
-75oz8mCU7p2Xq2qbaI9j16YKliwKUlw6nHVPfGy5HH0KJCFbgHEJVi/PW6g+0elE2SB6C5KX09/G
-AXWnzpFnfE/+ppdMs8e6P1z1R3UDbROWR6C5D3IxuoYGCLFvhkr0yySwXgiZ+0m26MAliN7k/XBL
-dBT9MD7uiv6W3iJeiNkcCKiMg5DZEvyEqIUYk4eXWJe7y8K+FYzUL8cLU5TZj1/1KvjiPRKnaMEf
-7ST4pV+lc/4SOM2D70wjW2vCXG6bCAfKX2RLCHxMH+e1GZ6+zmTinbEfnQ3P/2JLJjhwc/hP8Sps
-il9uvxqLxsG9Y67tUAVEf+uPHpYAhdMn2aHO5cn16YVOj6FO+WpaJi3hjIdw0mv+iQSca1wPKjuJ
-uGgkktTDT+mmxLsoo4bXdYF49VsFZ3aAMPEcRFbqSxDzNsbsj2PK7bTsy3K9KTsszTIJ5stMPPI9
-o/w14uIXNtCO+HJq0Dl8HBt/4QjE6ThoKU5GCCRVvvpkR3k8MFs4qI4nKuPZbzjrSiXEgH0UUtGF
-HKE8Cm8Owo+LP6xteZNfWRoCIBBBYVh5MvnAUMuMEMoAIsV/IhwVVY3T42U7wb+9g8EHZPOO2xIe
-R98CLS932/Q+BTRUt5UuIYJcFuVV+QWUB/8Y2lYGsecUWmErpHWFo3ByQ26fZvrHY5sAtGM+PrpA
-dpIIk+iSkRrziPIBNlXAF/zgFo6esY0gVuSoWG7uW3H8XmZtrIE7L7n6N4zuRHPbizQcAirtlaoM
-QNzbmVN2ou3zPZDUmsmQEYnMDie+dlRGiONHmq11669uEABqVx61mVWS9atbDBj1yhhunSiO3YEX
-iNrJxiFgdKzwgR5wslZjehX/J/QFwji9EwoVCWXyiwSt7IZOoUlR3gmklS3CMv6wbX2dcJI8ihEe
-Oa2k6xvA2F+Tqfvg+n4HGBML3rrwB4fFMJKuvzeSWhT+cj8XkJSkW8Aq0MyRn/kazRgo8RCskIK3
-Xpe8JXfEyy+ht1ySndqESZB7AikwEIg+zbNtN6i1p8qo5NC8e7TsfLeNkEjrEMv4trdvHjR4xDfu
-9YSAj2sh6Aqxup4Bk1qNBJie9BhZyiCI/rOI/358KWfMsbBoRnwD0/3umkAFOGzGhIn/d6KRnWX0
-0bk2JbiAJmh2PqP8jMbCY6/7YwZjFiqcZwuGtbKSI+ke9wTaepLHk7QXM4904ZB3KkoinsfQKAOu
-hmqHChl7kBm+IwbKynn4qnHIIbdaA9xJ95dIBBH1P7Sw6LTF/uko6npzqZ/r6DzBMILE3c+uiBNQ
-Cg0uP+YaTtl/9v1EHneQ/6rLntwE5kzm54vxJxeX1MHwN+FOkY05oVuG33R+8H69wqR1a9l/1ALj
-EFDDTtMc8qlaT6mAt0BiVSHA6n+Sra30i0jKFjvuiG2quUIu6SowfGYEpXW38FXLkyJBAszaGEEX
-kM7+2OCTt6WZ/MHPnTa7Vd1r27ZpNhoaV+mWtA20xemgTjBWGZNw6NGwFx9QhWGjbnlvbFNDmT7x
-tMa3Z7bFhHBdJpz97s5jp0b/jOE2THgGvR7CSnNl6nmtXwbWvvAmW4rRja9T370tnzaJRDiQ/jMX
-y1r/Mo84c0QFw9EYHf3+y4gEJyfswT/BKNWHXQ6vZLZHmVBQXHGCwCsWaJZ0wztqqJtWZwcWEt7k
-f+1/wySj0Nu9Rg0t72hqA3YshDJJ+b8SKmVUj9dnjYUVydr7JNawYQmPGbC8cZFPkasl47O/zSkU
-N909/txr14SEL28SCrodG9Gm1UKIYPYwMmRaYSCigm9ApC8Mp3+6wcnlsDAF/Gfy98Ri0wqUJS5x
-yrRe7NAjhqYipYCA6jhuflRttSICvjqhCeVZDRhR/qq9gAsDfCu8Ufwx9D5eAB9zxbvaXzSNzei3
-pXyMJBfwfiP4HSN8CFQlsHLPJ4Z70Px/vWnyP5AMCdwb1B2BhE/H5V/vcxN9XsDpSmtihg8kGeIB
-B85xLvu+IvTtzLwxjipd13hvk8TMwxpzArdpYKHfr3NnJLjikCYhzbbcRRt0jniGPwjD3S0s3RG+
-9ayfNcEDpqDSHR/61v1J1PaL2xrojVLGT6nIjY431bAABbDsqJD8cK9OPeC5rcOjTUbkKcti1Mhr
-T+amLY/zzKNrB9/AHvmA3iWIlgu5Z/9FMQQGRKleNUSGctyLH0z2Ksh4IkOnvcBgMmuxIJU9HBtk
-/kOPTCPq9YywY26PxibOFN4WBkc0qCYHLn2AjjasU51E7tP0iU7V0/VDRSDlaNeuq+dQ0djl07QZ
-YNPZMaEDgA3xRTC9/mRV0aPcnDqDm8KvZwReCteeVpe4xQ7wNC7bXIfWd+FcyiNlivKpabQu3Xct
-v9Wl1xe5dgGfku96gHwNtgP3a8m4WAoIevOrfwfG0i/RwIB+XWkQEmd/AWv+4axuK1EcjkaHQGqC
-swP5TLYM0pj+01VhoDarAihespvEoZF+NrNnf5bPnWMUItM1xxk1BE0tNqrsrSX+YjI136Ot+ISK
-VbWL9hDKQp/W+0wPAU9ToIV+J3q+LT9xxTGDRPjFVIBVrEi5FvMrzxpa71kmX7iQn6mQpq65gn4W
-RlRPTjRPjjAxxiZ5jSPXbilEUFLh0Y7WCZfKjbsRPKaN3PtT5q5EIM0lieYhrcDhRMbaiAHQWuz1
-zgxElZPssc35zpvyxsvRmGNzRrn6U1sSGu7C9K3369g0yZFFLVWZIWZvo5rR9z7DR8wr9qYZqWXC
-Jq9BGcIT12gJLt+RT74zSCFcCAjqSv7WEwI9Y214asCMgN0mNwWAUsHeBOj0iQ7PJvjDbKXLzAk1
-6wqcIoHxnrtVWS4/yc0tzd+Z/+hgekuX4NL4URlhihqIdZGLxXS1DLNBvoBS+bi9FxhM4iyesO91
-X4BDdQTGY+PZg/D5R1J+yQTqRb/GOIhGDtTMU0JbAzcu0lsYGH23eK4xSZIknJYgg4txHlvIJoPr
-CbHzEhQ0txPwNPdn9oTTTVzL0MoyKF1UstHzq5ZW8ZM9p9WjO7jZ9xxraSfBYmRSBMFd88gMiakm
-T5VMxN7k7TqCAA6Dow5L3x7D2jocWD8NaGakQBg+evxoNKcUTlh7qpVGw1ASRtDXO07s7uItClNZ
-MkXipA/k3hAUONQBBEuROX9UYKbQgE0xHC+yx4DT9d4SAwg8b27sJbn40LkobbCSYPppHc4A1LJ5
-RcKYJ2H0xdCz9PxXcR49+mHHb3UnA5MB931kG8ZCsW14X+5+9DYwdrOzmQc24WXw0JTc72vC9pfy
-vdmZTdQ0nA2QlWvNX3ZCGz53P1mAWJtlSPvLrk711wQjwfWKlhVqSGVisSnn2FCra4P8SKzdaUDB
-zj1eKOANkrQ9Qg6UGSy8eYni4FZtLxojkL+8HFNyxDOk2nPyRAWmQDRXIDPDgtnVtayYFHIB8KsO
-r5MG9YqgQqVevYngtErMSoR7ujbEcBhr30cozlAVVD8QKxzE4LQpkfx1COWbj3Svg3bG7y2RH+8U
-z63Zv0d9pL7BViAQkuow3wsM75lzKele1h7X8PhK4ldZmKZ0jBg1OX8QDXjaMSqv4eNn83HsQLjR
-bxhgE9wGOvOHMAS6BPuwuIKcSQEd+NoLNeSYN/XJgW+E3GZVHiZETzrzMPA9tWMtI7N/TsO4kiRv
-lFRfksh4qIgGOzlhcnWAD+hX1MjrJ4NIXkpcNPMC8E38cP/2Xj3xWXWQJtUdecD6bcX0btcu90EW
-+YGQ+Df+Wuj1QtTOEhB7cGEqgpLR6eYN2fbt3dSiBDJ3/giPNPTzk6I+oh80DiybSSZnWu0dFKN1
-zLg6FJCBdod5ms97ZFApDV1fivEBnOScY/D3YOZ9aEaLLvDGNCg9YNHGb06yHfV2ujcfRRix3YPn
-fAAMb9GnH/W0LCuVplbXY8hIrT+BA90wd6/L/PJtoPkT8BDGN4S/ls+DswYyQbdjQ1UNOU46JufE
-qZub9A5JT7WKHYLNYVpfkCKYkfTidArfm8LX+miGZIw8RhHuoUc8gJ9odDbw31l/6EwkK1ERc+jG
-1s77aVGaKWVZGimoVVUcaEXMGB91I19EIYG6L4unZxS5EWYEmutm5izDMY7uVRs6dB7hKhaQVsX4
-Zs8wjYsTxsir2uI+UeqGgQwaNm5bWNXw1acMLpsgJ+pNtgsAOHFxFtKHmlZhaGKD5+AGGs7q6WlU
-O21Yu9okGNSMq6A52Evbn136nZ0eLV0HHES7hWlQ3nZ5Y3Zf5mG2lnli0nwdc4aoL7pRe2ndt0Cx
-RTa2LblWxAk/sSHwEJyM32EsZxxNs9d3Rcu0GbRmqobYhT3JHUJxt7EA4OazK7C6aeL21itNHlpl
-d/+pFRQeRFPaq1giSYOo/DKqQEUKHHmlm7xovs4x9aLFRbHGIKrvBvvefcVajjNpvIhs1p/OX1zs
-axNFOB5HbeKsbN4eivmE2ym=
+<?php
+
+namespace App\Listeners\v1\AccountForgotPassword;
+
+use App\Events\v1\AccountForgotPassword;
+use App\Jobs\v1\SendForgotPasswordEmailJob;
+use App\Models\v1\ResetPasswordToken;
+use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Support\Str;
+
+class SendForgotPasswordEmail implements ShouldQueue
+{
+    use InteractsWithQueue;
+
+    /**
+     * The name of the queue the job should be sent to.
+     *
+     * @var string|null
+     */
+    public $queue = 'listeners';
+
+    /**
+     * The time (seconds) before the job should be processed.
+     *
+     * @var int
+     */
+    public $delay = 60;
+
+    /**
+     * The number of times the queued listener may be attempted.
+     *
+     * @var int
+     */
+    public $tries = 5;
+
+    /**
+     * Create the event listener.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        //
+    }
+
+    /**
+     * Handle the event.
+     *
+     * @param  AccountForgotPassword  $event
+     * @return void
+     */
+    public function handle(AccountForgotPassword $event)
+    {
+        //
+    }
+
+    /**
+     * Determine whether the listener should be queued.
+     *
+     * @param AccountForgotPassword $event
+     * @return bool
+     */
+    public function shouldQueue(AccountForgotPassword $event)
+    {
+        $user = $event->user;
+
+        $currentTime = \Carbon\Carbon::now();
+
+        $expiredFor = env('RESET_PASSWORD_TOKEN_EXPIRED_FOR', 10);
+        $expiredTimeStamp = $currentTime::now()
+            ->addMinutes(is_int($expiredFor) ? $expiredFor : 10)->timestamp;
+
+        $findActiveResetPassword = ResetPasswordToken::where('userId', '=', $user->id)
+            ->where('isActive', '=', 1)
+            ->first();
+
+        if (!$findActiveResetPassword) {
+            $resetPasswordToken = new ResetPasswordToken();
+            $resetPasswordToken->userId = $user->id;
+            $resetPasswordToken->token = Str::random(64);
+            $resetPasswordToken->expired = $expiredTimeStamp;
+
+            $resetPasswordToken->save();
+        }
+
+        dispatch(new SendForgotPasswordEmailJob($user, $findActiveResetPassword ?: $resetPasswordToken));
+
+        return true;
+    }
+
+    /**
+     * Handle a job failure.
+     *
+     * @param  AccountForgotPassword  $event
+     * @param  \Throwable  $exception
+     * @return void
+     */
+    public function failed(AccountForgotPassword $event, $exception)
+    {
+        //
+    }
+
+    /**
+     * Determine the time at which the listener should timeout.
+     *
+     * @return \DateTime
+     */
+    public function retryUntil()
+    {
+        return \Carbon\Carbon::now()->addMinutes(5);
+    }
+}

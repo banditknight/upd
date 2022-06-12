@@ -1,34 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateAnnouncementVendorsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('announcementVendors', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId');
+            $table->bigInteger('vendorId');
+
+            $table->string('title');
+            $table->text('description')->nullable();
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('announcementVendors');
+    }
+}

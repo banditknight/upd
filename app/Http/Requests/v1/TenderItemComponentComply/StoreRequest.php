@@ -1,33 +1,58 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPpsegg6/SY+MHXy/WadRPYSZQLJGKEPz+ECB4xi+t/sG6koiqIR28N5n7FvJ5DWbqbVJd5p4
-+Y+YxTxAFRw8VKvCmJKuf5WfsgcAad43I3LQMPb+s6r+VZl5BsJ1DgVmyxT+pYz7rJ6uZiK+kClX
-PRfQgHzw+e487shztZ9UmuiMS7rJyku4IojzeKGTSOWgXayCbiScR4dLAmV+mBoHCWTLdf9d/W9s
-N45HuReoSW6i0FyAYXrbd5pR+IcHh6ipjGK4TxEuIY61EWVmXJu+BrvKYPLu9sMLgvy3HQrsX6wU
-Oobs0Xa5oPLbZzcPHKVvRUPGsa6HQrWp+GzwBab1YRxJh6xScuyFltQVyV25LzZPyVgZGFOHcCoi
-mWae4ikfI11BPb75xVL+1LoCvoF1Rjh106jDhMwQKEa738rbXYgdinWol1Mxrk+U2BkaW4wWn5Y6
-0sgbXcBGMpID5OiUysAu4p1HKY6lFkWASjTIeDoPzfk3vkmz8cGjTfN6+BRrb5yra91qdvIjwPNL
-G5HDwSGkiKvmTjfKQiJWEx7QYFitPvjAIgAtBhqXAWaHyn+7FXNI0mqz3VTS2Lt6jlSb9cX8rG2/
-xjJBVvW2i7xmhxmrUKddnE8obL9tKlQJIwMxO79tLOPQwFPsAVyQTzsEtCWY5WqtZFfYx0lG4iyJ
-5X/Btogd+xHkDWt3D6SWmCrmeXO3RICpZBq7rNWoVC9CAXI3tyRfXqK3hkniI7z3BzMfUPOfZtCp
-XSpTfrAGiT9u8DZlbH5/W1vQHyp63zf856GAEES7+NSiHNNfdsckKnEBi8yMy1aY/XC8DlbABmzO
-J+WbCpcz474axrlguWg1MtcO4hQ6GrgSrx7rLqvRiJAxdPig9LFZFio74ogehSW5VgWvCyftMZIH
-dAOJqJIQNPX3z2cjhYvEY/2CYbJyoiqgx7poVPKgE8ecyP9wQLus65IdYHalsYL346yQAfakh6Z7
-EbQ8yBmdagXXR9yYXeR9ffGoXeG13k7mU5PmAcX6YXDn5KWbtT4ARLxm67ZRkDjVdwWmPYSFA8dI
-hsp3VOztsADYln7KFhY2o+lcqw+AhwdN41EiSNVg4f/xgGhyS3qRKz07jan7Mp0h02z/P9ZChji0
-EdvKCO6vUvB0u5OhqMwJ/W1f4645TbVXI9XrT6fi453b9NND18BU/M2mCd6Obkur0BvaY6ofpf6R
-eqr+OxD74i4J6GZOSIz5PTPBB78hI9qOZCGU9HUmOIMP1IZmA/yY0VYo8Q204INzscYcK20P3bol
-4+yI+TrfabEWNRlgVl095Jf3NvgA1zoECbjqV8f7C1GGm8hrjsI8goIxRYTlMsPX9O5AgXifTjXq
-eFY26zJ5+KrN7o4fCU/Tboz3109p3Sea9rgXnQ3JmN/ZvwpM9sKS6M15E4sLaV1L0paqDZg8o2wz
-I8yg95XBo6mnGASsJaQJC0NLOmQWqUv4qCcigCp8uW1HIqVUGb/o7uYthTRU4L9JqhRL4RhTooge
-M7wzwIwfiyCF1tgsyWPkHTTT8GVhmwOQggb7SOZi51UOgGbwh0w4IYo7iwJgzlO4DqN2kOhv2J88
-BuIC4mjOeVeX+4iLteUynPDPOJSa9ALVePngceZZe1jlYi5sVcs44aTGLgnwm2McVgYszNNxEw0p
-axpL30f8NyeHpGrVGvKXw2NyAeCQ+YI+70Py4YTGV6lznEQZo7Kg4ewsG1EKn6DKc0lrj5AGGNwr
-sSY/RkVWuzKfdGC8V4DXDr752VLbZ+KXDE1blx9vWKXu7Nm2ivmq2e56uxEwlxRI3GzJecvNpy3z
-eEWSqoslrKBqjhVW61Q+CemSdAprGgyR3aIAfwdkSuwVCSyW38gH37kO4m686f2f1JQH4HuCiTZD
-m/vFYclDNyHOJ09zPYBGJP63WL+aXG24BbEHJgji7lzFNbmm3l8kyxPykPBg7Ryxeaf57oDPocmh
-PoidYFNCbWSKox7SdqdM//lpJ4RjVoJX72EFGhWSQefq2T+u67LAK5of/Bdna5kWDHOeWWDA3lzl
-/6OCHPe6OfEnCWxDCJLneizL+uOcAdW3WG55Uoi9/6PZ1QmkVN+3aAd+q9LC1fNsuCKx61Df5Ku9
-RfQxylptNoncb7wxwnQTS2mVafAj5XolVx6m3nFJLdiN8+px0bxxW/aj44HNXAAiu9Pem+HXGofs
-+6OXEW13k2X0NjQzIgNLkG==
+<?php
+
+namespace App\Http\Requests\v1\TenderItemComponentComply;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\AssessmentCriteriaItemValid;
+use App\Rules\AssessmentCriteriaValid;
+use Pearl\RequestValidate\RequestAbstract;
+
+class StoreRequest extends RequestAbstract
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'assessmentCriteriaItemId' => [
+                'required',
+                'numeric',
+                new AssessmentCriteriaItemValid()
+            ],
+            'isComply' => [
+                'required',
+                'boolean'
+            ],
+            'comment' => [
+                'nullable',
+                'required_if:isComply,false',
+                new AlphaSpaceDotComma()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

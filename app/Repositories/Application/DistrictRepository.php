@@ -1,29 +1,26 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Repositories\Application;
+
+use App\Repositories\AbstractRepository;
+
+class DistrictRepository extends AbstractRepository
+{
+    public function findByFilter($filter)
+    {
+        $cityId = $filter['cityId'];
+        $districtByCityId = $this->findBy('city_id', $cityId);
+        if (!$districtByCityId) {
+            return null;
+        }
+
+        return $districtByCityId->paginate($filter['limit'] ?: 10);
+    }
+
+    public function findBy(string $field, string $value, $columns = ['*'])
+    {
+        $findModelByColumn = $this->model::where($field, '=', $value);
+
+        return $findModelByColumn ?: null;
+    }
+}

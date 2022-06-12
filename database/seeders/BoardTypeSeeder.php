@@ -1,30 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-1+Wqd+M+1E0cAnHxhJRQ+41yx6+Yg5LyP8G=
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\BoardType;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class BoardTypeSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'BoardTypes');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if ($data[0] === null) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1],
+                'name' => $data[2]
+            ];
+        }
+
+        DB::table('boardTypes')->insert($dataSeeder);
+    }
+}

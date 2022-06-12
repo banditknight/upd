@@ -1,64 +1,96 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-W/Z3+WPvk8lE52xduLczpu6QqwymJ8/9
+<?php
+
+namespace Database\Seeders;
+
+use App\Traits\DateTrait;
+use App\Traits\ExcelReader;
+use Carbon\Carbon;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class TenderScheduleSeeder extends Seeder
+{
+    use ExcelReader, DateTrait;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        //TenderSchedule tenderSchedules
+        $dataOnSheets = $this->read(storage_path('seeders/TenderSeeder.xlsx'), 'TenderSchedule');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            // $dataSeeder[] = [
+            //     'tenderId' => $data[0],
+            //     'fromDate' => $this->dateToTimestamp($data[1]),
+            //     'toDate' => Carbon::now()->addDays(30)->timestamp,
+            //     'registrationFromDate' => $this->dateToTimestamp($data[3]),
+            //     'registrationToDate' => Carbon::now()->addDays(15)->timestamp,
+            //     'preQualificationFromDate' => $this->dateToTimestamp($data[5]),
+            //     'preQualificationToDate' => Carbon::now()->addDays(15)->timestamp,
+            //     'downloadDocumentTenderFromDate' => $this->dateToTimestamp($data[7]),
+            //     'downloadDocumentTenderToDate' => Carbon::now()->addDays(15)->timestamp,
+            //     'aanwijzingFromDate' => $this->dateToTimestamp($data[9]),
+            //     'aanwijzingToDate' => Carbon::now()->addDays(15)->timestamp,
+            //     'tenderFromDate' => $this->dateToTimestamp($data[11]),
+            //     'tenderToDate' => Carbon::now()->addDays(15)->timestamp,
+            //     'bidOpeningFromDate' => $this->dateToTimestamp($data[13]),
+            //     'bidOpeningToDate' => Carbon::now()->addDays(15)->timestamp,
+            //     'clarificationFromDate' => $this->dateToTimestamp($data[15]),
+            //     'clarificationToDate' => Carbon::now()->addDays(15)->timestamp,
+            //     'auctionFromDate' => $this->dateToTimestamp($data[17]),
+            //     'auctionToDate' => Carbon::now()->addDays(15)->timestamp,
+            //     'listOfWinnerFromDate' => $this->dateToTimestamp($data[19]),
+            //     'listOfWinnerToDate' => Carbon::now()->addDays(15)->timestamp,
+            //     'approvalListOfWinnerFromDate' => $this->dateToTimestamp($data[21]),
+            //     'approvalListOfWinnerToDate' => Carbon::now()->addDays(15)->timestamp,
+            //     'objectionFromDate' => $this->dateToTimestamp($data[23]),
+            //     'objectionToDate' => Carbon::now()->addDays(15)->timestamp,
+            // ];
+
+            $dataSeeder[] = [
+                'tenderId' => $data[0],
+                'fromDate' => Carbon::now()->timestamp,
+                'toDate' => $this->tomorrow(30),
+                'registrationFromDate' => Carbon::now()->timestamp,
+                'registrationToDate' => $this->tomorrow(5),
+                'preQualificationFromDate' => $this->tomorrow(6),
+                'preQualificationToDate' => $this->tomorrow(12),
+                'downloadDocumentTenderFromDate' => $this->tomorrow(1),
+                'downloadDocumentTenderToDate' => $this->tomorrow(12),
+                'aanwijzingFromDate' => $this->tomorrow(13),
+                'aanwijzingToDate' => $this->tomorrow(14),
+                'tenderFromDate' => $this->tomorrow(15),
+                'tenderToDate' => $this->tomorrow(20),
+                'bidOpeningFromDate' => $this->tomorrow(21),
+                'bidOpeningToDate' => $this->tomorrow(25),
+                'clarificationFromDate' => $this->tomorrow(26),
+                'clarificationToDate' => $this->tomorrow(30),
+                'auctionFromDate' => $this->tomorrow(21),
+                'auctionToDate' => $this->tomorrow(25),
+                'listOfWinnerFromDate' => $this->tomorrow(31),
+                'listOfWinnerToDate' => $this->tomorrow(33),
+                'approvalListOfWinnerFromDate' => $this->tomorrow(32),
+                'approvalListOfWinnerToDate' => $this->tomorrow(32),
+                'objectionFromDate' => $this->tomorrow(32),
+                'objectionToDate' => $this->tomorrow(33),
+            ];
+
+        }
+
+        DB::table('tenderSchedules')->insert($dataSeeder);
+
+    }
+
+    function tomorrow($n){
+        return Carbon::now()->addDays($n)->timestamp;
+    }
+}

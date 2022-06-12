@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-JVkDmxAIaMyD
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateDomainsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('domains', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('name');
+            $table->string('location');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('domains');
+    }
+}

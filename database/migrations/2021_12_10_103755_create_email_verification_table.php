@@ -1,33 +1,33 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPpKnCcsx6uT2GeQdJg2EwtVN5TOrswwQ6SevvzCKPdX0GnxAd+691g6BynofHopmSsfXR59S
-dMzjPMLkoKPTMZt7O4tqT8+GakJyPVyOtOg6f+D3y1T0S9D20m64OtFjM/Xujh4i2DclBzhJIDn9
-DZDKQxPMFcNg0yY0cmjZweaep9Da12Fr7AUYRGc7rLAbSGwZUpRs02fzont/ABSMNIpJytYCDa0t
-UqFMwcyx9cY/9WHZgYq3APeSoly208WZ3HCh/1BSk4eXWJe7y8K+FYzUL8cLU1vXOL9JkwKrganK
-5RDxopHnVxf3wqFkpPT5buSxpD1l64B04BOQ5cyhajGs08DXldsE/mPE0HcPFvdUD4NGVLT4LcCT
-taJhcZ2jiYt6I8Kber4D4pYJw+J9iq7DQbU+Unta4PGdAzT34zn6+odh1W/bWBplRL/D1w1nmQy9
-EtJ2R784X65zyPO9BXa26H7IQWIH51n/h62V7Sc4pEe/qOdFT9ruOOw+HdZaDMfSGFxBrdyaXqtf
-7wXtAk37sV+HQ6VrrlD7bY+maMelWiMFROykQUAu9V28ns7gWnzohudHSOievF7gwC565gOmhMCL
-NxA+OdWr+JP0KpP4kUdfECZEwcdhBcvj6Vzu+B4xKeP571LORqDHb88sW1YEl7rC2N47ImczPt30
-vlWATXpQ/SAF+kvdH0+HaHcyFo50MbsNmyU8ivY+bUTELewFAli2MNXZ3Ed7jcBwgZE0X3QX9akL
-63QyMNp5WzzehS1SwoTT8SVXxyuj4Gk4OJdQeiKfHuDTE7Kg8NcB1w27UakrxXt7Ixmwy00bzn58
-TEaE0FfBJCG65G7/Sap12QHuzfod2MlbB9PB/K8eVNZBLIzgSbX5psonXueAAtLa/VJGKm2z6+aB
-eYGW55cd4yMLIUUSgjrjEkaxRK7auE8BYf3qxFbZ1hTOEaY0o1N8ZzEwU4oN+QPe7Zk+68IrDCrU
-/IFMBclkq70rKPkuH34EdXfAOd3aqAa8vwZ9Wp4DJb4QHeOqa+NApxiXfgc2gkDtUwO0heJ6Xx41
-EUWczw1yX8KvpPfEBSUHbq/BlXOKDWe9S1BYVFWwYBmJ9QQ6TOU+d3Mw/KLBKmYbaVm3nSXxsf9D
-srHY1croXnAKYbqUTx6zzeLMsYls8tTdZKkUax0dYwYXOTcUr+VV8uLGSiDweD02BSZCcdrEPWtT
-cl2gO2c78Cen0LpBfba2r3BxfRqYZmnb4RcMq5V3ZMWPdDCh8biTozrcYVsZR5GIcr04LPrYUJ9n
-52fZN5VpdeDX8RqDLbMhaUCCO7g9FbwPReQHly1u1pOkeLTB66sxilbWaszIU3LHJjLFYIVjV65k
-GmRQHK3Xr0XbL7ggX8tRW6lhq467QCjkN2GwkIivXl4pDo2sde41ezNpg8HPEYG/AIlAi0WX8goY
-SRGg1uQIU15FHEUhT3NWNriNq+sXvhk4XeJPxzvnJfGlxfTThAnd8kyBtO48ez6I98sqrvA/JNE3
-7OW+yJ/x3suhWQ7/Ve29Ae0vUoT9IpBfdynbelQy3xBmNzC9G/LRg6x/askOBMuERS8kd6s3XpWt
-HvFkdeLFAhAUoVR6v4ZFZeNk5fGKyqkSFN0qBCr7bwXAT108Db+6XGNxuwfJYOegvZKJ5uwG7xiT
-ZMbe4c85YnwAvu0JlndbOVry8NqHwtJ/ssXeQ2qFQ5MjYND4JbAWZuJnDgqC647E3vsFg7arRFvb
-ilh1V18txduTNVf6UkDC3tM43NCho9ZdMFK/TuBlzfHNXJ98f3UpGgBWugJnQLz8azYVjox64IRS
-A53w59IfCv7KRucyXxAn0fMKcPDumheF7KRAXpWxcwHG5sBs2STkDamhmm/Xrj1JZA6cSAAcvqEb
-te71dsCtwBo+ahMZKFFBYrKBKM2+6MNxvTHZ0uid953PfsEUFqkR5X3L8ZsKB0jdiGdbnnhgN83O
-yqVkSCpOplMVxsjwqMc/YVCiIGrVE5pa6k+sXO5CsW9SYbNiSD7AyF7qtTNNIgfz8KcBLbueJPdS
-Xljhf76pJ+1et4K8I77DNP+tl4Axz2xqIXEC3KlRbVVVhiBp2SYtoPNS1eDPNeTzS+FJEarmoLVf
-QuWwNsaFvBUm2THsRN+wjWoTJVFpsFq542Tlg5lb8FqHbazp8itp4e17UrePjGv/I2MjASwKE2ZC
-EnO6uqdyRkamAOehzc6g/zQ+kLS=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateEmailVerificationTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('emailVerification', function (Blueprint $table) {
+            $table->id();
+            $table->string('email')->unique();
+            $table->string('code',5);
+            $table->boolean('isVerified')->default(0);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('emailVerification');
+    }
+}

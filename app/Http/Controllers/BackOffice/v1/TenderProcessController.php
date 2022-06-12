@@ -1,51 +1,59 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Controllers\BackOffice\v1;
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Log;
+use App\Models\v1\TenderParticipant;
+
+class TenderProcessController extends AbstractController
+{
+    public function index(Request $request)
+    {
+        $aanwid = TenderParticipant::where([
+            'tenderId' => $request->tenderId,
+            'aanwijzing' => true,
+        ])->paginate($request->limit);
+        return $this->responseSuccess($aanwid);
+    }
+
+    public function show($id)
+    {
+        $aanwid = TenderParticipant::where('id', $id)->first();
+        return $this->responseSuccess($aanwid);
+    }
+
+    public function aanwijzingvendor($id)
+    {
+        $v = request()->all();
+        foreach ($v as $value) {
+            $vendor = TenderParticipant::where(['tenderId' => $id, 'vendorId' => $value])->first();
+            $vendor->aanwijzing = true;
+            $vendor->update();
+        }
+
+        $data = TenderParticipant::where([
+            'tenderId' => $id,
+            'aanwijzing' => true,
+        ])->get();
+
+        return $this->responseSuccess($data);
+    }
+
+    public function aanwijzingvendordestroy($id)
+    {
+        $v = request()->all();
+        foreach ($v as $value) {
+            $vendor = TenderParticipant::where(['tenderId' => $id, 'vendorId' => $value])->first();
+            $vendor->aanwijzing = false;
+            $vendor->update();
+        }
+
+        $data = TenderParticipant::where([
+            'tenderId' => $id,
+            'aanwijzing' => true,
+        ])->get();
+
+        return $this->responseSuccess($data);
+    }
+}

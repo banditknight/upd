@@ -1,31 +1,56 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPzf2m7I/g3XxHlLLLtPmpcJnbQK6GqJ97Acu4CnAAXYGjChaFixgcH5pAX2kF/8llQtsDcPa
-Lv1GBbY8B8lqV3O5IELz9eAMfIlPswtVBdN44TA0RKYW4f5bE5vgLyHTKOu2qr5IvJEP7SBHTbqg
-IdYxW6YUoi/TNkqp5BBvtRcGP2ETa08i9at4rx5PpOK1CsU5fruEslduErHs0xWH3ewl9iqLMTkx
-i0vze2PbkfC8xuz6P3I7A/2+ahoI0HfV+vVkk4eXWJe7y8K+FYzUL8cLU5TaFGDsJJUDsfDblMCf
-ET9i/oGKNLJ2Nn6flRbuxG+So9eNyx6kQ58EM8HzMsUZDLveETySsICjsF2i3OektxcLGQm/Cy/A
-O64Hrc8D7ZJLKouI1FZrlpv2uLXTW/NV+r0LKHjpiOx8t6WcWQqRtgXALLtC69fMwaHxwqS7ucCP
-QzNGAbKM5PeCt4zilnER5OIxUXqOkIzTtdyG1L0/g0sKuv0gO4VdlyHC2vYotcofS4PzYJIVLlm8
-z4JjjIWQOfuimrL5biCAFm9Nv7IVthJKjDGnyaUdJdJd/6FzWISARSAsxU+RV+HouyGrTW7A+c7h
-jhjJTmghNRXfmbdXBJxvhMPZ194FPoI8qgoGag82c0GwyfbZ3IKX4WNDZDHW4Ga7nDgUUU+Q3VEe
-yl3mOkK0mxCwkhStO5nEsxOsNX+szT8W8CjOQCakYlS1HeGi4PjAr2C9jen5pu/iIezrVIUmCZuL
-FWn0VJPp5WbeAifxxI0OIVX42kXoj//cYYyOR8b8upQ7U/F9ApGUDPvOoX7W6WT9s9jDNm/mRI8/
-5ojF7OS5VjeeeZYFiYb+zezgOaUSvC//LrmSJXb4vtVuMxOltSsF8GYDhlg9CvDEo7nEq7/xkQ9w
-fvmWV1MWfpfSkknVBXpimepS+blmpv6IAoZ4Ya45osa6w+RYPMfb1+AihWT5lyQRMP5SPHMsEwi9
-6R164ktVGPHYMzGYCS0dItpT5pG4j8l9S+HrsJ3tSPIzXzTLmkX6pyQd3pkarwRGEqFs24b2qtl3
-jYWPKcqKBk9Mv9oszEBZLooZDBi8olPNII4leayTYdmx8TULV4KuDbQbfO72GiNSh/+zKA0zNXuM
-ilJojv6wOU0XgUHb5jNhrGHzlUiGvZ/JbC4dm9GNo+XWAvDx2FiDLmJRdElhHRcbHofJk6UBK0MD
-ZQ7uw1lCNhn914oVKRhO/sXSJxsqY9/rhs/b55N+XDSO+uEaYNyYMDSezPzFqEQAclBm8fiDIogz
-i+2TXIUp+gD5cBNxmugChVIWmz7pSOlb9YB5ujU64qzfO2XQPEYRo2uXNoUA132CM+whlrT0XvGk
-jTOH31R6J9elRL34O2jEc0zTAT3dxI6cnrN5g2bffRMsYhpz+/Vstq/4YEeBQw/ffG3qZ5JaLXy2
-fcFnmiJ/XTs/ngFV1QLdIWEMANznGhaZWSvxdpsQih6gxBgjoHPLTm/SWEkOce/PzxXB0kwH0DAA
-Nyie61j5meuPxXX9xVGqEXZBW8vFPQy5o8X7pj0p2hV/tNiEszkjZ7Lzr+0CMTisqMeNFyQk4D1d
-5KX5OGJ3yqGpvBBlxRtkSoPXgKSZPFn5M6jnGydoZfiqxluz+Zs65fZpSyYKHGbVgoFGniZrEgMV
-bI31cm9lWvQWFJ34kOkRlXbnDJl1UQQiI9ajDTL0qFQJOb6e+YMXKJjhr90ApcA+/40D4AUsxs4k
-Sld0OIXJHqHGSM2FEOK+hKh1Q/lxs8WVayWwo+8x8VeNlSsPD7gYJATZY6gbWsdRMnuHWq+3VZ57
-bID4S6i6b9nGuVr9kb4OXO2PkXU5/RjXFeeRpJ2W48Gjf4d1m7XYltYWfUTxQF/djk4HElkVshe9
-qelvrFq3Ry1S9dyvQ6XaPWuXcV+7nS5UuznUPhWugG1vqibecrrlymwS4boK6AnBU0QntfUJnBOH
-Ax/9foM08bj8yvXp9uAbyOYwZxwY6NcyJcpCdKTUHoabd+thT18qUvS7R0S/9NtoQqwWVXvXokVD
-KYuneFSP1aE14icqVBjGsJDMFcOVi/0aofctyfeUQ0==
+<?php
+
+namespace App\Traits;
+
+use PhpOffice\PhpSpreadsheet\Exception;
+use PhpOffice\PhpSpreadsheet\Reader\Xlsx;
+
+trait ExcelReader
+{
+    /**
+     * @param $file
+     * @param string $sheetName
+     *
+     * @return array
+     */
+    public function read($file, string $sheetName)
+    {
+        $reader = new Xlsx();
+
+        $sheet = $reader->load($file);
+
+        $worksheets = $sheet->getSheetByName($sheetName);
+
+        if (!$worksheets) {
+            return [];
+        }
+
+        return $worksheets->toArray();
+    }
+
+    /**
+     * @param $file
+     * @param int $sheetIndex
+     *
+     * @return array
+     * @throws Exception
+     */
+    public function readWorkSheetByIndex($file, int $sheetIndex)
+    {
+        $reader = new Xlsx();
+
+        $sheet = $reader->load($file);
+
+        try {
+            $worksheets = $sheet->getSheet($sheetIndex);
+        } catch (\Exception $e) {
+            return [];
+        }
+
+        if (!$worksheets) {
+            return [];
+        }
+
+        return $worksheets->toArray();
+    }
+}

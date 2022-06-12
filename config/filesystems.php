@@ -1,31 +1,70 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPuMqpUv1dpR170DOpGyIPd/9eXAVTHfBX+rK0OZRWCtwXu4Ug8raht7tsNO55+QAvAGYStEX
-tFBlMkSFp+hhqRH6LeXkq4V7IcMEo5mqzFZMqCJI67Khu/rf1eqahYY3ZFz+DyEuGcnSklZ5pdN4
-iMEEjxRl+Imfvs4NrcaFla28MCYIT1IPv7OFY08TSYNYEPGngGtL20BsmufNT2cck2nXSqLIHn1b
-NRv1+pBloDoa5GR5cJLAuRmQxRvFCm2DFlacwhXA8O4w1/25FZulNbI9bNWxQYkrOqu317jTfbtJ
-xfC7HfuqdYc7SOpa5VOu5X27M5oPmItEXSgtx8KOPEYM9RegUBSdqFwVmgqmlIa8nhGHnqAeCCdc
-Z2Ff5SMTGXHUPe4WJ1/ps0M1TQNenmMDABolz5BdyjpYicxfSkyZT5I3qM1CzRSp9xRs1EzwM1xL
-vM4vaKDImFbNNDgFknjdJriApBOzQoJs0bleyta/c2vumLGWWe+rA2VrAJSmeoQDUePP362niBRX
-qVT2fXE2VXMte6KXAVjfU8PV2z51YInmCKtQS9zAEXKOMJ4u/j8LdLhi+FRYR8tpsMoth7HX74cw
-MF/SKGEstV+FpF8vbGYcw5dW/My34RM3Doegn3vOaAU7ghb5/pyq0z6OTJJ+gg5ZN+HBHq2B2tfr
-tnkmipPkvXTtW/XPRQjjjUo4gyWqahC/WUxfLmAiZuj5Sr4pWHWAvjUYPZ1AIDU4QBFGfUnsvYmU
-Ze9xYYqBjk0g3jkbyjHcGeQnJdwe22ZKP4n98O8iLtjctzSwUblYmK9ihbG3wkpiyv8gCtnLysfz
-t3k9ubo0geWhrXgBMoUja/3KFjN/1KhXSiVjLColcA38j8iCUsfUfUSiq7dKaQpC8oI6Jqi/nDYu
-XGL6Yzw3grU2iTfFXWbBUKBXX2+n7Je2u6VRWTQrRoY/rSz6d1ueR3FYp6zW1pdmi47rPDNbZK+5
-9VvcqM4+hmm3eRlYZ3KN+xtBmPPhh7sTn+e5FplH620MfMxEGU8xqQUtmkWpLwHv5yBQ1tnxRfJl
-LA4kR7NOleecO1zxe393spVisQ2xy7GNi0CrJ+I+qxQ9s58GyaHEK9rt3IfShzgl+cmNZDOLjB5s
-DaD89iudh5C2+XnB3X4s1XWq02Ow+HYF2qtw4j7Jrzz0enNVAPN67G5FSkT242jSuhIuJjVa283w
-S8/j//ZHLRIITuMWhzi5G76bT1JdZl6e1Xi5NYQKYOzkHIU8RSGbBL0XTB7PrUyeQcZCjUwJiAwH
-7/NRrdroGsxLly1NlEZvx3Bzn3xjCP4vc8Rzs/EQXXMEKId9sHwXCLC8Su/FIK58D6yqtTQFKpki
-dTb0lK1ir9dRoBHGH2n4jcJA/9TnCVQ9IHu3JC+I25hK7Hlvbpc34lgpExru1OVh/UWCOclG80i/
-KB2CqtPnm5hkrv4u9GXu0p0Q5E1CdOL5PKB1vZ1WeFkkknLp/HFpd0AtTmzheEAshTuH0iH1siIs
-YLv3PEAa2MExGL9+zoD5ljqDBSns1gmAW2pZRgupmTlOI8g58cXVaL9ykUrxZa/htYxyP1P9QasT
-zdbpZD/TbzlP6JeYbqUE5dZMkeRji936vmbP9rtCgWxd0WIAXKbXWzYrxfHMAR9UpNvY579fJ3Dg
-3fk+lzZX4yHQtIKW/E0jJwVBRDawWM/hfMYXfsoPVPARMGrgk7358qmNwC8hPhZ1ibZSgkw/Qvxe
-W+L2ZW0Gc6tY3OT7bQ9ssFRYL6lh2S1dD6bQ4j5ASs98CfkV3hJsLLUTiwXnmEvn8Vbofc0ASQA/
-k8vUwkmk+Iga9+UTlN/OL8NmPWDEf4KNc4Bdu/NIldY5QtaONPeiOpAkApljWoBALz7xGwGLOiro
-SQallZQpulA4v4PXX2vB1/qhrzkphxFf3OIwCKGGsdSmC8CvHnloRAL1DTwjfeAmkEaFx/wXADF0
-+ESCN3hrg0M7KZ4kaUG6wnD8hopGxPTZYlEGagihoXHTjYX0as9y5UiKUlH74TkYptxOJEbRRMrO
-YHySIfn77F8zOR6EN7E+J1z9b09xZ97tiHfG91tzvQ3BeKZR
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Filesystem Disk
+    |--------------------------------------------------------------------------
+    |
+    | Here you may specify the default filesystem disk that should be used
+    | by the framework. The "local" disk, as well as a variety of cloud
+    | based disks are available to your application. Just store away!
+    |
+    */
+
+    'default' => env('FILESYSTEM_DRIVER', 'local'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Cloud Filesystem Disk
+    |--------------------------------------------------------------------------
+    |
+    | Many applications store files both locally and in the cloud. For this
+    | reason, you may specify a default "cloud" driver here. This driver
+    | will be bound as the Cloud disk implementation in the container.
+    |
+    */
+
+    'cloud' => env('FILESYSTEM_CLOUD', 's3'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Filesystem Disks
+    |--------------------------------------------------------------------------
+    |
+    | Here you may configure as many filesystem "disks" as you wish, and you
+    | may even configure multiple disks of the same driver. Defaults have
+    | been setup for each driver as an example of the required options.
+    |
+    | Supported Drivers: "local", "ftp", "sftp", "s3", "rackspace"
+    |
+    */
+
+    'disks' => [
+
+        'local' => [
+            'driver' => 'local',
+            'root' => storage_path('app'),
+        ],
+
+        'public' => [
+            'driver' => 'local',
+            'root' => storage_path('app/public'),
+            'url' => env('APP_URL').'/storage',
+            'visibility' => 'public',
+        ],
+
+        's3' => [
+            'driver' => 's3',
+            'key' => env('AWS_ACCESS_KEY_ID'),
+            'secret' => env('AWS_SECRET_ACCESS_KEY'),
+            'region' => env('AWS_DEFAULT_REGION'),
+            'bucket' => env('AWS_BUCKET'),
+            'url' => env('AWS_URL'),
+            'endpoint' => env('AWS_ENDPOINT'),
+        ],
+
+    ],
+
+];

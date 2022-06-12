@@ -1,67 +1,127 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-lz9oOGG=
+<?php
+
+namespace App\Helpers;
+
+/**
+ * Class CacheKeys
+ * @package Prettus\Repository\Helpers
+ * @author Anderson Andrade <contato@andersonandra.de>
+ */
+class CacheKeys
+{
+
+    /**
+     * @var string
+     */
+    protected static $storeFile = "repository-cache-keys.json";
+
+    /**
+     * @var array
+     */
+    protected static $keys = null;
+
+    /**
+     * @param $group
+     * @param $key
+     *
+     * @return void
+     */
+    public static function putKey($group, $key)
+    {
+        self::loadKeys();
+
+        self::$keys[$group] = self::getKeys($group);
+
+        if (!in_array($key, self::$keys[$group])) {
+            self::$keys[$group][] = $key;
+        }
+
+        self::storeKeys();
+    }
+
+    /**
+     * @return array|mixed
+     */
+    public static function loadKeys()
+    {
+        if (!is_null(self::$keys) && is_array(self::$keys)) {
+            return self::$keys;
+        }
+
+        $file = self::getFileKeys();
+
+        if (!file_exists($file)) {
+            self::storeKeys();
+        }
+
+        $content = file_get_contents($file);
+        self::$keys = json_decode($content, true);
+
+        return self::$keys;
+    }
+
+    /**
+     * @return string
+     */
+    public static function getFileKeys()
+    {
+        return storage_path("framework/cache/" . self::$storeFile);
+    }
+
+    /**
+     * @return int
+     */
+    public static function storeKeys()
+    {
+        $file = self::getFileKeys();
+        self::$keys = is_null(self::$keys) ? [] : self::$keys;
+        $content = json_encode(self::$keys);
+
+        return file_put_contents($file, $content);
+    }
+
+    /**
+     * @param $group
+     *
+     * @return array|mixed
+     */
+    public static function getKeys($group)
+    {
+        self::loadKeys();
+        self::$keys[$group] = isset(self::$keys[$group]) ? self::$keys[$group] : [];
+
+        return self::$keys[$group];
+    }
+
+    /**
+     * @param $method
+     * @param $parameters
+     *
+     * @return mixed
+     */
+    public static function __callStatic($method, $parameters)
+    {
+        $instance = new static;
+
+        return call_user_func_array([
+            $instance,
+            $method
+        ], $parameters);
+    }
+
+    /**
+     * @param $method
+     * @param $parameters
+     *
+     * @return mixed
+     */
+    public function __call($method, $parameters)
+    {
+        $instance = new static;
+
+        return call_user_func_array([
+            $instance,
+            $method
+        ], $parameters);
+    }
+}

@@ -1,29 +1,77 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPy9hYCuAiN3XqzqTxOO2GM35Nc2ZCjWv7fQuTu+Uu8z/1+KHt1T56yQYYiT0ANUEYkblG6+t
-m/u8k2gBl+4gDaPdlixH2z7SyoN7qd3B8rTpmGrPKzIMGrbvQ6B3EtsEzkmUzo2SXoo2pXjyqDxA
-EBDy5b/1hILMapJWXLclXobe+wWZvAsxIsXLcbFlKgpMZq6h0aQSeHh+2U3ZXiqsDyQSP4NkAycQ
-K+VXfZHmY+a1G0gM+p23HtBs1i6FEyCcPfd2k4eXWJe7y8K+FYzUL8cLUB1fTcCs2xJVFg/KE6Cf
-jiaV/rLXGPkeYafTRK6P8AAS8de89DhSvzUqnk5Tnd1zJ6sVdCkV05rGveXmrHspRGZDJrzSN2gd
-j48UAys6fMlrBcx5i0aUTBUm9vRJCggbdueh64ZHImHrI+rli38lwNVJmFty/tGN7JdZiIDYyFk+
-4SsgTX2wW4r7VL4f2zP4wnJcdPr5sZMjBmB31vGJZV5hIEpz1+PmkYJxoy0FmO+I3Y+ARYd1bRhH
-EFcjrffnWMREfbCi1e6Fq9kuSLjXfGw2y2VKf6VW4M37Ob5h1LqdqFbJ9BDvgxiC21XjcgsOQic/
-OuDK0Gy20Q8egDB6DpTsCE4bwD0iQuMN42J3m4fwxMZIa8U56d6mTTWfWP9diJMHeyjl6dtBQHSN
-1dxKvcbgNFNykjcHhEgTEgiJCnR+rTW+Eilcnfiusu186vB8yGr9P5qbw3PJR9Z0cefCqDvs3VbS
-oguv6/PjB4XjS7RlcE8qYkaklk4VlKMCloJcKdVitthcRkUO893zcnDzW9qlIgMhbdBC/hemHwCU
-Am3SQixzvDm3VIK7cBlvLkKZWz/39FRcPKE44KIRRUSU7dqlHUdRgFoZK/2E+QXFbxY3HdlNFYgX
-oN0+Qv0WAtx/tktPbTRnY4DxB43rVpK+YU40GEmhDbquPGikr40qxlfS8u2doc7mHu1O/hP84cb5
-UcttMj5xNVy/cpTVTaJSch7fQeUJceAF8mJqhzDBCOlZ8+WUO2jJdpLxn8Wqr2+21zxWMmRYCF4X
-dyzqXzeD76mS/rLzoasroulL1r+fvmskr2X1NsdpyWxLy1CRdrEbvTepdjn3ngg7t2znWgY/l8hr
-Cts3qfYcnZ71d+snn58NoaW046P1PL4PxOU8rNwso4LVuaDwNQdh29aYkwY+R7YAgMQuLXjjUqHP
-bdDUyUQjPWjPoIsn0c4eWVrM3mcNhZIZuPzbEnB0ht+b6sUVxTo/eue1Lz0NOAA6wiyBkEkHWLvn
-g1f7L+yTJLsVrVzW3Rsp+tHg3oLrNk6NYxTbVGthKdFSEZ528wlR8pQCFODatvtpB94GRsh/+V+Z
-LUFDHY1AC8BWrE8FPwtIWffGVZP/9ZeeuaJSUxNNAbh9g1MbuybLemtZ8giVhtaDqbcxA1GEeOUy
-qT+ck7i8UdAibnsXZUbBsBOWDlfZH/G2YtIroMCBNuQiTiqUp+5H8JPSk2SwzPXx9TSxu0mIM1Ch
-WEe38TBwvNmIOXJayQElB0brWJ8xpZrORteHhFiBvv3g7XIiCxDI0GRziXz/0xpaY2dcZ+3Fyfx0
-64UKnFzCDUAXG0lL8WESyA5zJg2kueANQYjtRx4nBoiLun7BPgrIrENeVETSGfLwK+EJSd46ZLD4
-dvFx49692qB4lRFgEmH/qcEom+YePjVV4kP7rlZMd9GbAcl3HOXVKcI684clSW7nBEC/sOIlrAjj
-I9fwxJICzTxQDWxfZ/Hg+qb8IsmkzPGVu6JdXUB3UXxXEMk5vG7Ir/Z9T4AUWMyo9CCKhauKPLw1
-68r3QjeFRduMWHVHvfyqTLQudGZpb3PlunLyIvQc8bQvV/sHIvUvNa8u9LhMeYGEPR57nn3sBStr
-y4zRX5J8AEtva7Nymtw1cvZlBrCeKFUMQQocPcxd
+<?php
+
+namespace App\Models\v1;
+
+/**
+ * App\Models\v1\Branch
+ *
+ * @property int $id
+ * @property int $userId
+ * @property int $vendorId
+ * @property string $name
+ * @property string $address
+ * @property int $countryId
+ * @property string $postalCode
+ * @property string $phone
+ * @property string|null $phoneExt
+ * @property string $faxMailNumber
+ * @property string|null $faxMailNumberExt
+ * @property string $email
+ * @property string $website
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereAddress($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereCountryId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereEmail($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereFaxMailNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereFaxMailNumberExt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch wherePhone($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch wherePhoneExt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch wherePostalCode($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereVendorId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Branch whereWebsite($value)
+ * @mixin \Eloquent
+ * @property-read mixed $country
+ */
+class Branch extends AbstractModel
+{
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'name',
+        'address',
+        'countryId',
+        'postalCode',
+        'email',
+        'website',
+        'phone',
+        'phoneExt',
+        'faxMailNumber',
+        'faxMailNumberExt'
+    ];
+
+    protected $hidden = [
+        'userId',
+        'vendorId',
+        'countryId',
+        'created_at',
+        'updated_at'
+    ];
+
+    protected $appends = [
+        'country'
+    ];
+
+    public function getCountryAttribute()
+    {
+        return Country::find($this->countryId);
+    }
+}

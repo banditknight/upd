@@ -1,33 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Criteria;
+
+use App\Contracts\CriteriaInterface;
+use App\Contracts\RepositoryInterface;
+use App\Models\v1\Tender;
+use App\Traits\User as UserTrait;
+
+class OnGoingTenderCriteria implements CriteriaInterface
+{
+    use UserTrait;
+
+    protected $request;
+
+    public function __construct()
+    {
+        $this->request = request();
+    }
+
+    public function apply($model, RepositoryInterface $repository)
+    {
+        if (!$model instanceof Tender) {
+            return $model;
+        }
+
+        $user = $this->getUser();
+
+        if ($this->request->get('isJoined', false)) {
+            return $model
+                ->where('tenderParticipants.vendorId', $user->vendorId)
+                ->where('docStatusId',2)
+                ->join('tenderParticipants', 'tenders.id', '=', 'tenderParticipants.tenderId');
+        }
+
+        return $model;
+    }
+}

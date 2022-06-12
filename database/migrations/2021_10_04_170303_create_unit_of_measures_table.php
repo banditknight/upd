@@ -1,34 +1,36 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPobKmQnKlpc38UDKZqYAuBGn4Cw748Uyjv+ugSdbnDxD4t7x2IZGVD7fCcV0XXBxh4KtDETI
-bRWITAjDHCqZWoyJ+M/2kRunHZMTbTkWWHcYXHFDueyF7v1RrmyhHxrE9IaDMWv1LAQLtk8nBvzI
-agJNdQIpErg59W+wGwZmueA6E0ElSB8EECy2z4Tt340Eas/4JscZGBz5d/K48KTMfpNHx9X6t8KJ
-w9NcNqdTSQiYYgGo/kRO2uS0+X6g6kP00VMTk4eXWJe7y8K+FYzUL8cLU4XaCasbhXg/WnJr8xCx
-DZ1vSEcnY2Dp+LPGX7ysny5vnaR6LRkzau7FxRmF1cX1MnjpG+pgRzB/FmWVJ5OXV+pp7JJJtd1a
-XmFjPyaUubdl5bDxWxI7/jzIer85N2QM/0LYjP/k1iVVD04H5cNS9T73nqW9FsyhzxVFeT0sOqzO
-bWkPNMeZOSqU7R9ZzsYDxjwdL6Pwj7gAYpPrWYa3hkXZnOm6aE5DM4wAksjgxlOR6ddt+HcuXtM7
-mXiiyOmQLUBFqtARYNhYuOGjvZZcsuc7pIyoTKCQx2iz3rY4uF9DKKZgDoYZzWbU0m6zWfD4WW8c
-XWhaRTWYZJwFTYNcaECKDBu3NdMMOmEdZZq0RN6Y4ZKPl3MjB7TAyPu0hSGrYQFF+X2/aN7OD0E4
-YAwZgxSTcXk1VQtiiWmHBXER34rWPiAnYaUtGTLzG5Zwno7WJS+YvM3RM0rhXWJ5c55WmgaFQ4YN
-UNAqWIEbi+KYRSxeDS1+qGnOdxL9b6qldNnq7a7JXNLZdRXiLBUubfJnkTBUrdmV0oee6q78VRCe
-Jw98Gr3mpBXL8dW4LDHRmh6Q4I9HJcQms3q2b2I/OEcCN0j7UsShsibp3Nq7vNceR8G1xFv1iTDQ
-tZgVArAuq0vvI2wIaMtg7EF6Lz7oi6ix7NyP149WBDW6VmkaD3E3qbBUNkgZoOA/z4k93YeB4nhG
-qaFajJJIqVNJzVJLKTjP9WgWxZJqAqMrCgZ7FMjMzKt8EVMpvbS6fEUHYoPnTRRq3rZ7yTsa9Rad
-Zqp/Zq6Uln0595zRVPqjbK3w8/cVL9LywqjY6hMoPALW6iky+Ty3JJ6RPWb/H02gavKIoHcK9jc4
-msl/2kjDI3SJkd9lanAgZWSWdw30Vxbkk9rrO6E7C23dX0RF8wWkIscXGynfilDqqq0j+R/Oq1VX
-4OQbFmCkvFsOZc0ZxofDMDriEnb6j2lcgA54x3TuWY1FDfNTfzMfhYIxzxRJu6OmXA5tDd+XbOzq
-9XpvvcEHbGCZUX22x2qYec52rwcviJ+kewpVUhIIqRGg1AY9ydIF2Yv3NCbGB0ILGC188w4Q+l9q
-LN5Db5e4eQaZQHHL2W3rxH/v+JDATMuX1xCBgvHf9TYYa2ThqiJ/Y4Cq2x9cBnPb2Svs3mjdt3FH
-5zTmpX2SgPsKISzDlVypnNIaxAEl5USxIsbbkelrn/nbppLEshAZZcKG/2ZOZDATXaHtakWTYvOI
-n8ozPf8sPZYWMVz6xt7hGfUglky/ofLlEj/EelesGsCLfyZ67Hp6oqnYVcKlN6CwyHRqN7qcWxcN
-LNalob9tvejEcNl0WJB9hl0Q0hVyB3s2wvegLDwiKvpgXjWGfu87X1Vr6RDa7AWUtVDnL6S0pWlG
-nM/FiHcOUodmakYt+SqCvJvNu4ABfAusK8TwjgDJFS+rtcMtak45JGamux5xJAzImb+tOFLtdEpt
-JQLjScgyJjeMse+lvbb2tNvVTxap1dmH8nZB0m1Qc7mJEoRmJZFsb+hXHSiJLEkU8P+u3fUAPEYs
-tBBSKRYVLKiRdI8uJi893ou2YysbBjYrLjEHg8xykiCWv5/9h9BIIh3w9hkaCe8+54cT8IxgVeNh
-9nFmh06mpXVrFHpD2/HeEiEDc2/BQ21tn0XL54ofJTxUCS+UjJfEpAPHwNaGd5T6RK6nSBdgcEQN
-Bznj+mxwoFdtb2etAO38JpSONnoEF+eDS8ZiqkZcRSyj26qoAbDC9hYhezxL7ObbxUYpNO4eGenA
-scwqVsfYWA4a+0I16bYUwLlHq4r6KAEtwgF5cJbMf9LBB590yPiXq4cIw+RMxKiAR8Y+/MFfB4M6
-ub7IufgP0kRqANFtfztUhgXktiENjRp0I03otNkhkKtj+ZronnS/+lKjXSI+Il2pXc73/JWwr73y
-R0tNENAyGVwFZy5DMgqLPueOizlo89MSa8Bd6HyZ79Qly3LUSSWHKCU6n1jVMzjvLhQy8//Q1e5Y
-SL7dkphaWq4=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateUnitOfMeasuresTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('unitOfMeasures', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code')->unique();
+            $table->string('name');
+            $table->text('description')->nullable();
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('unitOfMeasures');
+    }
+}

@@ -1,40 +1,96 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-RSAxUM94otSWZ/EvYm2ajMVc02htjwKzZzM1
+<?php
+
+use Illuminate\Support\Str;
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Cache Store
+    |--------------------------------------------------------------------------
+    |
+    | This option controls the default cache connection that gets used while
+    | using this caching library. This connection is used when another is
+    | not explicitly specified when executing a given caching function.
+    |
+    | Supported: "apc", "array", "database", "file", "memcached", "redis"
+    |
+    */
+
+    'default' => env('CACHE_DRIVER', 'file'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Cache Stores
+    |--------------------------------------------------------------------------
+    |
+    | Here you may define all of the cache "stores" for your application as
+    | well as their drivers. You may even define multiple stores for the
+    | same cache driver to group types of items stored in your caches.
+    |
+    */
+
+    'stores' => [
+
+        'apc' => [
+            'driver' => 'apc',
+        ],
+
+        'array' => [
+            'driver' => 'array',
+        ],
+
+        'database' => [
+            'driver' => 'database',
+            'table' => env('CACHE_DATABASE_TABLE', 'cache'),
+            'connection' => env('CACHE_DATABASE_CONNECTION', null),
+        ],
+
+        'file' => [
+            'driver' => 'file',
+            'path' => storage_path('framework/cache/data'),
+        ],
+
+        'memcached' => [
+            'driver' => 'memcached',
+            'persistent_id' => env('MEMCACHED_PERSISTENT_ID'),
+            'sasl' => [
+                env('MEMCACHED_USERNAME'),
+                env('MEMCACHED_PASSWORD'),
+            ],
+            'options' => [
+                // Memcached::OPT_CONNECT_TIMEOUT => 2000,
+            ],
+            'servers' => [
+                [
+                    'host' => env('MEMCACHED_HOST', '127.0.0.1'),
+                    'port' => env('MEMCACHED_PORT', 11211),
+                    'weight' => 100,
+                ],
+            ],
+        ],
+
+        'redis' => [
+            'driver' => 'redis',
+            'connection' => env('CACHE_REDIS_CONNECTION', 'default'),
+        ],
+
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Cache Key Prefix
+    |--------------------------------------------------------------------------
+    |
+    | When utilizing a RAM based store such as APC or Memcached, there might
+    | be other applications utilizing the same cache. So, we'll specify a
+    | value to get prefixed to all our keys so we can avoid collisions.
+    |
+    */
+
+    'prefix' => env(
+        'CACHE_PREFIX',
+        Str::slug(env('APP_NAME', 'lumen'), '_').'_cache'
+    ),
+
+];

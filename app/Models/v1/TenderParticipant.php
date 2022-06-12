@@ -1,45 +1,102 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\TenderParticipant
+ *
+ * @property int $id
+ * @property int $tenderId
+ * @property int $userId
+ * @property int $vendorId
+ * @property int|null $tbeScore
+ * @property int|null $cbeScore
+ * @property int|null $ratioFinancial
+ * @property int $joinStatusId
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-read mixed $status
+ * @property-read \App\Models\v1\Tender $tender
+ * @property-read mixed $vendor
+ * @method static \Database\Factories\v1\TenderParticipantFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant query()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereCbeScore($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereJoinStatusId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereRatioFinancial($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereTbeScore($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereTenderId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereVendorId($value)
+ * @mixin \Eloquent
+ */
+class TenderParticipant extends AbstractModel
+{
+    use HasFactory;
+
+    protected $table = 'tenderParticipants';
+
+    protected $fillable = [
+        'vendorId',
+        'userId',
+        'tenderId'
+    ];
+
+    protected $hidden = [
+        'vendorId',
+        'userId',
+        'tenderId',
+        'created_at',
+        'updated_at'
+    ];
+
+    protected $appends = [
+        'vendor',
+        'tender',
+        'status'
+    ];
+
+    public function getVendorAttribute()
+    {
+        if (!$this->vendorId) {
+            return null;
+        }
+
+        $vendor = Vendor::find($this->vendorId);
+
+        return $vendor ? $vendor->only(['id', 'name', 'registrationNumber']) : null;
+    }
+
+    public function getTenderAttribute()
+    {
+        if (!$this->tenderId) {
+            return null;
+        }
+
+        $tender = Tender::find($this->tenderId);
+
+        return $tender ? $tender->only(['id', 'number', 'name']) : null;
+    }
+
+    public function getStatusAttribute()
+    {
+        if (!$this->joinStatusId) {
+            return null;
+        }
+
+        $status = TenderJoinStatus::find($this->joinStatusId);
+
+        return $status ? $status->first() : null;
+    }
+
+    public function tender()
+    {
+        return $this->belongsTo(Tender::class);
+    }
+}

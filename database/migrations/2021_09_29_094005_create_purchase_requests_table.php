@@ -1,49 +1,53 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreatePurchaseRequestsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('purchaseRequests', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('tenderId')->nullable();
+
+            $table->string('no')->unique();
+            $table->string('name');
+
+            $table->bigInteger('departmentId');
+            $table->bigInteger('itemTypeId');
+            $table->bigInteger('currencyId');
+
+            $table->string('woNo')->nullable();
+            $table->string('woTitle')->nullable();
+            $table->string('document')->nullable();
+
+
+            $table->date('confirmedDate');
+            $table->decimal('totalAmount',15,3);
+            $table->float('totalQty');
+            $table->bigInteger('DocStatusId')->default(1);
+
+            $table->string('prType')->default('ERP');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('purchaseRequests');
+    }
+}

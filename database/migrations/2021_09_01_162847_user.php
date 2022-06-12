@@ -1,50 +1,48 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class User extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('users', static function(Blueprint $blueprint) {
+            $blueprint->increments('id');
+            $blueprint->string('code')->unique();
+            $blueprint->string('name');
+            $blueprint->string('address')->nullable();
+            $blueprint->string('phone')->unique();
+            $blueprint->string('email')->unique();
+            $blueprint->string('password');
+
+            $blueprint->unsignedBigInteger('vendorId');
+            $blueprint->bigInteger('departmentId')->nullable();
+            
+            $blueprint->dateTime('createdAt')->nullable();
+            $blueprint->dateTime('updatedAt')->nullable();
+            $blueprint->boolean('isPrimary')->nullable();
+            $blueprint->boolean('isActive')->default(true);
+            $blueprint->bigInteger('attachment')->nullable();
+
+            $blueprint->bigInteger('jobTitleId')->nullable();
+
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('users');
+    }
+}
