@@ -1,113 +1,63 @@
-<?php
-
-namespace App\Listeners\v1\AccountForgotPassword;
-
-use App\Events\v1\AccountForgotPassword;
-use App\Jobs\v1\SendForgotPasswordEmailJob;
-use App\Models\v1\ResetPasswordToken;
-use Illuminate\Contracts\Queue\ShouldQueue;
-use Illuminate\Queue\InteractsWithQueue;
-use Illuminate\Support\Str;
-
-class SendForgotPasswordEmail implements ShouldQueue
-{
-    use InteractsWithQueue;
-
-    /**
-     * The name of the queue the job should be sent to.
-     *
-     * @var string|null
-     */
-    public $queue = 'listeners';
-
-    /**
-     * The time (seconds) before the job should be processed.
-     *
-     * @var int
-     */
-    public $delay = 60;
-
-    /**
-     * The number of times the queued listener may be attempted.
-     *
-     * @var int
-     */
-    public $tries = 5;
-
-    /**
-     * Create the event listener.
-     *
-     * @return void
-     */
-    public function __construct()
-    {
-        //
-    }
-
-    /**
-     * Handle the event.
-     *
-     * @param  AccountForgotPassword  $event
-     * @return void
-     */
-    public function handle(AccountForgotPassword $event)
-    {
-        //
-    }
-
-    /**
-     * Determine whether the listener should be queued.
-     *
-     * @param AccountForgotPassword $event
-     * @return bool
-     */
-    public function shouldQueue(AccountForgotPassword $event)
-    {
-        $user = $event->user;
-
-        $currentTime = \Carbon\Carbon::now();
-
-        $expiredFor = env('RESET_PASSWORD_TOKEN_EXPIRED_FOR', 10);
-        $expiredTimeStamp = $currentTime::now()
-            ->addMinutes(is_int($expiredFor) ? $expiredFor : 10)->timestamp;
-
-        $findActiveResetPassword = ResetPasswordToken::where('userId', '=', $user->id)
-            ->where('isActive', '=', 1)
-            ->first();
-
-        if (!$findActiveResetPassword) {
-            $resetPasswordToken = new ResetPasswordToken();
-            $resetPasswordToken->userId = $user->id;
-            $resetPasswordToken->token = Str::random(64);
-            $resetPasswordToken->expired = $expiredTimeStamp;
-
-            $resetPasswordToken->save();
-        }
-
-        dispatch(new SendForgotPasswordEmailJob($user, $findActiveResetPassword ?: $resetPasswordToken));
-
-        return true;
-    }
-
-    /**
-     * Handle a job failure.
-     *
-     * @param  AccountForgotPassword  $event
-     * @param  \Throwable  $exception
-     * @return void
-     */
-    public function failed(AccountForgotPassword $event, $exception)
-    {
-        //
-    }
-
-    /**
-     * Determine the time at which the listener should timeout.
-     *
-     * @return \DateTime
-     */
-    public function retryUntil()
-    {
-        return \Carbon\Carbon::now()->addMinutes(5);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

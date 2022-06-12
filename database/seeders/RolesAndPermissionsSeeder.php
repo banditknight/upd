@@ -1,182 +1,48 @@
-<?php
-
-namespace Database\Seeders;
-
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-use Spatie\Permission\Models\Role;
-use Spatie\Permission\Models\Permission;
-
-class RolesAndPermissionsSeeder extends Seeder
-{
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        // Reset cached roles and permissions
-        app()[\Spatie\Permission\PermissionRegistrar::class]->forgetCachedPermissions();
-
-        $arrayOfPermissionNames = [
-            'approveCbe',
-            'approveTbe',
-            'accessBackOffice',
-            'editRole',
-            'editPermission',
-            'editRoleHasPermission',
-            'approveTenderLevelOne',
-            'approveTenderLevelTwo',
-            'approveTenderLevelThree',
-            'approveTenderLevelFour',
-            'approveTenderLevelFive',
-            'approveTenderLevelSix',
-        ];
-
-        $permissions = collect($arrayOfPermissionNames)->map(function ($permission) {
-            return ['name' => $permission, 'guard_name' => 'api'];
-        });
-
-        Permission::insert($permissions->toArray());
-
-        // create roles and assign created permissions
-        // $arrayOfRoles = [
-        //     'superAdmin',
-        //     'admin',
-        //     'buyer',
-        //     'superVisor',
-        //     'superIntendent',
-        //     'manager',
-        //     'generalManager',
-        //     'vicePresidentDirector',
-        //     'vendor'
-        // ];
-
-        // $roles = collect($arrayOfRoles)->map(function ($role) {
-        //     return ['name' => $role, 'guard_name' => 'api','code' => $role,'description' => $role];
-        // });
-
-        // Role::insert($roles->toArray());
-        
-        $arrayOfRoles = [
-            ['code'=>'SA','name'=>'superAdmin','description'=>'Super Admin','guard_name'=>'api'],
-            ['code'=>'ADM','name'=>'admin','description'=>'Admin','guard_name'=>'api'],
-            ['code'=>'BYR','name'=>'buyer','description'=>'Buyer','guard_name'=>'api'],
-            ['code'=>'USR','name'=>'user','description'=>'User','guard_name'=>'api'],
-            ['code'=>'SPV','name'=>'superVisor','description'=>'Supervisor','guard_name'=>'api'],
-            ['code'=>'SPI','name'=>'superIntendent','description'=>'Superintendent','guard_name'=>'api'],
-            ['code'=>'MGR','name'=>'manager','description'=>'Manager','guard_name'=>'api'],
-            ['code'=>'GM','name'=>'generalManager','description'=>'General Manager','guard_name'=>'api'],
-            ['code'=>'VPD','name'=>'vicePresidentDirector','description'=>'Vice President Director','guard_name'=>'api'],
-            ['code'=>'VND','name'=>'vendor','description'=>'Vendor','guard_name'=>'api'],
-        ];
-
-        Role::insert($arrayOfRoles);
-
-        $arrayOfRoleHasPermissions = [
-            [
-                'permission_id' => 1,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 2,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 3,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 4,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 5,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 6,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 7,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 8,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 9,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 10,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 11,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 12,
-                'role_id' => 1
-            ],
-            [
-                'permission_id' => 3,
-                'role_id' => 2
-            ],
-            [
-                'permission_id' => 3,
-                'role_id' => 3
-            ],
-            [
-                'permission_id' => 3,
-                'role_id' => 4
-            ],
-            [
-                'permission_id' => 3,
-                'role_id' => 5
-            ],
-            [
-                'permission_id' => 3,
-                'role_id' => 6
-            ],
-            [
-                'permission_id' => 3,
-                'role_id' => 7
-            ],
-            [
-                'permission_id' => 3,
-                'role_id' => 8
-            ],
-            [
-                'permission_id' => 7,
-                'role_id' => 3
-            ],
-            [
-                'permission_id' => 8,
-                'role_id' => 4
-            ],
-            [
-                'permission_id' => 9,
-                'role_id' => 5
-            ],
-            [
-                'permission_id' => 10,
-                'role_id' => 6
-            ],
-            [
-                'permission_id' => 11,
-                'role_id' => 7
-            ],
-            [
-                'permission_id' => 12,
-                'role_id' => 8
-            ],
-        ];
-
-        DB::table('spatieRoleHasPermissions')->insert($arrayOfRoleHasPermissions);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

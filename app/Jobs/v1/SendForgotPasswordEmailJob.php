@@ -1,40 +1,31 @@
-<?php
-
-namespace App\Jobs\v1;
-
-use App\Models\MailableInterface;
-use App\Models\v1\ResetPasswordToken;
-use App\Models\v1\User;
-use Illuminate\Support\Facades\Mail;
-
-class SendForgotPasswordEmailJob extends AbstractJob
-{
-    /** @var User */
-    public $mailAbleInterface;
-
-    /** @var ResetPasswordToken */
-    public $resetPasswordToken;
-
-    /**
-     * Create a new job instance.
-     *
-     * @return void
-     */
-    public function __construct(MailableInterface $mailable, ResetPasswordToken $resetPasswordToken)
-    {
-        $this->mailAbleInterface = $mailable;
-        $this->resetPasswordToken = $resetPasswordToken;
-    }
-
-    /**
-     * Execute the job.
-     *
-     * @return void
-     */
-    public function handle()
-    {
-        Mail::to($this->mailAbleInterface->toEmailAddress())
-            ->send(new \App\Mail\v1\SendForgotPasswordEmail($this->mailAbleInterface, $this->resetPasswordToken))
-        ;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

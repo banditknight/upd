@@ -1,53 +1,33 @@
-<?php
-
-namespace Yuliusardian\LumenResourceRouting;
-
-use Yuliusardian\LumenResourceRouting\Routing\Router;
-
-class Application extends \ElemenX\AdvancedRoute\Application
-{
-    protected function registerContainerAliases()
-    {
-        $this->aliases = [
-            \Illuminate\Contracts\Foundation\Application::class => 'app',
-            \Illuminate\Contracts\Auth\Factory::class => 'auth',
-            \Illuminate\Contracts\Auth\Guard::class => 'auth.driver',
-            \Illuminate\Contracts\Cache\Factory::class => 'cache',
-            \Illuminate\Contracts\Cache\Repository::class => 'cache.store',
-            \Illuminate\Contracts\Config\Repository::class => 'config',
-            \Illuminate\Container\Container::class => 'app',
-            \Illuminate\Contracts\Container\Container::class => 'app',
-            \Illuminate\Database\ConnectionResolverInterface::class => 'db',
-            \Illuminate\Database\DatabaseManager::class => 'db',
-            \Illuminate\Contracts\Encryption\Encrypter::class => 'encrypter',
-            \Illuminate\Contracts\Events\Dispatcher::class => 'events',
-            \Illuminate\Contracts\Filesystem\Factory::class => 'filesystem',
-            \Illuminate\Contracts\Filesystem\Filesystem::class => 'filesystem.disk',
-            \Illuminate\Contracts\Filesystem\Cloud::class => 'filesystem.cloud',
-            \Illuminate\Contracts\Hashing\Hasher::class => 'hash',
-            'log' => \Psr\Log\LoggerInterface::class,
-            \Illuminate\Contracts\Queue\Factory::class => 'queue',
-            \Illuminate\Contracts\Queue\Queue::class => 'queue.connection',
-            \Illuminate\Redis\RedisManager::class => 'redis',
-            \Illuminate\Contracts\Redis\Factory::class => 'redis',
-            \Illuminate\Redis\Connections\Connection::class => 'redis.connection',
-            \Illuminate\Contracts\Redis\Connection::class => 'redis.connection',
-            'request' => \Illuminate\Http\Request::class,
-            \Yuliusardian\LumenResourceRouting\Routing\Router::class => 'router',
-            \Illuminate\Contracts\Translation\Translator::class => 'translator',
-            \Laravel\Lumen\Routing\UrlGenerator::class => 'url',
-            \Illuminate\Contracts\Validation\Factory::class => 'validator',
-            \Illuminate\Contracts\View\Factory::class => 'view',
-        ];
-    }
-
-    /**
-     * Bootstrap the router instance.
-     *
-     * @return void
-     */
-    public function bootstrapRouter()
-    {
-        $this->router = new Router($this);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+mG==

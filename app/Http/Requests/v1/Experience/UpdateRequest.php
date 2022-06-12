@@ -1,166 +1,64 @@
-<?php
-
-namespace App\Http\Requests\v1\Experience;
-
-use App\Rules\AlphaSpaceDotComma;
-use App\Rules\AlphaSpaceDotNumber;
-use App\Rules\BusinessTypeValid;
-use App\Rules\CityValid;
-use App\Rules\CountryValid;
-use App\Rules\CurrencyValid;
-use App\Rules\DistrictValid;
-use App\Rules\FileValid;
-use App\Rules\ProvinceValid;
-use App\Rules\SubBusinessTypeValid;
-
-class UpdateRequest extends \App\Http\Requests\AbstractRequest
-{
-    /**
-     * Determine if the user is authorized to make this request.
-     *
-     * @return bool
-     */
-    public function authorize(): bool
-    {
-        return true;
-    }
-
-    /**
-     * Get the validation rules that apply to the request.
-     *
-     * @return array
-     */
-    public function rules(): array
-    {
-        return [
-            'businessTypeId' => [
-                'required',
-                'numeric',
-                new BusinessTypeValid()
-            ],
-            'subBusinessTypeId' => [
-                'required',
-                'numeric',
-                new SubBusinessTypeValid()
-            ],
-            'workPackageName' => [
-                'required',
-                'min:5',
-                'max:256',
-                new AlphaSpaceDotComma()
-            ],
-            'workPackageLocation' => [
-                'required',
-                'min:5',
-                'max:256',
-            ],
-            'contactOwner' => [
-                'required',
-                'min:5',
-                'max:100',
-                new AlphaSpaceDotComma()
-            ],
-            'address' => [
-                'required',
-                'min:5',
-                'max:100',
-                new AlphaSpaceDotNumber()
-            ],
-            'countryId' => [
-                'required',
-                'numeric',
-                new CountryValid()
-            ],
-            'provinceId' => [
-                'required',
-                'numeric',
-                new ProvinceValid()
-            ],
-            'cityId' => [
-                'required',
-                'numeric',
-                new CityValid()
-            ],
-            'districtId' => [
-                'required',
-                'numeric',
-                new DistrictValid()
-            ],
-            'postalCode' => [
-                'required',
-                'min:3',
-                'max:10',
-            ],
-            'contactPerson' => [
-                'required',
-                'min:5',
-                'max:100',
-                new AlphaSpaceDotComma()
-            ],
-            'phoneNumber' => [
-                'required',
-                'numeric',
-                'digits_between:10,16',
-            ],
-            'contractValue' => [
-                'required',
-                'numeric',
-                'max:20000000000'
-            ],
-            'contractNumber' => [
-                'required',
-                'min:5',
-                'max:32'
-            ],
-            'contractHandOverLetterNumber' => [
-                'required',
-                'min:5',
-                'max:32'
-            ],
-            'contractHandOverLetterDate' => [
-                'required',
-                'date_format:d-m-Y'
-            ],
-            'contractHandOverLetterAttachment' => [
-                'required',
-                'numeric',
-                new FileValid()
-            ],
-            'validFromDate' => [
-                'required',
-                'date_format:d-m-Y'
-            ],
-            'validThruDate' => [
-                'required',
-                'date_format:d-m-Y'
-            ],
-            'currencyId' => [
-                'required',
-                'numeric',
-                new CurrencyValid()
-            ],
-            'testimony' => [
-                'required',
-                'min:10',
-                'max:256'
-            ],
-            'testimonyAttachment' => [
-                'required',
-                'numeric',
-                new FileValid()
-            ]
-        ];
-    }
-
-    /**
-     * Get custom messages for validator errors.
-     *
-     * @return array
-     */
-    public function messages(): array
-    {
-        return [
-            //
-        ];
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+8kgkEoXK79ek1LZGqF6z4IF3k0==

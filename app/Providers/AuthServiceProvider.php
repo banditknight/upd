@@ -1,38 +1,30 @@
-<?php
-
-namespace App\Providers;
-
-use App\Models\v1\User;
-use Illuminate\Support\ServiceProvider;
-
-class AuthServiceProvider extends ServiceProvider
-{
-    /**
-     * Register any application services.
-     *
-     * @return void
-     */
-    public function register()
-    {
-        //
-    }
-
-    /**
-     * Boot the authentication services for the application.
-     *
-     * @return void
-     */
-    public function boot()
-    {
-        // Here you may define how you wish users to be authenticated for your Lumen
-        // application. The callback which receives the incoming request instance
-        // should return either a User instance or null. You're free to obtain
-        // the User instance via an API token or any other method necessary.
-
-        $this->app['auth']->viaRequest('api', function ($request) {
-            if ($request->input('api_token')) {
-                return User::where('api_token', $request->input('api_token'))->first();
-            }
-        });
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+qt9d/8WfZ5cK6rMLEi5bB66uTOENkW==

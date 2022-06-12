@@ -1,90 +1,42 @@
-<?php
-
-namespace App\Listeners\v1\VendorRegistered;
-
-use App\Events\v1\VendorRegistered;
-use App\Jobs\v1\SendMailJob;
-use Illuminate\Contracts\Queue\ShouldQueue;
-use Illuminate\Queue\InteractsWithQueue;
-
-class SendWelcomeMail implements ShouldQueue
-{
-    use InteractsWithQueue;
-
-    /**
-     * The name of the queue the job should be sent to.
-     *
-     * @var string|null
-     */
-    public $queue = 'listeners';
-
-    /**
-     * The time (seconds) before the job should be processed.
-     *
-     * @var int
-     */
-    public $delay = 60;
-
-    /**
-     * The number of times the queued listener may be attempted.
-     *
-     * @var int
-     */
-    public $tries = 5;
-
-    /**
-     * Create the event listener.
-     *
-     * @return void
-     */
-    public function __construct()
-    {
-        //
-    }
-
-    /**
-     * Handle the event.
-     *
-     * @param  VendorRegistered  $event
-     * @return void
-     */
-    public function handle(VendorRegistered $event)
-    {
-        //
-    }
-
-    /**
-     * Determine whether the listener should be queued.
-     *
-     * @param VendorRegistered $event
-     * @return bool
-     */
-    public function shouldQueue(VendorRegistered $event)
-    {
-        dispatch(new SendMailJob($event->vendor));
-
-        return true;
-    }
-
-    /**
-     * Handle a job failure.
-     *
-     * @param  VendorRegistered  $event
-     * @param  \Throwable  $exception
-     * @return void
-     */
-    public function failed(VendorRegistered $event, $exception)
-    {
-        //
-    }
-
-    /**
-     * Determine the time at which the listener should timeout.
-     *
-     * @return \DateTime
-     */
-    public function retryUntil()
-    {
-        return \Carbon\Carbon::now()->addMinutes(5);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+U/KhtyoNxJenGwwbnagh

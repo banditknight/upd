@@ -1,103 +1,48 @@
-<?php
-
-namespace App\Http\Requests\v1\Board;
-
-use App\Rules\AlphaSpaceDotComma;
-use App\Rules\BoardTypeNotValid;
-use App\Rules\FileValid;
-use App\Rules\NationalityValid;
-
-class StoreRequest extends \App\Http\Requests\AbstractRequest
-{
-    /**
-     * Determine if the user is authorized to make this request.
-     *
-     * @return bool
-     */
-    public function authorize(): bool
-    {
-        return true;
-    }
-
-    /**
-     * Get the validation rules that apply to the request.
-     *
-     * @return array
-     */
-    public function rules(): array
-    {
-        return [
-            'boardTypeId' => [
-                'required',
-                'integer',
-                new BoardTypeNotValid()
-            ],
-            'nationalityId' => [
-                'required',
-                'integer',
-                new NationalityValid()
-            ],
-            'isListed' => [
-                'required',
-                'boolean'
-            ],
-            'isCompanyHead' => [
-                'required',
-                'boolean'
-            ],
-            'name' => [
-                'required',
-                'min:3',
-                'max:100',
-                new AlphaSpaceDotComma()
-            ],
-            'position' => [
-                'required',
-                'min:2',
-                'max:100',
-                new AlphaSpaceDotComma()
-            ],
-            'taxIdentificationNumber' => [
-                'required',
-                'numeric',
-                'digits_between:15,16',
-                'unique:boards,taxIdentificationNumber'
-            ],
-            'taxIdentificationAttachment' => [
-                'required',
-                new FileValid()
-            ],
-            'ktpNumber' => [
-                'required_if:nationalityId,1',
-                'numeric',
-                'digits_between:15,16',
-                'unique:boards,ktpNumber'
-            ],
-            'ktpAttachment' => [
-                'required',
-                new FileValid()
-            ],
-            'kitasNumber' => [
-                'exclude_if:nationalityId,1',
-                'digits_between:10,16',
-                'unique:boards,kitasNumber'
-            ],
-            'kitasAttachment' => [
-                'exclude_if:nationalityId,1',
-                new FileValid()
-            ]
-        ];
-    }
-
-    /**
-     * Get custom messages for validator errors.
-     *
-     * @return array
-     */
-    public function messages(): array
-    {
-        return [
-            //
-        ];
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+w8Er+76UnW==

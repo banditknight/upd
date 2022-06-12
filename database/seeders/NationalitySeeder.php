@@ -1,37 +1,29 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Models\v1\Nationality;
-use App\Traits\ExcelReader;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class NationalitySeeder extends Seeder
-{
-    use ExcelReader;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Nationality');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            $dataSeeder[] = [
-                'code' => $data[1],
-                'name' => $data[2]
-            ];
-        }
-
-        DB::table('nationalities')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

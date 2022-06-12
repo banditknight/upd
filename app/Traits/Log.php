@@ -1,176 +1,96 @@
-<?php
-
-namespace App\Traits;
-
-use Monolog\Handler\StreamHandler;
-use Monolog\Logger;
-use Symfony\Component\HttpFoundation\Request;
-
-trait Log
-{
-    protected $logName = 'usage';
-
-    protected $fileName = 'usage.log';
-
-    protected $filePath;
-
-    private $logLevel;
-
-    /**
-     * @throws \JsonException
-     */
-    public function info($message = null)
-    {
-        if (!is_array($message)) {
-            $this->instance()->info($message);
-
-            return null;
-        }
-
-        $userId = $message['userId'];
-        $vendorId = $message['vendorId'];
-        $method = $message['httpMethod'];
-        $oldValue = $message['oldValue'];
-        $newValue = $message['newValue'];
-        $ipAddress = $message['ipAddress'];
-        $status = $message['status'];
-        $table = $message['table'];
-        $rid = $message['recordID'];
-        $token = $message['token'];
-        $action = $message['action'];
-
-        unset($message['userId'], $message['vendorId']);
-
-        if ($method === Request::METHOD_OPTIONS || $method === Request::METHOD_GET || $status !== 200) {
-            return null;
-        }
-
-        if ($method === Request::METHOD_PUT) {
-            foreach($oldValue as $e => $val){
-                if($val === $newValue[$e]){
-                    unset($oldValue[$e],$newValue[$e]);
-                }
-            }
-        }
-
-        $oldValue = empty($oldValue) ? null : json_encode($oldValue, JSON_THROW_ON_ERROR);
-        $newValue = empty($newValue) ? null : json_encode($newValue, JSON_THROW_ON_ERROR);
-
-        $encodedMessage = json_encode($message, JSON_THROW_ON_ERROR);
-
-        \App\Models\v1\Log::create([
-            'userId' => $userId,
-            'vendorId' => $vendorId,
-            'content' => $encodedMessage,
-            'method' => $method,
-            'oldValue' => $oldValue,
-            'table' => $table,
-            'recordID' => $rid,
-            'token' => sha1($token),
-            'newValue' => $newValue,
-            'ipAddress' => $ipAddress,
-            'action' => $action
-        ]);
-
-        $this->instance()->info($encodedMessage);
-    }
-
-    /**
-     * @return string
-     */
-    public function getLogName(): string
-    {
-        return $this->logName;
-    }
-
-    /**
-     * @param string $logName
-     */
-    public function setLogName(string $logName): void
-    {
-        $this->logName = $logName;
-    }
-
-
-    /**
-     * @return string
-     */
-    public function getFileName(): string
-    {
-        return $this->fileName;
-    }
-
-    /**
-     * @param string $fileName
-     */
-    public function setFileName(string $fileName): void
-    {
-        $this->fileName = $fileName;
-    }
-
-    /**
-     * @return string
-     */
-    public function getFilePath()
-    {
-        return $this->filePath ?: storage_path('logs');
-    }
-
-    /**
-     * @param string $filePath
-     */
-    public function setFilePath(string $filePath): void
-    {
-        $this->filePath = $filePath;
-    }
-
-    /**
-     * @return mixed
-     */
-    public function getInstanceLog()
-    {
-        if ($this->instanceLog === null) {
-            $this->instance();
-        }
-        return $this->instanceLog;
-    }
-
-    /**
-     * @param mixed $instanceLog
-     */
-    public function setInstanceLog($instanceLog): void
-    {
-        $this->instanceLog = $instanceLog;
-    }
-
-    /**
-     * @return int
-     */
-    public function getLogLevel()
-    {
-        return $this->logLevel ?: Logger::INFO;
-    }
-
-    /**
-     * @param int $logLevel
-     */
-    public function setLogLevel(int $logLevel): void
-    {
-        $this->logLevel = $logLevel;
-    }
-
-    public function instance()
-    {
-        $log = new Logger($this->logName);
-        $log->pushHandler(
-            new StreamHandler(
-                sprintf('%s/%s', $this->getFilePath(), $this->fileName),
-                $this->getLogLevel()
-            )
-        );
-
-        $this->setInstanceLog($log);
-
-        return $log;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+3m==

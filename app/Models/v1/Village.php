@@ -1,61 +1,34 @@
-<?php
-
-namespace App\Models\v1;
-
-use Laravolt\Indonesia\Models\Model;
-
-/**
- * App\Models\v1\Village
- *
- * @property string $id
- * @property string $district_id
- * @property string $name
- * @property array|null $meta
- * @property string|null $created_at
- * @property string|null $updated_at
- * @property-read District $district
- * @property-read mixed $city_name
- * @property-read mixed $district_name
- * @property-read mixed $province_name
- * @method static \Illuminate\Database\Eloquent\Builder|Village newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Village newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Village query()
- * @method static \Illuminate\Database\Eloquent\Builder|Model search($keyword)
- * @method static \Illuminate\Database\Eloquent\Builder|Village whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Village whereDistrictId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Village whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Village whereMeta($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Village whereName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Village whereUpdatedAt($value)
- * @mixin \Eloquent
- */
-class Village extends AbstractModel
-{
-    protected $table = 'villages';
-
-    protected $casts = [
-        'meta' => 'array',
-    ];
-
-    public $timestamps = false;
-
-    public function district()
-    {
-        return $this->belongsTo(District::class, 'district_id');
-    }
-
-    public function getDistrictNameAttribute()
-    {
-        return $this->district->name;
-    }
-
-    public function getCityNameAttribute()
-    {
-        return $this->district->city->name;
-    }
-
-    public function getProvinceNameAttribute()
-    {
-        return $this->district->city->province->name;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+XvaZ/0rYfO2yNMEBBuydkjdlDuq=

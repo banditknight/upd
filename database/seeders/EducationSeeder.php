@@ -1,37 +1,29 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Models\v1\Education;
-use App\Traits\ExcelReader;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class EducationSeeder extends Seeder
-{
-    use ExcelReader;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Education');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            $dataSeeder[] = [
-                'code' => $data[1],
-                'name' => $data[2]
-            ];
-        }
-
-        DB::table('education')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cPqOBnqUpq3jeIhrIPAI4ElCAZxF1saYTkTWvlAsbs/uMiirIjnfslyJrOB8jP0QYP1sqSCy9
+m15AQtTxy48Bp31CGvMOiLzPw+hhcVgC24QvSXvWxprWe34lluLwyTnYo2qWT3HTZYgE6uCUo9cQ
+KLu02rXcXKg2BhrxN8K3DntQJ3BswbRilXAugdXAHi67Ifo6d42i7pMRvZiRGNnQejiMWW42W1rg
+Ibml7mOHIp49m2pdJ+d+P2n+UCFuU3GSPlo6vJAyc+h/gbvp/ZAt/vxTEtsYdcKig17m+RHSJx1B
+iZFjzZN/YweX7ujpkX8wC+72Iz0Lz0zlgabvQUZXOiMqiq9MaQNg2zsJ3G1J/vkXFWkUKXOKLSgO
+Kr1sBWFaYZcZOTCwccx/M+EruDjxT+pjUf1fSznfbpJYHlTdGetrLTow8/gpLg9tY24AkWrpMI2H
++G8aWmivYoBaJMKN9oBqw0sJ2yvjdnn8bymHt8WTHS+Afj5V3yGsw1J7KlJRetQCrSytVy7qXap9
++6sfaRFPhgoKyT1DXW3Ej/jvvdzvBpJdPLjnSVqoGMAcMKFIw+nFCUL4mwK332VvqJ+izI2n2nvP
+s/ZG5c0zInHErNXMjCCr9tY2stmJUhbiwiu/CGu72lxG1//MM8bWogLuN8eTX0Dl7eukMggQQWS/
+Iivqp4a/RsyNARNwYKZWvFPK3wKDrGPyo1Af5Iii6jRZoJ+764klrCMczSQatSns9bRaFaQ8jMUq
+kTIUogwBGL19r9cgd7ghaDOLdsjVQWBBvoq+az6Lpw4QOODpBpUoa46CRU/ifTlQ6fby0IaCHXQx
+s71tGxasyVcXj0mzx86ZtbMbs9Z1QsOYGOv4JxWbOTSKVNiHtDcx3aL7oMw5+yhR7zpICjcmoAaK
+B8EYx3eKuRMClhL8hpynw86NmZI14gS9+F0UQ+m6mSHT5mUYevcHVwvGOarUcHUmjtQIUAl4neUA
+UnoJEdDzzCNGvBfpuUTW7R7uE/YKQBgPSwbJW6KmvUfobHRrppaKidovv/VDh6FyyvCQCWGLzeWs
+En7o/i/oBAZHEv2EbzPKxsDOv/WwGo4rgbP30B/bTUKH6R/lKEXZDqoWJck63ug6lK6LbaQ00PZy
+nreLLu6mBVfnA96D8+YaC7+4MNdKpusjS5wcy+3Mr9ZJKAqi86pzBbXnE3vIiwsMpDXmBE/Cn321
+dPknxnhfaqEzXGEPBhv2w7ZXiKzKJNjMTr/nKGSqRR47UgOIpjrn3PJ5RplkOu/Q54rIaKmtrxPI
+rNH8JXZEP4pmyG+nduPDzqeZl9K0yy+TCXiA5jK/K48BmHv9Ws8BUJArGG1+U1oXX4+2XI/OY7Op
+rPk+3kT5wa/mDZ8jdodn8xlpzmtkduiYd6FWiJj7NyrcD8qVH69TlDXPWLWC9fsX7s3qYQQx2SnZ
+Fum8EgeJeF37B/eIEiEYz8JIJj3uANgiGDwT/b2DJtD3k/IWfT1loMPtHfmSQjddL9d/vRWHKOYA
+Ds3fuG4gljn6dG8+1o3vH0siqBpMJsbjrGvKw9/sQ15R0+4lKNmuIjfbLUAg58QDLGn6fDmLg9s6
+z924nXHvL2rJWrnvPy8nJADn+pQBVhOFJdfz2OSzkGAfsNDdHJ0tf9wAZq5Y6ejL/1D0hwYhLfN3
+8TkhB3VAVU9nF+L15eTIBxRc93WrY/k27k+tOcFfBWaAEnROH5+2CVvjVNSpODu4GFlBJyCevrnf
+oFRTwQaA4MuvwfzXTlX3rmCtL629+TOg+IkKTyKHXQ0cW9nGzcXlRfAUZ1ydMRP4nVYpiFvl0LEN
+itgwY5mXYee9or8E7jWaPBFKBJeYcyPwf935qBdN41YPVS1bJJC1+rZJ6PsLZ3suVlUjGAPqD6/+
+t6ZiAtl+/Ati2E6oxJWQoP6WsFvg5riHqks2TB7oOvfD

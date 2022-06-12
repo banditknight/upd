@@ -1,75 +1,31 @@
-<?php
-
-namespace App\Models\v1;
-
-/**
- * App\Models\v1\ShareHolder
- *
- * @property int $id
- * @property int $userId
- * @property int $vendorId
- * @property string $name
- * @property int $nationalityId
- * @property int $sharePercentage
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder query()
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereNationalityId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereSharePercentage($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereVendorId($value)
- * @mixin \Eloquent
- * @property int $taxIdentificationNumber
- * @property int $taxIdentificationAttachment
- * @property int $ktpNumber
- * @property int $ktpAttachment
- * @property int $kitasNumber
- * @property int $kitasAttachment
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereKitasAttachment($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereKitasNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereKtpAttachment($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereKtpNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereTaxIdentificationAttachment($value)
- * @method static \Illuminate\Database\Eloquent\Builder|ShareHolder whereTaxIdentificationNumber($value)
- */
-class ShareHolder extends AbstractModel
-{
-    protected $table = 'shareHolders';
-
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'name',
-        'nationalityId',
-        'sharePercentage',
-
-        'taxIdentificationNumber',
-        'taxIdentificationAttachment',
-        'ktpNumber',
-        'ktpAttachment',
-        'kitasNumber',
-        'kitasAttachment',
-    ];
-
-    protected $hidden = [
-        'vendorId',
-        'userId',
-        'created_at',
-        'updated_at',
-    ];
-
-    protected $appends = [
-        'nationality'
-    ];
-
-    public function getNationalityAttribute()
-    {
-        return Nationality::find($this->nationalityId);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+CgtSzwWl6Qv53YVVbHQejO8AkK6G6SO=

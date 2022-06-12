@@ -1,43 +1,34 @@
-<?php
-
-namespace Database\Seeders;
-
-use Illuminate\Database\Seeder;
-use App\Traits\ExcelReader;
-use Illuminate\Support\Facades\DB;
-
-class MenuSeeder extends Seeder
-{
-    use ExcelReader;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Menu');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-            $dataSeeder[] = [
-                'value' => $data[1],
-                'name' => $data[2],
-                'description' => $data[3],
-                'isParent' => $data[4],
-                'parentId' => $data[5],
-                'menuActionId' => $data[6],
-                'menuActionValue' => $data[7],
-                'isActive' => $data[8],
-                'sequence' => $data[9],
-                'icon' => $data[10],
-            ];
-        }
-
-        DB::table('menus')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+FWZbMK1oG8+bAxo4eZUu+kBC/wq=

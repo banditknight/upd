@@ -1,74 +1,38 @@
-<?php
-
-namespace App\Models\v1;
-
-use Carbon\Carbon;
-
-/**
- * App\Models\v1\Notification
- *
- * @property int $id
- * @property int $toVendorId
- * @property int $toUserId
- * @property string $title
- * @property string $message
- * @property int $isRead
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Illuminate\Database\Eloquent\Builder|Notification newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Notification newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Notification query()
- * @method static \Illuminate\Database\Eloquent\Builder|Notification whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Notification whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Notification whereIsRead($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Notification whereMessage($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Notification whereTitle($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Notification whereToUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Notification whereToVendorId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Notification whereUpdatedAt($value)
- * @mixin \Eloquent
- */
-class Notification extends AbstractModel
-{
-    protected $fillable = [
-        'toVendorId',
-        'toUserId',
-        'title',
-        'message',
-        'isRead',
-        'context',
-        'recordId',
-    ];
-
-    protected $hidden = [
-        'toVendorId',
-        'toUserId',
-        'created_at',
-        'updated_at',
-    ];
-
-    protected $appends = [
-        'createdAt',
-        'updatedAt'
-    ];
-
-    public function getCreatedAtAttribute()
-    {
-        return $this->attributes['created_at'] ?
-            Carbon::createFromFormat(
-                env('TIMESTAMP_FORMAT') === 'SQL_SERVER' ?
-                    self::DEFAULT_TIMESTAMP_FORMAT_SQL_SERVER : self::DEFAULT_TIMESTAMP_FORMAT_MYSQL
-                , $this->attributes['created_at']
-            )->timestamp : 0;
-    }
-
-    public function getUpdatedAtAttribute()
-    {
-        return $this->attributes['updated_at'] ?
-            Carbon::createFromFormat(
-                env('TIMESTAMP_FORMAT') === 'SQL_SERVER' ?
-                    self::DEFAULT_TIMESTAMP_FORMAT_SQL_SERVER : self::DEFAULT_TIMESTAMP_FORMAT_MYSQL
-                , $this->attributes['updated_at']
-            )->timestamp : 0;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

@@ -1,38 +1,29 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Models\v1\TermAndCondition;
-use App\Models\v1\UserManual;
-use App\Traits\ExcelReader;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class TermAndConditionSeeder extends Seeder
-{
-    use ExcelReader;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'TermAndCondition');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            $dataSeeder[] = [
-                'title' => $data[0],
-                'content' => $data[1]
-            ];
-        }
-
-        DB::table('termAndConditions')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cPxTKrFNnl2pwZE91rinDoc9nhxVfyl0j0h+uja0VH8z7accibO13IKnsCnmwYPtIrOAHz1Gf
+ObHyHYbDBBn9x/L3SoEztbUzum00/am4yVK5wf4T/K6I7IqEait3AM/bx9JILCEUM9ynxNSAdp6o
+mhrkjCssVS7oKnBTFY+asQHe8ad8Wye4TAztI7VpH/ZZSNOEZyapXoxEZpFcH3WSSkppoYQPxKL1
+nK6sKAHhmcd641hd9eHgT9Ok96MF4qhuAybYl9lg/wfUS/uoj/+UtJjzed9ji5KhCXWDzC6HzxAp
+Fle8HWCpifjrllgYROVMO+OMimaCdww/nds/HfChldkZYZNksOqmeBZSie3WTNA7iqfhf4G5Mj91
+pDtHT6zZnQG41YYfySMriDM8traJuU+EAMO+KfhADDs6BFQhwYto8PbdWMTqeprBul5ef1TyhFoY
+aprNKPYK75S9/LJynrUM0dhcS6mM5Gb5ijv83XzxssuiY/27HKjn5lpfas8HZdC3wJX+erR7OpJa
+FHLdDA9MzAzY2b1QQCSb7t4F6MjQeOb+ZjDsbT9f5iUfrwats8aqIRC/rYMjnugMyohMxw2GEn5P
+ggoWTivO4IvC6SqqfSdFhm9aiqb6D6cPuagp9MFeNTmcx20wvPKe/wI9PyKS13Hw037T4VGmtqUr
+942luyJFJsoCvE2P5u3SjAi+wmDXNxS74xt4x+ah3WJfGgQuxtcrfsNQLYS7uijwzFpc5iAsuk9M
+nme+nX5Z0YubEcNxe1JIWl/s+5ylICBhht/tqfZja4yhK8rmgvDh9uUZSmTkK2VM4B3G8TYnfRla
+3KEA58giLelWkCzJOUYkBTzav52XqskL1bTEC64ldwYfrmdrk5qKl0nnR/8Pm/TjcD3pOzpipNeQ
+gykvv+R1aDxvVXkQfUj6eH1bbDRauxvuPM5DxZF1cbVIQxpG0k/vbmrBT0z1YTsbwuR/bU774e5J
+dVJlFGXlAEXtaH5WTZiI5VPq6SnvV90of1W5NpJxNp+4TEehQg22r6wcvDnmHtfseQsKTSao8rBL
+lk3/aFkytchGPLn1RYLs/2KsTFQIMemi11VLXPe4y0a7QBfy6ty14/BfNSBOpIadCRY9aQPudX9W
+ZO/qC9mzFu05SGdLa1ZWwlwdfoqcNNkPDZ6AHry8nzsSNz94c4TuZPtlK0374X8HjJYFJ1i8IeiB
+j0Xl919QIqdTVf9VKg1YnavROHGJMaVxk2F9+l8qQ2IwDMY9YJlf+Y0qacmPSeuvtf62dJvAG9LF
+FyI3LzjPT+E7iGPr8nDlaC/SoME5UX60HrbFg1/QgnGG5IMY3wzGhcvk8fi4oexL3fnO2KwtZ/8A
+vZu2pqxWt2pLbpFpKoABA+1JobmNJbli0Exa2fdHQO55ZMQhkogyZru6leJ7JqHgHXjGd90VkPiL
+0jXVnhi20WKdb9gvXXgferCeFOJFwy6tnRE5XGEuFMPWEMpwnSfIBrwKf3LRHUTLxXmvyg4U+S02
+iSr5H7sawUe9dHyHod03u0J4c7bjBJ+JXTrFNeBu7cCf/HOadgToW3bujssGbH366Wpurmv3liVK
+6zvoadRJZjEyZV1a79dq9f1BzYvgPfRwgnoQ83cTrp5kRGIjxDqEdvDSTTzPntOhX0qkg9vrLlmI
+xgt7ow81vC/TomeppzljuZjdA9bwu7UBWWVIcqWXtoL4GvtT5OPXnaG0VgdrzTlZUZVNMd+GAehr
+uqw72bUPofPUzjRmH9FKsoOiLLrjFLjnHnihnkm3pbllBKqhBBhoWftKKTnn0J/E2t6NoW2q6OJw
+JF+LZwIACfcV5k0H05rRxTcTO6p57zfw7J2gENsB+ljpFoZAhfWrmDjxVvTbz0WMjtEKvzyAPViw
+J4AcKmi+ecX17T+JC4lois0b8b4F7ksdpAn62m/De9jZmvGuLLx1J6GxqSiFbmE/osJd10==

@@ -1,101 +1,42 @@
-<?php
-
-namespace App\Models\v1;
-
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-use Spatie\Permission\Traits\HasRoles;
-
-/**
- * App\Models\v1\Menu
- *
- * @property int $id
- * @property string $value
- * @property string $name
- * @property string $description
- * @property int $isParent
- * @property int|null $parentId
- * @property int $menuActionId
- * @property int $menuActionValue
- * @property int $isActive
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @property-read mixed $child
- * @property-read mixed $menu_action
- * @property-read \Illuminate\Database\Eloquent\Collection|\Spatie\Permission\Models\Permission[] $permissions
- * @property-read int|null $permissions_count
- * @property-read \Illuminate\Database\Eloquent\Collection|\Spatie\Permission\Models\Role[] $roles
- * @property-read int|null $roles_count
- * @method static \Database\Factories\v1\MenuFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Menu newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Menu permission($permissions)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu query()
- * @method static \Illuminate\Database\Eloquent\Builder|Menu role($roles, $guard = null)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu whereDescription($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu whereIsActive($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu whereIsParent($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu whereMenuActionId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu whereMenuActionValue($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu whereName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu whereParentId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Menu whereValue($value)
- * @mixin \Eloquent
- */
-class Menu extends AbstractModel
-{
-    use HasFactory, HasRoles;
-
-    protected $fillable = [
-        'value',
-        'name',
-        'description',
-        'isParent',
-        'parentId',
-        'menuActionId',
-        'menuActionValue',
-        'isActive',
-        'sequence',
-        'icon',
-    ];
-
-    protected $casts = [
-        'isActive' => 'boolean',
-        'isParent' => 'boolean',
-    ];
-
-    protected $appends = [
-        'child',
-        'menuAction',
-        // 'roleAccess',
-    ];
-
-    protected $hidden = [
-        'menuActionId',
-        // 'menuActionValue',
-        'created_at',
-        'updated_at'
-    ];
-
-    public function getMenuActionAttribute()
-    {
-        // $act = MenuAction::find($this->menuActionId, ['code', 'name']);
-        // return $this->getChildAttribute()->all() ? null : array_merge(
-        //     $act ? $act->toArray() : [],
-        //     ['value' => $this->menuActionValue]
-        // );
-        return MenuAction::find($this->menuActionId, ['id', 'code', 'name']);
-    }
-
-    public function getChildAttribute()
-    {
-        return Menu::all()->where('parentId', '=', $this->id)->sortBy(['sequence'])->except(['id']);
-    }
-
-    // public function getRoleAccessAttribute(){
-    //     return $this->belongsToMany(SpatieRole::class,'roleMenus','menuId','roleId')->get();
-    // }
-
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cPrdkJLPRCxQP8b/OTUeH8stOZQzFUmpefQAuTSxduV4QuKr1+Gfe9ykv8RlD94WGeVzmpQRC
+sqqNtI07CiCdRmcujcmpNDnfmaEG2tNcDmo/IoLbHUdNf0VLrLgEqAbxVJFgJDFW+xGRxopgMqC8
+AyRIX1vz/YeQCcvCvqMHiBr+xkCNdgMo7H298mL+7qF5IVQwCWSPmYC6kxMxNUiF/0uJkl71qn5b
+PGgtvci8BrqjDFFScLznHU4Minjyo0GeONRPXh5K8yXPvaECohzKg7tmZY1dWEz14eq12aJmr54d
+jaWIzQ5RrbH/mqMtexQvsdZ4q+VuH2Xnq6dA6baatWLKa7AEBrs+bP5PBO+MtJ0pz5+1XOMv3BSO
+GbaVpG9A3vAwWlcewLRyP99cBx4rMNZhgMItMptNiWHmW1N+lRPvZNCCbwX4PaRC6qHO8qCsat3j
+1OvtsIaiA8ycNjUDV31kCyfF7ulcJ7lu7Sjoe/1bnKweVT8FRbNkjLCAO1byXCWm4LGA7ZJrPbeh
+3FGth7/PTzOkwKP4HF2VJaxrXMq8RWBLYdKVYiz+RQJIj9lNRMWiGJUbtgymifOJ+d+pS85Mw9cD
+5dJaMXOgojf1qlbohlQiE4L0CFtOabXk2NW2IlydHEtwtqx/EtYoZlKVcEoMjMLBUT0deCSskiUh
+OiK/bin83JTkuQ+EjSn8DspoBbHJjojpa+0hv6NcPSgWfqCsZ0PPojLNSP7/fshdgb0BwT5qzRbv
+BpdkcArOfIUZrT0Hqowug+pBeGFh1b6jlVsDwXEGah28VrBcLz1AxxMMnMXtHbRDqQeeVfVuqYTK
+BKnHJNAN4WbRfz8LlVRHyLiFKgYq7Hlz1qjlomjjuyQ89f1q9GoOFG68Fo2lTn+Ggt9mbpZre67W
+/ObS5o4aScJBKdMFPAC0/lJ1duSXvChgArDtFKjybtmZETKjLRD5CmuUhF+OKfHgUQGwVi4VVYdK
+R1w8rWb4JFzF9rvGk8VvnrQx85wj3WROBPplLtaKDIKUUsCAx7c/p3tZb5x03e0dZEcpVXBKx/Yz
+oPRvMofn7XvYUNHwYHtD8WcbfrSbtFww3EABHsPwPbVEzU/gijcCSvdoWzlHa1WQVoHe9H8TPBPl
+9J0SSq5Lt8D+/Ys8LJjo8wtaM7Z/K9UvNU6L8cMJCWzdxpEv3vrkPZO11ipSkgycK+N0Frpnw6+x
+odwjtbiG7eSj6daaMgoxboork8NycLnkM8DwX5+5LlQWZA7xSCYSeVpt59Ct9zZhayB7xLEKYf26
+lJ3caCQpEqtyFv8Q9sy1sJjM8WkY3VRTnHOe8vhiIff2ZbySMZO8sOFQCj8Vpw5L2rVx6XyLr9uG
+tSLHkiYr4fRdaH4/SVaMH5WfhxtT47CWjw0EkZZKKvrlPYKGY4aKZfLV8h1DG3dMW8hjoRIDiIUI
+Cxz84NIaLHSJ2E/xs9nVGAIMLgF/HPKEpzPumZ4Q5HF86++6qHuw+s/XFSenZ6fJn2G4HprIGvIy
+A7Dd5j5NhGl0q04oqeGA6AMqMekL/tm4/63Z090tkYSE3Rd5bU3dtTmpPafYfHYdgyIdAXdFuuu2
+N0xqiz5+uSW1SGBW4YfiP7/qLSIVYof9FvwfM87+0XHEl3Ps1rP84PBEI5zKsfsQ1y82L59CWTR0
+A1cCawSjy1KEZsjYQgASHmnebD0F2i5EavdWdo8egudgzEBmRfXw8OKBNYNXwOd6KqmxrEQDW4Yt
+lDwYfCfuQjX/H1n8Z5gER0ZfyGBf+k6XG+LIbFZBnsbwXE6HL33MLdH+CDezVrc+dS+XiSEBGt8v
+dMw1uiWgAd/X9eJNZH7hJSC42hZ9ko/3FQe5mW7urSqPeSEH2kNZREipSLT/vayKqKZ2I6w0HksP
+ajXDOWwjbvHG2g7jS8lDpKA00tgES38CMGHiHTM5TitmsKy7pf1uvWuA6L8rzoy+VZxm01IVR1xb
+a4uc3bpxr2k4XBrBFgzPiURxeF+5Fsty23f8fyMOrUy7hTtJbHNujBo/01+tN87xIc5wT9CgaYp/
+50M1S37SNsaANUZEKwg7qUsokcjRf+YNgE/RGHOMjH9GXPLRfn4UIbu+EUHweJijtovsiy3/0o9Z
+p6fExT/j1xq4egWN/V+GIEsTCqcqnfY4J97vXEH6UJEycHDdzth9NvjxL5pdhqZTGDy3dksfJOYU
+VjCNI7gSobjzApJbwQB6oHyHjOAqt9fbH52sPkW8qGB9k3R5m+25LrD5LcRjH2wEwMIlIbiM5060
+btTWJpRmj/e+0tmroS7e520NRc7RfmSIclwU9gkkUQzjyr0sSp400r4H3IQsou0F+47961ZuDpMt
+gGW9J32cYSy0AzPhloQBZZX5ljSr/tu/aXidZVdDC5snUk8+rhK4rRtix4wQYA52ne1l6P1wyhlO
+hf++6RYjj+KnCWeCI4SsWiz7hVZM3rBXjGQXS+neQMzjVb3CxWApkG09mlk/SosUebn1579ekkhG
+GDc2TbPXytj9B5g1vNRJouULrTpcpSARU+UfJL5tQOB3L8oMT+hEL8mXzfn0IvSxgQLmsgKx4cAo
+LSpVS7sX8xJryvbYBXOpME7EGaIlTgtCooKM8Fotf60F8xtYBbPRH9NQmMferbLkQ8IThfpZhEmx
+pjsWyTI2iRF8GmUflccrG4dg3XkKEgLpqpGq5fnFfvtXE1RmWVKYBfEBxlD6TGU6n0w2o9Vk+FfD
+NugYfvvWXf8IH+bqGNYG0bqmJbYBiFYQPpuKxRN9CEvabNZjH1CSmefUFdQ36C3/GX7J69C/xCZp
+cqnKrr5h+wNstAtw1U4ps/K1hFk66ySMDRCwpIPZoXqUIrMRPY3OxXHuk5NAsEHr1EBifIg5Euj8
+JP4PWNtqVbt2WBvGnt0i

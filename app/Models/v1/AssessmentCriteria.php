@@ -1,57 +1,30 @@
-<?php
-
-namespace App\Models\v1;
-
-/**
- * App\Models\v1\AssessmentCriteria
- *
- * @property int $id
- * @property string $code
- * @property string $name
- * @property string $description
- * @property int $weight
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @property-read mixed $item
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria query()
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria whereCode($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria whereDescription($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria whereName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria whereWeight($value)
- * @mixin \Eloquent
- * @property int $tenderId
- * @property int $tenderItemId
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria whereTenderId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AssessmentCriteria whereTenderItemId($value)
- */
-class AssessmentCriteria extends AbstractModel
-{
-    protected $table = 'assessmentCriteria';
-
-    protected $fillable = [
-        'tenderId',
-        'tenderItemId',
-        'code',
-        'name',
-        'description',
-        'weight'
-    ];
-
-    protected $appends = [
-        'item'
-    ];
-
-    public function getItemAttribute($value)
-    {
-        return AssessmentCriteriaItem::query()
-            ->where('assessmentCriteriaId', '=', $this->id)
-//            ->where('tenderItemId', '=', $this->tenderItemId)
-//            ->where('tenderId', '=', $this->tenderId)
-            ->get();
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+uiVOba+wbt2gJm==

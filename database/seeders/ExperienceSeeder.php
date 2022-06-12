@@ -1,68 +1,50 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Models\v1\Experience;
-use App\Traits\ExcelReader;
-use Carbon\Carbon;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class ExperienceSeeder extends Seeder
-{
-    use ExcelReader;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        Experience::factory()->create();
-
-        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'Experience');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            if ($data[0] === null) {
-                continue;
-            }
-
-            $dataSeeder[] = [
-                'vendorId' => $data[0],
-                'userId' => $data[1],
-                'businessTypeId' => $data[2],
-                'subBusinessTypeId' => $data[3],
-                'workPackageName' => $data[4],
-                'workPackageLocation' => $data[5],
-                'contactOwner' => $data[6],
-                'address' => $data[7],
-                'countryId' => $data[8],
-                'provinceId' => $data[9],
-                'cityId' => $data[10],
-                'districtId' => $data[11],
-                'postalCode' => $data[12],
-                'contactPerson' => $data[13],
-                'phoneNumber' => $data[14],
-
-                'contractNumber' => '1234567/NA/NI/NU',
-                'validFromDate' => Carbon::now()->timestamp,
-                'validThruDate' => Carbon::now()->timestamp,
-                'currencyId' => 1,
-                'contractValue' => 100000000,
-                'contractHandOverLetterDate' => Carbon::now()->timestamp,
-                'contractHandOverLetterNumber' => 12345,
-                'contractHandOverLetterAttachment' => 1,
-                'testimony' => "Testimony",
-                'testimonyAttachment' => 1,
-            ];
-        }
-
-        DB::table('experiences')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

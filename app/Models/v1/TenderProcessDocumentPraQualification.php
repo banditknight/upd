@@ -1,39 +1,30 @@
-<?php
-
-namespace App\Models\v1;
-
-use Illuminate\Support\Carbon;
-
-class TenderProcessDocumentPraQualification extends AbstractModel
-{
-    protected $table = 'tenderProcessDocumentPraQualifications';
-
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'tenderId',
-        'tenderRequirementDocumentId',
-        'attachment',
-        'status',
-    ];
-
-    protected $appends = [
-        'vendor',
-        'submitDate'
-    ];
-
-    protected $hidden = [
-        'created_at',
-        'updated_at',
-    ];
-
-    public function getVendorAttribute()
-    {
-        return Vendor::find($this->vendorId)->only(['id', 'name', 'registrationNumber']);
-    }
-
-    public function getSubmitDateAttribute()
-    {
-        return Carbon::parse($this->created_at)->timestamp;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+Yb4w23ZwmnM+gknqhyY2FGa=

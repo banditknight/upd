@@ -1,37 +1,29 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Models\v1\DeedType;
-use App\Traits\ExcelReader;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class DeedTypeSeeder extends Seeder
-{
-    use ExcelReader;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'DeedType');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            $dataSeeder[] = [
-                'code' => $data[1],
-                'name' => $data[2]
-            ];
-        }
-
-        DB::table('deedTypes')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cPqwbCswrZeX1G1EcJUIZTvI5WNJgpbaCmDreVzaZ8P71RgF4VnFm55mV8ctMTFI99Odyaa69
+fHhYC9ET+1hEujnmeOkD5sXlfAVJYLkEf5tPc8f1sw2oMGITeIKN3KpwuVvch6JTLMcLxbacXPRY
+snF4/CjFXZgcpBa2zaB30xhrpS7l677bbuK347t8n6fMbYQ2rJFYl5ZAmKro7fqsr4A4EjJjX1gS
+Dgs308v6tslXPOhomCqNfmim6hvHWIfur1PhEqIyc+h/gbvp/ZAt/vxTEtsY2syvqKIi+94sDn1B
+idFfzdHC/Vdab1OsoOvEsVm/ZIzFBRgHdIMHcUUfwfjn5xgN8YAZ4sIMizlc/owShLZrZ0biIGec
+wEgiYe+9ssU/khibIJFQvCDvL/6dJtj54fGl3R8lwgxGHna+Bc9LYFd0ixgTHnbpyo9pmncIyxcw
+T0HgkDYncBH0j58jIL77Ufnq4zCv4C6Xu0lVLU8MB3eqhZQnJudA+LvYDyFQvsr9aIIisPWQgv9F
+AGRIo4CgyAWEySit3jwheTpu422Ut7x/mM44g0Rek5lWBwhqw6wqoDsaowaCjli7/7TH3InTbe/d
+NK9VAMHKTK8uwyhuGtUmQAatAa6uxXDT442nRodIbuNXpUzz7/+mQjSXC88IgS3/lqRJSOubT+1q
+xh1h6yQ1WCZYOS5hfkPK2BGf8pAgmAPdjI9Y07PzK2eQQvf7eMRDBMJoZlYp/2XSgSs9yK11omEe
+8xrDN2EGPboKpSKnHKfUQXVIomoa09fFUo2/sQw2fhUxN1KQCJbd5KU8zFv3WoL6CrtqSKuYjMeG
+EO/x2qeFWugVyz4c+l4OYRfZ5Qk4RXL3vD5DUjjC/cIPdJ8WHEj6tj0YshS/czmUzSm2wrB1Db0k
+uDMzVUOZxJRQIpLnyklBVeGiJ8VHVrEzZbwAaIKX1lDapDFKuEW10oHPpPEG0e8zE9BzKypfdQNn
+maG1wTKDpY8HssOfiLGVpbC2akib7nXOpTNDRXSghUPtrVzz4huvfxAgyqVwtFVcxxPUlZZKUNL2
+W/HwnqycyY/17pXyVyHqFpQylBGmPzfcbci09tdwp89jz8pkNLYWk3J2f1bB5JvDNB/12OW5OcgD
+obd5jgW1Dvo8gLi9jHuDr75ussy5eCytf/P4AjxJ4VKbLiBubkduJymh9umL7NNYINZMwPIIUYzX
+TNcQ4lathbZoR7WLhcge+KLXf10Mpc3tEbXJ/uJrnfBYfWO1CCLCqANx9+eL/W9HR+JlMDyS9ePJ
+K97N6IEWU1vbxcfVpD7mHRCJJMGcougIGzVHag2Mj9WVmy4GxctG1dlFUWyY8Eo16OUGBS+AC/pa
+34OPlmJQuJhlt/16STCkHz/sLYY0SYFTW93j/qGN3d6JcM/ruCJznQLL+j8BLTCNAcLL92Pd4hZ+
+g58XawfHURpW5PswfYq6vwLMwlmYC9ofqGde27zXTNmU/GK0dGQnxTiYPY9K34bgM31UZGHKUfHr
+hIU5M00XO1787LmYiWssA01qOr1igjTjGl/6UE1E9zNB7o0cLSVUr8Cl80aIXdbeTp2Hjw6IBYxT
+WunIes9URRTpDKBb9BfY/vX4xoXTcvSgBrYp9ZjPWhKSrZF66LYwb26Qhe8qrXWitpwqLtbRPAj0
+JJOdBOfDr+yYFKyAXontM2GfIEYYsgny84Psi0ukSJMcS6l7fkQOrftut3AbJoyJ+k0Y1J6OfYXK
+U8dC7j13LZQtGiYnHn2z93j4EK8s9DWJB/OHZSNUa52ucjnJPGS5NVAm2XDUzgN7wbaGKDKoFYUN
+vRVs3K25yfVyuJSfabIW44/5lD5SbLrdu72rY21AD5BBTl/BCp0EvjQIPEsQnC0blh+ytuAYcCa+
+UgFBbCBbIlNjHaDqBkVPFLw21R2QhA5S7TAb3Lp5HG==

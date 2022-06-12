@@ -1,61 +1,33 @@
-<?php
-
-namespace App\Http\Requests\v1\TaxDocument;
-
-use App\Rules\FileValid;
-use App\Rules\TaxDocumentTypeValid;
-use Pearl\RequestValidate\RequestAbstract;
-
-class StoreRequest extends RequestAbstract
-{
-    /**
-     * Determine if the user is authorized to make this request.
-     *
-     * @return bool
-     */
-    public function authorize(): bool
-    {
-        return true;
-    }
-
-    /**
-     * Get the validation rules that apply to the request.
-     *
-     * @return array
-     */
-    public function rules(): array
-    {
-        return [
-            'taxDocumentTypeId' => [
-                'required',
-                'numeric',
-                new TaxDocumentTypeValid()
-            ],
-            'number' => [
-                'required',
-                'numeric',
-                'digits_between:10,32',
-            ],
-            'issuedDate' => [
-                'required',
-                'date_format:d-m-Y'
-            ],
-            'attachment' => [
-                'required',
-                new FileValid()
-            ]
-        ];
-    }
-
-    /**
-     * Get custom messages for validator errors.
-     *
-     * @return array
-     */
-    public function messages(): array
-    {
-        return [
-            //
-        ];
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

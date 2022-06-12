@@ -1,123 +1,90 @@
-<?php
-
-namespace App\Http\Controllers;
-
-use App\Exceptions\Custom\File\FileDoesNotBelongToYouException;
-use App\Exceptions\Custom\File\LoginToAccessFileException;
-use App\Http\Requests\File\PdfRequest;
-use App\Models\v1\AssessmentCriteria;
-use App\Models\v1\Asset;
-use App\Models\v1\TenderTechnicalBidEvaluation;
-use App\Traits\User;
-use PhpOffice\PhpSpreadsheet\Spreadsheet;
-use PhpOffice\PhpSpreadsheet\Writer\Exception;
-use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
-use Ramsey\Uuid\Uuid;
-use Symfony\Component\HttpFoundation\BinaryFileResponse;
-use Symfony\Component\HttpFoundation\ResponseHeaderBag;
-use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
-use Tymon\JWTAuth\Facades\JWTAuth;
-use Illuminate\Http\Request;
-
-class FileController extends Controller
-{
-    use User;
-
-    /**
-     * @throws Exception
-     */
-    public function xlsx()
-    {
-        $exportFile = storage_path('/report-export-' . Uuid::uuid4() . '.xlsx');
-        @unlink($exportFile);
-
-        $fp = fopen($exportFile, 'wb');
-
-        $headerSummary = [
-            'Description',
-            'Weight'
-        ];
-
-        $data = [];
-
-        $spreadsheet = new Spreadsheet();
-
-        $tbeList = TenderTechnicalBidEvaluation::where('tenderId', '=', 1)->get(['assessmentCriteriaId', 'assessmentCriteriaItem']);
-
-        foreach ($tbeList as $tbe) {
-            $assessmentCriteria = AssessmentCriteria::find($tbe->assessmentCriteriaId);
-
-            $data[] = [
-                $assessmentCriteria->name,
-                $assessmentCriteria->weight,
-            ];
-        }
-
-        $sheetSummary = $spreadsheet->getActiveSheet()->setTitle('TBE');
-        $sheetSummary->fromArray($headerSummary);
-        $sheetSummary->fromArray(
-            $data
-        , '', 'A2');
-
-        $writer = new Xlsx($spreadsheet);
-        $writer->save($exportFile);
-
-        fclose($fp);
-
-        //https://docs.microsoft.com/en-us/previous-versions/office/office-2007-resource-kit/ee309278(v=office.12)?redirectedfrom=MSDN
-        $response = new BinaryFileResponse($exportFile);
-        $response->headers->set('Content-Type', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; charset=UTF-8');
-        $response->setContentDisposition(ResponseHeaderBag::DISPOSITION_ATTACHMENT, 'export.xlsx');
-        $response->deleteFileAfterSend(true);
-
-        return $response;
-
-    }
-
-    /**
-     * @throws FileDoesNotBelongToYouException
-     * @throws LoginToAccessFileException
-     */
-    public function pdf(PdfRequest $pdfRequest)
-    {
-        $assetId = $pdfRequest->get('id');
-
-        $asset = Asset::find($assetId);
-
-        if (!$asset) { throw new NotFoundHttpException('File not found'); }
-
-        $userId = $asset->userId;
-        $loggedInUser = $this->getUser();
-
-        if ($userId !== null && $loggedInUser === null) {
-            throw new LoginToAccessFileException();
-        }
-
-        if ($userId !== null && $loggedInUser && $loggedInUser->id !== $userId && !$loggedInUser->isSuperAdmin()) {
-            throw new FileDoesNotBelongToYouException();
-        }
-
-        return new BinaryFileResponse($asset->rawPathAttachment, 200);
-    }
-
-    public function files(Request $request){
-        $assetId = $request->get('id');
-
-        $asset = Asset::find($assetId);
-
-        if (!$asset) { throw new NotFoundHttpException('File not found'); }
-
-        $userId = $asset->userId;
-        $loggedInUser = $this->getUser();
-
-        if ($userId !== null && $loggedInUser === null) {
-            throw new LoginToAccessFileException();
-        }
-
-        if ($userId !== null && $loggedInUser && $loggedInUser->vendorId !== $asset->vendorId && $loggedInUser->hasRole('vendor')) {
-            throw new FileDoesNotBelongToYouException();
-        }
-
-        return new BinaryFileResponse($asset->rawPathAttachment, 200);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+Cfi5

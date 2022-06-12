@@ -1,91 +1,51 @@
-<?php
-
-namespace App\Http\Requests\v1\ShareHolder;
-
-use App\Rules\AlphaSpaceDotComma;
-use App\Rules\FileValid;
-use App\Rules\NationalityValid;
-
-class UpdateRequest extends \App\Http\Requests\AbstractRequest
-{
-    /**
-     * Determine if the user is authorized to make this request.
-     *
-     * @return bool
-     */
-    public function authorize(): bool
-    {
-        return true;
-    }
-
-    /**
-     * Get the validation rules that apply to the request.
-     *
-     * @return array
-     */
-    public function rules(): array
-    {
-        return [
-            'name' => [
-                'required',
-                'min:3',
-                'max:100',
-                new AlphaSpaceDotComma()
-            ],
-            'nationalityId' => [
-                'required',
-                'integer',
-                new NationalityValid()
-            ],
-            'sharePercentage' => [
-                'required',
-                'integer',
-                'min:1',
-                'max:90'
-            ],
-            'taxIdentificationNumber' => [
-                'required',
-                'numeric',
-                'digits_between:15,16',
-                sprintf('unique:shareHolders,taxIdentificationNumber,%s', $this->modelId())
-            ],
-            'taxIdentificationAttachment' => [
-                new FileValid()
-            ],
-            'ktpNumber' => [
-                'exclude_if:nationalityId,2',
-                'nullable',
-                'numeric',
-                'digits_between:15,16',
-                sprintf('unique:shareHolders,ktpNumber,%s', $this->modelId())
-            ],
-            'ktpAttachment' => [
-                'exclude_if:nationalityId,2',
-                new FileValid()
-            ],
-            'kitasNumber' => [
-                'exclude_if:nationalityId,1',
-                'nullable',
-                'numeric',
-                'digits_between:10,16',
-                sprintf('unique:shareHolders,kitasNumber,%s', $this->modelId())
-            ],
-            'kitasAttachment' => [
-                'exclude_if:nationalityId,1',
-                new FileValid()
-            ]
-        ];
-    }
-
-    /**
-     * Get custom messages for validator errors.
-     *
-     * @return array
-     */
-    public function messages(): array
-    {
-        return [
-            //
-        ];
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+p+eq6aM+1BDcQAKjYBSkj4OIu79inD6bFS/lVW==

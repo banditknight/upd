@@ -1,104 +1,55 @@
-<?php
-
-namespace Yuliusardian\LumenResourceRouting\Routing;
-
-class Router extends \ElemenX\AdvancedRoute\Routing\Router
-{
-    /**
-     * Register a route with the application with all methods:
-     * GET, POST, PUT, PATCH, DELETE and OPTIONS
-     *
-     * @param  string  $uri
-     * @param  mixed  $action
-     * @return $this
-     */
-    public function any($uri, $action)
-    {
-        $methods = [
-            'GET',
-            'POST',
-            'PUT',
-            'PATCH',
-            'DELETE',
-            'OPTIONS',
-        ];
-
-        return $this->match($methods, $uri, $action);
-    }
-
-    /**
-     * Register a route with the application with exactly defined methods.
-     *
-     * @param  array $methods
-     * @param  string $uri
-     * @param  mixed $action
-     * @return $this
-     */
-    public function match($methods, $uri, $action)
-    {
-        foreach ($methods as $method) {
-            $this->addRoute($method, $uri, $action);
-        }
-
-        return $this;
-    }
-
-    /**
-     * Register an array of resource controllers.
-     *
-     * @param  array  $resources
-     * @return void
-     */
-    public function resources(array $resources)
-    {
-        foreach ($resources as $name => $controller) {
-            $this->resource($name, $controller);
-        }
-    }
-
-    /**
-     * Route a resource to a controller.
-     *
-     * @param  string  $name
-     * @param  string  $controller
-     * @param  array  $options
-     * @return PendingResourceRegistration
-     */
-    public function resource($name, $controller, array $options = [])
-    {
-        if ($this->app->bound(ResourceRegistrar::class)) {
-            $registrar = $this->app->make(ResourceRegistrar::class);
-        } else {
-            $registrar = new ResourceRegistrar($this);
-        }
-
-        return new PendingResourceRegistration(
-            $registrar,
-            $name,
-            $controller,
-            $options
-        );
-    }
-
-    /**
-     * Set the unmapped global resource parameters to singular.
-     *
-     * @param  bool  $singular
-     * @return void
-     */
-    public function singularResourceParameters($singular = true)
-    {
-        ResourceRegistrar::singularParameters($singular);
-    }
-
-    /**
-     * Set the global resource parameter mapping.
-     *
-     * @param  array  $parameters
-     * @return void
-     */
-    public function resourceParameters(array $parameters = [])
-    {
-        ResourceRegistrar::setParameters($parameters);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

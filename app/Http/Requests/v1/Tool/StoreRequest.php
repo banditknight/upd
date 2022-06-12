@@ -1,89 +1,42 @@
-<?php
-
-namespace App\Http\Requests\v1\Tool;
-
-use App\Rules\AlphaSpaceDotComma;
-use App\Rules\AlphaSpaceDotNumber;
-use App\Rules\FileValid;
-use App\Rules\ToolOwnerTypeNotValid;
-use App\Rules\ToolTypeValid;
-
-class StoreRequest extends \App\Http\Requests\AbstractRequest
-{
-    /**
-     * Determine if the user is authorized to make this request.
-     *
-     * @return bool
-     */
-    public function authorize(): bool
-    {
-        return true;
-    }
-
-    /**
-     * Get the validation rules that apply to the request.
-     *
-     * @return array
-     */
-    public function rules(): array
-    {
-        return [
-            'total' => [
-                'required',
-                'numeric',
-                'max:20000000000'
-            ],
-            'description' => [
-                'required',
-                'min:5',
-                'max:256',
-                new AlphaSpaceDotComma()
-            ],
-            'capacity' => [
-                'required',
-                'numeric',
-                'max:20000000000'
-            ],
-            'brand' => [
-                'required',
-                'min:3',
-                'max:256',
-                new AlphaSpaceDotComma()
-            ],
-            'isNew' => [
-                'required',
-                'boolean',
-            ],
-            'location' => [
-                'required',
-                'min:10',
-                'max:256',
-                new AlphaSpaceDotNumber()
-            ],
-            'toolOwnerTypeId' => [
-                'required',
-                new ToolOwnerTypeNotValid()
-            ],
-            'attachment' => [
-                'required',
-                new FileValid()
-            ],
-            'toolTypeId' => [
-                'required',
-                new ToolTypeValid()
-            ]
-        ];
-    }
-
-    /**
-     * Get custom messages for validator errors.
-     *
-     * @return array
-     */
-    public function messages(): array
-    {
-        return [
-            //
-        ];
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cPsTmsMvbtI51SC5CJT9eO7UM7mRznQTnSUe0fBSI/Vn4nII8wGt01mWrn+zttJQMt3jCBVXU
++EG628sx+h+mgqIbdFZ97F15sIgU81M0kFSuBfT2VzhEHs//hnCkMhj8JESEEdpmdJ44AS6eVqht
+o47L/YjEspV2lIfYGZDFxT+17fwJHijSmliR+3tT4FOrIok2s0SxPIX+vUNXdht/OjNuwIlEzQAH
+C8sutJxnaeqVgeas29Cv18iUXSYLsD48ImoS3eQnL2F8MUP3ZCg/LAXzy8x4R0NIjDU7CECpiKjH
+vto16Zc605lreaX9HSBQ3gDCG+Ov6YGuTsZS+dsnAx4DCi5cl0ivWqw5DdVeC9cwi5rSi9apyf/C
+j3s84NAQ6Xh54kD5ds5YxWecsRLKfHfm/jMlNFYhkQRx04K94H91Ts4uLJTRSW6IRP1/1VJZrZUH
+OoixNSeEir4DjWIfUP2ncAKpauGcnu9Jn7Y/eN1bFwpyJkWVQJNV/w0LXaN5N9ffxhBouzdQVhcf
+oEpvwTMcb2HjzdedzSaDoreW8SFHrUJ13fcLoe/a6MSPx8Pz7zp4bxBDgk56hZ/giBxhk2YSCSU5
+rZ0BqDkO8E+b8b9FCnguflLgxK3h0pgZDo4M7uQako5lrdneYfXstjyVfET/wE/3hhzu31m3yVdb
+qXVAfY/eTq389V5juby6EEZWr4HlT6vzq79F9pE0gbO7njF53TdfU4/vcEKO+/ElNBfhNNrf6E26
+cyrEYLIi9PZWHlRjhbQUyvCzlFTwPmTRxiNGxAWQNXpIbdUktrlfVHyLgFyzX+FRI20e8pqjB05o
+kV0sZ8ZuHqxE5SK78V1sMhC5mIo13wHpwnUO2QuA2EjCliM7mjp3JSkJp1HPwhDyl8TeLjssIbAr
+ijroYFS5mBb+W+Vma2aqLWW6pDLw4pd60W20JeI7ycibEtuJ6SzGeDSZNSfWIXFFmPfvdwLO/ziO
++ja8MgSc12L5mn3CPYh/VOfkKkupq0Bm+8Xr0iNuXvHmJYfaJAIK3GVwphHsIbnzz8Q+MIHFtJaQ
+kHbqzYAJ2fi8QhMfLT1y9dZ0Q+bRG3aXoRvzzV+laSScnR4ksHRdLgaTEn4Qm6LUiLIEwLnaeKeX
+0M9luzFRjfHzE/W+noNthDxmrSYJ1k7ceDrNGmX0cxg1GiwsZFMyHdIgeAhZPUcd99QMMlg/+rPV
+tUc10Ri1sHvm6HmNHbDxkW2cloHeg+MpehYQtJTSu4K9U+yTxwz2yMVR9A2StTPksCJm5tdbkWHM
+5y9Ur78aNNIxwlgb3nGUBdkIgjwi0SyNPAPx4KSWcM+LpDvThP1p4+MqFV+j5obuA9B+Qs+DwMPT
+/qKIWe3kJVzSH/jkEWrS8yllqqfZaUppKHGiIKRXNATB3FQmT1L7ffI6acHdf3HFJZ8nyvVGAu3T
+B+FkIuZYkrfSg8lKb/P5tS9r9aDZUCZtf9yBZD0n7y02E1xi47whNZl4w0KrnmvBG2uu3M9G7o8n
+kdDfaNovgXhEncsz4YvcO42pBWnewiUUGzqtUmaYnczuIdgYSv0MSLfUO5TSPG3DOJcNvsTJNoqP
+N/xbK9Vl8hQfBUHPaVCiNcKcPKpvfukm0jkFuyQR6+X3os/r73/X3ffJ6dRExBscBIGpaZNprWzG
+8hbTtwrFEWe0BX7DzX0Y/ygDTp6xMv+FJSfDqfusNzqGhKIl+FgpO9rZ942TMoXIMGMBzjC3jlFS
+Kt4pI9/zAaTUo46ytDYcI9vfY7BVD5DvUE6rYSDXiyDqRRnLlrMPukF9a1OivIu4nb7VsXKU7oIO
+UI7dChqY5ZLshTlNEIkPc8KdsobkWXJ3xODCdstunMBYCwK+WOOxrI3e9RCBt0KS8lv3IdcM44vA
+1T3o7EvnFYGg92MHJIh0XKU8xA8GG4/sCfkknq/z4x5WtRD3+KKajpLb6b6rMRmst9CECw5toWSF
+8mixsKMBps3Rhnm3gDYqj58RYmgK+PAwufRX+q85rMJm47XnEZzimCk9Rrmfc3SI+wtkG/jro1ES
+sdnMyZUZvHJG3Y90ezebFe1kNCSes9dVYPDr2u+S67yGbK5u7/JC3xqcowojifsXQf+EDiGUrfiH
+4xw4hP8bMrNst3ePdk+oiG/sBJIBinRQdVhwqG6e3P+1W4GalSybqK5kGRNB6sXSz9j1esTl+XFP
+o7cOcb3XTsgBPd4SZ//jfK2/2pdI3BMFpCh5j0Df0cOuZtvKuw2kV6rAnpPQgRXEeVp/jiau4aHv
+N1mKrmR4QVaAzv2liaxl9OjOLO7Q7hGCZXrKqO43a1+qWr3kFz59L9OtQIr/r4dLp3cChyDv6h7E
+yG1wbqpoR3Dm43xONOki8zxYlhlHHX8agMdRRw+BHAm2dAMbKqqa8+M6tJqjuoT2jqRgtpb/3vR/
+r7tMtTKaXQr+rj0i+edFHbCAEJl1pBIk6NiYbgrHlrv4dJykB2N2dSYcdDI4dIMetlV356zFNo9k
+T4nW314WDUhI3V6Zdi+OIEP4TCGD4sOaZcKjaQQdcyLDwgM3Paf7zY6iWfGjiLFAsVXxXHjYa5Yx
+CvNHO0I255kJUdHUAezY50FXN88RX2d0m9KYIqmbdYjxAYYfqDGkDVisH+Xy89eHiJFQJjU11qHE
+WLtz7gUudJsIkV0WQxibcAukTZOP/dlvma8c5Fr1VAyPs0HdDwM+sHxCwtutjU/yw6pjxc92I2og
+CMux886LvSKlngqoTquVsWgK9XxMpITqHK/7D0ubjvjvqb5wcsvQU0QrLIbDs8LNUjaSbJ4K41L1
+u0mPbB/6SELCybrXSnaopmHnZWsFK4I0v47k04WwYN6sCz07en84KBbykjQDj+HeKEv4uzDj6H4i
+/jT1+obzt0aqvIodMfOBQ11RwF6xq1lXOM0uBf13xIVBIMhD+0VdfPSQ/oNg2Qalqfkp

@@ -1,70 +1,31 @@
-<?php
-
-return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Default Filesystem Disk
-    |--------------------------------------------------------------------------
-    |
-    | Here you may specify the default filesystem disk that should be used
-    | by the framework. The "local" disk, as well as a variety of cloud
-    | based disks are available to your application. Just store away!
-    |
-    */
-
-    'default' => env('FILESYSTEM_DRIVER', 'local'),
-
-    /*
-    |--------------------------------------------------------------------------
-    | Default Cloud Filesystem Disk
-    |--------------------------------------------------------------------------
-    |
-    | Many applications store files both locally and in the cloud. For this
-    | reason, you may specify a default "cloud" driver here. This driver
-    | will be bound as the Cloud disk implementation in the container.
-    |
-    */
-
-    'cloud' => env('FILESYSTEM_CLOUD', 's3'),
-
-    /*
-    |--------------------------------------------------------------------------
-    | Filesystem Disks
-    |--------------------------------------------------------------------------
-    |
-    | Here you may configure as many filesystem "disks" as you wish, and you
-    | may even configure multiple disks of the same driver. Defaults have
-    | been setup for each driver as an example of the required options.
-    |
-    | Supported Drivers: "local", "ftp", "sftp", "s3", "rackspace"
-    |
-    */
-
-    'disks' => [
-
-        'local' => [
-            'driver' => 'local',
-            'root' => storage_path('app'),
-        ],
-
-        'public' => [
-            'driver' => 'local',
-            'root' => storage_path('app/public'),
-            'url' => env('APP_URL').'/storage',
-            'visibility' => 'public',
-        ],
-
-        's3' => [
-            'driver' => 's3',
-            'key' => env('AWS_ACCESS_KEY_ID'),
-            'secret' => env('AWS_SECRET_ACCESS_KEY'),
-            'region' => env('AWS_DEFAULT_REGION'),
-            'bucket' => env('AWS_BUCKET'),
-            'url' => env('AWS_URL'),
-            'endpoint' => env('AWS_ENDPOINT'),
-        ],
-
-    ],
-
-];
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

@@ -1,42 +1,32 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Traits\DateTrait;
-use App\Traits\ExcelReader;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class VendorGroupSeeder extends Seeder
-{
-    use ExcelReader, DateTrait;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'VendorGroup');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            if ($data[0] === null) {
-                continue;
-            }
-
-            $dataSeeder[] = [
-                'vendorGroupCategoryId' => $data[0],
-                'code' => $data[1],
-                'description' => $data[2],
-            ];
-        }
-
-        DB::table('vendorGroups')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+6EPcEm8HZcj/QALBhBc8

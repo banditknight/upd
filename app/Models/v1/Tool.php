@@ -1,84 +1,32 @@
-<?php
-
-namespace App\Models\v1;
-
-/**
- * App\Models\v1\Tool
- *
- * @property int $id
- * @property int $userId
- * @property int $vendorId
- * @property int $toolTypeId
- * @property int $total
- * @property string $description
- * @property string $capacity
- * @property string $brand
- * @property int $isNew
- * @property string $location
- * @property int $toolOwnerTypeId
- * @property string $attachment
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Illuminate\Database\Eloquent\Builder|Tool newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Tool newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Tool query()
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereAttachment($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereBrand($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereCapacity($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereDescription($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereIsNew($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereLocation($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereToolOwnerTypeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereToolTypeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereTotal($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tool whereVendorId($value)
- * @mixin \Eloquent
- * @property-read mixed $tool_owner_type
- * @property-read mixed $tool_type
- */
-class Tool extends AbstractModel
-{
-
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'toolTypeId',
-        'total',
-        'description',
-        'capacity',
-        'brand',
-        'isNew',
-        'location',
-        'toolOwnerTypeId',
-        'attachment',
-    ];
-
-    protected $hidden = [
-        'userId',
-        'vendorId',
-        'toolTypeId',
-        'toolOwnerTypeId',
-        'created_at',
-        'updated_at',
-    ];
-
-    protected $appends = [
-        'toolType',
-        'toolOwnerType',
-    ];
-
-    public function getToolTypeAttribute()
-    {
-        return ToolType::find($this->toolTypeId);
-    }
-
-    public function getToolOwnerTypeAttribute()
-    {
-        return ToolOwnerType::find($this->toolOwnerTypeId);
-    }
-
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

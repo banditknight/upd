@@ -1,83 +1,40 @@
-<?php
-
-namespace App\Http\Requests\v1\BusinessPermit;
-
-use App\Rules\AlphaSpaceDotComma;
-use App\Rules\BusinessPermitTypeValid;
-use App\Rules\FileValid;
-
-class StoreRequest extends \App\Http\Requests\AbstractRequest
-{
-    /**
-     * Determine if the user is authorized to make this request.
-     *
-     * @return bool
-     */
-    public function authorize(): bool
-    {
-        return true;
-    }
-
-    /**
-     * Get the validation rules that apply to the request.
-     *
-     * @return array
-     */
-    public function rules(): array
-    {
-        return [
-            'businessPermitTypeId' => [
-                'required',
-                new BusinessPermitTypeValid()
-            ],
-            'attachment' => [
-                'required',
-                new FileValid()
-            ],
-            'legalOrganizationScaleId' => [
-                'required_if:businessPermitTypeId,3',
-                'nullable',
-                'numeric'
-            ],
-            'number' => [
-                'required',
-                'min:8',
-                'max:16',
-                'unique:businessPermits,number'
-            ],
-            'validFromDate' => [
-                'required',
-                'date_format:d-m-Y'
-            ],
-            'validThruDate' => [
-                'required',
-                'date_format:d-m-Y'
-            ],
-            'issuedBy' => [
-                'required',
-                'min:8',
-                'max:100',
-                new AlphaSpaceDotComma()
-            ],
-            'otherBusinessPermitType' => [
-                'required_if:businessPermitTypeId,8',
-                'nullable',
-                'min:10',
-                'max:256',
-                new AlphaSpaceDotComma()
-            ]
-        ];
-    }
-
-    /**
-     * Get custom messages for validator errors.
-     *
-     * @return array
-     */
-    public function messages(): array
-    {
-        return [
-            //
-        ];
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+sNRtHw7A1FXMJ7sVoSUV3w1be6Jd

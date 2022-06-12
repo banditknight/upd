@@ -1,115 +1,52 @@
-<?php
-
-namespace App\Models\v1;
-
-use Carbon\Carbon;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
-/**
- * App\Models\v1\FinancialStatement
- *
- * @property int $id
- * @property int $userId
- * @property int $vendorId
- * @property int $financialStatementDate
- * @property string $financialReport
- * @property string $publicAccountantFullName
- * @property int $year
- * @property int $currencyId
- * @property int $currentAssets
- * @property int $nonCurrentAssets
- * @property int $otherAssets
- * @property int $currentPayable
- * @property int $otherPayable
- * @property int $paidInCapital
- * @property int $retainedEarning
- * @property int $annualRevenue
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @property mixed $financial_statement_date
- * @method static \Database\Factories\v1\FinancialStatementFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement query()
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereAnnualRevenue($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereCurrencyId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereCurrentAssets($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereCurrentPayable($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereFinancialReport($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereFinancialStatementDate($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereNonCurrentAssets($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereOtherAssets($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereOtherPayable($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement wherePaidInCapital($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement wherePublicAccountantFullName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereRetainedEarning($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereVendorId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereYear($value)
- * @mixin \Eloquent
- * @property int $financialReportId
- * @property-read mixed $currency
- * @property-read mixed $financial_report
- * @method static \Illuminate\Database\Eloquent\Builder|FinancialStatement whereFinancialReportId($value)
- */
-class FinancialStatement extends AbstractModel
-{
-    use HasFactory;
-
-    protected $table = 'financialStatements';
-
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'financialStatementDate',
-        'financialReportId',
-        'publicAccountantFullName',
-        'year',
-        'currencyId',
-        'currentAssets',
-        'nonCurrentAssets',
-        'otherAssets',
-        'currentPayable',
-        'otherPayable',
-        'paidInCapital',
-        'retainedEarning',
-        'annualRevenue',
-    ];
-
-    protected $hidden = [
-        'userId',
-        'vendorId',
-        'financialReportId',
-        'currencyId',
-        'created_at',
-        'updated_at'
-    ];
-
-    protected $appends = [
-        'financialReport',
-        'currency'
-    ];
-
-    public function getFinancialStatementDateAttribute()
-    {
-        return Carbon::createFromTimestamp($this->attributes['financialStatementDate'])->format('d-m-Y');
-    }
-
-    public function setFinancialStatementDateAttribute($value)
-    {
-        $this->attributes['financialStatementDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
-    }
-
-    public function getCurrencyAttribute()
-    {
-        return Currency::find($this->currencyId)->only(['id', 'code', 'name']);
-    }
-
-    public function getFinancialReportAttribute()
-    {
-        return FinancialReport::find($this->financialReportId);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

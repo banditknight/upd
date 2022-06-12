@@ -1,35 +1,31 @@
-<?php
-
-use Illuminate\Database\Migrations\Migration;
-use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Support\Facades\Schema;
-
-class CreateBanksTable extends Migration
-{
-    /**
-     * Run the migrations.
-     *
-     * @return void
-     */
-    public function up()
-    {
-        Schema::create('banks', function (Blueprint $table) {
-            $table->id();
-
-            $table->string('code')->unique();
-            $table->string('name');
-
-            $table->timestamps();
-        });
-    }
-
-    /**
-     * Reverse the migrations.
-     *
-     * @return void
-     */
-    public function down()
-    {
-        Schema::dropIfExists('banks');
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+2blCLilIW1r/BHLqp4SF0ekJeW6l9PM+em==

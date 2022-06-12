@@ -1,68 +1,49 @@
-<?php
-
-namespace App\Http\Middleware\v1;
-
-use App\Exceptions\Custom\Account\{CantDeleteAccountDueMinimalAccountException,
-    CantDeleteSelfException,
-    PrimaryAccountCantBeDeleteException,
-    PrimaryAccountOnlyAllowedToDeleteException};
-use App\Traits\User;
-use Closure;
-use Illuminate\Support\Facades\DB;
-use Symfony\Component\HttpFoundation\Request;
-
-class DeleteAccountMiddleware
-{
-    use User;
-
-    /**
-     * Handle an incoming request.
-     *
-     * @param \Illuminate\Http\Request $request
-     * @param \Closure $next
-     * @return mixed
-     * @throws CantDeleteSelfException
-     * @throws PrimaryAccountCantBeDeleteException
-     * @throws CantDeleteAccountDueMinimalAccountException
-     */
-    public function handle($request, Closure $next)
-    {
-        $checkUser = \App\Models\v1\User::find($request->route('id'));
-        DB::beginTransaction();
-        // Pre-Middleware Action
-        $response = $next($request);
-
-        if ($request->getMethod() !== Request::METHOD_DELETE) {
-            return $response;
-        }
-
-        $user = $this->getUser();
-        if (!$user) {
-            return $response;
-        }
-
-        if ($checkUser && $checkUser->isPrimary) {
-            DB::rollBack();
-            throw new PrimaryAccountCantBeDeleteException();
-        }
-
-        if ((int)$request->route('id') === $user->id && $request->getMethod() === Request::METHOD_DELETE) {
-            if ($user->isPrimary === 1) {
-                DB::rollBack();
-                throw new PrimaryAccountCantBeDeleteException();
-            }
-
-            DB::rollBack();
-            throw new CantDeleteSelfException();
-        }
-
-        if ($user->isPrimary === null) {
-            DB::rollBack();
-            throw new PrimaryAccountOnlyAllowedToDeleteException();
-        }
-
-        DB::commit();
-        // Post-Middleware Action
-        return $response;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+4BYnIe/ZaW==

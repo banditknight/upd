@@ -1,60 +1,31 @@
-<?php
-
-namespace App\Models\v1;
-
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
-/**
- * App\Models\v1\Tab
- *
- * @property int $id
- * @property int|null $windowId
- * @property int|null $tabGroupId
- * @property string $name
- * @property string $description
- * @property string $endPoint
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @property-read mixed $fields
- * @method static \Database\Factories\v1\TabFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|Tab newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Tab newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Tab query()
- * @method static \Illuminate\Database\Eloquent\Builder|Tab whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tab whereDescription($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tab whereEndPoint($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tab whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tab whereName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tab whereTabGroupId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tab whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Tab whereWindowId($value)
- * @mixin \Eloquent
- */
-class Tab extends AbstractModel
-{
-    use HasFactory;
-
-    protected $fillable = [
-        'windowId',
-        'tabGroupId',
-        'name',
-        'description',
-        'endPoint',
-    ];
-
-    protected $appends = [
-        'fields'
-    ];
-
-    protected $hidden = [
-        'windowId',
-        'tabGroupId',
-        'created_at',
-        'updated_at'
-    ];
-
-    public function getFieldsAttribute()
-    {
-        return Field::all()->where('tabId', '=', $this->id)->except(['id']);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

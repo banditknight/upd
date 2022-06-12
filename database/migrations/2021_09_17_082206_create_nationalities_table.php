@@ -1,35 +1,30 @@
-<?php
-
-use Illuminate\Database\Migrations\Migration;
-use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Support\Facades\Schema;
-
-class CreateNationalitiesTable extends Migration
-{
-    /**
-     * Run the migrations.
-     *
-     * @return void
-     */
-    public function up()
-    {
-        Schema::create('nationalities', function (Blueprint $table) {
-            $table->id();
-
-            $table->string('code');
-            $table->string('name');
-
-            $table->timestamps();
-        });
-    }
-
-    /**
-     * Reverse the migrations.
-     *
-     * @return void
-     */
-    public function down()
-    {
-        Schema::dropIfExists('nationalities');
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

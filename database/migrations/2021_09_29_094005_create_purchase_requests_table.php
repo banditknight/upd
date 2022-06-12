@@ -1,53 +1,49 @@
-<?php
-
-use Illuminate\Database\Migrations\Migration;
-use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Support\Facades\Schema;
-
-class CreatePurchaseRequestsTable extends Migration
-{
-    /**
-     * Run the migrations.
-     *
-     * @return void
-     */
-    public function up()
-    {
-        Schema::create('purchaseRequests', function (Blueprint $table) {
-            $table->id();
-
-            $table->bigInteger('tenderId')->nullable();
-
-            $table->string('no')->unique();
-            $table->string('name');
-
-            $table->bigInteger('departmentId');
-            $table->bigInteger('itemTypeId');
-            $table->bigInteger('currencyId');
-
-            $table->string('woNo')->nullable();
-            $table->string('woTitle')->nullable();
-            $table->string('document')->nullable();
-
-
-            $table->date('confirmedDate');
-            $table->decimal('totalAmount',15,3);
-            $table->float('totalQty');
-            $table->bigInteger('DocStatusId')->default(1);
-
-            $table->string('prType')->default('ERP');
-
-            $table->timestamps();
-        });
-    }
-
-    /**
-     * Reverse the migrations.
-     *
-     * @return void
-     */
-    public function down()
-    {
-        Schema::dropIfExists('purchaseRequests');
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

@@ -1,161 +1,83 @@
-<?php
-
-namespace App\Models\v1;
-
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-use App\Traits\User as UserTrait;
-
-/**
- * App\Models\v1\TenderItem
- *
- * @property int $id
- * @property int $tenderId
- * @property string $productCodeId
- * @property string $productGroupCodeId
- * @property string $description
- * @property int $quantity
- * @property string $measurementUnitSymbol
- * @property int $currencyId
- * @property int $value
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Database\Factories\v1\TenderItemFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem query()
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereCurrencyId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereDescription($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereMeasurementUnitSymbol($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereProductCodeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereProductGroupCodeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereQuantity($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereTenderId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereValue($value)
- * @mixin \Eloquent
- * @property-read mixed $comply
- * @property int $unitOfMeasureId
- * @property-read mixed $currency
- * @property-read mixed $product_code
- * @property-read mixed $product_group_code
- * @property-read mixed $unit_of_measure
- * @method static \Illuminate\Database\Eloquent\Builder|TenderItem whereUnitOfMeasureId($value)
- */
-class TenderItem extends AbstractModel
-{
-    use HasFactory, UserTrait;
-
-    protected $table = 'tenderItems';
-
-    protected $fillable = [
-        'tenderId',
-        'productCodeId',
-        'productGroupCodeId',
-        'description',
-        'quantity',
-        'unitOfMeasureId',
-        'currencyId',
-        'value',
-        'purchaseRequestItemId',
-    ];
-
-    protected $appends = [
-        'complyCbe',
-        'complyTbe',
-        'productCode',
-        'productGroupCode',
-        'unitOfMeasure',
-        'currency',
-        'itemComponent',
-        'itemPr',
-    ];
-
-    protected $hidden = [
-        'tenderId',
-        'productCodeId',
-        'productGroupCodeId',
-        'unitOfMeasureId',
-        'currencyId',
-        'created_at',
-        'updated_at'
-    ];
-
-    public function getProductCodeAttribute()
-    {
-        return ProductCode::find($this->productCodeId);
-    }
-
-    public function getProductGroupCodeAttribute()
-    {
-        return ProductGroupCode::find($this->productGroupCodeId);
-    }
-
-    public function getUnitOfMeasureAttribute()
-    {
-        return UnitOfMeasure::find($this->unitOfMeasureId)->only(['id', 'name']);
-    }
-
-    public function getCurrencyAttribute()
-    {
-        $currency = Currency::find($this->currencyId);
-        if (!$currency) {
-            return null;
-        }
-
-        return $currency->only(['id', 'name', 'code']);
-    }
-
-    public function getComplyCbeAttribute()
-    {
-        $vendor = $this->getUser();
-
-        if ($vendor && !$vendor->hasRole('vendor')) {
-            return null;
-        }
-
-        return TenderItemComply::where('tenderItemId', '=', $this->id)
-            ->where('vendorId', '=', $vendor->vendorId ?? 0)
-            ->where('isCbe', '=', 1)
-            ->where('isTbe', '=', 0)
-            ->get()
-            ->last();
-    }
-
-    public function getComplyTbeAttribute()
-    {
-        $vendor = $this->getUser();
-
-        if ($vendor && !$vendor->hasRole('vendor')) {
-            return null;
-        }
-
-        return TenderItemComply::where('tenderItemId', '=', $this->id)
-            ->where('vendorId', '=', $vendor->vendorId ?? 0)
-            ->where('isCbe', '=', 0)
-            ->where('isTbe', '=', 1)
-            ->get()
-            ->last();
-    }
-
-    public function getItemComponentAttribute()
-    {
-        return TenderItemComponent::where('tenderId', '=', $this->tenderId)->get();
-    }
-
-    public function getItemPrAttribute()
-    {
-        $vendor = $this->getUser();
-
-        if ($vendor && $vendor->hasRole('vendor')) {
-            $pritem = PurchaseRequestItem::find($this->purchaseRequestItemId);
-            if($pritem != null){
-                return $pritem->only(['isService','description','qty','uom','estimationUnitCost']);
-            }
-            return null;
-        }
-
-        return PurchaseRequestItem::find($this->purchaseRequestItemId);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

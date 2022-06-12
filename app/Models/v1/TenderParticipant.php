@@ -1,102 +1,45 @@
-<?php
-
-namespace App\Models\v1;
-
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
-/**
- * App\Models\v1\TenderParticipant
- *
- * @property int $id
- * @property int $tenderId
- * @property int $userId
- * @property int $vendorId
- * @property int|null $tbeScore
- * @property int|null $cbeScore
- * @property int|null $ratioFinancial
- * @property int $joinStatusId
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @property-read mixed $status
- * @property-read \App\Models\v1\Tender $tender
- * @property-read mixed $vendor
- * @method static \Database\Factories\v1\TenderParticipantFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant query()
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereCbeScore($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereJoinStatusId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereRatioFinancial($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereTbeScore($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereTenderId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderParticipant whereVendorId($value)
- * @mixin \Eloquent
- */
-class TenderParticipant extends AbstractModel
-{
-    use HasFactory;
-
-    protected $table = 'tenderParticipants';
-
-    protected $fillable = [
-        'vendorId',
-        'userId',
-        'tenderId'
-    ];
-
-    protected $hidden = [
-        'vendorId',
-        'userId',
-        'tenderId',
-        'created_at',
-        'updated_at'
-    ];
-
-    protected $appends = [
-        'vendor',
-        'tender',
-        'status'
-    ];
-
-    public function getVendorAttribute()
-    {
-        if (!$this->vendorId) {
-            return null;
-        }
-
-        $vendor = Vendor::find($this->vendorId);
-
-        return $vendor ? $vendor->only(['id', 'name', 'registrationNumber']) : null;
-    }
-
-    public function getTenderAttribute()
-    {
-        if (!$this->tenderId) {
-            return null;
-        }
-
-        $tender = Tender::find($this->tenderId);
-
-        return $tender ? $tender->only(['id', 'number', 'name']) : null;
-    }
-
-    public function getStatusAttribute()
-    {
-        if (!$this->joinStatusId) {
-            return null;
-        }
-
-        $status = TenderJoinStatus::find($this->joinStatusId);
-
-        return $status ? $status->first() : null;
-    }
-
-    public function tender()
-    {
-        return $this->belongsTo(Tender::class);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

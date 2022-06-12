@@ -1,57 +1,42 @@
-<?php
-
-namespace App\Http\Controllers\App\v1;
-
-use App\Exceptions\Custom\ModelNotFoundException;
-use App\Exceptions\Custom\Repository\RepositoryException;
-use App\Http\Requests\ResourceRequest;
-use App\Models\v1\TenderProcessDocumentPraQualification;
-use Illuminate\Http\JsonResponse;
-use Prettus\Validator\Exceptions\ValidatorException;
-
-class TenderProcessPraQualificationController extends ResourceController
-{
-    /**
-     * Display a listing of the resource.
-     *
-     * @param ResourceRequest $resourceRequest
-     * @return JsonResponse
-     * @throws RepositoryException
-     */
-    public function index(ResourceRequest $resourceRequest): JsonResponse
-    {
-        return $this->responseSuccess($this->repo->paginate($resourceRequest->get('limit', 0)));
-    }
-
-    /**
-     * Store a newly created resource in storage.
-     *
-     * @param ResourceRequest $resourceRequest
-     * @return JsonResponse
-     */
-    public function store(ResourceRequest $resourceRequest): JsonResponse
-    {
-        $tenderProcessDocumentPraQualification = TenderProcessDocumentPraQualification::create(
-            $resourceRequest->all()
-        );
-
-        return $this->responseSuccess($tenderProcessDocumentPraQualification);
-    }
-
-    /**
-     * @throws ModelNotFoundException
-     */
-    public function destroy(int $id): JsonResponse
-    {
-        $tenderProcessDocumentPraQualification = TenderProcessDocumentPraQualification::find($id);
-
-        if (!$tenderProcessDocumentPraQualification) {
-            throw new ModelNotFoundException('');
-        }
-
-        $tenderProcessDocumentPraQualification->isDeleted = 1;
-        $tenderProcessDocumentPraQualification->save();
-
-        return $this->responseSuccess([]);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+7ivLs0==

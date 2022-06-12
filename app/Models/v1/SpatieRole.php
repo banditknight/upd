@@ -1,51 +1,33 @@
-<?php
-
-namespace App\Models\v1;
-
-/**
- * App\Models\v1\SpatieRole
- *
- * @property int $id
- * @property string $name
- * @property string $guard_name
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole query()
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole whereGuardName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole whereName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole whereUpdatedAt($value)
- * @mixin \Eloquent
- */
-class SpatieRole extends AbstractModel
-{
-    protected $table = 'spatieRoles';
-
-    protected $fillable = [
-        // 'name',
-        'code',
-        'description',
-        'guard_name'
-    ];
-
-    protected $appends = [
-        'permission',
-        'menus',
-    ];
-
-    public function getPermissionAttribute(){
-        return SpatieRoleHasPermission::where('role_id',$this->id)->get();
-    }
-
-    public function getMenusAttribute(){
-        $res = [];
-        $menus = $this->belongsToMany(Menu::class,'roleMenus','roleId','menuId')->get();
-        // foreach($menus as $menu){
-        //     $res[] = $menu->only(['id','name']);
-        // }
-        return $menus;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+EMGP528rxeJT4wp9RTBTLfWT6x/Wn9Ez

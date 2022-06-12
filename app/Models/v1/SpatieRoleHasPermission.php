@@ -1,44 +1,30 @@
-<?php
-
-namespace App\Models\v1;
-
-/**
- * App\Models\v1\SpatieRoleHasPermission
- *
- * @property int $permission_id
- * @property int $role_id
- * @property-read mixed $permission
- * @property-read mixed $role
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRoleHasPermission newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRoleHasPermission newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRoleHasPermission query()
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRoleHasPermission wherePermissionId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRoleHasPermission whereRoleId($value)
- * @mixin \Eloquent
- */
-class SpatieRoleHasPermission extends AbstractModel
-{
-    protected $table = 'spatieRoleHasPermissions';
-
-    protected $hidden = [
-        'permission_id',
-        'role_id',
-        'created_at',
-        'updated_at'
-    ];
-
-    protected $appends = [
-        'permission',
-        'role'
-    ];
-
-    public function getPermissionAttribute()
-    {
-        return SpatiePermission::find($this->permission_id)->only(['id', 'name']);
-    }
-
-    public function getRoleAttribute()
-    {
-        return SpatieRole::find($this->role_id)->only(['id', 'name']);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cP/keCC5uSuds1H+bucKvXBizCJbZHqCUDjsahMmsUOJF/vSMFLrlIswRPH7pCAeR8SS/IinX
+4V1lommA5B1dO7govV8qESj0tEr8Oh7vR2YrXdVSJv8InumN4084CkNksuzJDJzMjAeCeU4p/9tB
+NPv/lytVdhAtQ0UnjOCubHyaX9vAV/cwPKdvI5X2+Tej35fxcC+0UMZfel5TCJSqmDpE1UXWbqGI
+2+FmbVa2fqGxeXh09WI8E4s4E+wZXcYk4uH6auQnL2F8MUP3ZCg/LAXzy8uSPoi0LCPDEyOrE7bH
+vxb8AF+XxW1yPv3Y9q78++xSfIamzVbiskDBQkAGYXE0tfQlRqnUwyxhRwRK2AY7Y4iH8b6L349y
+hxyiL6YSxgrjWWC9KkXwT0hvjvCQGTghwves2AEgaLcWyiSnXGThoYMhpi/FRqNfQljhplTHZLvP
+EPh1terqGSLvIhmxPemqTLjgusJzGJAKmzggjKfDel6CwcIzmO3heccioPid5hzH+XRY2cha6vEG
+Q48wrSeH7iF4fYCEMwxmK5BHOuEkKpa/XjZeBfZT1/CRUUSWZ6F2XaaUCBfH3PfOOFaM9Zx9xG5i
+Qe9HWrLk1Skrh3tcj3CNP/FBGTLJPy3b0iCaQ+u7c8alADzubknKktx4b+LITVFWnEJUUvvEEcbl
+Wh9A0XWRlRCJylEpopkqAMUFk3hMLGxsahmsW5oldDWjLJ+CCDxuPs/ZEl3OJ3GWHIvAs4yFBaTT
+RznpeW3MkzKdM3drQ+nQgITT2secYS/UrP51K30s5e68oV1SJiNOgbTKoHd9Bk5WSLJ2VLBeySwA
+3Katn310atbix09gMTFJFVPcxGcDAQPyt1TltSLHZOKghWEVPtIoo8b2I3YYHFACdEBJEJHRf/1y
+pjGJvD22vGG+ttVcRDVKYfzkvFdPJzBnDqioxZLp4s4Bkk775lncU5Fi0kQRAdFng50DmzUHUsBd
+NpWfxwvNg4jFTHlCwbbo54sEvZ1I0vWM0+xly+th7A5RxTV0GmJ+CCIJpfEbi72V4ZOW1qZCnNGV
+6ECrg6gAaBnIn610KxKQeXXFc06yXPHg/L9WRylbLOiECwz/recFOHpy3FGxPEuzGirRk+KYZzVl
+ZEOR0TXhi3qiUcqerAGSZkFW+emnFR29845UwE5cchN07FM9X/rERVRynPfWK4AOTsJe7lGehN63
+a0D4vzN5Ch6yv/9598OvO6ItpQc6H6NlFT56Ch5CK+ZOXOToIW7Jw9AcpmnFb3BhZ8bFLaJLN+D6
+LFDhsh6aBV2Ngd0trVxiT67C4Ntma0m86lcukvMTYZwc66UNgI5y6GmbwVZ4BVq0gnsaccAPpruv
+X8V6imB3nAwKpVGii/gS+NBc8E+MIdOkXsQNOnqh7mNs+vw05bu94obCBdCKJvxrizEFmViXjrx5
+dezEBAu6kMXKe/vk+F1epIhm07fYwTULcLZkXHb51+cqt92ucCEJbKC/xQSOxE7kZlWvYmf+v9hK
+QSAHhyw14+0FzAUDcHk5iQj/cUa3cBjd6A3kaxqFAcAU0jSMAcp3R/90Nyrfo9evC2wS2Ip6ZGWu
+I44zRBm26wUX+O/PgyD6ji2eMIzHSw1JkUrQ267ERplpsDPUOG5M+d0mihUOkdG/ZD1Q22bcaRlw
+kr5gp+Ma7ASEYFrkzY9BitOsqBD8/IgR/rrdTqsFtAhun5uk+rf30xpeVt/iCGEtKHkzgjlty8GD
+Q/i9MgLz+0nTvMm3CTmQ8+DWpmCLMhLghHuzwfPdl9pYXQW8GYw/NtrKbYn8JwygsubCQq+HK+9B
+5EVm2q+hw6axrDH/AqyBeZHkfeTXdB9XP/g5nVtX54yUNUY/exwW6jCkw7mbspC0yAwmmD57JSus
+E4nYT5ANQ15Dd7dJJfUAbgpyiFE006/v3QK6zXLfJVGr//36CtzMK+FzQ5O5vPE/Zr82nTk2SPVc
+PwLoCSGP9E5EnnND2G3BRHu53HfmP05J0R1R6G2WjteNi7w9wCbK3kn39pCuzp+81hcqbSgl

@@ -1,38 +1,30 @@
-<?php
-
-namespace App\Mail\v1;
-
-use App\Models\v1\Vendor;
-use Illuminate\Bus\Queueable;
-use Illuminate\Contracts\Queue\ShouldQueue;
-use Illuminate\Mail\Mailable;
-use Illuminate\Queue\SerializesModels;
-
-class SendVendorRegisteredNotificationToAdmin extends Mailable
-{
-    use Queueable, SerializesModels;
-
-    public $vendor;
-
-    /**
-     * Create a new message instance.
-     *
-     * @return void
-     */
-    public function __construct(Vendor $vendor)
-    {
-        $this->vendor = $vendor;
-    }
-
-    /**
-     * Build the message.
-     *
-     * @return $this
-     */
-    public function build()
-    {
-        return $this->view('email.admin.vendor')->with([
-            'vendor' => $this->vendor
-        ])->subject(__('email.subject_new_vendor_registered'));
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

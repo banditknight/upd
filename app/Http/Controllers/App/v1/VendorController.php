@@ -1,58 +1,46 @@
-<?php
-
-namespace App\Http\Controllers\App\v1;
-
-use App\Exceptions\Custom\Repository\RepositoryException;
-use App\Http\Requests\v1\Vendor\VendorRegisterRequest;
-use App\Http\Requests\v1\Vendor\VendorVerificationRequest;
-use App\Models\v1\Vendor;
-use App\Repositories\ResourceRepository;
-use App\Traits\User;
-use App\Traits\VendorRegisterTransaction;
-use App\Traits\VendorVerification;
-use Illuminate\Http\Request;
-use League\Fractal\Manager;
-use Tymon\JWTAuth\JWTAuth;
-
-class VendorController extends AbstractController
-{
-    use VendorRegisterTransaction, VendorVerification, User;
-
-    /**
-     * @throws RepositoryException
-     */
-    public function __construct(Manager $fractal, Request $request, JWTAuth $JWTAuth)
-    {
-        parent::__construct($fractal, $request, $JWTAuth);
-
-        $this->repo = new ResourceRepository(new Vendor());
-    }
-
-    public function register(VendorRegisterRequest $request)
-    {
-        $transaction = $this->transaction($request);
-
-        return $this->responseSuccess($transaction);
-    }
-
-    public function profile()
-    {
-        $user = $this->getUser();
-
-        return $this->responseSuccess($user->vendor ?? []);
-    }
-
-    public function index()
-    {
-        $user = $this->getUser();
-
-        return $this->responseSuccess($user->vendor ?? []);
-    }
-
-    public function verification(VendorVerificationRequest $request)
-    {
-        $verify = $this->verify($this->getUser(), $request->get('comment'));
-
-        return $this->responseSuccess($verify);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+tzwMShmhQxus1xOI8YeH
