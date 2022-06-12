@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateBoardTypesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('boardTypes', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code')->unique();
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('boardTypes');
+    }
+}

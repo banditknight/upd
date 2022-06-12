@@ -1,88 +1,136 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Controllers\BackOffice\v1;
+
+use App\Exceptions\Custom\ModelNotFoundException;
+use App\Http\Requests\AbstractRequest;
+use App\Models\v1\WorkflowLog;
+use Carbon\Carbon;
+use Illuminate\Support\Facades\DB;
+use App\Http\Requests\v1\Workflow\{IndexRequest, StoreRequest};
+use Symfony\Component\Workflow\StateMachine;
+
+class WorkflowController extends AbstractController
+{
+    /**
+     * @throws ModelNotFoundException
+     */
+    public function index(IndexRequest $indexRequest)
+    {
+        $findModelById = $this->modelResolver($indexRequest);
+        $data = [];
+
+        if (!$findModelById || !method_exists($findModelById, 'workflow_get')) {
+            return $this->responseSuccess($data);
+        }
+
+        /** @var StateMachine $workflow */
+        $workflow = $findModelById->workflow_get();
+        $definition = $workflow->getDefinition();
+        $currentPlace = $workflow->getMarking($findModelById)->getPlaces();
+        $availablePlaces = $definition->getPlaces();
+
+        $force = false;
+        $step = 1;
+        $currentStep = 1;
+        foreach ($availablePlaces as $key => $availablePlace) {
+            $isFinished = !isset($currentPlace[$key]);
+
+            if (!$isFinished && !$force) {
+                $currentStep = $step;
+                $force = true;
+            }
+
+            $data['progress'][] = [
+                'step' => $step,
+                'name' => $key,
+                'iconClass' => 'fa fa-user',
+                'iconImage' => 'img.png',
+                'isFinished' => $force ? false : $isFinished
+            ];
+
+            ++$step;
+        }
+
+        $allowedTransitions = [];
+        foreach ($findModelById->workflow_transitions() as $workflow_transition) {
+            $allowedTransitions[] = [
+                'name' => $workflow_transition->getName(),
+                'notes' => null
+            ];
+        }
+
+        $data['currentStep'] = $currentStep;
+        $data['allowedTransitions'] = $allowedTransitions;
+
+        return $this->responseSuccess($data);
+    }
+
+    public function status(IndexRequest $request){
+        $data = [];
+        
+        return $this->responseSuccess($data);
+    }
+
+    /**
+     * @throws ModelNotFoundException
+     */
+    public function store(StoreRequest $storeRequest)
+    {
+        $findModelById = $this->modelResolver($storeRequest);
+        $data = [];
+
+        if (!$findModelById || !method_exists($findModelById, 'workflow_get')) {
+            return $this->responseSuccess($data);
+        }
+
+        $transition = $storeRequest->get('transition');
+
+        /** @var StateMachine $workflow */
+        $workflow = $findModelById->workflow_get();
+
+        $data['message'] = 'Updated';
+        try {
+            DB::beginTransaction();
+
+            $workflow->apply($findModelById, $transition);
+
+            WorkflowLog::insert([
+                'userId' => 1,
+                'vendorId' => 1,
+                'model' => $storeRequest->get('model'),
+                'mid' => $storeRequest->get('mid'),
+                'transition' => $storeRequest->get('transition'),
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now()
+            ]);
+
+            $findModelById->save();
+
+            DB::commit();
+        } catch (\Exception $e) {
+            DB::rollback();
+
+            $data['message'] = $e->getMessage();
+        }
+
+        return $this->responseSuccess($data);
+    }
+
+    /**
+     * @throws ModelNotFoundException
+     */
+    private function modelResolver(AbstractRequest $request)
+    {
+        $model = $request->get('model');
+        $modelClass = sprintf('App\\Models\\v1\\%s', ucfirst($model));
+
+        if (!class_exists($modelClass)) {
+            throw new ModelNotFoundException();
+        }
+
+        $mid = $request->get('mid');
+
+        return $modelClass::find($mid);
+    }
+}

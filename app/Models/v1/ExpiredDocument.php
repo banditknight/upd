@@ -1,48 +1,93 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-JpWYjqMOExLXWtIq
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\ExpiredDocument
+ *
+ * @property int $id
+ * @property int $vendorId
+ * @property int $businessPermitTypeId
+ * @property int $businessPermitNumber
+ * @property int $validFromDate
+ * @property int $validThruDate
+ * @property int $stateId
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-read mixed $business_permit_type
+ * @property-read mixed $state
+ * @property-read mixed $vendor
+ * @property-write mixed $valid_from_date
+ * @property-write mixed $valid_thru_date
+ * @method static \Database\Factories\v1\ExpiredDocumentFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument query()
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument whereBusinessPermitNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument whereBusinessPermitTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument whereStateId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument whereValidFromDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument whereValidThruDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|ExpiredDocument whereVendorId($value)
+ * @mixin \Eloquent
+ */
+class ExpiredDocument extends AbstractModel
+{
+    use HasFactory;
+
+    protected $table = 'expiredDocuments';
+
+    protected $fillable = [
+        'vendorId',
+        'businessPermitTypeId',
+        'businessPermitNumber',
+        'validFromDate',
+        'validThruDate',
+        'stateId',
+    ];
+
+    protected $hidden = [
+        'vendorId',
+        'businessPermitTypeId',
+        'stateId',
+        'created_at',
+        'updated_at',
+    ];
+
+    protected $appends = [
+        'vendor',
+        'businessPermitType',
+        'state'
+    ];
+
+    public function getVendorAttribute()
+    {
+        return Vendor::where('id', '=', $this->vendorId)->get(['id', 'name']);
+    }
+
+    public function getBusinessPermitTypeAttribute()
+    {
+        return BusinessPermitType::find($this->businessPermitTypeId);
+    }
+
+    public function getStateAttribute()
+    {
+        return State::find($this->stateId);
+    }
+
+    public function setValidFromDateAttribute($value)
+    {
+        $this->attributes['validFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setValidThruDateAttribute($value)
+    {
+        $this->attributes['validThruDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+}

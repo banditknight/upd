@@ -1,31 +1,40 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use App\Traits\ExcelReader;
+
+class AssessmentCriteriaSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'AssessmentCriteria');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1],
+                'name' => $data[2],
+                'weight' => $data[3],
+                'tenderId' => $data[4],
+                'tenderItemId' => $data[5],
+            ];
+        }
+
+        DB::table('assessmentCriteria')->insert($dataSeeder);
+
+    }
+}

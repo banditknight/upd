@@ -1,44 +1,75 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Listeners;
+
+use App\Contracts\RepositoryInterface;
+use App\Events\v1\RepositoryEventBase;
+use App\Helpers\CacheKeys;
+use Illuminate\Contracts\Cache\Repository as CacheRepository;
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Facades\Log;
+
+/**
+ * Class CleanCacheRepository
+ * @package Prettus\Repository\Listeners
+ * @author Anderson Andrade <contato@andersonandra.de>
+ */
+class CleanCacheRepository
+{
+
+    /**
+     * @var CacheRepository
+     */
+    protected $cache = null;
+
+    /**
+     * @var RepositoryInterface
+     */
+    protected $repository = null;
+
+    /**
+     * @var Model
+     */
+    protected $model = null;
+
+    /**
+     * @var string
+     */
+    protected $action = null;
+
+    /**
+     *
+     */
+    public function __construct()
+    {
+        $this->cache = app(config('repository.cache.repository', 'cache'));
+    }
+
+    /**
+     * @param RepositoryEventBase $event
+     */
+    public function handle(RepositoryEventBase $event)
+    {
+        try {
+            $cleanEnabled = config("repository.cache.clean.enabled", true);
+
+            if ($cleanEnabled) {
+                $this->repository = $event->getRepository();
+                $this->model = $event->getModel();
+                $this->action = $event->getAction();
+
+                if (config("repository.cache.clean.on.{$this->action}", true)) {
+                    $cacheKeys = CacheKeys::getKeys(get_class($this->repository));
+
+                    if (is_array($cacheKeys)) {
+                        foreach ($cacheKeys as $key) {
+                            $this->cache->forget($key);
+                        }
+                    }
+                }
+            }
+        } catch (\Exception $e) {
+            Log::error($e->getMessage());
+        }
+    }
+}

@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-FGpUZOhKj5eNE0yNMiIhfunKOG==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateUserManualsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('userManuals', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('title');
+            $table->text('content');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('userManuals');
+    }
+}

@@ -1,41 +1,106 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-PcxhaYKkaUpJd3coLFTiYBhufkrd
+<?php
+
+namespace App\Models\v1;
+
+/**
+ * App\Models\v1\Board
+ *
+ * @property int $id
+ * @property int $userId
+ * @property int $vendorId
+ * @property int $boardTypeId
+ * @property int $nationalityId
+ * @property bool $isListed
+ * @property bool $isCompanyHead
+ * @property string $name
+ * @property string $position
+ * @property string $taxIdentificationNumber
+ * @property string $taxIdentificationAttachment
+ * @property string $ktpNumber
+ * @property string $ktpAttachment
+ * @property string $kitasNumber
+ * @property string $kitasAttachment
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-write mixed $is_company_head
+ * @property-write mixed $is_listed
+ * @method static \Illuminate\Database\Eloquent\Builder|Board newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Board newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Board query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereBoardTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereIsCompanyHead($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereIsListed($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereKitasAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereKitasNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereKtpAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereKtpNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereNationalityId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board wherePosition($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereTaxIdentificationAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereTaxIdentificationNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Board whereVendorId($value)
+ * @mixin \Eloquent
+ */
+class Board extends AbstractModel
+{
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'boardTypeId',
+        'nationalityId',
+        'isListed',
+        'isCompanyHead',
+        'name',
+        'position',
+        'taxIdentificationNumber',
+        'taxIdentificationAttachment',
+        'ktpNumber',
+        'ktpAttachment',
+        'kitasNumber',
+        'kitasAttachment',
+    ];
+
+    protected $hidden = [
+        'userId',
+        'vendorId',
+//        'boardTypeId',
+//        'nationalityId',
+        'created_at',
+        'updated_at'
+    ];
+
+    protected $appends = [
+        'boardType',
+        'nationality',
+    ];
+
+    protected $casts = [
+        'isListed' => 'boolean',
+        'isCompanyHead' => 'boolean',
+    ];
+
+    public function setIsListedAttribute($value)
+    {
+        $this->attributes['isListed'] = (int)(boolean)$value;
+    }
+
+    public function setIsCompanyHeadAttribute($value)
+    {
+        $this->attributes['isCompanyHead'] = (int)(boolean)$value;
+    }
+
+    public function getBoardTypeAttribute()
+    {
+        return BoardType::find($this->boardTypeId);
+    }
+
+    public function getNationalityAttribute()
+    {
+        return Nationality::find($this->nationalityId);
+    }
+}

@@ -1,32 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-nwNjjOj6
+<?php
+
+namespace App\Http\Controllers\App\v1;
+
+use App\Http\Requests\v1\Tender\TenderIndexRequest;
+use App\Repositories\Application\TenderRepository;
+use Yajra\DataTables\CollectionDataTable;
+use Yajra\DataTables\DataTables;
+
+class TenderController extends AbstractController
+{
+    /** @var TenderRepository */
+    protected $repo;
+
+    /**
+     * @throws \Exception
+     */
+    public function index(TenderIndexRequest $tenderIndexRequest)
+    {
+        if ($tenderIndexRequest->all()) {
+            return $this->responseSuccess($this->repo->findByFilter($tenderIndexRequest->all()));
+        }
+
+        $tenders = $this->repo->all();
+
+        /** @var CollectionDataTable $dataTableTenders */
+        $dataTableTenders = null;
+        try {
+            $dataTableTenders = DataTables::of($tenders);
+        } catch (\Exception $exception) {
+            // @todo should be log
+        }
+
+        return $this->responseSuccess(
+            $dataTableTenders instanceof CollectionDataTable ? $dataTableTenders->toArray() : null
+        );
+    }
+}

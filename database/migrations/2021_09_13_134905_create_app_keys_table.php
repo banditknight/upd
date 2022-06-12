@@ -1,33 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateAppKeysTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('appKeys', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('key')->unique();
+            $table->string('channelId');
+
+            $table->boolean('isActive')->default(true);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('appKeys');
+    }
+}

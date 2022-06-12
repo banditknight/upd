@@ -1,35 +1,77 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-GJCo6NC+Iv8O3f480qPiTQQr0IBT
+<?php
+
+namespace App\Models\v1;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\BankAccount
+ *
+ * @property int $id
+ * @property int $userId
+ * @property int $vendorId
+ * @property int $bankId
+ * @property string $accountNumber
+ * @property string $accountHolderName
+ * @property string $bankAddress
+ * @property int $currencyId
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-read mixed $bank
+ * @property-read mixed $currency
+ * @method static \Database\Factories\v1\BankAccountFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount query()
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereAccountHolderName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereAccountNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereBankAddress($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereBankId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereCurrencyId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereVendorId($value)
+ * @mixin \Eloquent
+ */
+class BankAccount extends AbstractModel
+{
+    use HasFactory;
+
+    protected $table = 'bankAccounts';
+
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'bankId',
+        'accountNumber',
+        'accountHolderName',
+        'bankAddress',
+        'currencyId'
+    ];
+
+    protected $hidden = [
+        'userId',
+        'vendorId',
+        'bankId',
+        'currencyId',
+        'created_at',
+        'updated_at'
+    ];
+
+    protected $appends = [
+        'bank',
+        'currency'
+    ];
+
+    public function getBankAttribute()
+    {
+        return Bank::find($this->bankId, ['id', 'name']);
+    }
+
+    public function getCurrencyAttribute()
+    {
+        return Currency::find($this->currencyId, ['id', 'code', 'name', 'symbol']);
+    }
+}

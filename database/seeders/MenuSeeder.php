@@ -1,34 +1,43 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-gQA8q3zc
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use App\Traits\ExcelReader;
+use Illuminate\Support\Facades\DB;
+
+class MenuSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Menu');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+            $dataSeeder[] = [
+                'value' => $data[1],
+                'name' => $data[2],
+                'description' => $data[3],
+                'isParent' => $data[4],
+                'parentId' => $data[5],
+                'menuActionId' => $data[6],
+                'menuActionValue' => $data[7],
+                'isActive' => $data[8],
+                'sequence' => $data[9],
+                'icon' => $data[10],
+            ];
+        }
+
+        DB::table('menus')->insert($dataSeeder);
+    }
+}

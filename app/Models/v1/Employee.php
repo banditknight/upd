@@ -1,51 +1,127 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+
+/**
+ * App\Models\v1\Employee
+ *
+ * @property int $id
+ * @property int $userId
+ * @property int $vendorId
+ * @property int $employeeStatusId
+ * @property int $dob
+ * @property string $pob
+ * @property string $name
+ * @property string $educationId
+ * @property string $fieldOfStudy
+ * @property string $ktpNumber
+ * @property string $jobExperienceAttachment
+ * @property string $workPeriodId
+ * @property string $certificateAttachment
+ * @property int $certificateTypeId
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereCertificateAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereCertificateTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereDob($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereEducationId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereEmployeeStatusId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereFieldOfStudy($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereJobExperienceAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereKtpNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee wherePob($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereVendorId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereWorkPeriodId($value)
+ * @mixin \Eloquent
+ * @property int $fieldOfStudyId
+ * @property-read mixed $certificate_type
+ * @property-read mixed $education
+ * @property-read mixed $employee_status
+ * @property-read mixed $field_of_study
+ * @property-read mixed $work_period
+ * @method static \Illuminate\Database\Eloquent\Builder|Employee whereFieldOfStudyId($value)
+ */
+class Employee extends AbstractModel
+{
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'employeeStatusId',
+        'dob',
+        'pob',
+        'name',
+        'educationId',
+        'fieldOfStudyId',
+        'ktpNumber',
+        'jobExperienceAttachment',
+        'workPeriodId',
+        'certificateAttachment',
+        'certificateTypeId'
+    ];
+
+    protected $appends = [
+        'fieldOfStudy',
+        'employeeStatus',
+        'education',
+        'certificateType',
+        'workPeriod'
+    ];
+
+    protected $hidden = [
+        'userId',
+        'vendorId',
+        'employeeStatusId',
+        'educationId',
+        'fieldOfStudyId',
+        'workPeriodId',
+        'certificateTypeId',
+        'created_at',
+        'updated_at'
+    ];
+
+    public function getDobAttribute()
+    {
+        // return Carbon::createFromTimestamp($this->attributes['dob'])->format('d-m-Y');
+        return $this->attributes['dob'];
+    }
+
+    public function setDobAttribute($value)
+    {
+        $this->attributes['dob'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function getFieldOfStudyAttribute()
+    {
+        return FieldOfStudy::find($this->fieldOfStudyId);
+    }
+
+    public function getEmployeeStatusAttribute()
+    {
+        return EmployeeStatus::find($this->employeeStatusId);
+    }
+
+    public function getEducationAttribute()
+    {
+        return Education::find($this->educationId);
+    }
+
+    public function getCertificateTypeAttribute()
+    {
+        return CertificationType::find($this->certificateTypeId);
+    }
+
+    public function getWorkPeriodAttribute()
+    {
+        return WorkPeriod::find($this->workPeriodId);
+    }
+}

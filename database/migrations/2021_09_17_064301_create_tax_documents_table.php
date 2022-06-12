@@ -1,35 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-TNxdbNOJHqGd9OZGOQzR62Ld8Ae=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateTaxDocumentsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('taxDocuments', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId');
+            $table->bigInteger('vendorId');
+            $table->bigInteger('taxDocumentTypeId');
+            $table->bigInteger('number');
+            $table->bigInteger('issuedDate');
+            $table->bigInteger('attachment');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('taxDocuments');
+    }
+}

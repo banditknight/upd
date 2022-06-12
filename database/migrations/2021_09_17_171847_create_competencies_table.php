@@ -1,35 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-uj0zvG6cD3rSmuJkOAbe1K/OrhJAjMiIKg0=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateCompetenciesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('competencies', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId');
+            $table->bigInteger('vendorId');
+            $table->bigInteger('businessTypeId');
+            $table->bigInteger('subBusinessTypeId');
+            $table->text('descriptionOfExperience');
+            $table->bigInteger('vendorTypeId');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('competencies');
+    }
+}

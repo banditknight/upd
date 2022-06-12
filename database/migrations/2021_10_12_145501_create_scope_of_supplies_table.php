@@ -1,34 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPy9klNuGjGLnxTaeNNZSjkPFd6uD9u6bwjHGLlS5sduHoCYylB01Uz3WAXsEErhcb8wTeb4l
-HNxo+ItwEpAE3wgnK3Zyw1oiAzRedoHhdMmQW/6Fy1PEgoAejGnaXhmJgvwMpmPQPdDEXk3fADfM
-CrHxx6hWUTvYBH07MC5jttKwAWRTAguvxPkUj6lxZbhpNym8v/E3FZx8G/2OCg+ROhShSWHi24Ym
-Tw/jc6EcgPygNTy2GKGox9N/J/Vo1XKX+zhuHqFMqjF1wWJp24seRQQsnS7Lj6qd5AA+PVKcCZZp
-nlawasEir9n/gPCd5ngKtuau2lvkCfY7sgPT/D65nnHiBjo9wdPv5r4cpv9E0hP5taiA5fNKunsv
-J6hNIjn7tchVfvVjJOTxGpKo2bAC7KbxgU0A63EFUoVmrRRgQXvCjYu76lDHrmBJnR4VK8TG3E6N
-t9WsouThQe+OgiHB0N5Uj1FKp9qOeSg+AgaBYqoUuGyM/TnSrwIsndsYdIQ+AHJkmN+59wB2ajug
-37To+xuKIODvT5BZ+/EbU2i4iXQVqHEeqoyV6jk9ucNomkSUjSxmE4VJ6zPCC6uEYPhwxDHO5dm3
-kK+JcT31pwfbz+7TX0wNDLDiEP8dJ6zC7tIK11vRsjCcEmUcSl+u8OliUe55tgpwqSIP0sH0pBJd
-q2HV1rj3HN2/hNvtSARGGa42RmmmGKHnZYW+3h3mQErQ8FkPe5jyOedzLk57ORC8Ho4Hw8TXZnW6
-tXG3FKF0g/PVo0TST1wL6D540LaS/ZcnZK8kYRE4Ud32aUj2w6lxmvoGKmN/606NcYIcfN+OoASo
-bBj0fdME4e5CTvakUAZQr21badJERIF/OS7yCVXtB/hqZumXpIYs3n9wOK12/opd17aHqlwdR1UX
-fjnw6dZUdIuSuPNwqM762Ys5Bl6w3wXaRLr0Jt8wQCvQ3g/yksj6vgh3+6LzaZ0oZBvsw4/no6/m
-tIvxxVCftiDg/qSIrLRwcCD0QLHSjxv4m6KXLDjllnp2anvfGVobhc2ouHvbfzJckq9VqoxNzyV7
-yYQPrU5GbT9CDps2v9zZ9uV2Jg3ji/ndpsrNVnMeLEQNLNaCVWhxzLV/GbhCE32BMDk/0P4smOJU
-UTf+id86QU+LBZ1Cj4UqPfQffV90aumQm3OxH+3Y8vNCbIeK+SHhiyzJ3ERwvrua4siwcLjpGg6l
-MYDEfGsC4beDXlD5Q9WwXIHOjBE/L9kqG6FeafhXmoZBqo0p1DCO7y5FVTrXHZVju31NB6geW9uZ
-z4zhyE2cZ4I8gGuMBogxId6ieMyMLunzPI6T2JqqwiEs3NUYAGt/YI3qqw6D7gyKlOzgm77qOpc0
-X1XkVebDQ2IvcTKhZEZz7cx4igI2pNPCGjW1jF6iYWb6yNmLw0xPSzphPgnNreNLQsw6MRiuIceh
-01N2psDtb4ftMLFsRAuVYLoIpso6T6LaDQGk/xk9t5xrxOFWC6BKk0q+UtoWq+S6G2HHm6TC/9AC
-LtQlW30hxxXRCAald2krmnXhq8b5aZvT2MJ2bunhuZzWFc5MX/hWlRbG1wAH9WMkOuZ+ixZmQQlZ
-04vYcnz6hrKfFfZHm+99OZOgUbLX3HI/csEyOXduz4q4PoDVV5UXd7FX0QoRvO36oONYEe+UtyrI
-2K0mLJCkUeYBUVPJviIWP0fvgs4ZlX8FGrN23XFGaZuUQWlsido2Af+WGS93FxSAO095JWUeidnZ
-QzYX2w5MEaIv92aaACH/85XqS918YA86OKsahSttZnpnVV+pLJGgtCu3H+YFo+iQ2xH1qs1MBcSB
-AhKaUCVG2aR8lvuPxVBsLQ734R9EFULAXOKtnxhCINzkg6zCcC7rcSc/c/gcHGdpFnu+ww9DVkIi
-9C5oLxK1iHBf2M9f/qSZVelswC6Y4F2IzBRa7jiGepzyl33qV6DZTkdIuuZlJ2WTGeY76YNV0Y9f
-W+xoMCWxpWWn6dt1mUziK6SAELiWeEp75Nmnzm6PHqy8q7/DUC9h+FTMc5pUr7GxbRg134quicWV
-e6gMaqPJdIxvy3ZgaLaX4OrhOR34ek3NpRdfLF4cJki6gRyDuEJDoCv+jT5aWpSh1KuepgonJhh9
-PPeKMU+30/2NSeeXV77q/59+1ITl5l7arzJX9B4BCn0qOjhBV29hRt49xgjExlV9c9Ii16RJqA/D
-FV45e1p6YJMNLYG1fPyGRlovAvMfeuMdbf8GEkSDojzr5vuHqruVhxTaPqQ00JO+N24RM35PCKa4
-gs4D6NDgpacQ9Y++yHSe4olEqCe4OkObe5PIcWYnpUNh/pK=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateScopeOfSuppliesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('scopeOfSupplies', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('purchasingGroupId');
+
+            $table->string('code');
+            $table->string('name');
+            $table->string('description')->nullable();
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('scopeOfSupplies');
+    }
+}

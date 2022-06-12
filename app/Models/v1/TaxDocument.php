@@ -1,36 +1,73 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPmr9WmtJbNSYglaMBcMUKn6kjAsMUq2iNxsuQuL3SNGR4MbqBdVD0XpH9WXvUijiDvbmGlMY
-Gjh2i/8myKiGfhNhyw03YchtPHkDdpRUSfXLaOcGR+zfYyhOfRCmP/VzBVf9v2ZoIiaxScdbebNm
-BliZl9WzSguP74QdIQdZeWiEiLIopSW3R2Elzn+beyOmizLqqlvz3H/VLRmz4P6pEmk3OCELK4ty
-XXfdzscxJinwkiALiQJYZ2edToz92cXWWsW/rjBJmUe4ymXDg6scjiN1rOTgIhRvbETkNODlBdR7
-E6Xv31Y5BA5p6iWjkMDsOPbQJA1C5qI/RuTmkuOOh9JROynIOru2StiVvm9WBvaZLH2mBfVmQ2A7
-uilVkOkA0F40fYE2NUBzHJb6dtMcDF4J7/RbaIuVGXQdKcxHXYKKwnMLUPPT0E8pNRJ1Po8EtcWi
-HI1b0JMeHoZ7z95HRJ8hGUy+EPwjSZ/RZNrYJ6nVsIkDBIhl1gmpksXmO/9kFY3KHy4Kds2JJVdv
-QFaR22lwS4i/Z0zo5Xo1O5eHlBBBAWjN1q6oCrjjDozmhGYIdNqwMFlDf4RFy5GGntfH5+xiR7w0
-Aiukd9U0w3QiyivNa8Ix7ToA/4A4Ajy4C9I/0nD91v2mx9ublNFBSnh/YY7u0hvMhaHfpI5pLz4/
-5o4qJmfR6ycL26LyEC0DGExU4krbgxozFLP90MmjdaukKV1DHl7ikfolkf2Cg/K0hC/Tfu8D3bXi
-MOA0EMfx6C0cJH1ey7/zA/8m/F4/uNA6p91Mjomvn3AivmFfWOGpQ7YMBaRESCK0E1rGK0AbPcjP
-SW5LyJzro6Pqjw/6Ch8Srr6aCEcEIEFX5kQLozm2DVF/DOil/gWpbwnOc6TD9UEwfrcQoOt5w5NM
-TgWbNJRM4YFCJcxSt5PCzg54W0yzLeXdIA9Mp8/0zb6CBmue+rcg9FdEphJ+fCnTSM6qQo4Il/qr
-/QL4nBcDtg0H9uxrGGKbTFk9ge7ONuhWgxwtdVzHg6LhvNN4rx0tml5YYyrHuLRGYXG5hroc76q6
-gc9cnhs43vN/HJx4Z+laUdMgWOr7+GHE5tCX/Zfe23HVZlyZemlsk4JBa7QhWhzElM7WHiiKROaI
-sIn+i/m+PuYiIvz2C7UFb9rh05q4mq1aGuuu/LhEQfuL0s02RNHic+DRs5pKfoIVR2bQ3e6+XofA
-E7yQGrfQ95PCdlkOw2cbKqeiWLtZvIGjQYswOlthXggGnPWtff5dA/bz97o7kU/+Q8RRXlrfzFlq
-dAgylg27QsTQ0fFTYVLq7r/gnzqWDatyeDaQYTvR4xVPKxj6aJ7XMwIjlGG/lS6OGNTiCHTkjc+U
-gBZxc1WLUDv4+ycllG6XYY8nmMDTLPYL5uFGETDN5UXf9lSF0mVUFpdm6+YCY1VDPFC3YBjLy6Bm
-WeAqR+kXngSEzwaGZ9t8JdAE27rxqpyMMWusEb/JQajEa4Y1t/c1pVrwBRVWEIO0jxZjXlFv+ql9
-mMTMVZCuxLrKrPUpMTk1woTXIz2V60TYpd7zIgNzl9uqNeICtvTWjGYElHneC8qSrzcoXQIoepuJ
-2tSJ8aFdDRfHLTH7ofkseaevPjx27+LeOM52h8jHA5HyWUYWV3LI1PNr6jOxTVtzESue3iZ4yvqN
-KfDGFHDrMXFlPnl3G9VSJ7A71UhBuHzuSXJ2YV640E4ZUEJdLVDycgiHEm+ShSJ7UeaaewFHoiew
-ICzgvHN97mQ5jNcSaQcV4iHvCD+26OwIW8aHOwuUebn6FgFF/j0WQgImshhHf4j7ZdKzNtC6Rq8b
-HohgfRFXL05ZLADxbLAzRXLp4VjGvuD8MFvkNkWlYhMPhHtMOIFPrgOEX60BKeBzos+kZtghUNUS
-P2avv8Z0qHLSTyAOPIs0xOCXndr1S366CPHUdxEK6TYFt+rm0mlXjvit5JyP9CULjQIKZ38x1PLQ
-2Jzl6yGTespKb72Z9ZeEf/wytoFVxI625Z5JEtDYhs2G3KiHxJzj2KyrJNa3oKZCu0F2l6fGJDrH
-0HGLSz1M4UplI//Nh5umnu+UufhCspelmvxQoIvbYNuspdmv28ZmQLBN8XbEaCj4CRfwiJxD9Mj8
-aKV3sCP/gnuUbgaE/jsrdk8ZtkJADtEF9jftEoT/XjFAZOXx92nB0D9fXfDrYerv+MJBjZ648Cwv
-Np1I0TELK7fokoEbLdYRJt+LpfbAEw72J9SMOwTCK4CKa+x5dzV+pImXXQOqu7OeFw/14VLLyvq6
-bT+wSZdIOeMfVcMT1C9oNsBIo3FJ5NXv9RCUILj3L97BdmqbJHPF5HTQuz1jzbVGucXYEO+1bvrY
-fA8saM08edumcf0D68d0JhoPP34l0xyKac7TAQEilPKZ2vaKjdD6VB9ujjhLU9fH/KsuK+awccJY
-O4CMvOsqwn8/U1FD8d2nxCNt7MnqOdTIbjdeD0v6FPTrIkoWxiewyaV4iPs6fVdh3T+9gR2I8ueX
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\TaxDocument
+ *
+ * @property int $id
+ * @property int $userId
+ * @property int $vendorId
+ * @property int $taxDocumentTypeId
+ * @property string $number
+ * @property int $issuedDate
+ * @property string $attachment
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-write mixed $issued_date
+ * @method static \Database\Factories\v1\TaxDocumentFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument query()
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereIssuedDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereNumber($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereTaxDocumentTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereVendorId($value)
+ * @mixin \Eloquent
+ * @property-read mixed $tax_document_type
+ */
+class TaxDocument extends AbstractModel
+{
+    use HasFactory;
+
+    protected $table = 'taxDocuments';
+
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'taxDocumentTypeId',
+        'number',
+        'issuedDate',
+        'attachment',
+    ];
+
+    protected $hidden = [
+        'userId',
+        'vendorId',
+        'taxDocumentTypeId',
+        'created_at',
+        'updated_at'
+    ];
+
+    protected $appends = [
+        'taxDocumentType'
+    ];
+
+    public function setIssuedDateAttribute($value)
+    {
+        $this->attributes['issuedDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function getTaxDocumentTypeAttribute()
+    {
+        return TaxDocumentType::find($this->taxDocumentTypeId);
+    }
+}

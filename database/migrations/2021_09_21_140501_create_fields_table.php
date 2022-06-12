@@ -1,36 +1,40 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateFieldsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('fields', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('fieldTypeId');
+            $table->bigInteger('tabId');
+            $table->string('label');
+            $table->string('name');
+            $table->string('description')->nullable();
+            $table->string('placeholder');
+            $table->bigInteger('index');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('fields');
+    }
+}

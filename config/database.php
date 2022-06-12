@@ -1,97 +1,152 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPvvpR0odw5GalhRvBuNS6VVMiwzNQZLtEAsu0ExGylgBwb4qrrP5uKiDvF1wu7zd4cRI0S40
-EsoSdj3hiD1Ti2TG1T6r+DrIoW/9CB4N49OMJazWIRqTtCxQdc868QLnUlJMee0OweQtQUkyQsJ0
-FMy8jxm41wkQOm5yULtotZuKV0JeOOhgzcRvVPozkJcuFse4Y6/+Xh/qDnCB+Oh9dAtiwNmq+9GV
-vcIGcIoAnL+66Wz3BWGbAgKtlfjgastjUat8rjBJmUe4ymXDg6scjiN1rPjj2Iq/uGwYk3lkqEOy
-RQWj9lN3vrikf0CSHO1ZrbTcCEf6tlHF5JKLHqK8AoUi62aR/hn4BBWqZI5WYb41y2kWYS1SOH1J
-YQg1sNe2IMwEdr3nRJVOswDKgRk1IjWbggUUH2+JEpaq0nyirWIeXCvy0z030pcKLcGajvvEQ0Z4
-rNXdgFCaGC0CV+xRgCFu+YEgWJJOfVcMhKhirrR19UMoXrTWp9h1PB/BtIH9Yz8S6icbUoFuurHp
-HJfQ/bRt4Moxop4HIu3aSqqHfRsd7GHmv1FRERh6ppV59IAwwhcbTbfh9nCclR+po8LpJuSRHsgu
-VYcERNr8XTrMrZimSqyOvH3m+urQd6gXdHvr6kj8+8uY3Trq9aB5LWKZQ1Fncx7kLTUL3k8lzvvX
-sg8QRYZNFkXtsZiMxtshAxbpSPvTeH2fo48qX8Kok5olAyK033y6UjFnWHPmJex0sHVWG4Z+Ftlf
-Bfx9vyHlsSjP2lbxaHsLdumZysRSxlIxPDSWW9HdaMEoCmTppZvM3H16Jl55HyDiAZY33uBwXIab
-8nI+HUZmpgs1U+XSSOCSZjJ3yNi1E/LLOf5pg1R5zIg5jnsh1MkpAyn+vtwRyPtUWHqjv2hNEsmF
-MRVCvhkkyeg2vpWvqdu9KSxNvhifaga98VLDvCJwLgYEjlkrUDW4FIjZKhgFTW8DhvkTepqu44cm
-lyq2zjaLnW18gtTM9FzHvbwF/wmMdjPR2YOHnD2clpSkVKwlw+XOQEPPWdVf6TTMjDcUglbbHlMb
-iorGLWY6tMBGXhB3twiKutufmbnO5pzOOjg7eqbsUVT7eg6Eb/s9xiBBN8vgB8mNj4rq5JSzGgOG
-g9uce4Rgh0/qLvpAyYr9vOV55YQtRejRxLB9sqmpxIgbuXcghEnHPGJQH24Ww5uxU5pA7RxhZxSX
-BsCGG8ddTLPa8nYFjqSF74eJGLnyXOp0fzf2XNr4eQxsj2s6XWhoEj2R3T6Wu3bLYBW9V0ga0dEi
-760ItFCQZ4RJPtuSoIXsy0jPpYMBh1hBm6XsUYB/dRNEY9nkedSOL2Skjn5JExLCPsMr3APAxfwo
-51kUt+qiWLMxYO2yGZjrkCa88gOJdDEPKIJuUo+CV61EA6JfhxqQuEEo5/iEeBu5E1WRlHGZ1mfW
-6+zQxdCzQMdWrD7wtT8gD4hrYV5CfDqjXmTSt4vjM+N+KeH4Mb3FsmdfesA554d1jdJAVq2HQlBr
-7wo+ij06KE3zca3typD2LDJ4hSfZfhz43V7QHHekYJuZ/i25xFg+P0I1H4+wWXqzVpX3Ct8t5Cvx
-83i5mSX7HW30v3bYJw1nfUDBUJucgMXYXaRRXRYdqcRvAmc4ioUoGcb5byAKNvWFLgee6T4myjVp
-Dxikfry16vz0IGgOUbRjimk6oXgN5Ukwj1s8NCKdqCSUSZ7yvteUNO+QPCvBdOPpVSH1qXXMCKw1
-Wu3HaGi6V9uQLUIJuUEhn02TOy/uEj68K/zrs2hDq6exFX5Q8xoth7fc0d9KkRVPMWFf3WLXjHSf
-NS3zL5XcsYH75zYffLNiBrD31aBroxWdLvwzCK0wkhXRo+azwXb0xukW4X8jEHXl34vNGCxrarG9
-pM+z2YwHUdpS5iyQQ8ZW3uhf8QEhPfgVNhraGJ9kdkwN86Zm6QTHXYlo2+wPsuPiwD5dIYHHbdkD
-1pfwqXw03b7fpZjcjrj6VrHs0AglB4mdH/SP7qRObHLP4nnr7nEOUGhsk2RKob1u6B7KB0aJE4ac
-NpgA13PkjgrBBHsW3fBXsmqU2WU30xjcWPgIZYbW363dM8mk/wtinUdiIszXN2K9SeZ6K8vUayqX
-NgHSCljFMKUd7gM6YT/2+4x3P0WA0jSBqrFVe4D9YUcs8iMqQtCdwOgydIonUzUA1fYVU2RbyvRq
-FqTnLO1+Je8uyBJ95VlshVSfbogRjso+dHNI2MVSKQoId6dsriQ1KImXfXWjqQz1WvBhgbuN/nK/
-RBi9FPegQiypPjDv6PGhXjW5Z3L+HLEFDHkbOohWQ1ddU44pJa9ppSSPeG9MMWcQMcycO+zRbyU8
-eZ/QPIHnuQGuwPsISG505+l5+fpFEL+pNTHd5+8HLM2FnW7/dKCziuS8/nNvXynfYU57wDSjVPfp
-xI4gqAoPwJz+7gI6ciz3C13J+M2WxuKf3OD7z5Y3zTQGOUFm9OA1J2jCO1d4fpq9yLL3Y2SC7aUc
-SatxpYKL31N0t16NSer2WtjxqVKOGtSGlRBLqyozQAFJ2LQt4I2xiUFs2cQPxsNZPPjg7jMTK0TD
-kXCGxa56p8kcd/As0Cr8S4D4wKD9FGawgfmDyREANm/cjSQuZ99wXrOSsgeUwsjY4YLJpgSTjTGt
-k0D4SVPm7Vv0kcC4OHRNT2CbMiuBFtZlVmNYxo9TnRPTcvBF5OG+6w+Cm4jMmeeY6L/T0vcQrUIQ
-lnXgxoupVV+V1bOM6Y0t8Z9M/galdpT065eP/Dc2jy0djHkUa/vgzP8BarOFvyV6qtW2i+BWFWEM
-UJL3Pn5x9+B6iSFFbsxUJo1xg6hBCZyWPSDvk4c/x8pNxgUX8Sfw64ENS6u33JN4Yk83/RG/YZ4N
-hdF6qPe7QXYo/KzBeoq+jqesvseDYe9mQaCr3iH6VBQeDgIMX80k8q4a+sGzM6TMZkSwsLMNuxHW
-XvLws1obb8j90alZOYEe0vMvi2JbVoM6Ph7kxWcQrhRht9NPVzeNky7VKvuZZejk+BkFlNFf28Uu
-Ho8U4ycU1gaPscdqNnsUkTad1bpMT7OV79O6HFzfRvXQMWWY/qz0pHoZh0ozKfhzblJb3ToIgSCX
-pXIFGTRpZtROyf7RhB9vSxctfeJP0xsWAfywsJwRmZUK7hYOc7OsbXflarTyyabNjXxd+RUoVJ6T
-JbFycBi6stFaV10XYIMiUjo8ilgC0L91SqX5cgxseUHnMG5jstwjQh8sPrE6qeRDmQ5dCLLod1im
-odr31JxWnvdTcUnIPnjemaj+Dt1vXibuU9hAKM136zcSDiT34tAz2k9SqFDfQv/i/3/MZw6B3soY
-5544WwOlPnxiKuHs1xqwgnLYE9IpISZPMIy7lGvw3BJEuv3tj9DDUBROgy9PT0iWvuuckafCWxeH
-yik7Wckwd4kvJ3XP2606ZXDGBa6aNGSjJD9EKyyZbz7JLNCc1B4j2P3m4Sm1esGYBC1N6ajblYC/
-sb1a1XWTBywISf2jq7WH7pumnooYRnvPz98hFk7FsreYlsFUmwg302IswciKvBkM9RAz0P5dff3W
-8aZ+OfeKpmAxl02fzgq7/HLvr6Ezsc9T/xPUTR4KxVWb+FHCodaFIRq32slOL+7xPI9PPgSOtnxq
-M/TJitLUP1JBoffHpjr6VtKuNw/yKq+BddP561cTK4YJORuoLdIsnrylxUEf2VnhO6nZ5d93WPtx
-aaIyr/RomC4IjNeF+Jvh3HO4qaNC/gj+aTHwMa13NxUN3CDGzi6q1bpV/wrgRDo8T3J5qfCqWxJ8
-tB5VDpH72LUllPNvhwkJl/LY59RR86ELCL3JBzThxFgxUIDYxzGg1h52fr7qBH/45uI0ypQo2M72
-AkMY0jSbJhEjcdVEjJUeDHxn6uPDTwBWOMkbAmEwvBO17dRGuIRslfitgK11HwiuuDVev8ga3rZk
-oX/kmt8Pe46LTSQwbR5//zelW5tOtFBqG3JhtvJt3QVZGxrrsybpL7nfEje0gbb8mRIOrNkLPlfm
-/J8HTOxMezkBG4JP0WdOvm4RkOH/9IsbntnZWe+HRt37lbJxwrW7JTGkTN6gj/6sxthmY5TicHn/
-z+vtV0WeBmFqnunWchW8EvN50lYdRlX4hV3Ys84gYr4c5ZLs8Q61ST8l/v4wUkxUN9mXOi+3fDJx
-4vKKVw6pphqll4N7zpcdnLHzSG5HaQiDIunohBrX7slqyxfm/C/etbo7aR9IscmAq20hwwMqQftT
-iN73uA9yq9PKy+upKc9eU1xBf/9+ZDT4VPvvmyjZYwIrdsjgeAbRmlz+J8tzQ0qi3I85jymmDsqW
-e+gnY6nFQB4cEvAEWiUTvdfb+Oe0c3sDCwts/eFxiJ9+Etqo2Ydh134wsRkP11Yha6DSInqhItUz
-l8dHTJkz3pS9Aob3Mf4XAvRV1nLudcghgoc0RjMiXQgbX7rxcmqYO79Z9sw0znAgXX+bVbFdJCyN
-9K1GRN5NugrBR2nHvHEJr6FdcP0aMsAg9PLzaACaHPHDAwLzr8lMrT6SkdkKK8VvXFvhJulV36jE
-E8K+JHbaTZBWIozCFiIodL9so/EHo4fK7Moi8hNCQMrPtAgoX/6ce8wBKb3EGLLbhgz4LJcEcKcf
-VfNXzkZNQjO+HKLwPjq5EDwANU/1wS/iWaw27HelNmI/i18Cp79z86/OAjpI0DyOXA8QUnUrvPpI
-PoZDCJNotYsWhniCr3Z5coB0PoMI+iC0zFqI6ZIzWzlO98IC9dulWtCXNklHCAiN0StWilBCVfTV
-gK5NyA4X7zxT4mCJyBhC+IeEIh5rg6kxSH2vLj9FQUGiqKoyaxkjWAbgwE7+VBVkezJ9+sLtvWCs
-sr0xsV9UpnsGrNP1w88VZGuowxwHNIUbQ3J7KdIbDfXzGzWfV/qodI9fw23kq4/brzQUVN3jJgS3
-se9JfdeqctLk1gdldKgIcoYHYpToaezdLfNyW/aQjcw83VhjZO0wnQJHYrwWkge3s/eVilqf8RDC
-v3KEAzrSfebspsdnj5tzHi6HKwJ3pb6Za1L6PE7p1z4P6gOs/B4sfKVGgUJRLPhmeQPo9/01kDO4
-pDYYWKkc7f3lXuXFxab/9fC57kowlGlVpt9k/i27W+IwIiT+OQlCp5xevs+xenC5ZmkopY6aa+oa
-XjG5ENwjDjUKjiOMraZ1SXQ2q1uA1cA4Q80iqLoGcN4DtN6lqG7+9zbV4X2b0lEztMHydbIIHiyJ
-yh8vKyS3pp2mTtzTsFOV1nZl3nZ3eFhlbTEN1URyD5N+8W4vQnuNGbDYcE1mdYZv+efZsdPUrc4m
-kj2GtdtyGb7XRGZwWLLi82YDBh0+fx5pk03+mXvliLkBYsGf+WZR0O7MKY2l8+ni7AEUkT3GEIjv
-UsLTRfwgrj2UdL1HvxOFs4jJCWPcIgu1wO0HE658g0ksLuuLV78pLQ/7VBaOFyTs9ai6LCxm87aZ
-H+/3o9BPxKTPbA1n4EipeUVp7zMtdEex6nHsMw2NkKcsKTIJ7/+VMMUuzGPskYjbW1hT/pFEeFHt
-cjeXwdD1LpTP/f6OE2Vx9YjgIV4MN5vyvF6NrGmsYkcPnRB9DGPW5n6ymHx7xY17zN6VC5SeT/jQ
-yCLH4pdwst1TCNCcloR8ItctFNU4MTSmBBXHDnZgkTwMxmO3b+FuU+xzYHEuGrjOky824Rrt2irC
-BZM/AqVBoZ/KpU8FDfgXX9s1kaUsx6s+rqrpLXQacEUEke9+00eNN2Ib5jSPCTuo6919JwSPLH8J
-MPDGkFwMxQPjmzbW9MMsUqQ7j+uuqLrFH4GKg5J4PN0clEX5VtH55sEWhC5FD8A0vfAhUsysiNeZ
-G5w7i4fwme4v/zO9wNVSK0ABsQL9q1iszgcOO7nWKVzMk2DSFTe/JBf62C4awOMeY8qVyk2rWCIN
-UXvgSga9QF4W+6h44wYsY+vv0RKOBTl/AAfd5v9rVSwOxPmCoGhSf4F2aXtFi9ge5hoCUC5O1rf3
-cNII8CtSYgajfPznSV8hQjCdsvTybCaebcc2wcSL0VK7t4u/13QvY2lVB8Vg+f13jDNaAGmmSAER
-oAgweTFaxJYy8dod7YJyVfSgvgBDb/GAw0MKU0PcbSkkUySLXsGBy40S34ns2AX7uZCkVgGbz2RF
-Cb0fScrUKNalFniqsBwYy07EeyzGDEt/kN9PistT7zoQmwTDMtB/IiY3cBTMWH/1n6j+2SJkveJj
-9CZjWfBLHg12yP09TyojDfs8xnXjM6OTt8sp9orGV78U0VdyGXIG8mdcV6bQNvzSafxgtbLfzo+P
-2MhwEDj/z7HziQcF2idzKStpAejLzgAghyHQLLXw+DtQK07mCZfF2BdNwyOR0WVT82QFnDn21Ecd
-UmaL2k5pTPrBVJ4kRgQr3XA7lKIx1P/L+o2cZepAf4k3+PeZH+d0bN8THfBVCgWY10aR3e3KhdeZ
-zSd3RIGa0XkRiKEdyGaLX/+EKKZuMGFzSW4sshpPQacZ1xfmdRte6Hp1JkuCCAEZd1NWARLVqUfe
-Kksv6kAbHl3W5w/spd9pmFdlhzYJ+WWCilBaxzoHwfRjk6mffT4YJYFz6gz2qt4EPi+usd2ZlCkE
-s9a7fQVGZBcTFl0JZcvaVDAUTb1Sg3dAt32lP66veIUI+HQSB36+G7T66IP3zlZBShWvEwhK8V7W
-pqjtG83t16424zSNzgkL0QSgTSU3WVl4ne/WYu+3P6NInRYUKaiOJT1/+z0jBujeYSgVSnutEYmK
-ovb256tR/kvd8oqQHg7GbnvnFb+roBjmTPT0rEIP1uzLzh3sKX6nIqPGCtQ28RZBi1yBa4cdxVAf
-mPPQLyrBpjIXdwgDO9b/sNtZgXokiVTYaUyL49b2y7QrFO4DkE0ok7/2AMyladfiVAdVPmjyMn8R
-vqE3miWr3Iby3pa9exhJM6Z/Lgdu2rWUgvgYZyzdWCbJpPnpTaNRpIUa0CxyJIRGIGiwiZjLWqCP
-FPLWU/BLr037PaYuDKE+Ooh//nNqPXoX92zUEly0z0L7SJgJDNG5uQzzdrPC7KaMOwHCs/Pns8i9
-M2JLPn1GEDYF6Y5o3EnUy4U3lwJRZsXL2m/4u85MEQAQErVwknNV2IG=
+<?php
+
+use Illuminate\Support\Str;
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Database Connection Name
+    |--------------------------------------------------------------------------
+    |
+    | Here you may specify which of the database connections below you wish
+    | to use as your default connection for all database work. Of course
+    | you may use many connections at once using the Database library.
+    |
+    */
+
+    'default' => env('DB_CONNECTION', 'mysql'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Database Connections
+    |--------------------------------------------------------------------------
+    |
+    | Here are each of the database connections setup for your application.
+    | Of course, examples of configuring each database platform that is
+    | supported by Laravel is shown below to make development simple.
+    |
+    |
+    | All database work in Laravel is done through the PHP PDO facilities
+    | so make sure you have the driver for your particular database of
+    | choice installed on your machine before you begin development.
+    |
+    */
+
+    'connections' => [
+
+        'sqlite' => [
+            'driver' => 'sqlite',
+            'database' => env('DB_DATABASE', database_path('database.sqlite')),
+            'prefix' => env('DB_PREFIX', ''),
+        ],
+
+        'mysql' => [
+            'driver' => 'mysql',
+            'host' => env('DB_HOST', '127.0.0.1'),
+            'port' => env('DB_PORT', 3306),
+            'database' => env('DB_DATABASE', 'forge'),
+            'username' => env('DB_USERNAME', 'forge'),
+            'password' => env('DB_PASSWORD', ''),
+            'unix_socket' => env('DB_SOCKET', ''),
+            'charset' => env('DB_CHARSET', 'utf8mb4'),
+            'collation' => env('DB_COLLATION', 'utf8mb4_general_ci'),
+            'prefix' => env('DB_PREFIX', ''),
+            'strict' => env('DB_STRICT_MODE', true),
+            'engine' => env('DB_ENGINE', null),
+            'timezone' => env('DB_TIMEZONE', '+00:00'),
+        ],
+
+        'pgsql' => [
+            'driver' => 'pgsql',
+            'host' => env('DB_HOST', '127.0.0.1'),
+            'port' => env('DB_PORT', 5432),
+            'database' => env('DB_DATABASE', 'forge'),
+            'username' => env('DB_USERNAME', 'forge'),
+            'password' => env('DB_PASSWORD', ''),
+            'charset' => env('DB_CHARSET', 'utf8'),
+            'prefix' => env('DB_PREFIX', ''),
+            'schema' => env('DB_SCHEMA', 'public'),
+            'sslmode' => env('DB_SSL_MODE', 'prefer'),
+        ],
+
+        'sqlsrv' => [
+            'driver' => 'sqlsrv',
+            'host' => env('DB_HOST', 'localhost'),
+            'port' => env('DB_PORT', 1433),
+            'database' => env('DB_DATABASE', 'forge'),
+            'username' => env('DB_USERNAME', 'forge'),
+            'password' => env('DB_PASSWORD', ''),
+            'charset' => env('DB_CHARSET', 'utf8'),
+            'prefix' => env('DB_PREFIX', ''),
+            'encrypt' => 'yes',
+            'trust_server_certificate' => 'true',
+        ],
+
+        'avantis' => [
+            'driver' => 'sqlsrv',
+            'host' => env('DB_HOST_AVANTIS', 'localhost'),
+            'port' => env('DB_PORT_AVANTIS', 1433),
+            'database' => env('DB_DATABASE_AVANTIS', 'forge'),
+            'username' => env('DB_USERNAME_AVANTIS', 'forge'),
+            'password' => env('DB_PASSWORD_AVANTIS', ''),
+            'charset' => env('DB_CHARSET', 'utf8'),
+            'prefix' => env('DB_PREFIX', ''),
+            'encrypt' => 'yes',
+            'trust_server_certificate' => 'true',
+        ],
+
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Migration Repository Table
+    |--------------------------------------------------------------------------
+    |
+    | This table keeps track of all the migrations that have already run for
+    | your application. Using this information, we can determine which of
+    | the migrations on disk haven't actually been run in the database.
+    |
+    */
+
+    'migrations' => 'migrations',
+
+    /*
+    |--------------------------------------------------------------------------
+    | Redis Databases
+    |--------------------------------------------------------------------------
+    |
+    | Redis is an open source, fast, and advanced key-value store that also
+    | provides a richer set of commands than a typical key-value systems
+    | such as APC or Memcached. Laravel makes it easy to dig right in.
+    |
+    */
+
+    'redis' => [
+
+        'client' => env('REDIS_CLIENT', 'phpredis'),
+
+        'options' => [
+            'cluster' => env('REDIS_CLUSTER', 'redis'),
+            'prefix' => env('REDIS_PREFIX', Str::slug(env('APP_NAME', 'lumen'), '_').'_database_'),
+        ],
+
+        'default' => [
+            'url' => env('REDIS_URL'),
+            'host' => env('REDIS_HOST', '127.0.0.1'),
+            'password' => env('REDIS_PASSWORD', null),
+            'port' => env('REDIS_PORT', '6379'),
+            'database' => env('REDIS_DB', '0'),
+        ],
+
+        'cache' => [
+            'url' => env('REDIS_URL'),
+            'host' => env('REDIS_HOST', '127.0.0.1'),
+            'password' => env('REDIS_PASSWORD', null),
+            'port' => env('REDIS_PORT', '6379'),
+            'database' => env('REDIS_CACHE_DB', '1'),
+        ],
+
+    ],
+
+];

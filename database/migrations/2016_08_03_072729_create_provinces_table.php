@@ -1,33 +1,34 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP/6y58R8X+sfbGk1fR2qBMHtMlcSi/s2pe6uA/svYMkkjyV9NFq3RPysGf7H0foksXHY9YYk
-qmDKy14+RxyN0VH2giA1B27gilinuSgZ3UtyDdAYv22QbdkDPJ7VJa3s5BIDuSYrHMcjfkOBjV2y
-4ve1MlUQ216vZ5nuxnUCCQcmLoCUKyiZcuR7Z5X6tu9dgr0gJoxPe8NcCaIqy3EI6SrJWeufItqr
-KlCJTwxsQPD+T17PoveIZwALK9n7YGD/DZeorjBJmUe4ymXDg6scjiN1rVztQt9o8TClsxRJ/yOv
-sejN/qPY4BKKeSQKNCprfM4TkiM1yyoke7Kimo0VWFzikniM0TUBOIDjml0jrRrLnfzKqVkDcgov
-9QRxvkseZtVgmnGpuMxIuK2wD2f0JUDKmWUTkb03VvksQVHoUj16ktUESNN2qvJ2iDmiYO/3esCm
-jwNALwEZXPK7JnE6hmYwTzgEgNsOKC0bZgPuRWkW+hCbl8dn0/rrKPFydiMCcVXx1YEE2bMb9Tm8
-qm2EoGrv5kc9YmSwjdNUdF+bZ67YraRJYWXq2BhuLYYou4KX2rxlJEZlLA6YlikGZ72YZxfEJ8gi
-gA/ghgptGKkz+EUpFPcGVSj9KKtNDEv6pudx2B2vhW3ioN47r69vyzO2x065yaEjenH5WEn+pQnr
-AHBM5nNgcrOwoPSlJuJ5TERQazqx4GhIGONPiVsPPz8jO+h+KluMgqrR3v5fZANnp12mzsIuyBQe
-qlahj4dWHZ3iiGjd+uVUjwGvJKkRbgNLrDpJIRulAUu4HDpaaCiI9c9uqy7kf3a8dzIqBF0vLGb3
-bO2Hmu+fptmBmegvZReGLaHAyEZW5Mi+Gm+kQSJJWSfIXSx4x+nVkzkpqKn4Xk1ac0SYsEhewy+2
-tlZbhtk/wwObGrWu3QFLwddX4wg35guDrypfJoV+MuVAbQOpP/UccX60TYCI+lDGO5mt7AYBV84K
-iuNlYdeeKFyiigmROjbSGKnBnjB7kRygz85ni0TsBXyCGhkRjDxO0qlCJHKcT76huxsJTjPkcP/Q
-p4WM9p0iUlaZydUWfflHWCOvq0dWM0NWR5sAEYBkoFKVXGTFp0sRVEscMMEdUtSpE3EQnRhCxh+E
-pzHs6igSv3d2qjDmIelWqNtpaYMcUfxQTEfU49HeIyA5iwOjg6cysOro2A5KpthA/ZdotRiOW0O6
-kUdrBPcnPSPF8eKVGNdU3E/6HGEBcO2QSqkCf2dojtfBY9EtiljUs2CoNNanaRyBo+g7gQWB5fXO
-GOntT/ZRJ83oHyuiWWL3/m3kcrE2wZ606QXx0mkrzz2emLLHmIxdA6EqIk9w+pf1Lde5h+aAr05+
-D2kZvVoZLJykneq1RCq/WthyPQJSkkArRHFZu/uzBKJy4FU0s19JO9SOSCkRGzfUMIb8g8wlNTf8
-kQmL8hWO58h06Papuva2vg01QoQFr5j9lTsciPB3pRJpkNtjZXFMeYSksx6XU5onWvfeDxFNs+RB
-BaC+zlqdso3hQ2bxfsSNKBmDGqT8CksHqKYyXs0Dgs1vdIxnMzlpf5gKxN7N9/lMNhjQbyprtZ6j
-eiIH/1SzJZhXEZ7PVlnHi2p5ArA9E7uxucQv8Kv+5Bllzg865rL00qM5LfLscIULMRwmlL540wM2
-6nUsdJ66+47CybaRJYP6zlJIok4l97J0b9Rw+YjhlT8x3uPmop/HcHz5upUEekGzRZ7IqdtOoUNd
-VKIC3OqN/8V1ZAonU5+4BSR8/PWzjo+ELHwUlja+MsbuAm42SOs4gphY5kstLHwy09C/4vTAMT/x
-wnFSdE0QDWC4YXq31kIAPfSSENZXjQSFK486wzziB42IVhCMLp3zsQ5TWezNJ8DuOGW0ETerHp5+
-2iuQdDIFqIIu1EWikQ5MlaFppGP1L2qmDyETuhae0yhWa7jIKVoPdNAz3X7uRBqng0XsIsDlykOW
-WsPxd1UjX1vtDjtfKvOHlbSz2r1cUylzFa93KRA/4gwC/Fhbcht19XYy8f+6fuGvhUMJocQTfCPS
-HWlU8rz93s6Q285PwE9INfrBQfHSUfKJMhCnLmTfcjcYYsGcEi1A9PdJO1LmfpGObWuThYJsjNL5
-vypIOU4m58k5De5cuqoR3IDrvxIMPzv51nAAeGiKmjUMQKjKuzDWsDt1yuSHsVq6+9CKlojgCH5W
-M+UoacjHmBrPWDksvcDl+yENLTwI9315XwHirMfOSY+y0+oyj0==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateProvincesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create(config('volt.indonesia.table_prefix').'provinces', function (Blueprint $table) {
+            $table->char('id', 2);
+            $table->string('name', 255);
+            $table->text('meta')->nullable();
+            $table->primary('id');
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        // Schema::drop(config('volt.indonesia.table_prefix').'provinces');
+    }
+}

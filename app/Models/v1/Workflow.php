@@ -1,45 +1,68 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-rImxkWQGJ6FdypKOnhDDxHATYB8+5PvS
+<?php
+
+namespace App\Models\v1;
+
+class Workflow extends AbstractModel
+{
+    protected $table = 'workflows';
+
+    protected $fillable = [
+        'code',
+        'name',
+        'description',
+        'modelName',
+        'startNodeId',
+        'isActive',
+    ];
+
+    protected $appends = [
+        // 'nodes',
+        'steps',
+        'startNode'
+    ];
+
+    // public function getNodesAttribute(){
+    //     return $this->hasMany(WorkflowNode::class,'workflowId')->get();
+    // }
+
+    public function getStartNodeAttribute(){
+        return WorkflowNode::find($this->startNodeId);
+    }
+    
+    private function getNode($node){
+        $list = [];
+        if($node->transition){
+            $n = [];
+            foreach ($node->transition as $value) {
+                $n[] = [
+                    'key' => $value->nextNode->id,
+                    'data'=> [
+                        'label'=>$value->nextNode->name,
+                        'description'=>$value->nextNode->description
+                    ],
+                    'children' => $this->getNode($value->nextNode),
+                ];
+            }
+            $list[] = $n;
+        }
+        return $list[0];
+    }
+
+    public function getStepsAttribute(){
+        $step = [];
+
+        if(!$this->startNode){
+            return null;
+        }
+
+        $step = [
+            'key' => $this->startNode->id,
+            'data'=> [
+                'label'=>$this->startNode->name,
+                'description'=>$this->startNode->description
+            ],
+            'children' => $this->getNode($this->startNode),
+        ];
+        return $step;
+    }
+}

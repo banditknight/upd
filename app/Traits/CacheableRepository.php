@@ -1,196 +1,342 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPmkm05W5DlcVq5oLUpY0CWUpolW7g5fTny0asS4wniwhipOfWETl6/CM6bv4CeMm5v6iLn9H
-Hx1wkrl7JvNiv3Ng1IFjxVsyM7WhVOrXqcg0jlgLv2X6GAGqUC7NfCypAMKr0Hh3kxO9X+rd9h0p
-ygzLD7G8evzT+GkPDF7JyWp8+cInHPo/8mPO0h7UuLlGK/7DiHEpHRl+OBEgSND8cUGZ4TCIfMnr
-SN0SDB1YKpd+nIEIUGVZ91xM8Mbuj3hM9IbybRRMqjF1wWJp24seRQQsnS7LBsgYFuaUOOutQ9C7
-TWVYTd7/ImDEBzZcvr4PKXoEwvKJDTpAU6RrdYSJBxXz6291Js74GYPyEgxgGMsSQVCmYulPBsmJ
-4v4W3yt+iLbIEzidztQlvYGMFOgSGF5lZFPkc61Zias/RtVDShnvMMbJ83adnapeJb48eTapsS5b
-TMoQb8LHxRnlMDLWEluTEPy2ls7UzR7hn0DFJuOW25Kxz4CzpXEL9ToRQzGKh/gUzilscWxHXpxy
-Soo7AFA3uuOXR/a4kuYBJtdZWvjigVk5n4Nty0clpTe4NFPny3cKy17n2ux50DjE+Xuz6ZV+ZX4p
-XGF8YDwxGGfHi9fOO70fFe5S5gLCwd+xhABRjNqGiuwJ3PWnShC7VtDn3FbgR6Hm3NmD2cAdQh8L
-K/KYyoSHabB/41MyPkP6siWD9OwgvGvBimFAQQZdX0VRB/f/HaYBfoa8dPfc9SPHBVnTmx/gzNQb
-6uGADn/35s7/cb3O28w5AuF6bH0AgeWuscQrx85k3zZf6I73Lm056Aup0D1JfcV5ruFYuuCkNU3w
-mDpi8DKtWH9B5F2nURGSsOsNTsPqGfrsBfA5xLOAzqG6ta+jL5enRGH6Co91TJGJKR9ND5LGWLy5
-JBdtofq3ook7lMYVTIj4FM8oIDYJuBXHQQRDt+cAHzSxx3CLRgUMFeZWn5XTlAS4xNFKiGqwmi9s
-eR65ngBxh4fZ/uDxRRrgBCSFSd2bswhAg7ziIMe+Lo1KHa5cm9r99TVKjZX6UwqDzU0MAhPbnQ0D
-G25kM5LVoryYI10Iv+H3cFdwdlY8kCNTtGWa5jsFzXtYOZ8zEtFLDLsGE4rP0EVfAtbVnRBchR6T
-omsZ3hYoiT47+Ug/cbyzU+Joa7p7vA6qYm5xtis+u5QT2Z+E1apuBczir/luYgu5bqPCC9gGL4B2
-+S0CeLFRe7OY7XgGXlkxJmt7vek+MO8Cp7r7FjNIABwz045cUqNUEnML7Hjy32SXreANrZZuo9ZP
-sVtL1wsQb6z1mmoziD9OnBCeo++bp2xf03fG9KGZkH93awYl72F/3rFFkVTgMXdJ3/fHv6yhkJ77
-TC4B+FI9Cb3z88dBlKK5LdG2GNXhmFFdsLJU4u/eKT2YPVBe7JjPNvkJ2UgApTORsuEWdJ/1Bg4P
-Zp7a/ejRN0IE8V9qcN9PzflCzmk66LgVl2ZzNVJdbadfGxzH9jwMAIPLhstigTOrVLQnc3sKViPT
-mnirxMchfU4DX1tgqzH2ZONN/jKll9UaCAZfZ2JCE5SqLmr/O1hyWIBjY7oDnRhIjwc7CSrUUSrI
-Te9unvofqX1t35W1v7Trf+U1gNmRmdZ8aj//UKf7S5rrrPsw0tOTiFC5xrApv92v2Ard68+S01MT
-5/BJT2/TcGwDJ/ybiTcbuqa1ix9I1KyCTm/zuDNzxbZ1b+jJVwyJnuADEe0NJVwJv8wPttxJ/fBN
-zU28wLg+8H5iABUIoz0fBW4KPhYjweg7+/S46VpuJdx1t1c33J/1yjFW6JgubtdXgHfAXDcovSCx
-8SjLcx9Bq1lCcvN+myw3bBrVyVF7FPz78RBO+igCPz0TZDzpOQ9Ev0ZsmKUuteZHnx7P3NT8bIbt
-PIl8ZrtQQWwJ1tjoi/HSyhg5N0hgEBT5BrkN/mq55hWTVR4Ekh4dczdS425/mfVebOq5OvzN13Tc
-+4jdNxuRAvd7QMBT7GgGdnYk5rILxfUYlUeMCHw5YrHIHiYApaLHXIo6d53UOVXMqdU8E30fNxqA
-TaaRimhBHLpggt/0emjTLMkry9hNhdB3wUVFf38TF/Ly9mFaNXOiRw+t4Yr5BG5TkUkuyp0kP7/V
-KedHufoGhOBWakx56PQW8h9b0oX36HiOV+0E4rxsQjlmUyvaQmNVFpexp1dtiYg7QjU6TcK6lyKi
-q/AHH3jvK1bMmEeuRuQOLvxgOV7PWFipsL+mbYSNmytwZitfG2i38IrsV5dvLfS+Qb14GAu/+ntB
-iyZDEP6BAw7P7YpUVGWemh/FhAIkaNrwtUn56bdvIDYPqAbZyVePVdkcw1Sfcy3sgnTMEunHAQTt
-kyJ8TrtQtLfNPTAuOqR/T0dYLFyAV0ROfCe8MFQVH99le6/DH7YxcdmBoqQPK6WSbBGXP7gBs6YV
-WKD3n4IgSRmd21AEBXCbBA8nElf0okum1mcFapKkG1WOIJqimqWWSsqWbYj6y0lXf1GmVKKTKVEv
-89l/N7rB/0m2Nhy1oxbDtebetO/tHfaphR+hyFg+iC1TSMpc0q0NL8LgVSOGPOdM6+U2X5ud+Yvi
-S23yB+XsxgtqyEn5dYyf4cfKY9FBf2c83uPxFlz4hycSvSAxSvhLXp76sLSleAjb8YUU4olr2dvQ
-GVnhaRYh2Cpmguqq2HAoYJiJxld49o581H6aba2mcgRn3jaBZKfBGmPz5pkcVA8GkZ8BhT5ttlJw
-6jgDjV0ghwytf0plaq26WgaIgVGCw7/JsX8mRD4hGy4Wyldoq78xemWLzGooSdK1NPNzGCAQrBhc
-lMY6Fa61skMZJ4E1F+8Ylp4aLHuQ8G1C/+c/ROW4DRE82r/cp6jjsgDQRiTfOJxNSIykzcX60hex
-C29xeLK3OqeefBZO10z7lmt6sXFxivht7CMwdglXdsU7ABCz/RhC61uAd7YBB70cracY6HTKuG8h
-9kAGxrlXDmLL75owEiJm75CP5GF0XOCfZUHeW0rViGBS6YP6UoiFcxwqcJfALBlbc6STWHBLClF/
-XGwxOtXY3t4PKybRngbXZep6nGWoFWiJDbsVWaf4q81w33x/5SAEgowaS/rVR+GAZANidkg9/4/n
-n7u8lCWpvQGrwT+m0pA8J29txvNCAuIeV7gHGLu8bzLIjNppBp8pWVB9Ku4DISC2oUZU5t90mQCm
-cocRl3rvwMGgzKvF65newGJ7EUAXoi3TwOud3oxUHNY/NzgWKKnGXxNCEnmEqatJ0QO+T2pknNwo
-0Xi7Pdz2l9IjG/RgSrYZtGvo614xWDo2cL9KaGtYeFdlb0tF4DTXTtY3WxqaD56EhrP5BDooarnn
-KCyPDwHlu1hIqCd97Tz87bjFTEjhJTF4FGRmCSOvNc1KaRTMaIAqBWhbZjz2TFVrNuCjr1fcUY7H
-yi6C7fo/a65uhFoCZHG7z3NBiW6c/HV9gRQnRUQu7qQQraxT8p1nFrafa1aB4oWPPM40S+KuQ38+
-/L3GowDsaB4NKSjBhMalFuGDIra9YI1a25g9/sC4rkxTCwWDyVszkMgFMN0a3dIXqGM2Id4sfTbw
-YXvZWrk3NgETf2iD9TaWwfwSVRlPPdZ6Tc71JWfqU7jWPWiW1ORbTtc/xQxo651tQGXPa5eRD5JG
-8y7006zeOsBOccUUZZzP7FZx8JsBJN+qrJupe6h5IxVEqJqAEusvr4YJQVRCaAucGpH0nnyNaULD
-UI/IN//81XgTrnVLceHYAiCPfYGrf0XheHi7NrDUeYe8j1CgErxphGk+8NHyySW8pMAFdmBqn3Vj
-JYbtDXF1wsDADpSqwXRs+oKRemWnUYveuzBYzvFBKlZZ9++M/4AdbKFewSLGPXggLDTx39cYAFCv
-Q8gm5JHf++a8dq/axjXF/s4UPOKe7Ebr3BEDGvLgzlISigkRIHqAi+860paejW2wjRo0oKDdrmoM
-6L8mho8QLaJP9sEmrduVzYlMoBjt6Pv2Mp8l1G+enTVg3EfjgH+ECcVDGU5ODWczR7JW/2w+e8/B
-spraqgcJ42kw3n65qQfot8yKm9k+4WFHfBQIG50bSX2h56kLL0c0NVaCwvP1olmzN+bgd79lOfpU
-GVQFAGJDhezKo7Z/QBlsjaDyDqxBrMO2zRAlEFOajgjOKVsmjY6YxPP0ChWVcLcSGOYMAjKe8bRR
-GumNX1RhDMSHUVPWFhb8SndnCOhudLYAtjK2mAdYdS5t7OLXkk4XKbIo5m2pE1aW5qsHxYhrh4XC
-fnwqA2BFigpeZjhSXn26bFRQFhz7lQetvxXRhBVRmlDXE6ADlUNJz6SeOiwD9rPqlqjdWDPWhb8O
-Wyf6mODYe3iZ6oD5C+pK0+JHg3tFrVnL9rKuVCKjrG/7vMJgPuvdJXSINRlmX9YTL3xUFuGGJxgX
-Y+j/jtYm1+5ADx2OuVr44hAxe5nsLZ5ZP5guYCodwnP/hVM0xbmX5uNLgunrISVVov+zVFAIUwOV
-tlF9JqKPfcRN863L1agIrx7hAo+jjV4J3AKbKdCZYDNjV3Dg3+REGTMmPhJyIjr0E5XBmWFBaO3J
-eql3+g+WlDY+Omb3Jx7CCKxc0X1hSvvhPMI8pD1RN6q6tBmSxNQGefH/+F9aVlejx2HixA8hTehx
-+l+Abt9GUR3zeVzKrdpVcWOtqlhRBxtddt+GUkRFKC4I04xdp06onIZF4I2kE4ihj79WZBo7dISc
-mo6RZFeWEXJWHbp1o4QcYRyzvG/7B99yTasAFK3DOIM9UYL6ywjK5z/qYedNM1AA/zXoG9E35E3K
-YChfglzgKHYQxU/ZWibn/y7Rof/l9ZdwrNBrVEOaLltx9NznBoxInH6W5szmmxmQ+nmULC6ikTKT
-KOhcTOJecCAWCOc4oTMp3zjbyv0h0EdgUMt8wnK0hEihgbtP2LXtnCafRzYdTdAR9DqA7K6QxOTU
-tf6mU5fjcENx4+P0fZXCoIJs2ocesu/A49OZqMiVB7+48uRoRigTm8TfWj6ys6P+B/5oOtEzCk0S
-r9frJGE+syGiaTKWFH+ZONqcfCNB36l8R5Fv1IimrOqefECx/P7egCyVt63t+UmU2W8SY/ryA+2Z
-aJxciOGh7vlTJyHtrdBHDAlhqVt6rqubgdvI415LJ47L5NeCBy7BEbnTY1joz3am+pqlx0OrKpbh
-pQVhe5BP73x+UDam38PKqsFB+qpnaK/Md9xdC+XTKwiG6RsacwuWugluWH0JuPuFoPU10OJbKXnr
-we7ttcCHC/qUy1mWFTlvaPbY7HZIJOb8bKSp/+dE2uYaAiAHpna5rXYuzFe5cwGfZ4J8grg3sGJn
-runQL8XuQNjCRt9kiesUnlEaVWF3JCRxYpxh5ysL1rwuW+Xw3DZSKqmjPmrtkeSJqFaQFWP9mpSi
-evhANKHJpwJerrcb08PJvD0VIi2qcI/Mc6gfHIYTGGBIsva/FzuF+Zh8qFslmBZyYB8E0c22hx+3
-a8rV8NzSf32/ASQejCtTlP+J0lyF99Yyjvb6OTdVRSxpaQXwtRxXRdMhf8Mu7keULJ+wnUx7AdpQ
-lIz7NVUa3dQhBqajMj6cd4Mox43lbLhKa312BykH0DImRX3yVz+eVZOIsCi5GM+LnLxmFXaKtY5F
-/zf+c2gh7oi7hWlF8i0BzVY20FsgxeNSPdAjPsr3aI/R/Lm839sSGcQYnLr2op+LhcYZqeDqorF5
-0g4TDwWaICpx5/AJjZDQ73KD3PlVN3MU1Q0BbqYZNcoBMhrRdIje/Cqk+yTVKBnissN1+MRF0gk4
-wQxHfUck9g6+/MaYoBBan72ghrX1e0ZAiZJ/YUDyN8dvqe0/5NxD+Q9Y39YYlDqemPKpltwhLQQN
-czUzxNtxh6RgT4ILT7AOkHaFMpsFnaMXOOaisBNqMdtxiZXqfxgy6iwOjKowYPL4J+8iJ+OaIjX3
-f34j9e1MXm1X405NGc0ABSFofu8IKJ61X94pQcNIt4E+mO/fBz2JCNFbhX/Vgp2hqvh8kOdiIeA1
-Nh9sTEXybb1XXSGXpTchAaezyZBPT7hZzBYmJ7NqeyesNWqGvb8US7qe6MArWdelH3wHaBtXUi5M
-xTavnY0307WNx3DphC+8wXizHqOeqdQ33qxKvp3ZtNkqblmweayc0QvfOMzayoTFnSZRvvT0p4En
-Hq9mEDqr9lFpiKaQVJr3TilCkXTLYNRRet0wtDLuS/iGkvwWQ1aAPt9ix6UfGHMFohYBuvUu5Wwo
-lkfACXzswoCelly7VEWuVCjw/oV0eMO18kiBdLJpDDtevVQ/FsD3j11tDFxQMZ0t99V4IJDTLsK8
-Foudk7qr9Wy9LuFVNYbIa0AtBN5VwclNw4EbP1oqMSZTDGwBdvprQal1KaTHp+N6x1+CT16kwtOR
-Cj8lqtDm7Q4oWDvXNDdbEKqXLpafpLRhiyRA3fU1dfj46twA3GFWXeryIVCKKsJpHy1cPzCt7sMv
-JIPq8XAXFVUTptneRGenbjWW8vtXo2T7RQMZ8foKHqoFSR/nzWqFkN1+nSSFuB1nKCTohb0l8F+X
-LhkxxNvnAshWU7CF5JbLNRFLfdaGHXXHe+vfeZV0GjWUv02vI/gvkoCXfF3cD7bhTA7J3hWM799c
-fkGYXO8zIhfgvV3ve7JuPTewGwC9TECEdE1dtaDlU3OLAeCHdEcmhvIi6DWmWZClbp+8zBF0fuDA
-YqmIAbcSJ8BkfdPRXFpmVtQigpceAtlc3HM3ewY8RgT426e/HQJtc/uTWOHxh6yuTWtRr2Xmifnj
-rC4kPlF95WvgP2GkEDs+N7idzps96P60XK7vf/3wjvJ9Asr3Caluu7uj7Egm3NlKgoYkfECLLm1O
-ereKMOSOv+xSMBs2DAHVKSVYjR9qmqcChmDc/okn5GCl9iq93h+tnbWxQ1+M08LrZiqq7VBj6aDZ
-KAC9f6cNjGnc5xRsMPwT/3ygbIjzDD6UzDtP1fszf5fL4mrWPuMfm2jMaDhRfr9qSLlANY99IESH
-NJ3Q8gRa42Ony+VHIAE/6laFyy6+O8aeagtFUlakd4JT/d3p7qforgRsvaHeeAcP8WtxZYYXNqcE
-spltk4f+QKXdg8BFSJB8pxk+jbd7uMtfmTwkQh92XQYD7NPO6/QojemQE9fOMGOu+u2D1wN2qELT
-IZtAQpjnfas/pRUYNEHn1zgNy9+xs4wGsgHegduo0RiR/RKXbVnnqhWsTi6c6sS3z3BAVSJAw7SQ
-EAG9sikqwWmUDwDGsjflIJi57HNQNmCnBm+N96x2CmGSuDzuUaKg5/4d0jh9jYekDRRob3KnuAbf
-r2CJ8qyl3LgeXkxywq4rjwglAa9vhQb1LRF9f2Krxz+Eh4lkC2oHCLp1Vx7wNwTr3QqDYrgP7PmB
-VYFTE2sFUTkd2sMofqGwuBb3WVoho8tZeyOVlG5IHuKo8kGemUdMDGHS2yh6RFllw0B7WlgZnNTc
-ScXkDi6XlxwMHjIQZi1SY9qRWIkrY9EpHgZjOSr1G1YJvrnvHXlL8x+JhbdABHfQ/RadnMwEy38X
-BwRfMHSbaQvCM/vD0XcEK7tpG7BxsQw25ZYyBlrM1fxeR//U5eH7J69Kp575VqSW9xZCtADQcVnn
-1aAVBooDqMvcnxhNrB/VRlUt/rQeL1AyDfwcVPZGXOGdIYYXZ5B188Ga9A7BTZ7Wg4h/sA//035e
-D6c1CFgI+DCs4vC5Q7uT4yNHVhxl/xZ2SKP2Y3TapRoOkyrInLkXleWLas4qTzsW/IExMVlGWhEO
-rLAkMmLiglNolmiDn+6zQ1J0YVTk2p3kX7VylaGBo5knyod/qz4hdiEkahGC9E2hB915QENd+m0p
-aod6qA3ohvDNoY5UoYigWOh5ASEjKoOrOB7EjF7JcLnfyy702kUeq+0G12W7WJwNYKLAOfKGN0da
-QKlAnSnMqlHnRS2ymv0nIFJAfkWK0CG54q1iNicaUsF/DhV9AC0eJQxdVbythrxStgb6MZVV71XE
-irZzVS3IayIg5Qv9klhK1E1/DI9ia/x96QgMGF4k65a6kMZlxwd0Aod2X197XQLRqZFnaPjljiEf
-Xcf1lus90L+aVJegIPZOro4K7XV2vtMnKtzd2zmsiA2Ebr/C00P5jYTl5rYbYnztuhBsx7GCFTMg
-ZKgbIYofFRMNPFfCvmDfnpvfqrF8tplj/4bKetYX1ibYPnNcXoQg1B419PiH49PM1YoBvCOO/olb
-rf6ulNI9l+V5pHLrz4CBH8LF6pTSvB2NgW1iI42xnHyfBizaOb6InuzS3I3TziNdNI+IKqC0k60S
-jpqD2AxTISbN4kil3JK2U51OGyZ4Vgbz81fecc4n/bKfUqzCoexORtQb1OfhCViBM5cztIO0mofc
-WrTkZmo50w9p+mZGFcikCJiAv2hWNj61peDu+B3r9OuvZ5+7spfkY3C+n8iltyV5U+Yx42AfZ0G+
-/I6QrCWMhQHQSjua6RYHM0ni97pnrKqxo1jUHz2sWdJ5f2naArbAr3RkCBZ+yWP6ep8DILhrh7+N
-PHKYIBfitY/BIP+G8p+wltAGVtk0oA1Q/+v/TydUSku/6c6tDfw77TlgZ6ZpYEJbh2KQUFDPUMjN
-VQAbULZktTKfR/lq3VyXwkHwcI6bnK7TWlwgLvxUVTGEA8bswU8elMhXdXzAPypDFN1BRSw4biBd
-o12xzbmRXVpyHQYbr/UX+K2tYqJ4AcPfwpFYrMy6SkGcE/kXCUCdxA2Bg8Z+D93IhJaQW3rGrTPy
-yhzAD+dFmXMT7koXlnn3GcEgYaQMh3vVbXUYbic52PeVgLLPQ3G+T1YSScWlf41qfY0MGKQOzKFk
-0KSx3cO/sbIuFKU89kuelcQ4HO1i0E8bmfOMbtTi9xIVWKMdX96GM+v4nJZyKcn4+Vy/iYu1dNPi
-4H83FpT4fKHyYJOPZ2U3qC8VkSoPDv2PfbXlnYXHI+TdIP4/S15R9cC4LM/cwCaQIr8ij0sqMxwi
-eZQwWT35zJWnzNI72u/yn4S6vP47mhjKXKezUrW+H64a0slvGFttBY6dOqP7qeCgCrnVcCpiZ+4n
-JDkgB7ngZ/kzYaM8ZU64Xc2QZ3KaJxlxdvaDrrlbkY3o8WE1IksZoFti5kPjdmlRkCt3V3ObcYQH
-sqqiQZgRBgV8hfEdvWSigliM/FRB1vkMQFQdIXQbsrW1axRJndxBE7n/OhKC8iRh+erkuDGp5ZgO
-yZg2850IXrh8dOHAgpXHSuqbYR6ZWZNy0BE+I3tGPSge9NNge85/8NpqPP2megPR5GKdCLu+899L
-Cu01JmuAcHgTsu+e8N9tbM3qosZ0K5nunG/FjGUfxoYdOtBXooIfHD0Prt2WNJ/kwjhRKwHanTB2
-gd4gVByFOly0H3EqTCbUV3J0eFWB/O3j8n+SEhwAJNmbm2rPJ0kkfRjkJfHL5y9ziWgB7jLhlR4Y
-1MfG7viZTA9Xylk5HpSp0UQfOVymcW2SDUsLbdUPQhdM8Pzd/TDvO1GhZ9FuV0o70D60beDopWbt
-Tz9dtn2qIO7fzQO5G9iqNkfL3uwfCJCjcoHq8/2uut6N+oqPSgfHU/7pY6KeFdW6hVRq4S7maHzP
-Zu6udvwezuIGN2BiFWTq8DVJervrQ33jviPrMGgQ6WFhZq/lzV9hjrkFAqqVvfi7dg886l+ZADJY
-q24o5W79xONfI+1BiCDXedbHKd85ZIU7Q50jU/ytKJQ+AOX6EA8AzXCWwqVgoZfpXeTgETSj507a
-JwahUgYKSZz1JOyqodD/+Pt2Sf4YeclZ+aHN0M9SZTTyPhAXsVXD4/Nd7jaotEZPnwHhLiQX3IyM
-UUUyBmS6ACD/lws2kBXyKT1PWehie1tjp6hZ+AUXJXwTmMqnvIBzHytlSwWiWamgfY7x5DzXK6qC
-c1nBLyMQWRziU/NUqHVQfj8uG0/P3zkN3YUsOoM127s5YznRxF3pPsvHov/E7iC53zba4Takq42x
-/AfkPBbRATYzr21aJQDEnhLBeMDeqg9flm0CxONTNHCCpB43gLZ5evxd12TBHEB6K1Ej125yTJaV
-OBCuCE2ypemhfzk79SNSQWMmq4wWvQRjjFX67p65UY4cHm9rtFUqSrWvvY5a7K1YRmqV+DgnDJOd
-QsPP8BbSMzMg5vaZq7QCYE7uzazw/lXvaAwMhM8km8jv4dUyr/fk9HgjBShctQ+edQ2GWIltO2tY
-IR8cHnCZYTaREXWNt+QWfT4eZ9ONMlxbrJhHT5DZl4347Wt6+3GTEHDSBNmrYUL1Ftm7pH/YVa6g
-k6trVYNVd+NgBcyRW+drcF55mU+Tt0OockR3zC/R91aha0rM4rHZOsCgKRviqP2f59S/7p7W8nwu
-otGP3HYxipaohAWoH8FPg49HH+tltICO4R6dGuaFr6vgUFqDfDBBZ6nFmr95j0FwSyLrBQMqSagj
-i/IOn2hBWmeOCgYkzf2dy2uEakPkPEvr7PX/jX0XV7jGAeZ8VoA0H1XqW36niSlJEdOoS6X+pgPn
-2+EDQBB5WLJEWSysbu5HxK1xwvVUO9ZlHai3R4YHxS2SdENaa9BeI5OuYe08zdpz2ua6jme143/h
-abqa2R8NJDDnTG0/nvvnQKRXplLdUyoEIvRN1qtgBBM9ohFAEcMHvYv7mSePyjfb1WNPe4fYPN29
-4870KLWJmRxxrUpxPwxA9vu3irNFiS2cMk2l/2N1Ta806U50q4SoOBhYx4deGxPFbOFSLpl4WkFj
-E2MeQdEyL3fauZtMnu4s+locZTM31y9K7plyC5U2V/XQLyNd4gWHiqMMkdwynh53/gA4cCb5X/ff
-mKXTprPuALoO0FwKm9R+xGum+skfMAb/GCx8mDCeRLYZjqUpuFCk66BI/s2fh9W/02dSelMrgwld
-3H/aWwQxzPOsknci+P88dr0gRwiafw98dRA1sHOBoPCKtHv9nXJAklVjibLBc76bhh4b8+0UoX7y
-anCNqJZe2m5awtLgAsZThzYAbcZrRtQH0WEnlVaAVB8G7iX+LCH6PciBACrgPYzIjBhZYOnMCZgF
-l/E+hOgm5gsVOYd/3avzL+luhf9dp0kPkoJ6HTC4KSV8f6+NWZXOUG/fnLmFq66iDFsWv7wjf5So
-FfyZ1wuJA7LllIYXPiI8mBEG9sy78Loj7eGG3E3r0wxFMIo+QwEs4Z7HwQUG+ecUSB9sRaGpJVuI
-HyD9TLEnGFMiFG/oYKwQNSvIgdjAebqUXK7taY0jHGmA/lp9IBz69oLmtj/E4JjRfKb9Vcn/BTnA
-uGBS8WJwcIS9xtOsojPRSvR4cxzt4FCEuvk/vjIzYnE1pgWTZMUtsm6gCA/gxmR820oMtB5bhJGb
-I9SLPSKG05fqPpjXOS8ikt+yVCFEUeXWZp4TuKzJJ2o9HEkvVh1BP3OLN47HK8moCMTLrFDWYkqd
-uU4bfkVXqTBm3Cgc8A4801qM6ZL66ltO0hic+dKdNfjUzJJ3o6g4qsx8PU2fnr5qblm5rNjvJ3rp
-gwzOL6YR41yuQuLesToXntPMTZVMryScmCraOeQvXt8l3KCK5EneM/L2FPEMDZK2heHM5totYCj7
-pfQuZoEykCQrtFhppzJoBzgV8Nbi/+mNi4x9OONMyNaRZ5Yb5yrLRx0gOr0Z2EBG75X5cDKIj7Xi
-1dF+OczDAFEPzgeCuQID7vqZAjLeqmmcQf/arZaQaT5X2PA2sU9Z1dKvenZRpKrrw4z7efeEYCyB
-z42j7lsl9v1WPf5Ln6iaFneul+3jRnAFE5cBRzjfE8/P/lXUrdeVJIE5/x0NFPb8tUcnlj9gi17F
-6XZRRBYOTK/yWVwMiUUJEKfcvws068ItDaz7BQP5sKOAgEJcdASQtJg97U+GR8qdNVSv0mmP80qn
-Cacm5QeTzEf9jejpUrkyUc8Z6Jxcdru42IlUs/gamBNpm5eLfBbZpCRrPcSSfS6nbd1CRmFYPlo/
-2w9ozIAK7ZcNu0QUIbBwC19/KcySyE0ZWKsmOoQX7ZqkI2p1m9x0Uai25Y9ev4P8oFDpsyODn4Ss
-8QUZ21c+b+4Xyk5NrDpgW/UHVIkuuWcPNxNrLhdbxFt0miISYSza0GCEle7A1QBXAZJ//4ujFV1q
-N5RNIK1hstzO/SSXgeUvC2B1vv/QUUyP9XwmlJu2A+oSFJyzxisf5OgJMalc/FODe+BtDCGX23hp
-uXPVmepk6gfVGZyTVM8V3MLGjGKB5yYsk9pHUUGDiN4gYmcyzEDG5Ic89HTUIOtxx9fCxSpP4XEN
-Z/QwTURdd8J45jgjPRFDnUpZu4XBO+pRKmepACY+cSYiIdkAgbLMzjhHn7wcaKTiq4+35/AVURFO
-TNEphaH4ATxq8Dxb1S9nONRoRury3sfxif7/rGjYKAZc08htVkUFoM3RiAyUQOt7aiYblfskfs5g
-bQlWf+wj1yE+PrZ9DmTzKQ2kpTHy9XcbbNXQP44wN6Rj05OhEgRIzJwtEbliWFMtXfHsvND7hqGs
-u7zHe4C9o9Fe9WQ1C1nOFyrxmpSAQ9EsId3yC5TqSX7n3bDOJGcm5jaH3Mp9r+7sAhox+fTafFN7
-rp9VYmOnanGHLaNkHj8HzkbPFko3qgFBXounPB4qPXrzdOwnB6OSL3FK5pOt49+p57uEE73MXnig
-OR78ePENtzQ0hkOVZVzEnStJnDfUU2MW7ZH0CwF/y5T2LFACv+4iCMNYCUbSwj9PseN3S3BKafHi
-KN9r7bzTmDvv6dRGdUoDs9kTHwubf0lPvULlKhrcutBJNxigEWLxJyJetDsnII5/cV/k3iGo/wlF
-XE7DvACo9kdG3TVZQ3T2pK2m1JtokXBj0wDxD3VX8FnyBgVAPOJGmD6TxPsXPxlB7ITk4J0PhBhp
-YBa/76IBYkGURFHmBusogv/Xdh6VcCSulzLjkrcHLgQRIiJXI6bFgtbVgvcgH6E6HA0gHJsBGVYS
-2lorUf7jKsf/4tFvY3wZmJNnjd1SJ+7EsTjiDRruOIJI+GZDiKcz5K8KrRyQB7UEZ8NY94X1NsYP
-7pqpmnxfIQfynxaRJ5MROgxGP62+GOlIlXcqhyI/dN6sibdyDTH6NJ0ldW30Gqil5Mng9AJJVG7R
-PV5ZWpSqRTfQgx32dHirY+SlbeCOgDCgD4mZeqwM7vrfqYMIii/fdkP6SjrzJLSHo2Cw/P7TOjRa
-OoWL8hYCtdeAwu+0XyORht0fAvftUj2W0NtVuBJ2dHAaewyX/oxVXXm/drT/DKrlBfGEJxxLlv7J
-a7r85/PL7UxDJM5iJViPSShw8yew8fIVcMcTdjUV923elNfCVYr61k1Oa0ZmN9pwep2Wow+zxL5v
-TXS/1j0pZR3Uo9AsFXYg5vp0usB/Zq0ptzcSHrT5czTfGMys1IsK6PULMXVk7cr78zp7AW1OQrFy
-ZaUJyH2z+KVBOTJprAhHQslVK1fVd1l1MbYzjz7zJqp6TIn7Yr7N76SXq95sxNm3M8KV9yXEiVMR
-U+2IIHH0/VCYX3xCUTZ6oBU23uCXfJ1258bUOYTmKIDV+Z5SyarjK7J5k3d5zC+YuxXWazRfGDnq
-oKAxED1BErXOnzo2ss4H7/y1d2FpWdD/e9CbYXCon/61K7L+CBIVQ61Rnz2qmWze+H5aoPUTC0CA
-gtCJ6RDlSy2wnI116PqxRRonR4vnco5tYQHn9mFNEXD+oNa5AlRykLYT4+BgGFNfcwZNiljQS2UJ
-ASbD9APWUUku8wg+Jj1UgcqvdiIpNVnxP9yU2b9saDkNGRH6alQIs2eINM6gohdgbQPACMO5E16p
-4cJ1tMUYDPDMjw7x+Zs0/HZukOdhEMeaYBcWjdkQLrjDpl3O6erTIOJZQti4//pLpTOd6o/nNfWa
-SSpDI0XJN0fSP7sngln/j3Lof0jAIaFDkPt+rz8QRKVgALvnZM4gMqB9RagO1EeY1EuAqwgm4UIq
-YnRvo9qIzQu1Y5CkLxtr0vEbTkoYtBtCMA9fSgyG8AoJSt9ZJkhyPSzXVJNwyauj36j7OHP6YA1e
-bT4o5eA7+U9jVZ95B0PmUv5ZEh38iXAJqwb4/uNzoIaw3AF2T5X8gt2l+YdT01Fe7y+G9DCAShGd
-pGs4Ci/P5aCW9cLsqjeFFqpFqDEpgB+I3PyBtQjQm7LPp5YOBf5yG0AGAMzXLmo/UperFoSmKxZ3
-CFRFWUyOtotI0CYtEuuK11//LmaBIot1pBEY+eEevABuTHts+5g+ocWlQKJ1W5zsY3DXbm1DHiJA
-hOul62O9nFggv2Z79n1X/5CVMIU27rbYbLEJXfdojCSWLSZltWTHMXqZDiGk0tPdqqssP3O08Y6g
-ylIaRtY1G8B1SMbnWUCmekTopHSVfN7T4qFaGRR6n4KbNiICD4tYejyiK1bcadjwbAi2TGwXvP4/
-oa8NHxIv7NtEOM0MVs26FtmhrO3XQzSACo1P/jIwN2Kot1DWEssexgM2YlF6zmI83oX9xXJmwLnH
-8eA5PHek0WlUv3YAsYR2qIQHPu6uoikIimEB0jW7hu1BBzd550acUQt5Niq0FsD5RMqJf3DLuvvI
-1MZHeo0z6tyCyxGiYC64NZMyA3yJXdTGJ14o7n2gkAptNmY+0PcLPbDO0vVLdfsB9IuI9CDYDWNK
-h+R8887iUS7QQN46xtih91UWjnAMzo+AtegAVfJqStcz9+Z+W0==
+<?php
+
+namespace App\Traits;
+
+use App\Contracts\CriteriaInterface;
+use App\Helpers\CacheKeys;
+use Exception;
+use Illuminate\Contracts\Cache\Repository as CacheRepository;
+use ReflectionObject;
+
+/**
+ * Class CacheableRepository
+ * @package App\Traits
+ * @author Anderson Andrade <contato@andersonandra.de>
+ */
+trait CacheableRepository
+{
+
+    /**
+     * @var CacheRepository
+     */
+    protected $cacheRepository = null;
+
+    /**
+     * Set Cache Repository
+     *
+     * @param CacheRepository $repository
+     *
+     * @return $this
+     */
+    public function setCacheRepository(CacheRepository $repository)
+    {
+        $this->cacheRepository = $repository;
+
+        return $this;
+    }
+
+    /**
+     * Return instance of Cache Repository
+     *
+     * @return CacheRepository
+     */
+    public function getCacheRepository()
+    {
+        if (is_null($this->cacheRepository)) {
+            $this->cacheRepository = app(config('repository.cache.repository', 'cache'));
+        }
+
+        return $this->cacheRepository;
+    }
+
+    /**
+     * Skip Cache
+     *
+     * @param bool $status
+     *
+     * @return $this
+     */
+    public function skipCache($status = true)
+    {
+        $this->cacheSkip = $status;
+
+        return $this;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isSkippedCache()
+    {
+        $skipped = isset($this->cacheSkip) ? $this->cacheSkip : false;
+        $request = app('Illuminate\Http\Request');
+        $skipCacheParam = config('repository.cache.params.skipCache', 'skipCache');
+
+        if ($request->has($skipCacheParam) && $request->get($skipCacheParam)) {
+            $skipped = true;
+        }
+
+        return $skipped;
+    }
+
+    /**
+     * @param $method
+     *
+     * @return bool
+     */
+    protected function allowedCache($method)
+    {
+        $cacheEnabled = config('repository.cache.enabled', true);
+
+        if (!$cacheEnabled) {
+            return false;
+        }
+
+        $cacheOnly = isset($this->cacheOnly) ? $this->cacheOnly : config('repository.cache.allowed.only', null);
+        $cacheExcept = isset($this->cacheExcept) ? $this->cacheExcept : config('repository.cache.allowed.except', null);
+
+        if (is_array($cacheOnly)) {
+            return in_array($method, $cacheOnly);
+        }
+
+        if (is_array($cacheExcept)) {
+            return !in_array($method, $cacheExcept);
+        }
+
+        if (is_null($cacheOnly) && is_null($cacheExcept)) {
+            return true;
+        }
+
+        return false;
+    }
+
+    /**
+     * Get Cache key for the method
+     *
+     * @param $method
+     * @param $args
+     *
+     * @return string
+     */
+    public function getCacheKey($method, $args = null)
+    {
+
+        $request = app('Illuminate\Http\Request');
+        $args = serialize($args);
+        $criteria = $this->serializeCriteria();
+        $key = sprintf('%s@%s-%s', get_called_class(), $method, md5($args . $criteria . $request->fullUrl()));
+
+        CacheKeys::putKey(get_called_class(), $key);
+
+        return $key;
+
+    }
+
+    /**
+     * Serialize the criteria making sure the Closures are taken care of.
+     *
+     * @return string
+     */
+    protected function serializeCriteria()
+    {
+        try {
+            return serialize($this->getCriteria());
+        } catch (Exception $e) {
+            return serialize($this->getCriteria()->map(function ($criterion) {
+                return $this->serializeCriterion($criterion);
+            }));
+        }
+    }
+
+    /**
+     * Serialize single criterion with customized serialization of Closures.
+     *
+     * @param  \App\Contracts\CriteriaInterface $criterion
+     * @return \App\Contracts\CriteriaInterface|array
+     *
+     * @throws \Exception
+     */
+    protected function serializeCriterion($criterion)
+    {
+        try {
+            serialize($criterion);
+
+            return $criterion;
+        } catch (Exception $e) {
+            // We want to take care of the closure serialization errors,
+            // other than that we will simply re-throw the exception.
+            if ($e->getMessage() !== "Serialization of 'Closure' is not allowed") {
+                throw $e;
+            }
+
+            $r = new ReflectionObject($criterion);
+
+            return [
+                'hash' => md5((string) $r),
+            ];
+        }
+    }
+
+    /**
+     * Get cache minutes
+     *
+     * @return int
+     */
+    public function getCacheMinutes()
+    {
+        $cacheMinutes = isset($this->cacheMinutes) ? $this->cacheMinutes : config('repository.cache.minutes', 30);
+
+        return $cacheMinutes;
+    }
+
+    /**
+     * Retrieve all data of repository
+     *
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function all($columns = ['*'])
+    {
+        if (!$this->allowedCache('all') || $this->isSkippedCache()) {
+            return parent::all($columns);
+        }
+
+        $key = $this->getCacheKey('all', func_get_args());
+        $minutes = $this->getCacheMinutes();
+        $value = $this->getCacheRepository()->remember($key, $minutes, function () use ($columns) {
+            return parent::all($columns);
+        });
+
+        $this->resetModel();
+        $this->resetScope();
+        return $value;
+    }
+
+    /**
+     * Retrieve all data of repository, paginated
+     *
+     * @param null  $limit
+     * @param array $columns
+     * @param string $method
+     *
+     * @return mixed
+     */
+    public function paginate($limit = null, $columns = ['*'], $method = 'paginate')
+    {
+        if (!$this->allowedCache('paginate') || $this->isSkippedCache()) {
+            return parent::paginate($limit, $columns, $method);
+        }
+
+        $key = $this->getCacheKey('paginate', func_get_args());
+
+        $minutes = $this->getCacheMinutes();
+        $value = $this->getCacheRepository()->remember($key, $minutes, function () use ($limit, $columns, $method) {
+            return parent::paginate($limit, $columns, $method);
+        });
+
+        $this->resetModel();
+        $this->resetScope();
+        return $value;
+    }
+
+    /**
+     * Find data by id
+     *
+     * @param       $id
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function find($id, $columns = ['*'])
+    {
+        if (!$this->allowedCache('find') || $this->isSkippedCache()) {
+            return parent::find($id, $columns);
+        }
+
+        $key = $this->getCacheKey('find', func_get_args());
+        $minutes = $this->getCacheMinutes();
+        $value = $this->getCacheRepository()->remember($key, $minutes, function () use ($id, $columns) {
+            return parent::find($id, $columns);
+        });
+
+        $this->resetModel();
+        $this->resetScope();
+        return $value;
+    }
+
+    /**
+     * Find data by field and value
+     *
+     * @param       $field
+     * @param       $value
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function findByField($field, $value = null, $columns = ['*'])
+    {
+        if (!$this->allowedCache('findByField') || $this->isSkippedCache()) {
+            return parent::findByField($field, $value, $columns);
+        }
+
+        $key = $this->getCacheKey('findByField', func_get_args());
+        $minutes = $this->getCacheMinutes();
+        $value = $this->getCacheRepository()->remember($key, $minutes, function () use ($field, $value, $columns) {
+            return parent::findByField($field, $value, $columns);
+        });
+
+        $this->resetModel();
+        $this->resetScope();
+        return $value;
+    }
+
+    /**
+     * Find data by multiple fields
+     *
+     * @param array $where
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function findWhere(array $where, $columns = ['*'])
+    {
+        if (!$this->allowedCache('findWhere') || $this->isSkippedCache()) {
+            return parent::findWhere($where, $columns);
+        }
+
+        $key = $this->getCacheKey('findWhere', func_get_args());
+        $minutes = $this->getCacheMinutes();
+        $value = $this->getCacheRepository()->remember($key, $minutes, function () use ($where, $columns) {
+            return parent::findWhere($where, $columns);
+        });
+
+        $this->resetModel();
+        $this->resetScope();
+        return $value;
+    }
+
+    /**
+     * Find data by Criteria
+     *
+     * @param CriteriaInterface $criteria
+     *
+     * @return mixed
+     */
+    public function getByCriteria(CriteriaInterface $criteria)
+    {
+        if (!$this->allowedCache('getByCriteria') || $this->isSkippedCache()) {
+            return parent::getByCriteria($criteria);
+        }
+
+        $key = $this->getCacheKey('getByCriteria', func_get_args());
+        $minutes = $this->getCacheMinutes();
+        $value = $this->getCacheRepository()->remember($key, $minutes, function () use ($criteria) {
+            return parent::getByCriteria($criteria);
+        });
+
+        $this->resetModel();
+        $this->resetScope();
+        return $value;
+    }
+}

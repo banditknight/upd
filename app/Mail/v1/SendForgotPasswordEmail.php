@@ -1,33 +1,44 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-vKs+3hH9MG==
+<?php
+
+namespace App\Mail\v1;
+
+use App\Models\v1\ResetPasswordToken;
+use App\Models\v1\User;
+use Illuminate\Bus\Queueable;
+use Illuminate\Mail\Mailable;
+use Illuminate\Queue\SerializesModels;
+
+class SendForgotPasswordEmail extends Mailable
+{
+    use Queueable, SerializesModels;
+
+    /**
+     * @var User
+     */
+    public $user;
+
+    public $resetPasswordToken;
+
+    /**
+     * Create a new message instance.
+     *
+     * @return void
+     */
+    public function __construct(User $user, ResetPasswordToken $resetPasswordToken)
+    {
+        $this->user = $user;
+        $this->resetPasswordToken = $resetPasswordToken;
+    }
+
+    /**
+     * Build the message.
+     *
+     * @return $this
+     */
+    public function build()
+    {
+        return $this->view('email.account.forgot-password')->with([
+            'token' => $this->resetPasswordToken->token
+        ])->subject(__('email.subject_forgot_password'));
+    }
+}

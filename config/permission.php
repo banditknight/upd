@@ -1,23 +1,154 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP/kuKe26WAUtNmt7eux34kx9wJtuPhUhIi2R1UFF59v5RUii/oGktqFmtBtE95bNwlhYVz1N
-M6G/hrPeIgUEo3vzAmzyEnMlq9s8CjkfTUJrTpLyjHIvmVnc76YfTSl7Yef4+spbm/taNcysEKJ0
-UPKLJ3hONxQYSC8Gc0Dh/WwISiYtyl5rtY6aXiYXuFA8oOEkLZJT+xWoOaz6P+BSyhSvqDMuz7Du
-GCWXeuXzmMWElYt93N2F7FjZAgjPmLoRRrduHTRIqy7g1FC8JQXjfhR5mTMGT4CBQb6tA4z6Balc
-l6weUFy837/CWzDa1RjVNmFCFhLvvwLXP2UIETPqetO2kEDU83xwEdFmGFepp0qrUeI9tsyPY7pl
-ExJx4Yq+T0AWTzTf7VWG+GUnAg+TFvDp5bYqJkXJH/MP+7Vr76Oo7I3sXvVIQ5sQCkSB2whdDyoW
-XsBD6cl8makmRlgLvQBxPyRIsJlSnkISMO6aaWtrtzkzbwNbfq/KZgNsbiAFdPo1CHsiKja2H5LF
-6oFXwTBhw8YnKY1rjRH4iRBAOk8Rm8qSCAr+wibzK9DAMLjRFzjynfYgkRuZKIjJv53ptPIESacm
-Foyqs0R2Gn3t6F0bZiwwTPkOdNlZI6wH8Vmwev1RTiTk56Jau31LR+e1jz2mpaV8yrtNe4PYZfWV
-wd2AAXG+VpZVawTULywgV0dQmOT6k8GOFI18fCheaq52b3QBXxTZIwoANvdcskBOyjKc97qCOOq7
-brbpaRgxJZNRYjxHhKt82Qly6WjyU1entkNudv6UqpB5GFQ0Q7Brtkm1iHGV/386Mqd5ZK90P8uL
-yPz6rSbrtFGA9126Cjx2bLRBSca1/6kDlpj9tb5c6qGQZjc8ENzWIzZBj1g1oQv7FG0D91NKoDSv
-bXCwcqzYXK5U5pzPlK9Ur25wj9z1/8YNJ0A0pvB4Uu+6tb0nXvKMfFPZqNwhHNXebmNZwkE4Dz5x
-xzgSk+GV+H9SmBkyg7K3sdNmKrJAuLODwwuMrlacWAmxlqCVM3wIfWZRJAiMigmkxKPF8VTJMP9z
-XRM4qYZ29jLZyeluTaeTgcOJFqwgseby4EURE0nbqL/yhNQkbQcH6/lPWwgIfcn2Ut/aeA3+hc96
-jPUONIPnRPDP0Cc3+u2Z3WWxhwZZb4F1S8hBpqF/UYWnYyKXDgBvNRiPiAtZZbZDM1ohdZJ5dNOx
-Z0LLNzJdCGydT/VEJekhe14/ZzSIuo2CdQ7iIJS15Mqv0+z9sfsWmPW/A+XmOc8Z6QQRcw8qk7xR
-zdnup5JKy0AVusLG0B3FVYTQ2HoePm9xod+S4kH1zVofh0hZqQL2rSU9Is2KNL8kt6oThFq9MGwj
-HQ4NotkCWe0c+zNy34JWTtcc+WjYJupzrRaorDkyGFmw3J148XV5eUioMHA2GoDrNtr2YOaoYhNG
-M2tAq7gX8ndI/EEMOFXvzD5m0/JaJcJid8YoGC3pe0==
+<?php
+
+return [
+
+    'models' => [
+
+        /*
+         * When using the "HasPermissions" trait from this package, we need to know which
+         * Eloquent model should be used to retrieve your permissions. Of course, it
+         * is often just the "Permission" model but you may use whatever you like.
+         *
+         * The model you want to use as a Permission model needs to implement the
+         * `Spatie\Permission\Contracts\Permission` contract.
+         */
+
+        'permission' => Spatie\Permission\Models\Permission::class,
+
+        /*
+         * When using the "HasRoles" trait from this package, we need to know which
+         * Eloquent model should be used to retrieve your roles. Of course, it
+         * is often just the "Role" model but you may use whatever you like.
+         *
+         * The model you want to use as a Role model needs to implement the
+         * `Spatie\Permission\Contracts\Role` contract.
+         */
+
+        'role' => Spatie\Permission\Models\Role::class,
+
+    ],
+
+    'table_names' => [
+
+        /*
+         * When using the "HasRoles" trait from this package, we need to know which
+         * table should be used to retrieve your roles. We have chosen a basic
+         * default value but you may easily change it to any table you like.
+         */
+
+        'roles' => 'spatieRoles',
+
+        /*
+         * When using the "HasPermissions" trait from this package, we need to know which
+         * table should be used to retrieve your permissions. We have chosen a basic
+         * default value but you may easily change it to any table you like.
+         */
+
+        'permissions' => 'spatiePermissions',
+
+        /*
+         * When using the "HasPermissions" trait from this package, we need to know which
+         * table should be used to retrieve your models permissions. We have chosen a
+         * basic default value but you may easily change it to any table you like.
+         */
+
+        'model_has_permissions' => 'spatieModelHasPermissions',
+
+        /*
+         * When using the "HasRoles" trait from this package, we need to know which
+         * table should be used to retrieve your models roles. We have chosen a
+         * basic default value but you may easily change it to any table you like.
+         */
+
+        'model_has_roles' => 'spatieModelHasRoles',
+
+        /*
+         * When using the "HasRoles" trait from this package, we need to know which
+         * table should be used to retrieve your roles permissions. We have chosen a
+         * basic default value but you may easily change it to any table you like.
+         */
+
+        'role_has_permissions' => 'spatieRoleHasPermissions',
+    ],
+
+    'column_names' => [
+        /*
+         * Change this if you want to name the related pivots other than defaults
+         */
+        'role_pivot_key' => null, //default 'role_id',
+        'permission_pivot_key' => null, //default 'permission_id',
+
+        /*
+         * Change this if you want to name the related model primary key other than
+         * `model_id`.
+         *
+         * For example, this would be nice if your primary keys are all UUIDs. In
+         * that case, name this `model_uuid`.
+         */
+
+        'model_morph_key' => 'model_id',
+
+        /*
+         * Change this if you want to use the teams feature and your related model's
+         * foreign key is other than `team_id`.
+         */
+
+        'team_foreign_key' => 'team_id',
+    ],
+
+    /*
+     * When set to true the package implements teams using the 'team_foreign_key'. If you want
+     * the migrations to register the 'team_foreign_key', you must set this to true
+     * before doing the migration. If you already did the migration then you must make a new
+     * migration to also add 'team_foreign_key' to 'roles', 'model_has_roles', and
+     * 'model_has_permissions'(view the latest version of package's migration file)
+     */
+
+    'teams' => false,
+
+    /*
+     * When set to true, the required permission names are added to the exception
+     * message. This could be considered an information leak in some contexts, so
+     * the default setting is false here for optimum safety.
+     */
+
+    'display_permission_in_exception' => false,
+
+    /*
+     * When set to true, the required role names are added to the exception
+     * message. This could be considered an information leak in some contexts, so
+     * the default setting is false here for optimum safety.
+     */
+
+    'display_role_in_exception' => false,
+
+    /*
+     * By default wildcard permission lookups are disabled.
+     */
+
+    'enable_wildcard_permission' => false,
+
+    'cache' => [
+
+        /*
+         * By default all permissions are cached for 24 hours to speed up performance.
+         * When permissions or roles are updated the cache is flushed automatically.
+         */
+
+        'expiration_time' => \DateInterval::createFromDateString('24 hours'),
+
+        /*
+         * The cache key used to store all permissions.
+         */
+
+        'key' => 'spatie.permission.cache',
+
+        /*
+         * You may optionally indicate a specific cache driver to use for permission and
+         * role caching using any of the `store` drivers listed in the cache.php config
+         * file. Using 'default' here means to use the `default` set in cache.php.
+         */
+
+        'store' => 'default',
+    ],
+];

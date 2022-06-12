@@ -1,37 +1,43 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateNotificationsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('notifications', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('toVendorId');
+            $table->bigInteger('toUserId');
+
+            $table->string('title');
+            $table->text('message');
+
+            $table->string('context')->nullable();
+            $table->string('recordId')->nullable();
+
+            $table->boolean('isRead');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('notifications');
+    }
+}

@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-aL41FwJkXSPa
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateFieldTypesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('fieldTypes', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code');
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('fieldTypes');
+    }
+}

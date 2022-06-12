@@ -1,38 +1,40 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-okSH97PFgY/RrD4Qvhe9aDrsiHItrQV4lxHV3qW=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateAssessmentCriteriaTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('assessmentCriteria', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('tenderId')->nullable();
+            $table->bigInteger('tenderItemId')->nullable();
+
+            $table->string('code')->unique();
+            $table->string('name');
+            $table->text('description')->nullable();
+            $table->bigInteger('weight');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('assessmentCriteria');
+    }
+}

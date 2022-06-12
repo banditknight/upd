@@ -1,39 +1,36 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ouAoZVaZkzLnwRpN1QMwW6mC/3+HjsAD9QC=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateRequestForQuotationVendorsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('requestForQuotationVendors', function (Blueprint $table) {
+            $table->id();
+            $table->unsignedBigInteger('rfqId');
+            $table->foreign('rfqId')->references('id')->on('requestForQuotations');
+            $table->unsignedBigInteger('invitedVendorId');
+            $table->foreign('invitedVendorId')->references('id')->on('vendors');
+            $table->string('description')->nullable();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('requestForQuotationVendors');
+    }
+}

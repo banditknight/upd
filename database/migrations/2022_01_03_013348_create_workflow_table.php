@@ -1,38 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-SEaR0iGLaJ6dNq/8nG==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateWorkflowTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('workflows', function (Blueprint $table) {
+            $table->id();
+            $table->string('code')->unique();
+            $table->string('name');
+            $table->string('description')->nullable();
+            $table->string('modelName');
+            $table->bigInteger('startNodeId')->nullable();
+            $table->boolean('isActive')->default(1);
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('workflows');
+    }
+}

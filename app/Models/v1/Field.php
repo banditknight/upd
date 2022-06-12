@@ -1,29 +1,66 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPv4oUrN07a2RdOJkTcBLiu4nl180chts3AsuP++KmCrNu0uxIwRx2r2GKPtURVQwwcx2CPMi
-KMH+sVrhYBkJ7O/xTiAHnsEhLKdsGTChod19P2WK6n88WecItcXKSe2IfQrirnMZzciQllygbWNA
-4B27i+UwN3wTue+t81YdsiyIhjActNia5Ag7G65BOfot0dmeB2kbl42iDb6hVxXNh+oO/wmtBrvB
-lu6nZ2BFhNpB1MnLZA6cqTcVm8XtNPx8GztPrjBJmUe4ymXDg6scjiN1rUPkLjGqhdIHLO5ybNQ7
-BMWvvTtHGrOmIHGO2XVFKxwSnBfrtYEzqC0Ktd+DHW5P+uBeUig8aAFsxPwnRH0mBu8fYWdzMYGH
-Y3ANMtAxGQLbKgjNtcCpoPvvKaLzNyVNqp9vHgjyKaVNpNz3yUaztxPnl8NjhGMDitBITCwtWjFq
-FVi8rX6N0rYsjSQzjHenny3H5RQCiJyO9RIcs/VmDYaMrvIrY2dVKtxADTwQAO7kpgjyydbkJZFx
-h+XAc5OppbPRomfk8JJKeH16T1VY7UsZUo56r/EQJBh3kwdEerRavoGDhyNfBiHF59zDNEsMLbnu
-1dEsbN6PqYGPG7EFEzDZeco5SISq2QNACoa2jPBOW/FETc//pKRuENl6c3J4jzeGBRfylsZr2KK0
-cR1dSFQbiNBJe154Krw/pDq8HvH7yzl4LeG7V3FGa+qqLZSh+HTg6d7vmRUJCPft/nbT3EKpz+Ow
-1okD+ov7G6ERpc3v/ozf0uQfTUTIJsUVN1lp3YMfHOqxN1SfCZ31uwvGNMuLcbQLnI329+KVtbSP
-qnhamfSqqtruD3E1iLtLUtftYp9S+C+UoqE3NAe2QE+Goewvs+YKWpVTPYcIieVt1f8aqJGnQ4XP
-CSePASwxcqUoT6H/WB5vx+4coG6OSUrtV1301yNFAZrQ/+CMFp9kAu5HG1TxoYxYpbK3vub/iB0p
-sgpaeGqZEEHCHmUkzVIbrgPu9UwSV5oKNCHysq/Lo7jVfJlafFhZ5EtI8m67UynX5hrJgaWBT9cZ
-aoAeibHrHbhNrq48JriLSruGaj1aCctYkAgGqIRYMR8mOTUr8bt91UB9bKkUc7S+nc7ppq9I0pRJ
-uI9kofkoG/ha7YwzVibDk166/aDSm8YovA7/U9br8FlbCnTJNltFpzj+jW79gaflFjEKm4lWHEQ7
-HhrpMHo+99II8ROLmQP3z8wQ/nFknwg7pNP8NNpNPR7peXmCKI5Yio0EEy616xGId3WaeJCafviv
-n6KXB7QRGwQOztGQl1eMI/24g6P+hPdqzMAaNACPesnROrz+yHLTFzmn692JvVCDBVSnV+mGLais
-DPqpezWIwTIH+z2rvDjE5R1R/l9zh2J06o0fspBmRfczeoiGuHF/nmGhiXkfXPqCUqg37o7uFMJK
-Ein50UXdKCZxAeOk9S6afpER6tYDD+3rXoNxHcwWIdGMjI0XN8DHluUBHpl3ch7nSE7HcQFsvWsY
-mcOeFTdFPhDQ6fjDKdJzrV8MMUorNHNJqqq1KrRG5Ggk/xDdKNb8cuh4kgKBG6bFNmndALa9LMNd
-CNWq3y1UB1Jg5op6bKIJBR6C5AzW16GI1nm058jzCjso85zhHVA36w+AJVyYCl/8ugdwTkA49L3s
-hPpJ62OfH2cKIiYlVxBQWpiQd0a/QmCcq6KuBUgKdRsb8TYGn99Ymrua9OIRq6UNNrQMCMngwNAN
-xrCAy5OVCDOqwokQ/MaiNgh0SzZlww3iJ2IFad9/jIIC0rtjPVX5NvgvBh5HPTzfh11RKLz61CQ1
-gyBlXyVjK/OS0mg4V+//EQOwTEJO1IhuK7s8NvLAGKKFTy1SnxBEstL2hQJsEkvlWl5iJcUwVfQf
-aM9mE4cJBcx07F1NKmXhLgKiUz4J3ubo/LRl4RyQNwPC
+<?php
+
+namespace App\Models\v1;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\Field
+ *
+ * @property int $id
+ * @property int $fieldTypeId
+ * @property int $tabId
+ * @property string $label
+ * @property string $name
+ * @property string $description
+ * @property string $placeholder
+ * @property int $index
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-read mixed $field_type
+ * @method static \Database\Factories\v1\FieldFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|Field newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Field newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Field query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Field whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Field whereDescription($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Field whereFieldTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Field whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Field whereIndex($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Field whereLabel($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Field whereName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Field wherePlaceholder($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Field whereTabId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Field whereUpdatedAt($value)
+ * @mixin \Eloquent
+ */
+class Field extends AbstractModel
+{
+    use HasFactory;
+
+    protected $fillable = [
+        'fieldTypeId',
+        'tabId',
+        'label',
+        'name',
+        'description',
+        'placeholder',
+        'index',
+    ];
+
+    protected $hidden = [
+        'fieldTypeId',
+        'tabId',
+        'created_at',
+        'updated_at'
+    ];
+
+    protected $appends = [
+        'fieldType'
+    ];
+
+    public function getFieldTypeAttribute()
+    {
+        return FieldType::find($this->fieldTypeId, ['code', 'name']);
+    }
+}

@@ -1,34 +1,31 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Requests;
+
+use App\Contracts\FormRequestInterface;
+use App\Traits\FormRequestDeciderTrait;
+use App\Traits\UpdateModel;
+use Illuminate\Contracts\Validation\Validator;
+use Illuminate\Http\JsonResponse;
+use Pearl\RequestValidate\RequestAbstract;
+
+abstract class AbstractRequest extends RequestAbstract implements FormRequestInterface
+{
+    use FormRequestDeciderTrait, UpdateModel;
+
+    protected function validationData() : array
+    {
+        return $this->json() ? array_merge($this->json()->all(), $this->all()) : [];
+    }
+
+    protected function formatErrors(Validator $validator) : JsonResponse
+    {
+        return new JsonResponse([
+            'status' => [
+                'code' => 422,
+                'message' => $validator->getMessageBag()->first()
+            ],
+            'data' => $validator->getMessageBag()
+        ], 422);
+    }
+}

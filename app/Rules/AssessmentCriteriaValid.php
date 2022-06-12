@@ -1,30 +1,29 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Rules;
+
+use App\Models\v1\AssessmentCriteria;
+use Illuminate\Contracts\Validation\Rule;
+
+class AssessmentCriteriaValid implements Rule
+{
+    public function passes($attribute, $value)
+    {
+        $assessmentCriteria = AssessmentCriteria::find($value);
+
+        if (!$assessmentCriteria) {
+            return false;
+        }
+
+        $tenderId = $assessmentCriteria->tenderId;
+        $tenderItemId = $assessmentCriteria->tenderItemId;
+        $request = request();
+
+        return !($tenderId !== $request->request->get('tenderId') || $tenderItemId !== $request->request->get('tenderItemId'));
+    }
+
+    public function message()
+    {
+        return __('validation.rule_assessment_criteria_valid');
+    }
+}

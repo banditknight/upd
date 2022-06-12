@@ -1,49 +1,182 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-RrkvFOt5iG==
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use Spatie\Permission\Models\Role;
+use Spatie\Permission\Models\Permission;
+
+class RolesAndPermissionsSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        // Reset cached roles and permissions
+        app()[\Spatie\Permission\PermissionRegistrar::class]->forgetCachedPermissions();
+
+        $arrayOfPermissionNames = [
+            'approveCbe',
+            'approveTbe',
+            'accessBackOffice',
+            'editRole',
+            'editPermission',
+            'editRoleHasPermission',
+            'approveTenderLevelOne',
+            'approveTenderLevelTwo',
+            'approveTenderLevelThree',
+            'approveTenderLevelFour',
+            'approveTenderLevelFive',
+            'approveTenderLevelSix',
+        ];
+
+        $permissions = collect($arrayOfPermissionNames)->map(function ($permission) {
+            return ['name' => $permission, 'guard_name' => 'api'];
+        });
+
+        Permission::insert($permissions->toArray());
+
+        // create roles and assign created permissions
+        // $arrayOfRoles = [
+        //     'superAdmin',
+        //     'admin',
+        //     'buyer',
+        //     'superVisor',
+        //     'superIntendent',
+        //     'manager',
+        //     'generalManager',
+        //     'vicePresidentDirector',
+        //     'vendor'
+        // ];
+
+        // $roles = collect($arrayOfRoles)->map(function ($role) {
+        //     return ['name' => $role, 'guard_name' => 'api','code' => $role,'description' => $role];
+        // });
+
+        // Role::insert($roles->toArray());
+        
+        $arrayOfRoles = [
+            ['code'=>'SA','name'=>'superAdmin','description'=>'Super Admin','guard_name'=>'api'],
+            ['code'=>'ADM','name'=>'admin','description'=>'Admin','guard_name'=>'api'],
+            ['code'=>'BYR','name'=>'buyer','description'=>'Buyer','guard_name'=>'api'],
+            ['code'=>'USR','name'=>'user','description'=>'User','guard_name'=>'api'],
+            ['code'=>'SPV','name'=>'superVisor','description'=>'Supervisor','guard_name'=>'api'],
+            ['code'=>'SPI','name'=>'superIntendent','description'=>'Superintendent','guard_name'=>'api'],
+            ['code'=>'MGR','name'=>'manager','description'=>'Manager','guard_name'=>'api'],
+            ['code'=>'GM','name'=>'generalManager','description'=>'General Manager','guard_name'=>'api'],
+            ['code'=>'VPD','name'=>'vicePresidentDirector','description'=>'Vice President Director','guard_name'=>'api'],
+            ['code'=>'VND','name'=>'vendor','description'=>'Vendor','guard_name'=>'api'],
+        ];
+
+        Role::insert($arrayOfRoles);
+
+        $arrayOfRoleHasPermissions = [
+            [
+                'permission_id' => 1,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 2,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 3,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 4,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 5,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 6,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 7,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 8,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 9,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 10,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 11,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 12,
+                'role_id' => 1
+            ],
+            [
+                'permission_id' => 3,
+                'role_id' => 2
+            ],
+            [
+                'permission_id' => 3,
+                'role_id' => 3
+            ],
+            [
+                'permission_id' => 3,
+                'role_id' => 4
+            ],
+            [
+                'permission_id' => 3,
+                'role_id' => 5
+            ],
+            [
+                'permission_id' => 3,
+                'role_id' => 6
+            ],
+            [
+                'permission_id' => 3,
+                'role_id' => 7
+            ],
+            [
+                'permission_id' => 3,
+                'role_id' => 8
+            ],
+            [
+                'permission_id' => 7,
+                'role_id' => 3
+            ],
+            [
+                'permission_id' => 8,
+                'role_id' => 4
+            ],
+            [
+                'permission_id' => 9,
+                'role_id' => 5
+            ],
+            [
+                'permission_id' => 10,
+                'role_id' => 6
+            ],
+            [
+                'permission_id' => 11,
+                'role_id' => 7
+            ],
+            [
+                'permission_id' => 12,
+                'role_id' => 8
+            ],
+        ];
+
+        DB::table('spatieRoleHasPermissions')->insert($arrayOfRoleHasPermissions);
+    }
+}

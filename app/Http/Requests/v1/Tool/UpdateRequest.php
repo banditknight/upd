@@ -1,42 +1,88 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-2aq=
+<?php
+
+namespace App\Http\Requests\v1\Tool;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\AlphaSpaceDotNumber;
+use App\Rules\FileValid;
+use App\Rules\ToolOwnerTypeNotValid;
+use App\Rules\ToolTypeValid;
+
+class UpdateRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'total' => [
+                'required',
+                'numeric',
+                'max:20000000000'
+            ],
+            'description' => [
+                'required',
+                'min:5',
+                'max:256',
+                new AlphaSpaceDotComma()
+            ],
+            'capacity' => [
+                'required',
+                'numeric',
+                'max:20000000000'
+            ],
+            'brand' => [
+                'required',
+                'min:3',
+                'max:256',
+                new AlphaSpaceDotComma()
+            ],
+            'isNew' => [
+                'required',
+                'boolean',
+            ],
+            'location' => [
+                'required',
+                'min:10',
+                'max:256',
+                new AlphaSpaceDotNumber()
+            ],
+            'toolOwnerTypeId' => [
+                'required',
+                new ToolOwnerTypeNotValid()
+            ],
+            'attachment' => [
+                new FileValid()
+            ],
+            'toolTypeId' => [
+                'required',
+                new ToolTypeValid()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

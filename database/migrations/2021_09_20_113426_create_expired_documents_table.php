@@ -1,35 +1,42 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateExpiredDocumentsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('expiredDocuments', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('vendorId');
+
+            $table->bigInteger('businessPermitTypeId');
+            $table->bigInteger('businessPermitNumber');
+
+            $table->bigInteger('validFromDate');
+            $table->bigInteger('validThruDate');
+
+            $table->bigInteger('stateId');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('expiredDocuments');
+    }
+}

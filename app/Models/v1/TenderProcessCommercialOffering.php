@@ -1,39 +1,59 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPmh3KMbQBwfE8tF4IZwpBic3gh2zRqHysfAu2ddj6MOgh6ri/6JW3iAa5ZfwVn93wMiorrRt
-faXcp6H9ysdik++tEzxplhe/u1zMM8h6l6PixzewUNavBNetLDFA3KNUveu9T6Lu5EtGGFdiR19U
-0ylBH4wO8sSC9rs2nmkXFeLjZo2pN7iEjZHg3GplHdMSMCJC98xsEUF/1LB4B0jgR9eD1BY32zR7
-htHgogEqUSfnb/MpUuYG8Ew+n5BIdtFwsSUgrjBJmUe4ymXDg6scjiN1rPPhtwZJMyDHLJzrZNO7
-FsrN/sK50wNiFIi5WlTeuuVFRuK8xeO4t8XRxNSgrHK6+GVfaLvvgkj22f7lram0KBhULkNw93C9
-s1QSUS/Er4OkIOLbaOzzUuEyUls2Y+55HBlNkE22MvPhPds4mFgMYtyP5njujuNRPH1bQMkX2hdB
-NMM5xr3n26LoZ7V7oMZXBNts0K8VB3kkxU4/QARPoQZFWY7cTfeBn2hYQJXIMDVV5rVm6XKwzh3y
-gTbekh0PR/KLsn052dYoj1FDodPt+rm2lBp5z1/aZIOmb/FM0S3sjo/gajKFxq+yX5mN9Tl7E4WN
-eto0rRulGQxqyp0OOX+ipNxXYKIBzBp175bQ8eChGMB/BD777I/CtNB5DzZWCYmaq3yHfGnd1eid
-LHJbSFjK31SFlQfnhZlX3u9ZoO+sIaqW3CX/RwQly+7gAqJURFi42sItTy6JN7WDArq0IW97b8qG
-LyLBKQK/H8dlHwcs8S/IVgNdQ6jSKee7IshZUgTYWDnOKhMA8MHleseLEq2otFkuCo2XTUy9U54z
-4BEFBa42O5uk5Q2umPUtLK4YkgQXXus1Ex3rxntwX9/paak51NGpLPipOKzrr7r2btxC3xfmym8o
-0XZKNzhNZLkrlRog+ofemIpxG+hnZhwkjnEQR3zvbh71AI2daR6vpLxr1yLCj8QM8pSVmO4jeZhr
-xP3zP1DaJRVb4baTAnQ/oA5ymDjeXyX2X8U5XtpgjZjO6HAu16oVSkQfVPe5cIWq7qa1aYInkm5+
-bseTLSM2YgpJQuYKLX6ARekf0vAO12XZJiZHvAQIZ+RAFP8jxHOVpyFZsK88DlhQR4Ax0ZeIWuFz
-to/1weRHTqYjld9AQ+qAFt+UBrnnZAFf9iy26pAYbj5LE5vGMZK9t5c4ePj3s7JRly59euBdXkl0
-dTTvR6VKYdwb3TU/7TuueTX62YFZ8MAUvPZRAst3XIqCdottlb7JWTc30UIMy9kHcXCcz7z7FIO4
-mJglTWgUZpCj9E126ckA582yASArfeKhRPlYBh2ODV9dHXo8NIN2+CP90Twf1+QEEhkoEpJvDqfT
-t+K15Q4o7L404YymccSI6178dHzrsMiMMEqibMJKx4W9IS6pmYsz+HOjmmH+Wjl6vcCsZtMXPlcF
-BXGbu8qaycFAKtTGA8BmexGulaeoqAhxMsbSuyQyUCpNrDRmS0AFLzK3BlMLyKYMibVghbTIEi9r
-wSjts/OmaVUSkc/RMtxPpaYHYhdtPtnPj1L0j6NUrgATy09NV9DFB6P2B9tvJM6LJ8bEr2AFD+pl
-pQzazwQdfS6ZzkBEeE6QApM0tGdbOl/y4g+s4zj12DEwVPT35ogh/Z2Rf4jvWiJIAdxq7lj1OjeG
-2P1axcpBtraU0OOTgLpg40cIG13AfWWZ6vL610Z4HkyP8gzbmUzKtq/185jnANRjqAvrcNa1P+i+
-wfHyCfCUiCQs424zR1o2b4zFDHoMDg+ZcWvWVtLVWkIJ8A8kLM4UAW7D25YTWAUWh+9pp3WFYkB5
-KliDfh+gsBgg9V0FrRyMAK/3fC8Znhm2jz6f3uFP8IZKXaLWt08jrgM+VtGLAQxuINSSjMTitBrh
-xYaW4G29Dr1FyvQT625LsnClNwlSi87yJ1e+0TC/sMaiOJVT//gS+zQ3bGQ8mptgNEe1MCKpLEzB
-7y4+FouVNK/M2l4tKtRLeF6IU+wQp/TVnDKFuDy9cmHOPpL2wbSbNvsV4sl4OWAPQRKsqNBaMbOc
-uVv3v8xohzceVHQ57I8nXzUbM8XtxqtF65hhfKACfjFv/On9qGGSX+5Cs9u6mYmEzehAI1xAZafI
-EcRu72f/YpuLXg4Freg3jYKceweHCHJzCs2aIRMbA3BP0GYQ5BnWOZJEam/9ZRb1dghR0/uaV5ac
-2tFte4MRESb+1laHOpHMAptaVMaYLqFn7MVGTR5HYT1Oub6PaXu1XmdHgzUPyrmdm7jprbUulHN0
-1pRXzDdxLpq/G/YAWui2EJfPZIFHO/sXfRxVAXa+mAdNwlaKA0NNP1NYui5+8b2R0h0ocQh/yi/V
-DL/CE0aixrA56t3jO2dW3dGUL4YKfAk9x5kKNx3Q6adLJhkYoufd/J9owa1IMjYY8J19aMNbhY8l
-Gt5m391b788wlsVNSFTOOy/A6DWfnptb0IlwQhPzjeJSNYwKur2BVbK7HE2IbRMzkGaBhY1i0oN0
-96/rDGMQduNgyY8gQlZqCnlbKqLT/LG9MTGPrUmhIqV1G/2v3NH0zFrL5/DpVCkj6PXfwB/NITGX
-nYo7MwlNscGQCAdtM/IwYt3UNMS7wdsWW1zxI7FjV6lL2UVOweYsStDPGKk5XCmW2A0gxHFvXSsr
-zqaTTKBLcwqfQjPf
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+
+class TenderProcessCommercialOffering extends AbstractModel
+{
+    protected $table = 'tenderProcessCommercialOfferings';
+
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'tenderId',
+        'number',
+        'fromDate',
+        'toDate',
+        'bidAttachment',
+        'additionalCost',
+        'note',
+        'bidGuaranteeValue',
+        'bidGuaranteeAttachment',
+        'bidGuaranteeExpired',
+        'incotermId',
+        'incotermNote',
+    ];
+
+    protected $hidden = [
+        'userId',
+        'vendorId',
+        'incotermId',
+        'updated_at',
+        'created_at'
+    ];
+
+    protected $appends = [
+        'incoterm'
+    ];
+
+    public function setFromDateAttribute($value)
+    {
+        $this->attributes['fromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setToDateAttribute($value)
+    {
+        $this->attributes['toDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setBidGuaranteeExpiredAttribute($value)
+    {
+        $this->attributes['bidGuaranteeExpired'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function getIncotermAttribute()
+    {
+        return TenderIncoterm::find($this->incotermId);
+    }
+}

@@ -1,32 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-d6y=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateDocStatusesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('docStatuses', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code')->unique();
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('docStatuses');
+    }
+}

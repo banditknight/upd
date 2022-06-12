@@ -1,54 +1,48 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-tgarIoDBZ0Qkp2VTL0==
+<?php
+
+namespace App\Http\Controllers\BackOffice\v1;
+
+use Illuminate\Http\Request;
+use App\Http\Requests\ResourceRequest;
+use App\Exceptions\Custom\Repository\RepositoryException;
+use Prettus\Validator\Exceptions\ValidatorException;
+use App\Repositories\ResourceRepository;
+use Illuminate\Http\JsonResponse;
+use Symfony\Component\HttpFoundation\Response;
+use App\Models\v1\SpatieRole;
+use App\Models\v1\User;
+
+class UserController extends ResourceController
+{
+    public $repo;
+
+    public function store(ResourceRequest $resourceRequest): JsonResponse
+    {
+        $store = [];
+        try {
+            $resourceRequest->merge(['code'=>'U'.sprintf('%05d',User::count()+1)]);
+            $store = $this->repo->create($resourceRequest->all());
+            $role = SpatieRole::find($resourceRequest->input('roleId'));
+            $store->syncRoles($role->name);
+        } catch (RepositoryException | ValidatorException $e) {
+
+        }
+
+        return $this->responseSuccess($store, Response::HTTP_OK, __('status.status_created'));
+    }
+
+    public function update(ResourceRequest $resourceRequest, int $id): JsonResponse
+    {
+        $update = [];
+        try {
+            // disable changing vendor.
+            $update = $this->repo->update($resourceRequest->except('vendorId'), $id);
+            $role = SpatieRole::find($resourceRequest->input('roleId'));
+            $update->syncRoles($role->name);
+        } catch (RepositoryException | ValidatorException $e) {
+
+        }
+
+        return $this->responseSuccess($update, Response::HTTP_OK, __('status.status_updated'));
+    }    
+}

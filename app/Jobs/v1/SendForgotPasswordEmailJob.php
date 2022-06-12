@@ -1,30 +1,40 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Jobs\v1;
+
+use App\Models\MailableInterface;
+use App\Models\v1\ResetPasswordToken;
+use App\Models\v1\User;
+use Illuminate\Support\Facades\Mail;
+
+class SendForgotPasswordEmailJob extends AbstractJob
+{
+    /** @var User */
+    public $mailAbleInterface;
+
+    /** @var ResetPasswordToken */
+    public $resetPasswordToken;
+
+    /**
+     * Create a new job instance.
+     *
+     * @return void
+     */
+    public function __construct(MailableInterface $mailable, ResetPasswordToken $resetPasswordToken)
+    {
+        $this->mailAbleInterface = $mailable;
+        $this->resetPasswordToken = $resetPasswordToken;
+    }
+
+    /**
+     * Execute the job.
+     *
+     * @return void
+     */
+    public function handle()
+    {
+        Mail::to($this->mailAbleInterface->toEmailAddress())
+            ->send(new \App\Mail\v1\SendForgotPasswordEmail($this->mailAbleInterface, $this->resetPasswordToken))
+        ;
+    }
+}

@@ -1,42 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+/** @var \Laravel\Lumen\Routing\Router $router */
+
+/*
+|--------------------------------------------------------------------------
+| Application Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register all of the routes for an application.
+| It is a breeze. Simply tell Lumen the URIs it should respond to
+| and give it the Closure to call when that URI is requested.
+|
+*/
+
+use Illuminate\Support\Facades\Mail;
+use App\Mail\v1\VerificationCode;
+
+$router->get('/', function () use ($router) {
+    return 'It\'s working !';
+});
+
+$router->get('/test', 'TestController@index');
+
+$router->get('/file/pdf', 'FileController@pdf');
+$router->get('/file/xlsx', 'FileController@xlsx');
+$router->get('/file/assets', 'FileController@files');
+
+$router->get('migrate', function(){
+    Illuminate\Support\Facades\Artisan::call('migrate:fresh --seed');
+    return 'ok';
+});
+
+$router->get('mailcheck', function(){
+    Mail::to('andre@sentralnusa.com')->send(new VerificationCode('666',"Email Verification Code"));
+    return 'ok';
+});
+
+$router->get('mailpreview',function(){
+    return (new VerificationCode('123456','Email Verification Code'))->render();
+});

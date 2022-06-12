@@ -1,106 +1,147 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-dOFWhmAzRTJVxSX8uNyr3lH9n1UYNjwtZ0==
+<?php
+namespace App\Criteria;
+
+use App\Contracts\CriteriaInterface;
+use App\Contracts\RepositoryInterface;
+use App\Traits\QueryOperatorManipulator;
+use App\Traits\User;
+use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Support\Str;
+
+/**
+ * Class RequestCriteria
+ * @package App\Criteria
+ * @author Anderson Andrade <contato@andersonandra.de>
+ */
+class RequestCriteria implements CriteriaInterface
+{
+    use User, QueryOperatorManipulator;
+
+    public CONST SORT_BY = [
+        'ASC',
+        'DESC'
+    ];
+
+    protected $request;
+
+    public function __construct()
+    {
+        $this->request = request();
+    }
+
+    public function apply($model, RepositoryInterface $repository)
+    {
+        $route = $this->request->route();
+
+        if (!isset($route[1])) {
+            return $model;
+        }
+
+        if (!isset($route[1]['model'])) {
+            return $model;
+        }
+
+        $requestedModel = $route[1]['model'];
+
+        if (!class_exists($requestedModel)) {
+            return $model;
+        }
+
+        if ($model instanceof Model && !method_exists($model, 'getTable')) {
+            return $model;
+        }
+
+        $tableName = $model instanceof Builder ? $model->getModel()->getTable() : $model->getTable();
+        $allRequest = $this->request->all();
+
+        if (!$allRequest) {
+            return $model;
+        }
+
+        $hasQueryAndFieldParams = isset($allRequest['fields'], $allRequest['q']);
+        $fields = $hasQueryAndFieldParams ? $allRequest['fields'] : '';
+        $explodedFields = explode(',', $fields);
+        $allRequest = $hasQueryAndFieldParams ? array_merge($allRequest, array_flip($explodedFields)) : $allRequest;
+
+        $joins = $model instanceof Builder ? $model->getQuery()->joins : null;
+        $joinedTable = $joins ? array_merge([$tableName], array_column($joins, 'table')) : null;
+
+        $sortKey = null;
+        $sortBy = null;
+        $isShouldSort = false;
+        if (isset($allRequest['sortKey'])) {
+            $sortKey = $allRequest['sortKey'] ?? null;
+
+            $isShouldSort = Schema::hasColumn($tableName, $sortKey) || Schema::hasColumn($tableName, Str::snake($sortKey));
+
+            $sortBy = strtoupper($allRequest['sortBy'] ?? '');
+            $sortBy = in_array($sortBy, self::SORT_BY) ? $sortBy : 'ASC';
+
+            unset($allRequest['sortKey'], $allRequest['sortBy']);
+        }
+
+        if ($isShouldSort) {
+            $model = $model->orderBy($sortKey, $sortBy);
+        }
+
+        if (isset($allRequest['docStatus'])) {
+            $model = $model->where('docStatusId',$allRequest['docStatus']);
+        }
+
+        foreach ($allRequest as $key => $value) {
+            $inFields = in_array($key, $explodedFields, false);
+            $value = $inFields ? $allRequest['q'] : $value;
+
+            if ($key === 'fields' || $key === 'q') {
+                continue;
+            }
+
+            if (
+                ($key === 'userId' || $key === 'vendorId') &&
+                $this->getUser() &&
+                $this->getUser()->hasRole('superAdmin')
+            ) {
+                continue;
+            }
+
+            if (
+                $key === 'userId' &&
+                $this->getUser() &&
+                $this->getUser()->isPrimary &&
+                $this->getUser()->hasRole('vendor')
+            ) {
+                continue;
+            }
+
+            $explodedKey = $joins ? explode('_', $key) : [];
+            if ($joins && count($explodedKey) === 2) {
+                $model = in_array($explodedKey[0], $joinedTable, false) ?
+                    $model->where(sprintf('%s.%s', $explodedKey[0], $explodedKey[1]), '=', $value) : $model;
+
+                continue;
+            }
+
+            $queryOperatorDecider = $this->queryOperatorDecider($key, $value);
+            if (Schema::hasColumn($tableName, $queryOperatorDecider['key'])) {
+                $model = $model->{$queryOperatorDecider['where']}(
+                    $queryOperatorDecider['key'],
+                    $queryOperatorDecider['operator'],
+                    $queryOperatorDecider['value']
+                );
+                continue;
+            }
+
+            if (Schema::hasColumn($tableName, Str::snake($queryOperatorDecider['key']))) {
+                $model = $model->{$queryOperatorDecider['where']}(
+                    Str::snake($queryOperatorDecider['key']),
+                    $queryOperatorDecider['operator'],
+                    $queryOperatorDecider['value']
+                );
+            }
+        }
+
+        return $model;
+    }
+}

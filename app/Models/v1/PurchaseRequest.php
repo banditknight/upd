@@ -1,73 +1,139 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\PurchaseRequest
+ *
+ * @property int $id
+ * @property string $name
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Database\Factories\v1\PurchaseRequestFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest query()
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereUpdatedAt($value)
+ * @mixin \Eloquent
+ * @property int|null $tenderId
+ * @property string $no
+ * @property int $departmentId
+ * @property int $itemTypeId
+ * @property int $currencyId
+ * @property string $woNo
+ * @property string $woTitle
+ * @property string $document
+ * @property-read mixed $currency
+ * @property-read mixed $department
+ * @property-read mixed $grand_total
+ * @property-read mixed $item
+ * @property-read mixed $item_type
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereCurrencyId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereDepartmentId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereDocument($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereItemTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereNo($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereTenderId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereWoNo($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereWoTitle($value)
+ */
+class PurchaseRequest extends AbstractModel
+{
+    use HasFactory;
+
+    protected $table = 'purchaseRequests';
+
+    protected $fillable = [
+        'no',
+        'name',
+        'departmentId',
+        'itemTypeId',
+        'currencyId',
+        'woNo',
+        'woTitle',
+        'document',
+        'confirmedDate',
+        'totalAmount',
+        'totalQty',
+        'docStatusId',
+        'prType',
+    ];
+
+    protected $hidden = [
+        'tenderId',
+        'departmentId',
+        'itemTypeId',
+        'currencyId',
+        'updated_at',
+        'created_at',
+    ];
+
+    protected $appends = [
+        'department',
+        'itemType',
+        'currency',
+        'createdAt',
+        'item',
+        'grandTotal',
+        'confirmDate'
+    ];
+
+    public function getDepartmentAttribute()
+    {
+        return Department::find($this->departmentId);
+    }
+
+    public function getItemTypeAttribute()
+    {
+        return null;
+    }
+
+    public function getCreatedAtAttribute()
+    {
+        if (!isset($this->attributes['created_at'])) {
+            return null;
+        }
+
+        return $this->attributes['created_at'] ?
+            Carbon::createFromFormat(
+                env('TIMESTAMP_FORMAT') === 'SQL_SERVER' ?
+                    self::DEFAULT_TIMESTAMP_FORMAT_SQL_SERVER : self::DEFAULT_TIMESTAMP_FORMAT_MYSQL,
+                $this->attributes['created_at']
+            )->timestamp : 0;
+    }
+
+    public function getConfirmDateAttribute()
+    {
+        return [
+            'timestamp' => Carbon::parse($this->confirmedDate)->unix(),
+            'diffForHumans' => Carbon::parse($this->confirmedDate)->diffForHumans(),
+        ];
+    }
+
+    public function getCurrencyAttribute()
+    {
+        if (!$this->currencyId) {
+            return null;
+        }
+        return Currency::find($this->currencyId)->only(['id', 'code', 'name']);
+    }
+
+    public function getItemAttribute()
+    {
+        return PurchaseRequestItem::where('purchaseRequestId', $this->id)->get();
+    }
+
+    public function getGrandTotalAttribute()
+    {
+        $sumamnt = PurchaseRequestItem::where('purchaseRequestId', $this->id)->sum('estimationUnitCost');
+        $sumqty = PurchaseRequestItem::where('purchaseRequestId', $this->id)->sum('qty');
+
+        return $sumamnt * $sumqty;
+    }
+}

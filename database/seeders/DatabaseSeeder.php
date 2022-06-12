@@ -1,37 +1,131 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-OVOtYblGEEZcW7PshQaBDw6l
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+
+class DatabaseSeeder extends Seeder
+{
+    /**
+    * Run the database seeds.
+    *
+    * @return void
+    */
+    public function run()
+    {
+        $this->call([
+            // ==== Reference Data ====
+            AppKeySeeder::class,
+            AppChannelSeeder::class,
+            DocStatusSeeder::class,
+
+            // ==== Master Data ====
+            ProvincesSeeder::class,
+            CitiesSeeder::class,
+            DistrictsSeeder::class,
+            VillagesSeeder::class,
+            CountrySeeder::class,
+            StateSeeder::class,
+
+            ScopeOfSupplySeeder::class,
+            ScopeOfWorkSeeder::class,
+            EmployeeStatusSeeder::class,
+
+            RolesAndPermissionsSeeder::class,
+            DomainSeeder::class,
+            CompanyTypeSeeder::class,
+            ReferenceSeeder::class,
+            VendorTypeInformationSeeder::class,
+            TenderTypeSeeder::class,
+            PurchasingOrganizationSeeder::class,
+            SectorSeeder::class,
+            BidSubmissionMethodSeeder::class,
+            UserManualSeeder::class,
+            TermAndConditionSeeder::class,
+            BusinessTypeSeeder::class,
+            SubBusinessTypeSeeder::class,
+            BankSeeder::class,
+            CurrencySeeder::class,
+            TaxDocumentTypeSeeder::class,
+            DeedTypeSeeder::class,
+            ToolTypeSeeder::class,
+            EducationSeeder::class,
+            FieldOfStudySeeder::class,
+            WorkPeriodSeeder::class,
+            CertificationTypeSeeder::class,
+            NationalitySeeder::class,
+            ToolOwnerTypeSeeder::class,
+            FinancialReportSeeder::class,
+            BusinessPermitTypeSeeder::class,
+
+            MenuActionSeeder::class,
+            TabGroupSeeder::class,
+            TabSeeder::class,
+            FieldTypeSeeder::class,
+            FieldSeeder::class,
+            WindowSeeder::class,
+            MenuSeeder::class,
+            RoleMenuSeeder::class,
+
+            BoardTypeSeeder::class,
+            SanctionTypeSeeder::class,
+            PurchasingGroupSeeder::class,
+            UnitOfMeasureSeeder::class,
+            ProductGroupCodeSeeder::class,
+            ProductCodeSeeder::class,
+            DepartmentSeeder::class,
+            VendorGroupClassificationSeeder::class,
+            VendorGroupCategorySeeder::class,
+            VendorGroupSeeder::class,
+            TenderIncotermSeeder::class,
+            JobTitleSeeder::class,
+
+
+            // ===== Transactional Data =====
+            // DeedSeeder::class,
+            // ShareHolderSeeder::class,
+            // BoardSeeder::class,
+            // BusinessPermitSeeder::class,
+            // ToolSeeder::class,
+            // SanctionSeeder::class,
+            // ExpiredDocumentSeeder::class,
+            
+
+            // EmployeeSeeder::class,
+            // CompetencySeeder::class,
+            // CertificationSeeder::class,
+            // BankAccountSeeder::class,
+            // FinancialStatementSeeder::class,
+            // TaxDocumentSeeder::class,
+
+
+            // PurchaseRequestSeeder::class,
+            // PurchaseRequestItemSeeder::class,
+
+            // WorkflowNodeSeeder::class,
+            // WorkflowTransitionSeeder::class,
+            // WorkflowTransitionConditionSeeder::class,
+            // WorkflowSeeder::class,
+
+            VendorSeeder::class,
+            UsersTableSeeder::class,
+
+            // TenderParticipantSeeder::class,
+            // TenderTechnicalBidEvaluationSeeder::class,
+            // TenderItemComplySeeder::class,
+            // TenderDetailSeeder::class,
+            // TenderDocumentSeeder::class,
+            // TenderItemSeeder::class,
+            // TenderRequirementDocumentSeeder::class,
+            // TenderScheduleSeeder::class,
+            // TenderAanwijzingsSeeder::class,
+            // ExperienceSeeder::class,
+            // AnnouncementVendorSeeder::class,
+            // AnnouncementGeneralSeeder::class,
+            // AssessmentCriteriaSeeder::class,
+            // AssessmentCriteriaItemSeeder::class,
+            // TenderJoinStatusSeeder::class,
+
+            ]);
+        }
+    }

@@ -1,80 +1,181 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+require_once __DIR__.'/../vendor/autoload.php';
+
+(new Laravel\Lumen\Bootstrap\LoadEnvironmentVariables(
+    dirname(__DIR__)
+))->bootstrap();
+
+date_default_timezone_set(env('APP_TIMEZONE', 'UTC'));
+
+/*
+|--------------------------------------------------------------------------
+| Create The Application
+|--------------------------------------------------------------------------
+|
+| Here we will load the environment and create the application instance
+| that serves as the central piece of this framework. We'll use this
+| application as an "IoC" container and router for this framework.
+|
+*/
+
+$app = new Yuliusardian\LumenResourceRouting\Application(
+    dirname(__DIR__)
+);
+
+$app->withFacades();
+
+$app->withEloquent();
+
+/*
+|--------------------------------------------------------------------------
+| Register Container Bindings
+|--------------------------------------------------------------------------
+|
+| Now we will register a few bindings in the service container. We will
+| register the exception handler and the console kernel. You may add
+| your own bindings here if you like or you can make another file.
+|
+*/
+
+$app->singleton(
+    Illuminate\Contracts\Debug\ExceptionHandler::class,
+    App\Exceptions\Handler::class
+);
+
+$app->singleton(
+    Illuminate\Contracts\Console\Kernel::class,
+    App\Console\Kernel::class
+);
+
+/*
+|--------------------------------------------------------------------------
+| Register Config Files
+|--------------------------------------------------------------------------
+|
+| Now we will register the "app" configuration file. If the file exists in
+| your configuration directory it will be loaded; otherwise, we'll load
+| the default version. You may register other files below as needed.
+|
+*/
+
+$app->configure('app');
+$app->configure('queue');
+$app->configure('volt');
+$app->configure('mail');
+$app->configure('permission');
+$app->configure('repository');
+$app->configure('workflow');
+
+/*
+|--------------------------------------------------------------------------
+| Register Middleware
+|--------------------------------------------------------------------------
+|
+| Next, we will register the middleware with the application. These can
+| be global middleware that run before and after each request into a
+| route or middleware that'll be assigned to some specific routes.
+|
+*/
+
+// $app->middleware([
+//     App\Http\Middleware\ExampleMiddleware::class
+// ]);
+
+// $app->routeMiddleware([
+//     'auth' => App\Http\Middleware\Authenticate::class,
+// ]);
+
+$app->routeMiddleware([
+    'auth' => App\Http\Middleware\Authenticate::class,
+    'role' => Spatie\Permission\Middlewares\RoleMiddleware::class,
+    'permission' => Spatie\Permission\Middlewares\PermissionMiddleware::class,
+    'roleOrPermission' => Spatie\Permission\Middlewares\RoleOrPermissionMiddleware::class,
+    'cors' => App\Http\Middleware\v1\CorsMiddleware::class,
+    'app.v1.lang' => App\Http\Middleware\v1\LangMiddleware::class,
+    'app.v1.auth' => App\Http\Middleware\v1\AuthMiddleware::class,
+    'log' => App\Http\Middleware\v1\LogMiddleware::class,
+    'join.tender' => App\Http\Middleware\v1\JoinTenderMiddleware::class,
+    'request.filter' => App\Http\Middleware\v1\RequestFilterMiddleware::class,
+    'delete.account' => App\Http\Middleware\v1\DeleteAccountMiddleware::class,
+    'update.account' => App\Http\Middleware\v1\UpdateAccountMiddleware::class,
+    'create.account' => App\Http\Middleware\v1\CreateAccountMiddleware::class,
+    'role.assigner' => App\Http\Middleware\v1\RoleAssignerMiddleware::class,
+    'tender.item.comply' => App\Http\Middleware\v1\TenderItemComplyMiddleware::class,
+    'tender.item.component.comply' => App\Http\Middleware\v1\TenderItemComponentComplyMiddleware::class,
+    'notification' => App\Http\Middleware\v1\NotificationMiddleware::class,
+    'activation' => App\Http\Middleware\v1\ActivationMiddleware::class,
+]);
+
+/*
+|--------------------------------------------------------------------------
+| Register Service Providers
+|--------------------------------------------------------------------------
+|
+| Here we will register all of the application's service providers which
+| are used to bind services into the container. Service providers are
+| totally optional, so you are not required to uncomment this line.
+|
+*/
+
+$app->register(App\Providers\AppServiceProvider::class);
+//$app->register(App\Providers\AuthServiceProvider::class);
+$app->register(App\Providers\EventServiceProvider::class);
+$app->register(App\Providers\ApplicationServiceProvider::class);
+
+$app->register(Flipbox\LumenGenerator\LumenGeneratorServiceProvider::class);
+$app->register(Tymon\JWTAuth\Providers\LumenServiceProvider::class);
+$app->register(Pearl\RequestValidate\RequestServiceProvider::class);
+$app->register(Laravolt\Indonesia\ServiceProvider::class);
+$app->register(Illuminate\Mail\MailServiceProvider::class);
+$app->register(Yajra\DataTables\DataTablesServiceProvider::class);
+$app->register(Spatie\Permission\PermissionServiceProvider::class);
+$app->register(ZeroDaHero\LaravelWorkflow\WorkflowServiceProvider::class);
+
+if ($app->environment() !== 'production') {
+    $app->register(\Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class);
+}
+
+$app->alias('Indonesia', Laravolt\Indonesia\Facade::class);
+$app->alias('mailer', Illuminate\Mail\Mailer::class);
+$app->alias('mailer', Illuminate\Contracts\Mail\Mailer::class);
+$app->alias('mailer', Illuminate\Contracts\Mail\MailQueue::class);
+$app->alias('cache', Illuminate\Cache\CacheManager::class);
+$app->alias('Workflow', ZeroDaHero\LaravelWorkflow\Facades\WorkflowFacade::class);
+
+/*
+|--------------------------------------------------------------------------
+| Load The Application Routes
+|--------------------------------------------------------------------------
+|
+| Next we will include the routes file so that they can all be added to
+| the application. This will provide all of the URLs the application
+| can respond to, as well as the controllers that may handle them.
+|
+*/
+
+$app->router->group([
+    'namespace' => 'App\Http\Controllers',
+], function ($router) {
+    require __DIR__.'/../routes/web.php';
+});
+
+$app->router->group([
+    'prefix' => 'v1',
+    'namespace' => 'App\Http\Controllers\App\v1',
+    'middleware' => ['cors', 'app.v1.lang', 'app.v1.auth', 'request.filter', 'role.assigner', 'log'],
+    'as' => 'app'
+], function ($router) {
+    require __DIR__ . '/../routes/App/v1/api.php';
+});
+
+$app->router->group([
+    'prefix' => 'v1/bo',
+    'namespace' => 'App\Http\Controllers\BackOffice\v1',
+    'middleware' => ['cors', 'app.v1.lang', 'app.v1.auth', 'request.filter', 'log', 'auth', 'permission:accessBackOffice'],
+    'as' => 'bo'
+], function ($router) {
+    require __DIR__ . '/../routes/BackOffice/v1/api.php';
+});
+
+return $app;

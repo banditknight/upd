@@ -1,34 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-/t6hYB/mrcVtJlW/b6A3nRUeyZr8
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateVendorGroupsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('vendorGroups', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('vendorGroupCategoryId');
+
+            $table->string('code')->unique();
+            $table->text('description')->nullable();
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('vendorGroups');
+    }
+}

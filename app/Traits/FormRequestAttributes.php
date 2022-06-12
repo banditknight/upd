@@ -1,37 +1,82 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-iMjBeWSvKPK=
+<?php
+
+namespace App\Traits;
+
+trait FormRequestAttributes
+{
+    /** @var bool $auth */
+    protected $auth = true;
+
+    /** @var array $rules */
+    protected $rules = [];
+
+    /** @var array $allowedMethod */
+    protected $allowedMethod = ['store', 'update'];
+
+    /** @var array $messages */
+    protected $messages = [];
+
+    /**
+     * @return bool
+     */
+    public function isAuth(): bool
+    {
+        return $this->auth;
+    }
+
+    /**
+     * @param bool $auth
+     */
+    public function setAuth(bool $auth): void
+    {
+        $this->auth = $auth;
+    }
+
+    /**
+     * @return array
+     */
+    public function getRules(): array
+    {
+        return $this->rules;
+    }
+
+    /**
+     * @param array $rules
+     */
+    public function setRules(array $rules): void
+    {
+        $this->rules = $rules;
+    }
+
+    /**
+     * @return array
+     */
+    public function getMessages(): array
+    {
+        return $this->messages;
+    }
+
+    /**
+     * @param array $messages
+     */
+    public function setMessages(array $messages): void
+    {
+        $this->messages = $messages;
+    }
+
+    /**
+     * @return array
+     */
+    public function getAllowedMethod(): array
+    {
+        return $this->allowedMethod;
+    }
+
+    /**
+     * @param array $allowedMethod
+     */
+    public function setAllowedMethod(array $allowedMethod): void
+    {
+        $this->allowedMethod = $allowedMethod;
+    }
+}

@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPsQRuQxwPjg1WonqZVOtSRTvuyQL9fV4njC1QgQssVS9Jn98zN3fI+UxSIfSyBpFcido7+mf
-ExB8aU67LwnUCN4Hk4ZAvg1/lXHnz3gQ4kZ8qP1myxcR7vloWsxtpkJ5Sa1gY3b689JLgpbfD6BZ
-9mozYOfQjf6x31Bi1h52YGUyeaS1FlglNtOY2ID2dQRM2XwE+iH89OYy1TmzCooIDCc8GZYWjxS9
-uOnCmGd+fexyGikHCUl3JpKiSnxkQ4Qw11CLGjRIqy7g1FC8JQXjfhR5mTLSRSFb90hp5nmL7l76
-UNAE55YMEH/KSxxwJyRhD8Nt80camqS9poaW8AER2fU2aSRSdVODCBnj+aZ5tcbURpTcfWbuZhA3
-aiuInUaRXUE4ZMIlJ6dck9ucJHsvvl9irhhyqjODWbhp6l4Wb7TMffr0a5dxtqqj3+POt3uNyojN
-cwyXR6olPnu4u5tBXvSIiW/SnwC9XWnluBTGkTTfR2sr+Drp35prCcfmBe5k8uvWXy/LhcgX0nk/
-zWIm9mfT5FA+BdCjzk9UtJJvc2IUVu8hzZtsJ+jQobQqLoHn6TdpUm4zuk1IbhXebP7fs01/MNE0
-OiADIY/xkMbsj8RbmXDaWqw4+gTaZJEgfq6kHscuHW7cDZzwAqBfl0gfqUakoDQfgW9Is8eWota7
-yekSeZCuuial5RE3MhzoepNz1zf0L/kQAtm9EYGKuqouumocd7afoJchp/Dck8KfFJWwAYtGIk4k
-1afjssGMC2pCW21lMOAl9tVRdcR5RuvOecpH7zeXsf0S9fxY2eWbteU3Pb079OUYyNzFEWS/ewcC
-l8esWXSBXKEs17C3w3ggFWpKknj1/unlKPKSz5sCxjKVqzP1hXUJe8R0kdZDsGYP+0guqrKxAZF8
-Zzqg6rfMJ/ZmJ1+amCmZmufD8Mns1t9UK8iFSz4uO7qgacR5vgIMLJb59gCIJOrLmv4wOwivzQSq
-3x/d/j1INfL8VgGc0Y8MwGI+1cdO+w0nWv+KLFELBSD1isUI2uA7EUY36jOo2fSDVKC5eZapmqRt
-HiiTijNDqUXayTNkwWkeEbbpFur+xGqFpKl6tRiz3FEN8y+vkk6nt7PTRKbeE1RSDxf7XexJJdIA
-bjosiRr35j7zU1XGcfTYm39NAbPyXpaNJKmRAQ408ouUwdgJnhEtcyxIEUDD9uZwpfPT8dhh4Esw
-rkXFybw2zWGDtVB7mzxJ/zVu+bppI+PIsLXcAyWBlCgU4IcIxkwOZ3CfmYQV0FnqidkViWDTX0XD
-LK3lJpzjq3XjeymerFn4iYSwOTP9LpQN8SC7IgN5sbPLhB9TLmOuNIquro59RV+4KFIbzEFTyFMg
-l3RYcPSFQ/oYeDtRxSfqE1n8nZBNsP4DtOZRpPJBSBAlmmqB5A8zi1LgvGbRLRQHzk8i/dfcZAvi
-nJBSyIYdan0Xl/yCEyJlZJ9mT4jLhrgyqbr94/QQgwA0a/zs7++VryQzw9/XGMZTHZRQ6jpN2NZd
-PqfV74YfMB13tvamz6ZfbT6wyujk1Jqbip9hkefWD0f/pTD005ySK+QT+QVgT4ruzYwWjbEaa4Cf
-zJcHfju3EuIwI0C9380Gtc5VySKrlHYedxCSeZg9EfC/pe7eMEzW7ILUYC6uCUS/h5UvlU1BUQbq
-Ca504/35ilUo/L446vY9pXi+WtXqcY8QolRDj1q2E7t16XMeGXMes60oBYM38Ez7KYstCOSTUBKV
-1FuOzw2RjNKXQ7FvLXOd24BlyouRHHwIXE7ydZGjfkUsnhxzXHnJ9RXGMTothiQU8DfHoA1vVU1z
-aYmgQ6xLxz0MueXFTykrKWwTar+v1dP3FVFdmU1YE/CFhxRLdeHXBY2zug3WaBR4Uz2ZOyZlYal4
-bWblr6sq0Pb5qS7LbDYm+BNHmUz0UEjMBepmECc1jqfCwP7ortr9wVQZEJcuDe67PTpYsOk2e0LD
-LV+3tWGum6+TgyE3oEq89OTXDpNNrgPVP9+ZWSn0jwPVQnwls7PGJlZjk3IHaoWPHQRUVIuMLe4F
-yTzoM7OG6u5KVaguy+Jp5m+x7hL8dE/f
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateVendorTypeInformationTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('vendorTypeInformation', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code');
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('vendorTypeInformation');
+    }
+}

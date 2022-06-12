@@ -1,56 +1,89 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Traits;
+
+use App\Contracts\FormRequestInterface;
+use Illuminate\Support\Str;
+
+trait FormRequestDeciderTrait
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return $this->resolveFormRequest()['rules'];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return $this->resolveFormRequest()['messages'];
+    }
+
+    public function resolveFormRequest()
+    {
+        $route = request()->route();
+
+        $data['messages'] = [];
+        $data['rules'] = [];
+
+        if (!isset($route[1]['model'])) {
+            return $data;
+        }
+
+        $model = $route[1]['model'];
+
+        $instanceModel = new $model;
+
+        $data['messages'] = method_exists($instanceModel, 'getMessages') ? $instanceModel->getMessages() : [];
+        $data['rules'] = method_exists($instanceModel, 'getRules') ? $instanceModel->getRules() : [];
+
+        $formRequestNameSpace = Str::replaceFirst('Models', 'Http\Requests', $model);
+
+        $method = $route[1]['method'];
+
+        if (
+            method_exists($instanceModel, 'getAllowedMethod') &&
+            !in_array($method, $instanceModel->getAllowedMethod(), false)
+        ) {
+            $data['messages'] = [];
+            $data['rules'] = [];
+
+            return $data;
+        }
+
+        $method = ucfirst($method);
+        $suffix = 'Request';
+
+        $formRequestClass = sprintf('%s\%s%s', $formRequestNameSpace, $method, $suffix);
+
+        if (!class_exists($formRequestClass)) {
+            return $data;
+        }
+
+        /** @var FormRequestInterface $instanceFormRequestClass */
+        $instanceFormRequestClass = new $formRequestClass();
+
+        $data['messages'] = $instanceFormRequestClass->messages();
+        $data['rules'] = $instanceFormRequestClass->rules();
+
+        return $data;
+    }
+}

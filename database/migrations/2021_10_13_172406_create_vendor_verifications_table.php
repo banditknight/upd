@@ -1,33 +1,36 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Y6Mg1CRCgW==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateVendorVerificationsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('vendorVerifications', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId');
+            $table->bigInteger('vendorId')->unique();
+            $table->text('comment');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('vendorVerifications');
+    }
+}

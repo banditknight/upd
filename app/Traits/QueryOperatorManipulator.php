@@ -1,32 +1,31 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-XuPqZ2jqpReZeV2F
+<?php
+
+namespace App\Traits;
+
+trait QueryOperatorManipulator
+{
+    public function queryOperatorDecider($key, $value) : array
+    {
+        $where = 'where';
+
+        $hasPrefixForLike = str_contains(substr($key,0, 2), 'i_');
+        $operator = $hasPrefixForLike ? 'LIKE' : '=';
+
+        $key = $hasPrefixForLike ? str_replace('i_', '', $key) : $key;
+        $value = $hasPrefixForLike ? '%'. $value .'%' : $value;
+
+        if (!$hasPrefixForLike) {
+            $hasPrefixForOrWhere = str_contains(substr($key,0, 3), 'ow_');
+            $where = $hasPrefixForOrWhere ? 'orWhere' : $where;
+
+            $key = $hasPrefixForOrWhere ? str_replace('ow_', '', $key) : $key;
+        }
+
+        return [
+            'key' => $key,
+            'value' => $value,
+            'operator' => $operator,
+            'where' => $where,
+        ];
+    }
+}

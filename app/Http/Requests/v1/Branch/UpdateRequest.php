@@ -1,45 +1,87 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Requests\v1\Branch;
+
+use App\Http\Requests\AbstractRequest;
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\AlphaSpaceDotNumber;
+use App\Rules\CountryValid;
+
+class UpdateRequest extends AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'name' => [
+                'required',
+                new AlphaSpaceDotComma()
+            ],
+            'address' => [
+                'required',
+                new AlphaSpaceDotNumber()
+            ],
+            'countryId' => [
+                'required',
+                'integer',
+                new CountryValid()
+            ],
+            'postalCode' => [
+                'required',
+                'numeric'
+            ],
+            'faxMailNumber' => [
+                'required',
+                'numeric',
+                sprintf('unique:vendors,faxMailNumber,%s', $this->modelId()),
+            ],
+            'faxMailNumberExt' => [
+                'nullable',
+                'numeric',
+            ],
+            'email' => [
+                'required',
+                'email',
+                sprintf('unique:vendors,email,%s', $this->modelId())
+            ],
+            'website' => [
+                'url'
+            ],
+            'phone' => [
+                'required',
+                'numeric',
+                sprintf('unique:vendors,phone,%s', $this->modelId())
+            ],
+            'phoneExt' => [
+                'nullable',
+                'numeric'
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

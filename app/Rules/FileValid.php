@@ -1,33 +1,44 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-2G8=
+<?php
+
+namespace App\Rules;
+
+use App\Models\v1\Asset;
+use App\Traits\User;
+use Illuminate\Contracts\Validation\Rule;
+
+class FileValid implements Rule
+{
+    use User;
+
+    public function passes($attribute, $value)
+    {
+        $asset = Asset::find($value);
+
+        if (!$asset) {
+            return false;
+        }
+
+        $userId = $asset->userId;
+        $loggedInUser = $this->getUser();
+
+        if ($userId !== null && !$loggedInUser) {
+            return false;
+        }
+
+        if ($userId !== null && $loggedInUser->id !== $userId) {
+            return false;
+        }
+
+        $asset->userId = $loggedInUser->id ?? null;
+        $asset->vendorId = $loggedInUser->vendorId ?? null;
+
+        $asset->save();
+
+        return true;
+    }
+
+    public function message()
+    {
+        return __('validation.file_not_valid');
+    }
+}

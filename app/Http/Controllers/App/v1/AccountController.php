@@ -1,90 +1,133 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Controllers\App\v1;
+
+use App\Events\v1\AccountForgotPassword;
+use App\Exceptions\Custom\Account\ForgotPasswordEmailNotFoundException;
+use App\Exceptions\Custom\Account\ResetPasswordTokenExpiredException;
+use App\Exceptions\Custom\Account\ResetPasswordTokenInvalidException;
+use App\Exceptions\Custom\Repository\RepositoryException;
+use App\Http\Requests\v1\Account\AccountForgotPasswordRequest;
+use App\Http\Requests\v1\Account\AccountLoginRequest;
+use App\Http\Requests\v1\Account\AccountRegisterRequest;
+use App\Http\Requests\v1\Account\AccountResetPasswordRequest;
+use App\Models\v1\ResetPasswordToken;
+use App\Models\v1\User;
+use App\Repositories\ResourceRepository;
+use Carbon\Carbon;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Hash;
+use League\Fractal\Manager;
+use Tymon\JWTAuth\JWTAuth;
+
+class AccountController extends AbstractController
+{
+    /** @var ResourceRepository */
+    protected $repo;
+
+    /**
+     * @throws RepositoryException
+     */
+    public function __construct(Manager $fractal, Request $request, JWTAuth $JWTAuth)
+    {
+        parent::__construct($fractal, $request, $JWTAuth);
+
+        $this->repo = new ResourceRepository(new User());
+    }
+
+    /**
+     * @param AccountLoginRequest $request
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function login(AccountLoginRequest $request) : \Illuminate\Http\JsonResponse
+    {
+        $token = $this->JWTAuth->attempt($request->only('email', 'password'));
+
+        /** @var User $user */
+        $user = $this->JWTAuth->user();
+        $user->accessToken = $token;
+        $user->expiredIn = $this->JWTAuth->factory()->getTTL();
+
+        return $this->responseSuccess($user);
+    }
+
+    public function register(AccountRegisterRequest $request)
+    {
+        $createUser = $this->repo->create($request->all());
+
+        return $this->responseSuccess($createUser);
+    }
+
+    /**
+     * @throws ForgotPasswordEmailNotFoundException
+     * @throws RepositoryException
+     */
+    public function forgotPassword(AccountForgotPasswordRequest $accountForgotPasswordRequest)
+    {
+        $findUserByEmail = $this->repo
+            ->findByField('email', $accountForgotPasswordRequest->get('email'))->first();
+
+        if (!$findUserByEmail) throw new ForgotPasswordEmailNotFoundException();
+
+        event(new AccountForgotPassword($findUserByEmail));
+
+        return $this->responseSuccess([]);
+    }
+
+    /**
+     * @throws ResetPasswordTokenInvalidException
+     * @throws ResetPasswordTokenExpiredException
+     */
+    public function resetPasswordVerify($token)
+    {
+        $findByToken = ResetPasswordToken::where('token', '=', $token)->first();
+
+        if (!$findByToken) {
+            throw new ResetPasswordTokenInvalidException();
+        }
+
+        if ($findByToken->expired <= Carbon::now()->timestamp) {
+            throw new ResetPasswordTokenExpiredException();
+        }
+
+        if (!$findByToken->isActive) {
+            throw new ResetPasswordTokenExpiredException();
+        }
+
+        return $this->responseSuccess([]);
+    }
+
+    /**
+     * @throws ResetPasswordTokenInvalidException
+     * @throws ResetPasswordTokenExpiredException
+     * @throws RepositoryException
+     */
+    public function resetPassword(AccountResetPasswordRequest $accountResetPasswordRequest)
+    {
+        $token = $accountResetPasswordRequest->get('token');
+        $findByToken = ResetPasswordToken::where('token', '=', $token)->first();
+
+        if (!$findByToken) {
+            throw new ResetPasswordTokenInvalidException();
+        }
+
+        if ($findByToken->expired <= Carbon::now()->timestamp) {
+            throw new ResetPasswordTokenExpiredException();
+        }
+
+        if (!$findByToken->isActive) {
+            throw new ResetPasswordTokenExpiredException();
+        }
+
+        $findUserById = $this->repo
+            ->findByField('id', $findByToken->userId)->first();
+
+        $findByToken->isActive = false;
+        $findByToken->save();
+
+        $findUserById->password = $accountResetPasswordRequest->get('password');
+        $findUserById->save();
+
+        return $this->responseSuccess([]);
+    }
+}

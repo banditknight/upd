@@ -1,39 +1,29 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPvJZxIgSJzODML9u2VHaA6tpIa+leaF2dic0gh86d7kaPKsBRezM55Jd7y6xLFW9avpscP95
-j34smjfYBLCSYWJNze+xbiV/ZUekPcUE0BprpHNrZNshFZXJ9zV7VZiOg+/1nrAZhKyUR9x1gIeo
-x7fGC8KxVnu9+TP2iNkNR1eHerrVDcdwHYVI4Jd7A+lIcuo5g2RlanmM5iN81XifOT/IluGmmMSw
-2YDbiHaiLP9I+HnLh+m4xu1f4Qt03WPMrQh58utMqjF1wWJp24seRQQsnS7Lo6ZunvE2N+zpXzH4
-TiUlS7VreZ4ie2VhYslrhHXBLlG+OxuNkYuoSXQz6FkZOvakQSV0f52FYmX3FyweQbDzv3FlY55A
-uH29UHl0RresmhED5Eioifeqrt7jJZUqtm+vLwbUpB6ye8tU8CSBoVpbRAosdoYYAx8IFdWA0ZUN
-eeU5CWkpvuHfG9MZy35q8MjYfssibeqGBWOsPYMbbrPkIH5FuRB9PSjIrGvx5QWf/pDlQiObMxyU
-9WJaiEKigcDnKuOmGQ2y905brEDI94u/eEz0vfHt9p4RmwaptSIv8c1W3aQLESm88dQy5rr4Tb6d
-hPt43Gqwu6NSJbcS0o5ymsMtHK2dSqcN2LC9SF0556UGkcVbVN8vXp+pa1cSN15ROuMRT8HtBHVt
-dYHaUHHZkaDA6GNXUfhXMNmzu92sqQDHDw6fnaMy3x0EjLA6lJiKUz9o7Oa/xuhMyJLSazPSmrZp
-wgBcRsW6fgoM46gLzA08fX04PHyAHmBgiQxfoH4ZO5eaLRHu0GMTp0ze4XbK1BPts+sdNJhOhyro
-EAN66GEPPGSZH+4Erd20THx6XyC3tAdWI1mHOFNzjMidjUnNcBNBcpTq2rFhL5xZdU3sMu2OyAH2
-2RWUlrJmcyEYIeZGwme9oIm+ppLenf0JuGIdEZ2Oli+FHLaZHpUSuG3JY6Oe/6vbPJlYqPgRlkIk
-4KHRDYJ+HaGJ5cIVuJfz3A4B1tjtqhL7suBvW9r7IfKN9jlCZqmn0xbL4H7f8AjwbTQfQk8FlS+B
-IXaTC30BAaEAnfk6pn5+UXMFNVvHJoGAn0mJiOMiwg/X+zfBGgsNVMYk6d+hV89P3z/RxC+Tw467
-okiDqoaPMzwsM9SLGnl4UaIkVrpBTsXvXD++j3P0DCDfcAA0lxWPmAx9gjlZEdQtduf1x3PciJlH
-0UKoBjjFhcmgB8fyP5n++u0Xd1slvDReAXo+okkviaVMBto+krf6rlSExAaYHDdvbPYAs79UNH35
-v+XQ7mxpXEDF+D8DVw+qBsu6gVlmkQQShJMxbXqGBS9uD60VW2hCP62QfcY9oilJgIZ/cRXnyr2x
-nGGaW0n2f3zeLpPUh5N4NbLl88bUd0NmloJo+XXKif7cvowLoJuecSDAoBxW5ASAcL+LhxPRPezI
-ascP6ZsYaGSEeVCszUftv2qvSO9Gq1wawhTdepL5DS786zIJ8ZJLEfIEFIBkTL4UqMAHt+nJ33+5
-DOgrX492nQGl0g0px5ALKlnBBlXNHNTPaxmg3vrtyr4eLyOjkcAKEYeWRT0Z6qNGPMR6vhMslMHc
-dRk33616iuFSL90cupHDuWtYmWt/cdxW/u6p7r5GJO2ecXbX4iwGyqhb5eX36Y85baMfPP+fxBZv
-snL4u85sT2iB8OeKNyyGapxdw43uRF/CDKwp/q/LmGy1Fc5N8pR8vcLOwU9pnXgEPJJbkK40z5Ue
-ENJwX4BuqWxdI2fGRDMAL1LDKgvMmZBcD/LiECykJcposqjxszoH8oE9Htbt6AoaifVBUTnDWsC3
-SOYnHotwiOqCkyAJ3K13DyPtQwv2ZBFAPg/HvFgAikmxRRDFabs5oInIsjcKF+ppZifCNp46tlAd
-FPlnWuPbH/E9SDy6sx6/hm5u/wy1N4rDy9FbgLy+31j6vGyAb1lXU7B2fKUl7oXkQ8xOJY1JgYqa
-53jz3wdc8t7aef6aqmzM5RG9AmCgasAb0fwXgogXqj6D8axFav3wM4SIPw33WQzm0Z9j6x3Hgt4v
-p13EkrqzoZCW1+jLcSZnOvADw+Vtsutc30/llEDcDYRTNLXuM4PAN+gCt0xJvKf+xV5sEd6wrtCg
-xq09aoAkJvGLSvLsGN13C2s32FGA6BurlaNuGSLNTdIWpmG7+J87upeS11z8Op8L5eFYeyCQX2h3
-jzRGyFtHZzrpLa3b2XLyaLYa2aysvxO8pLbxBaMcK7f9kZMIEIkQdA267QgCgW1L3dcniuu8A2Rp
-OqsWix4fnRVPoIvV4hfKJgYo2nc9xEhG9o12HJ4DN+X8NVsmeUUchN380z/i0BycyOQpSmrqWKGe
-jt07CJw+3tU9UrJ3gbrltnh3Beu8+8hhqAZ2WnpfTZ7ahcDxq2/swr2aH1AcxejBg22T/HDwoOVJ
-ouq5Xf9e3nYwEz/pCSV0dhVnWMMQj9hrxlqN4Uolw3sx6WFdtfeIcC5GYKK9prqid6oRdyT77lXY
-GduvbnaVXfnJn3d1txkRtRLpnvRjm3TA3Jk8pO2Xagaj6jJyHXCsxVGBRMmiv+npprA0OEwJSM3V
-FaL31/ooKqM/L7WDHQE5c6mLpH3J0HCoIY/4wsBRWYvmCdVqrUvIbh8UMKQyfWMrGuvnCNa9mr2M
-G0pIcHbreItPYGkmnoSe0GFur8nxFXIHNU563jP07ldg81wqUMRFCm==
+<?php
+
+namespace App\Traits;
+
+use App\Models\v1\AssessmentCriteriaItem;
+
+trait AssessmentCriteriaItemTrait
+{
+    public function submitItem(array $data, int $tenderId, int $tenderItemId, int $assessmentCriteriaId)
+    {
+        AssessmentCriteriaItem::factory()
+            ->count(count($data))
+            ->create()
+            ->each(function($item, $key) use($data, $tenderId, $tenderItemId, $assessmentCriteriaId)
+            {
+                $item->tenderId = $tenderId;
+                $item->tenderItemId = $tenderItemId;
+                $item->assessmentCriteriaId = $assessmentCriteriaId;
+                $item->name = $data[$key]['name'] ?? null;
+                $item->code = $data[$key]['code'] ?? null;
+                $item->description = $data[$key]['description'] ?? null;
+                $item->point = $data[$key]['point'] ?? null;
+                $item->parentId = $data[$key]['parentId'] ?? null;
+                $item->isSummary = $data[$key]['isSummary'] ?? null;
+
+                $item->save();
+        });
+    }
+}

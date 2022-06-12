@@ -1,34 +1,53 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Requests\v1\Account;
+
+use App\Rules\AlphaSpaceDotNumber;
+use Illuminate\Validation\Rules\Password;
+
+class AccountRegisterRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'name' => 'required',
+            'address' => [
+                'required',
+                new AlphaSpaceDotNumber()
+            ],
+            'email' => 'required|email|unique:users,email',
+            'phone' => 'required|unique:users,phone',
+            'password' => [
+                'required',
+                Password::min(6)->mixedCase()->numbers()->uncompromised()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

@@ -1,85 +1,75 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateVendorsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('vendors', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('domainId');
+            $table->bigInteger('companyTypeId');
+            $table->string('registrationNumber')->nullable()->unique();
+            $table->string('name');
+            $table->bigInteger('vendorTypeInformation');
+            $table->string('presidentDirectorName');
+            $table->string('referenceId')->nullable();
+
+            $table->string('address');
+            $table->string('secondAddress')->nullable();
+            $table->bigInteger('countryId');
+            $table->bigInteger('provinceId')->nullable();
+            $table->bigInteger('cityId')->nullable();
+            $table->bigInteger('districtId')->nullable();
+            $table->string('postalCode');
+            $table->string('phone')->unique();
+            $table->string('phoneExt')->nullable();
+            $table->string('faxMailNumber')->nullable();
+            $table->string('faxMailNumberExt')->nullable();
+            $table->string('email')->unique();
+            $table->string('website')->nullable();
+
+            $table->bigInteger('picId')->nullable();
+            $table->string('picFullName');
+            $table->string('picMobileNumber')->unique();
+            $table->string('picEmail')->unique();
+
+            $table->string('tenderReferenceNumber')->nullable();
+            $table->string('pkpNumber')->nullable();
+            $table->string('pkpAttachment')->nullable();
+            $table->string('taxIdentificationNumber')->unique()->nullable();
+            $table->string('taxIdentificationAttachment')->nullable();
+
+            $table->boolean('isActive')->default(0);
+            $table->boolean('isVendor')->default(1);
+            $table->boolean('isCompleted')->default(0);
+            $table->boolean('isAcceptTermAndCondition');
+
+            $table->text('description')->nullable();
+            $table->bigInteger('logo')->nullable();
+            $table->tinyInteger('rating')->default(0);
+            $table->integer('approvalStatus')->default(0); // 0 : Dokumen belum dikirim, 1 : Dokumen sudah dikirim, 2 : Dokumen sedang diperiksa, 3 : Dokumen accepted, 4 : Dokumen rejected. 5 : Dokumen expired
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('vendors');
+    }
+}

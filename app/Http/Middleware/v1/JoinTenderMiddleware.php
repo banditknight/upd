@@ -1,48 +1,70 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Middleware\v1;
+
+use App\Exceptions\Custom\JoinTender\{AlreadyJoinTenderException,
+    VendorProfileInActiveException,
+    VendorProfileInCompleteException};
+use App\Exceptions\Custom\Repository\RepositoryModelNotFoundException;
+use App\Models\v1\TenderParticipant;
+use App\Traits\HasRouteModel;
+use App\Traits\VendorStatusTrait;
+use Closure;
+use Illuminate\Http\Request;
+
+class JoinTenderMiddleware
+{
+    use HasRouteModel, VendorStatusTrait;
+
+    /**
+     * Handle an incoming request.
+     *
+     * @param Request $request
+     * @param Closure $next
+     * @return mixed
+     * @throws RepositoryModelNotFoundException
+     * @throws AlreadyJoinTenderException
+     * @throws VendorProfileInCompleteException
+     * @throws VendorProfileInActiveException
+     */
+    public function handle($request, Closure $next)
+    {
+        // Pre-Middleware Action
+        $routeModel = $this->routeModel($request->route());
+
+        $model = null;
+        /** @var $routeModel TenderParticipant */
+        if (class_exists($routeModel)) {
+            $model = $routeModel::where([
+                ['tenderId', '=', $request->get('tenderId')],
+                ['vendorId', '=', $request->get('vendorId')],
+            ])->first();
+        }
+
+        if ($model) {
+            throw new AlreadyJoinTenderException();
+        }
+
+        $user = auth()->user();
+
+        if ($user && $user->vendor && !$this->vendorCanJoinTender($user->vendor)) {
+            throw new VendorProfileInCompleteException();
+        }
+
+        if ($user && !$user->vendor->isCompleted) {
+            throw new VendorProfileInCompleteException();
+        }
+
+        if ($user && !$user->vendor->isActive) {
+            throw new VendorProfileInActiveException();
+        }
+
+        // tbe and cbe will be updated once user/vendor fill item comply.
+        $request->request->set('tbeScore', 0);
+        $request->request->set('tbeScore', 0);
+
+        // Post-Middleware Action
+
+        return $next($request);
+    }
+}

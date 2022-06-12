@@ -1,35 +1,48 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Traits\DateTrait;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class BusinessPermitSeeder extends Seeder
+{
+    use ExcelReader, DateTrait;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'BusinessPermit');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if ($data[0] === null) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'userId' => $data[0],
+                'vendorId' => $data[1],
+                'businessPermitTypeId' => $data[2],
+                'attachment' => 1,
+                'number' => $data[3],
+                'validFromDate' => $data[4],
+                'validThruDate' => $data[5],
+                'issuedBy' => $data[6],
+                'otherBusinessPermitType' => $data[7] ?? null,
+            ];
+        }
+
+        DB::table('businessPermits')->insert($dataSeeder);
+    }
+}

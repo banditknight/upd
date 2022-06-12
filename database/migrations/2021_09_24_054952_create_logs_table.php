@@ -1,44 +1,47 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-3AgQyKuBcGGtsRCvnR970/cZnW3jyG==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateLogsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('logs', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId')->nullable();
+            $table->bigInteger('vendorId')->nullable();
+
+            $table->string('method');
+            $table->ipAddress('ipAddress');
+            $table->string('token');
+            $table->integer('action');
+            $table->string('table')->nullable();
+            $table->bigInteger('recordID')->nullable();
+
+            $table->text('oldValue')->nullable();
+            $table->text('newValue')->nullable();
+
+            $table->text('content');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('logs');
+    }
+}

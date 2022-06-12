@@ -1,32 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-fe+l
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateDeedTypesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('deedTypes', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code')->unique();
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('deedTypes');
+    }
+}

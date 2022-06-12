@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-p+zqRI6dww8YTb9LCJsD/oMshfegUW==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateEmployeeStatusesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('employeeStatuses', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code');
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('employeeStatuses');
+    }
+}

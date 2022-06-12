@@ -1,33 +1,51 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ckYZLN/oZ3kjpKVaFL25pg74SK8pjNd6GfC=
+<?php
+
+namespace App\Models\v1;
+
+/**
+ * App\Models\v1\SpatieRole
+ *
+ * @property int $id
+ * @property string $name
+ * @property string $guard_name
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole query()
+ * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole whereGuardName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole whereName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|SpatieRole whereUpdatedAt($value)
+ * @mixin \Eloquent
+ */
+class SpatieRole extends AbstractModel
+{
+    protected $table = 'spatieRoles';
+
+    protected $fillable = [
+        // 'name',
+        'code',
+        'description',
+        'guard_name'
+    ];
+
+    protected $appends = [
+        'permission',
+        'menus',
+    ];
+
+    public function getPermissionAttribute(){
+        return SpatieRoleHasPermission::where('role_id',$this->id)->get();
+    }
+
+    public function getMenusAttribute(){
+        $res = [];
+        $menus = $this->belongsToMany(Menu::class,'roleMenus','roleId','menuId')->get();
+        // foreach($menus as $menu){
+        //     $res[] = $menu->only(['id','name']);
+        // }
+        return $menus;
+    }
+}

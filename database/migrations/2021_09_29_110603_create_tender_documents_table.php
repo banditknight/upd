@@ -1,34 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateTenderDocumentsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('tenderDocuments', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('tenderId');
+
+            $table->string('name');
+            $table->text('description')->nullable();
+            $table->bigInteger('attachment');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('tenderDocuments');
+    }
+}

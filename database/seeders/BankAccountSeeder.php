@@ -1,34 +1,47 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Z760C6TE9UL0nSiLu00RnPcM8pwy3FLmX0==
+<?php
+
+namespace Database\Seeders;
+
+use App\Traits\DateTrait;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class BankAccountSeeder extends Seeder
+{
+    use ExcelReader, DateTrait;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'BankAccount');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+
+            if ($data[0] === null) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'userId' => $data[0],
+                'vendorId' => $data[1],
+                'bankId' => $data[2],
+                'accountNumber' => $data[3],
+                'accountHolderName' => $data[4],
+                'bankAddress' => $data[5],
+                'currencyId' => $data[6],
+            ];
+        }
+
+        DB::table('bankAccounts')->insert($dataSeeder);
+    }
+}

@@ -1,33 +1,61 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPx9XlZOqo08vmTOh5PQYFOi5qInYhnDS7QcuqZSi1r7EW4lEfxFX0NBhgSHTKxKnu7kfngkS
-33MGhY33PwALtvA3x+lpWpFgeABixoLSGB/ar4XeGwP8Y1LRcHB8+UXoJQtKZtEsdF/XpVTkKHrH
-C7Yq8U0HV1By6DKb1dS/Qvoz9Qb7hdY1Bsxufwjb8MwpyL8seE+O4l8vqDgWQq3NDwCCkMchN340
-lknr3fshEg63QbtYU7EGhOIcZt8uMR5ZlewTrjBJmUe4ymXDg6scjiN1rMTjvGq+7mbGsTNu67O7
-IvrJ/xam2jUepY22mrule0IWTJyC/Yi//AHWQGtQBApWHRxVHD/PQe/V/Jfvf44IEv4UI23v261V
-R+c6S2mGAFJOkFb2w8zIZZ/3XfqzaHJGWZ/Pv/5bFOGzYRPsmTOhLzPmLT3loyM10wNjQmSRlS/X
-xp36+CyRVJHL4PaqXS+NpMxoqWpZoR8Mt1UMeSTb3j0FoHHDkH/F7ESzQtGFaHT3Vh2RfR/5LEyi
-itjCYv9umS8ol7dpSGaUJx8FMjRJKEHk3WIsWEacJacphkmsaTqHr01qg+nK9A87lBvHv5u16Qt8
-/7og49tjVlMJAxtFKsS4XR4owQifxO4CyHdhy2NBfYJ/PNAUT/yIEfQa/EshBw5mKGXk6WhU2Lb6
-Lhu3VV+KnfpbcS5Wcwl65s7cMGrN3WAC77BC3D3RT2kP9eX+LR+BAQXLajU5K0VANEERG29mvxZj
-IBk/RMMbcrjy+WN5blH9jYLGXXX4XUvAfqI+kIByArFaYf52lYEOR/mJ0z9MgrMeEE9R1O2sGmRn
-TYtdqNI1MSORNQzYCrygMW3NACsjDwyoGWzg2S7H4dBdc8mUFjG5urDWicigbY4VUrp8JnUop2vd
-MMiFD6Gh7EWKLAysGDLxvgNGYsO8KjB2iDiJqmO1OXHUA58n0DPAaH4n7sf5K5Q5IJd03OrAXmFa
-j85RNnlJKZCtCRGM9JB2+UeJf15XHRlhNO7wvziX9BcVUGroWntCImebcNPfH1oLvxBFYYzbEDXr
-t5K4IE5s+gVuGd4fZLkkgAmXSIOpUgb0L9RtxZhYZZb7SONrE6eXum90+ZjAh2OetWk816lea0yN
-oPn9ZdO2cgbcq+o6s7Zl3rAvzfmA42oOrT2zYxIseQB8H5vtZMT8LQPQUn8URYNSD6+luwP2QJ+u
-mRUfbUC9auuX2y884MtZ+AWEWzR+ZKOOUoOf/IGM7AuDnQ3w11CR50cHnigrhWlIMuB4tqOqTPKp
-VrDuU9jZXZsickQ8PJeQbKlY2Sdb55FeofkIv1Sdra2o1djvPiAfJuXq/o0RrVk4jfYMocjbewGB
-gfpWEyedO+TUhnIeZFbbK1MisTSs5yFKPdQNpZMHPHL8VFRyhsfWznOctTDjvJRFfd50MTPR+ldt
-LhpMZMslVEJe+RaXq9MtAvSCxc+36xHL9afFfOcsdsvFWB17aa/xWoUABdvnDzps1kbfP5FOMNVv
-e2QCgJvhOszI//BK0oiMDi0HshhqcHFwan+qnT15udAVCUDFUWCkLHLdGR04khzSkMg/oOp2/yOC
-DVMldPoZnGWNuYLyjK8m1Oz/rD6iElAHXeI+6PGcYkK0xjJXtF4p7+bM2Q8i59RkX94fIDx9M4UG
-H3Alls7ZYq7g4WeYH0R/r7xCXVRq0lckGdGP4nDO85c5XPa/1cb8Rlp0AMpwO5tD4oY0Pc05KJ7+
-YAZVnmnfKhGYVomIdMViYsncrgDAsAzDLt3+U+Soi2CDY/1X+If5+u/HJkMEAzNI0gfMhROAjcVG
-BFee9wmGwI+3Trq5h6kaQhTmssafcvyhz0gsDmNKeh6UyJcl+GzTRjy+OKmtmqgqc2V2MhE3VAMD
-5Z0Zqx50xlpHxnwd5sCUiTkqJmnkcs2B/oP7KWBr7kNs0QP12O4IhPNpyNwsQHSXlrMXVFh1KCLH
-Gtalk3C54eIFGDHeQurJwjokRGB82yaT9laFi4z2PItOnny7UEE8+G2xS8Nu5ol+qqVaTU7c+ZI0
-zO4Evcb/S1WDs5Fdf+CVhDweFRxzIloFWcTD/9HjdC1bPrBNia9thzEN0oXRMaKJT8SPK24EDkEk
-yKatlpHOwK7YPtn1fkQ/i248w04dYM1lAd1sSuR+D5ZteTwL9ACKf30tRw5yxWMAz+uzeYXHwulX
-QWgjBM61a5Db2VGnLxwcfHgpRxYNmXKT
+<?php
+
+namespace App\Http\Requests\v1\TaxDocument;
+
+use App\Rules\FileValid;
+use App\Rules\TaxDocumentTypeValid;
+use Pearl\RequestValidate\RequestAbstract;
+
+class StoreRequest extends RequestAbstract
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'taxDocumentTypeId' => [
+                'required',
+                'numeric',
+                new TaxDocumentTypeValid()
+            ],
+            'number' => [
+                'required',
+                'numeric',
+                'digits_between:10,32',
+            ],
+            'issuedDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'attachment' => [
+                'required',
+                new FileValid()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

@@ -1,30 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-NOp4vvvhWBMrMerIcG==
+<?php
+
+namespace App\Models\v1;
+
+use Illuminate\Support\Carbon;
+
+class TenderProcessDocumentPraQualification extends AbstractModel
+{
+    protected $table = 'tenderProcessDocumentPraQualifications';
+
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'tenderId',
+        'tenderRequirementDocumentId',
+        'attachment',
+        'status',
+    ];
+
+    protected $appends = [
+        'vendor',
+        'submitDate'
+    ];
+
+    protected $hidden = [
+        'created_at',
+        'updated_at',
+    ];
+
+    public function getVendorAttribute()
+    {
+        return Vendor::find($this->vendorId)->only(['id', 'name', 'registrationNumber']);
+    }
+
+    public function getSubmitDateAttribute()
+    {
+        return Carbon::parse($this->created_at)->timestamp;
+    }
+}

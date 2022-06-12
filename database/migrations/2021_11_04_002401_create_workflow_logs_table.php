@@ -1,34 +1,40 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateWorkflowLogsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('workflowLogs', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId');
+            $table->bigInteger('vendorId');
+
+            $table->string('model');
+            $table->bigInteger('mid');
+
+            $table->string('transition');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('workflowLogs');
+    }
+}

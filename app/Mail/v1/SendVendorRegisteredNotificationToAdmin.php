@@ -1,30 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-QR8Kc69qnLTCtYC7dypd9FMdwdgEQ0==
+<?php
+
+namespace App\Mail\v1;
+
+use App\Models\v1\Vendor;
+use Illuminate\Bus\Queueable;
+use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Mail\Mailable;
+use Illuminate\Queue\SerializesModels;
+
+class SendVendorRegisteredNotificationToAdmin extends Mailable
+{
+    use Queueable, SerializesModels;
+
+    public $vendor;
+
+    /**
+     * Create a new message instance.
+     *
+     * @return void
+     */
+    public function __construct(Vendor $vendor)
+    {
+        $this->vendor = $vendor;
+    }
+
+    /**
+     * Build the message.
+     *
+     * @return $this
+     */
+    public function build()
+    {
+        return $this->view('email.admin.vendor')->with([
+            'vendor' => $this->vendor
+        ])->subject(__('email.subject_new_vendor_registered'));
+    }
+}

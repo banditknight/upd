@@ -1,105 +1,150 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Exceptions;
+
+use Illuminate\Auth\Access\AuthorizationException;
+use Illuminate\Database\Eloquent\ModelNotFoundException;
+use Illuminate\Validation\ValidationException;
+use Laravel\Lumen\Exceptions\Handler as ExceptionHandler;
+use Spatie\Permission\Exceptions\UnauthorizedException;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpKernel\Exception\HttpException;
+use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
+use Symfony\Component\Workflow\Exception\NotEnabledTransitionException;
+use Throwable;
+
+class Handler extends ExceptionHandler
+{
+    /**
+     * A list of the exception types that should not be reported.
+     *
+     * @var array
+     */
+    protected $dontReport = [
+        AuthorizationException::class,
+        HttpException::class,
+        ModelNotFoundException::class,
+        ValidationException::class,
+    ];
+
+    /**
+     * Report or log an exception.
+     *
+     * This is a great spot to send exceptions to Sentry, Bugsnag, etc.
+     *
+     * @param  \Throwable  $exception
+     * @return void
+     *
+     * @throws \Exception
+     */
+    public function report(Throwable $exception)
+    {
+        parent::report($exception);
+    }
+
+    /**
+     * Render an exception into an HTTP response.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \Throwable  $exception
+     * @return \Illuminate\Http\Response|\Illuminate\Http\JsonResponse
+     *
+     * @throws \Throwable
+     */
+    public function render($request, Throwable $exception)
+    {
+        $rendered = parent::render($request, $exception);
+
+        if (env('APP_DEBUG', true) && app()->environment('local')) {
+            return $rendered;
+        }
+
+        if ($exception instanceof \App\Exceptions\Custom\AbstractException) {
+            return $exception->jsonErrorResponse();
+        }
+
+        if ($exception instanceof ValidationException) {
+            return response()->json([
+                'status' => [
+                    'code'    => $rendered->getStatusCode(),
+                    'message' => $exception->validator->getMessageBag()->first()
+                ],
+                'data' => $exception->validator->getMessageBag()
+            ], $rendered->getStatusCode());
+        }
+
+        if ($exception instanceof \Illuminate\Database\QueryException) {
+            return response()->json([
+                'status' => [
+                    'code'    => $rendered->getStatusCode(),
+                    'message' => app()->environment('local') ? $exception->getMessage() :
+                        $this->resolverQueryExceptionCode($exception->getCode())
+                ],
+                'data' => null
+            ], $rendered->getStatusCode());
+        }
+
+        if ($exception instanceof NotFoundHttpException) {
+            return response()->json([
+                'status' => [
+                    'code'    => Response::HTTP_NOT_FOUND,
+                    'message' => !$exception->getMessage() ?
+                        __('status.status_message_not_found_exception') : $exception->getMessage()
+                ],
+                'data' => null
+            ], $rendered->getStatusCode());
+        }
+
+        if ($exception  instanceof UnauthorizedException) {
+            return response()->json([
+                'status' => [
+                    'code'    => Response::HTTP_FORBIDDEN,
+                    'message' => $exception->getMessage()
+                ],
+                'data' => null
+            ], $rendered->getStatusCode());
+        }
+
+        if ($exception  instanceof ModelNotFoundException) {
+            return response()->json([
+                'status' => [
+                    'code'    => Response::HTTP_NOT_FOUND,
+                    'message' => __('status.status_message_model_with_id_not_found_exception', [
+                        'id' => implode($exception->getIds())
+                    ])
+                ],
+                'data' => null
+            ], $rendered->getStatusCode());
+        }
+
+        if ($exception instanceof NotEnabledTransitionException) {
+            return response()->json([
+                'status' => [
+                    'code'    => Response::HTTP_BAD_REQUEST,
+                    'message' => $exception->getMessage(),
+                ],
+                'data' => null
+            ], $rendered->getStatusCode());
+        }
+
+        // @todo do something with error message, Such as notify developer.
+        return response()->json([
+            'status' => [
+                'code'    => Response::HTTP_INTERNAL_SERVER_ERROR,
+                'message' => app()->environment('local') ?
+                    $exception->getMessage() :
+                    __('status.status_message_global_exception')
+            ],
+            'data' => null
+        ], $rendered->getStatusCode());
+    }
+
+    private function resolverQueryExceptionCode($code)
+    {
+        if ($code === '23000') {
+            return __('status.status_message_unique_violation_constraint_exception');
+        }
+
+        return __('status.status_message_query_exception');
+    }
+}

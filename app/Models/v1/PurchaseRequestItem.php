@@ -1,37 +1,76 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPwecfBuL21snu9OndUWskt31GiJqwBlzEkKEO9jP6buY1DOHeRwmClJcK5j+l6TyJqwhhpra
-/RDLqzP6wKB4v07aBL9trVNgG5/vdu41mDGSrM1Ljitym8mkFaL3rMn/pBuT7NN6foRy1phJdrJL
-RuGcYkHnv24IRTlZlrY2k0yA7f6T4In9n3H1xGIEI9/PNdwvVMvrlCJ2VNIe2K+yCmF5HTcC4I0g
-+sdSaPOCjUVQVi5cEllzTY5kqqocdzvTaL1sfuNMqjF1wWJp24seRQQsnS7L+cu3c7pn7HpgdHNu
-TaSnQ6yIvRDxcE5ZPDmCPxt0bieRJmGeZu45xE3Xcku+H3BFQ6jfyugq2ufQKMTKmkDvLgsbKc9S
-Dm/MI0KnwAdzr5WWd0fYdFTLzmizbh8Ldm1GVjqpcChrDCNBv0ggvXiKUVkYjMLGIfjkauFswZ2B
-Css7D4bhAZxNRN8wJ7lSMiW84ii6IqoahSlG1Pf8/kgUmjlIoYJdMBpfm4SwVA3NF/xAj+qjJ2no
-5jFSE3fe/MP6yO/IR+H0d587bj9HICqU4TdQv/Fr5g9IEIUTOShiKAsNrm08Jnm2K92caCbvtsj+
-SPSvaPlLlVNaJG5sWc79IS+1KxF2WzAInpuFZRvvHQaqT/ry9ZC8xQ6MTIzsm6bZVweTTRdnmowa
-p+gvAL90FVsxvZaFZhPIaVODj736xMF2k1EZWByS3Fk6m7urCqSoiy80KG+eLZ+hu7J/OJFBvv9E
-/j6qh8tD/zTTv0blkL1/ZvpnpGDSgK7rCxtlrkmNNCEUm4uc+Lve7aG+jQEfjWvoNx6NYufK6jC8
-Tscm3AJ/MLOaNO79i6s2gxUEsmTkVkj0uHUQSwU71F7xACL0X8gBysbjB5vYmpuetW1MqZr9JbnW
-jmZwdmP66TTudY6cosBBy8vJvRT50D7/cifjaU4cagCzINfL4pJmf6/2zJbImTU8NTo4fqcyoFaJ
-/DWimyt8T8Vfzdw+FmHvTUrGr1cFyaDDVFYs6CqulGmVJmc7SAXrEpVD9vsUOdXHZtGfiEr4nEdj
-0anJn/hy042bR2iv0r9IAhlYlPkL0fYDH1yMvq7CzeAkaO+hUTMMi2mYf8A4YokLi+WqHo3Xuk3z
-vY0ntdqdab5IqTF3md9iYAfNmc0h/PewFvRq1oKhsm9Z2ZdMFeuo9heaRWW8Cke+Wk0d1Dxr9wg9
-vPhUf+OCZpioLj5nGCWQij+op3/2srzEhYp3VEpzgggZKJ7HPyF7hk5dQtHj32odpNW6X3Vj0gIJ
-LpUOaBGI8tgC5FVD4kujwcBuFQgWvWuUyCf7rN3fWm6bJrCzYV5pINEAaXj11WHfPu2+25EuAFXx
-Ythzj2T63AK58M5pttX/0TAPfWQ0tzlEam8qJ1pgAW3F3uOU83qLV9zsD6XVe0NGPKDTPwlykYgL
-FshRPIAfpeIYpq3YTMFhEBPUXflsKu5bPlIUu42splBVkWuenGdY3ZRKLPYYt+0Z6TIbGZVx7eGN
-jAsTGwgT94wyPHdisTuVnEi+xpvn0fD5021pRWCwroFcJpYyV7U+btn3GzK6RtwSfSNeYP1KLWD5
-NF36Eh0v5KxBSfDl04RE+Jkmo1xGX/Pd7qVGsKLwC4ST9c/mMWrni+/y+Z5WHkRaix5TpDVwKGxc
-06FdRiIOcMk8FnixC8dgSmsi4Dn97CvsbgI7H//cSALBhhvXxge6FmvNlqxujw7JTADxgBg9qpMB
-FcX6IV5ANNZI0c+RWfnob3v1U+aQzePUZY2LlSq8veA28behvAVU6MEBdViiqaUphclmRftaxMcv
-QVcoGeu4bThz/tTsxnpVoVBe+UMTtcUCoWGekTwd80+32eZ8hMaNAj98VyWX2ZzZ13hHA5yQXw23
-x1KsfSTFWpBy9uG/c6H5ykuujTr4BsC3AHl1WzSBMDQBVxzwexW7kn8xC/puv72zZFaGz+7oIgB6
-YXZnD+7hKWF6sV0pA3Mv5KKUhDmrZWgsrA7YQeE6zGZoK9BioDTtIlSjri5WyGWfUvSzBmsgi/8o
-E6u3XALydlPMUO7K36uoHfiVVqz9/rRpvRTdVacxAP1dAbX3gmF1utu65XjmUWDirbYryqw4+DsD
-ak0GAUIh9InQYJNmLDEvC9Wrtwo2HQ65++qz4A2Qh90AIKhnMyy6mqTuGof2a4aNd7KZ4KmZymOx
-e76axJX0memmsLTqRn57dN+ulbjCBC/Qpl1eNZA+TKt+InBnhiBjhS0KjeWlt4biu/0JmEmAiYlf
-gxiIdj8aPLZxKg3YdS0MdYj0dSSn5kUSEZqC5KZTWAPkJXgocu71Oerm6Y0c3A/3LtlfAjshufiK
-i896WrREURn9lrNZGjOSUrwz5Wr5UwKcRTJ/ry33VV3Jz2LaJ3kvDh/nHLWSlBIG2WDP0iQtEYVV
-NKLKmqyO/XevdQwlU+lVDDZ7SOMKXbnMKLV0qHoQKkxAb3N3t+LqUxm/hJ5rKs3mg3QNeM8jj+xN
-oEPEr8uhQrESMv6SZZWvInCqe6f7rBT3INop
+<?php
+
+namespace App\Models\v1;
+
+use App\Traits\User as UserTrait;
+
+/**
+ * App\Models\v1\PurchaseRequestItem
+ *
+ * @property int $id
+ * @property int|null $purchaseRequestId
+ * @property string $catItemNo
+ * @property string $description
+ * @property int $qty
+ * @property string $uom
+ * @property int $estimationUnitCost
+ * @property string|null $remarks
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem query()
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereCatItemNo($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereDescription($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereEstimationUnitCost($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem wherePurchaseRequestId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereQty($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereRemarks($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereUom($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereUpdatedAt($value)
+ * @mixin \Eloquent
+ */
+class PurchaseRequestItem extends AbstractModel
+{
+    use UserTrait;
+    protected $table = 'purchaseRequestItems';
+
+    private $curCode = null;
+
+    protected $fillable = [
+        'purchaseRequestId',
+        'catItemNo',
+        'materialNo',
+        'description',
+        'qty',
+        'uom',
+        'estimationUnitCost',
+        'remarks',
+        'isService',
+    ];
+
+    protected $appends = [
+        'purchaseRequest',
+        // 'currencyCode'
+    ];
+
+    protected $hidden = [
+        'purchaseRequestId',
+    ];
+
+    public function getPurchaseRequestAttribute()
+    {
+        $pr = PurchaseRequest::find($this->purchaseRequestId);
+        if(!$pr){
+            return null;
+        }
+        $this->curCode = $pr->currency['code'];
+        return $pr->only(['id','no']);
+    }
+    public function getCurrencyCodeAttribute(){
+        return $this->curCode;
+    }
+
+}

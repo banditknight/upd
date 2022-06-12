@@ -1,39 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-PYRfz275BYZrsjrv5yi/ExOdc2N/f/+d2tjgdW==
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class TenderJoinStatusSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        DB::table('tenderJoinStatuses')->insert([
+            'name' => 'Invited',
+            'description' => 'Vendor Invited'
+        ]);
+        DB::table('tenderJoinStatuses')->insert([
+            'name' => 'Invitation Opened',
+            'description' => 'Vendor open invitation'
+        ]);
+        DB::table('tenderJoinStatuses')->insert([
+            'name' => 'Invitation Accepted',
+            'description' => 'Vendor accept invitation'
+        ]);
+        DB::table('tenderJoinStatuses')->insert([
+            'name' => 'Invitation Rejected',
+            'description' => 'Vendor reject invitation'
+        ]);
+
+        DB::table('tenderJoinStatuses')->insert([
+            'name' => 'Success',
+            'description' => 'Success Join'
+        ]);
+
+        DB::table('tenderJoinStatuses')->insert([
+            'name' => 'Waiting for document',
+            'description' => 'Waiting for document'
+        ]);
+
+        DB::table('tenderJoinStatuses')->insert([
+            'name' => 'Not qualified',
+            'description' => 'Not qualified'
+        ]);
+
+        DB::table('tenderJoinStatuses')->insert([
+            'name' => 'Awarded',
+            'description' => 'Vendor awarded'
+        ]);
+    }
+}

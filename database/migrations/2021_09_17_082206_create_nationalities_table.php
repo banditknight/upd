@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-aWjZ
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateNationalitiesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('nationalities', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code');
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('nationalities');
+    }
+}

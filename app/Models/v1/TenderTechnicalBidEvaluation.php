@@ -1,41 +1,81 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use App\Traits\AssessmentCriteriaItemTrait;
+
+/**
+ * App\Models\v1\TenderTechnicalBidEvaluation
+ *
+ * @property int $id
+ * @property int $tenderId
+ * @property string $criteriaCode
+ * @property string $criteriaName
+ * @property string $requirement
+ * @property string $weight
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation query()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereCriteriaCode($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereCriteriaName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereRequirement($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereTenderId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereWeight($value)
+ * @mixin \Eloquent
+ * @property int $tenderItemId
+ * @property int $assessmentCriteriaId
+ * @property-read mixed $assessment_criteria
+ * @property mixed $assessment_criteria_item
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereAssessmentCriteriaId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereTenderItemId($value)
+ */
+class TenderTechnicalBidEvaluation extends AbstractModel
+{
+    use AssessmentCriteriaItemTrait;
+
+    protected $table = 'tenderTechnicalBidEvaluations';
+
+    protected $fillable = [
+        'tenderId',
+        'tenderItemId',
+        'assessmentCriteriaId',
+        'assessmentCriteriaItem',
+        'requirement',
+        'weight'
+    ];
+
+    protected $hidden = [
+        'assessmentCriteriaId',
+        'tenderId',
+        'tenderItemId',
+        'created_at',
+        'updated_at'
+    ];
+
+    protected $appends = [
+        'assessmentCriteria',
+    ];
+
+    public function getAssessmentCriteriaAttribute()
+    {
+        return AssessmentCriteria::query()
+            ->where('tenderItemId', '=', $this->tenderItemId)
+            ->where('tenderId', '=', $this->tenderId)
+            ->get(['id', 'code', 'name']);
+    }
+
+    public function setAssessmentCriteriaItemAttribute($value)
+    {
+        $this->submitItem($value, $this->tenderId, $this->tenderItemId, $this->assessmentCriteriaId);
+    }
+
+    public function getAssessmentCriteriaItemAttribute()
+    {
+        //
+    }
+}

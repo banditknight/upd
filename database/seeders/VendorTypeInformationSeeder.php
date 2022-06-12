@@ -1,30 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\VendorTypeInformation;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class VendorTypeInformationSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'VendorType');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if (!$data[1] || !$data[2]) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1],
+                'name' => $data[2]
+            ];
+        }
+
+        DB::table('vendorTypeInformation')->insert($dataSeeder);
+    }
+}

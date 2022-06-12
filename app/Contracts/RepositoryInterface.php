@@ -1,102 +1,322 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-f+VmDwpIB96AN7gGSjYDBG4wjRoJCY0=
+<?php
+namespace App\Contracts;
+
+use Closure;
+use Prettus\Validator\Exceptions\ValidatorException;
+
+/**
+ * Interface RepositoryInterface
+ * @package App\Contracts
+ * @author Anderson Andrade <contato@andersonandra.de>
+ */
+interface RepositoryInterface
+{
+
+    /**
+     * Retrieve data array for populate field select
+     *
+     * @param string $column
+     * @param string|null $key
+     *
+     * @return \Illuminate\Support\Collection|array
+     */
+    public function lists($column, $key = null);
+
+    /**
+     * Retrieve data array for populate field select
+     * Compatible with Laravel 5.3
+     * @param string $column
+     * @param string|null $key
+     *
+     * @return \Illuminate\Support\Collection|array
+     */
+    public function pluck($column, $key = null);
+
+    /**
+     * Sync relations
+     *
+     * @param $id
+     * @param $relation
+     * @param $attributes
+     * @param bool $detaching
+     * @return mixed
+     */
+    public function sync($id, $relation, $attributes, $detaching = true);
+
+    /**
+     * SyncWithoutDetaching
+     *
+     * @param $id
+     * @param $relation
+     * @param $attributes
+     * @return mixed
+     */
+    public function syncWithoutDetaching($id, $relation, $attributes);
+
+    /**
+     * Retrieve all data of repository
+     *
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function all($columns = ['*']);
+
+    /**
+     * Retrieve all data of repository, paginated
+     *
+     * @param null $limit
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function paginate($limit = null, $columns = ['*']);
+
+    /**
+     * Retrieve all data of repository, simple paginated
+     *
+     * @param null $limit
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function simplePaginate($limit = null, $columns = ['*']);
+
+    /**
+     * Find data by id
+     *
+     * @param       $id
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function find($id, $columns = ['*']);
+
+    /**
+     * Find data by field and value
+     *
+     * @param       $field
+     * @param       $value
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function findByField($field, $value, $columns = ['*']);
+
+    /**
+     * Find data by multiple fields
+     *
+     * @param array $where
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function findWhere(array $where, $columns = ['*']);
+
+    /**
+     * Find data by multiple values in one field
+     *
+     * @param       $field
+     * @param array $values
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function findWhereIn($field, array $values, $columns = ['*']);
+
+    /**
+     * Find data by excluding multiple values in one field
+     *
+     * @param       $field
+     * @param array $values
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function findWhereNotIn($field, array $values, $columns = ['*']);
+
+    /**
+     * Find data by between values in one field
+     *
+     * @param       $field
+     * @param array $values
+     * @param array $columns
+     *
+     * @return mixed
+     */
+    public function findWhereBetween($field, array $values, $columns = ['*']);
+
+    /**
+     * Save a new entity in repository
+     *
+     * @param array $attributes
+     *
+     * @return mixed
+     */
+    public function create(array $attributes);
+
+    /**
+     * Update a entity in repository by id
+     *
+     * @param array $attributes
+     * @param       $id
+     *
+     * @return mixed
+     */
+    public function update(array $attributes, $id);
+
+    /**
+     * Update or Create an entity in repository
+     *
+     * @throws ValidatorException
+     *
+     * @param array $attributes
+     * @param array $values
+     *
+     * @return mixed
+     */
+    public function updateOrCreate(array $attributes, array $values = []);
+
+    /**
+     * Delete a entity in repository by id
+     *
+     * @param $id
+     *
+     * @return int
+     */
+    public function delete($id);
+
+    /**
+     * Order collection by a given column
+     *
+     * @param string $column
+     * @param string $direction
+     *
+     * @return $this
+     */
+    public function orderBy($column, $direction = 'asc');
+
+    /**
+     * Load relations
+     *
+     * @param $relations
+     *
+     * @return $this
+     */
+    public function with($relations);
+
+    /**
+     * Load relation with closure
+     *
+     * @param string $relation
+     * @param Closure $closure
+     *
+     * @return $this
+     */
+    public function whereHas($relation, $closure);
+
+    /**
+     * Add subselect queries to count the relations.
+     *
+     * @param  mixed $relations
+     * @return $this
+     */
+    public function withCount($relations);
+
+    /**
+     * Set hidden fields
+     *
+     * @param array $fields
+     *
+     * @return $this
+     */
+    public function hidden(array $fields);
+
+    /**
+     * Set visible fields
+     *
+     * @param array $fields
+     *
+     * @return $this
+     */
+    public function visible(array $fields);
+
+    /**
+     * Query Scope
+     *
+     * @param Closure $scope
+     *
+     * @return $this
+     */
+    public function scopeQuery(Closure $scope);
+
+    /**
+     * Reset Query Scope
+     *
+     * @return $this
+     */
+    public function resetScope();
+
+    /**
+     * Get Searchable Fields
+     *
+     * @return array
+     */
+    public function getFieldsSearchable();
+
+    /**
+     * Set Presenter
+     *
+     * @param $presenter
+     *
+     * @return mixed
+     */
+    public function setPresenter($presenter);
+
+    /**
+     * Skip Presenter Wrapper
+     *
+     * @param bool $status
+     *
+     * @return $this
+     */
+    public function skipPresenter($status = true);
+
+    /**
+     * Retrieve first data of repository, or return new Entity
+     *
+     * @param array $attributes
+     *
+     * @return mixed
+     */
+    public function firstOrNew(array $attributes = []);
+
+    /**
+     * Retrieve first data of repository, or create new Entity
+     *
+     * @param array $attributes
+     *
+     * @return mixed
+     */
+    public function firstOrCreate(array $attributes = []);
+
+    /**
+     * Trigger static method calls to the model
+     *
+     * @param $method
+     * @param $arguments
+     *
+     * @return mixed
+     */
+    public static function __callStatic($method, $arguments);
+
+    /**
+     * Trigger method calls to the model
+     *
+     * @param string $method
+     * @param array  $arguments
+     *
+     * @return mixed
+     */
+    public function __call($method, $arguments);
+}

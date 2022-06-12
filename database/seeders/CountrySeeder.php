@@ -1,31 +1,59 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\Country;
+use Illuminate\Database\Seeder;
+use App\Traits\ExcelReader;
+use Illuminate\Support\Facades\DB;
+
+class CountrySeeder extends Seeder
+{
+    use ExcelReader;
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+
+        // Country::factory()->create([
+        //     'name' => 'Indonesia',
+        //     'code' => 'ID',
+        //     'currencyCode' => 'Rp.'
+        // ]);
+        // Country::factory()->count(10)->create();
+
+        // $now = Carbon::now();
+        // $csv = new CsvtoArray();
+        // $file = __DIR__.'/../../resources/csv/countries.csv';
+        // $header = ['namr', 'code', 'currencyCode'];
+        // $data = $csv->csv_to_array($file, $header);
+        // $data = array_map(function ($arr) use ($now) {
+        //     $arr['meta'] = json_encode(['lat' => $arr['lat'], 'long' => $arr['long']]);
+        //     unset($arr['lat'], $arr['long']);
+
+        //     return $arr + ['created_at' => $now, 'updated_at' => $now];
+        // }, $data);
+
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Country');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[3],
+                'name' => $data[4],
+                'currencyId' => $data[6]
+            ];
+        }
+
+
+        DB::table(config('volt.indonesia.table_prefix').'countries')->insert($dataSeeder);
+
+    }
+}

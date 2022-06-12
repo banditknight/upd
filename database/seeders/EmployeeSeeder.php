@@ -1,39 +1,52 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-j9rasNHmPEISD+jfcLTh1TQkJtGpevs1yDW=
+<?php
+
+namespace Database\Seeders;
+
+use App\Traits\DateTrait;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class EmployeeSeeder extends Seeder
+{
+    use ExcelReader, DateTrait;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'Experts');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if ($data[0] === null) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'userId' => $data[0],
+                'vendorId' => $data[1],
+                'employeeStatusId' => $data[2],
+                'dob' => $this->dateToTimestamp($data[3]),
+                'pob' => $data[4],
+                'name' => $data[5],
+                'educationId' => $data[6],
+                'fieldOfStudyId' => $data[7],
+                'ktpNumber' => $data[8],
+                'jobExperienceAttachment' => $data[9],
+                'workPeriodId' => $data[10],
+                'certificateAttachment' => $data[11],
+                'certificateTypeId' => $data[12],
+            ];
+        }
+
+        DB::table('employees')->insert($dataSeeder);
+    }
+}

@@ -1,31 +1,55 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-UL8=
+<?php
+
+namespace App\Models\v1;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\TabGroup
+ *
+ * @property int $id
+ * @property int $windowId
+ * @property string $name
+ * @property string $description
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-read mixed $tabs
+ * @method static \Database\Factories\v1\TabGroupFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|TabGroup newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TabGroup newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TabGroup query()
+ * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereDescription($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereWindowId($value)
+ * @mixin \Eloquent
+ */
+class TabGroup extends AbstractModel
+{
+    use HasFactory;
+
+    protected $table = 'tabGroups';
+
+    protected $fillable = [
+        'windowId',
+        'name',
+        'description'
+    ];
+
+    protected $appends = [
+        'tabs'
+    ];
+
+    protected $hidden = [
+        'windowId',
+        'created_at',
+        'updated_at'
+    ];
+
+    public function getTabsAttribute()
+    {
+        return Tab::all()->where('tabGroupId', '=', $this->id)->except(['id']);
+    }
+}

@@ -1,40 +1,43 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-zFo32AklU73+J9LuimeiDZt1Id8CTbGEk3gOj/G=
+<?php
+
+namespace Database\Factories\v1;
+
+use App\Models\v1\Experience;
+use Carbon\Carbon;
+use Illuminate\Database\Eloquent\Factories\Factory;
+
+class ExperienceFactory extends Factory
+{
+    protected $model = Experience::class;
+
+    public function definition(): array
+    {
+    	return [
+            'userId' => 1,
+            'vendorId' => 1,
+            'businessTypeId' => 1,
+            'subBusinessTypeId' => 1,
+            'workPackageName' => $this->faker->sentence,
+            'workPackageLocation' => 'BSD City',
+            'contactOwner' => 'Suherman Atqiya',
+            'address' => 'BSD City',
+            'countryId' => 1,
+            'provinceId' => 1,
+            'cityId' => 1,
+            'districtId' => 1,
+            'postalCode' => '12140',
+            'contactPerson' => 'Suherman Atqiya',
+            'phoneNumber' => '6285848448707',
+            'contractNumber' => '1234567/NA/NI/NU',
+            'validFromDate' => Carbon::now()->format('d-m-Y'),
+            'validThruDate' => Carbon::now()->format('d-m-Y'),
+            'currencyId' => 1,
+            'contractValue' => 100000000,
+            'contractHandOverLetterDate' => Carbon::now()->format('d-m-Y'),
+            'contractHandOverLetterNumber' => 12345,
+            'contractHandOverLetterAttachment' => 1,
+            'testimony' => $this->faker->sentence,
+            'testimonyAttachment' => 1,
+    	];
+    }
+}

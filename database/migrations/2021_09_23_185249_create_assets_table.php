@@ -1,36 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-6wkkMYcObmoRxeGfBGFYjRos8pCsZm==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateAssetsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('assets', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId')->nullable();
+            $table->bigInteger('vendorId')->nullable();
+
+            $table->string('attachment');
+            $table->string('mimeType');
+            $table->string('docType')->nullable();
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('assets');
+    }
+}

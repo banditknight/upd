@@ -1,34 +1,45 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use App\Casts\Attachment;
+use App\Contracts\Transformable;
+use App\Traits\FormRequestAttributes;
+use App\Traits\TransformableTrait;
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Collection as BaseCollection;
+use Illuminate\Support\Str;
+
+abstract class AbstractModel extends Model implements Transformable
+{
+    use TransformableTrait, FormRequestAttributes;
+
+    public CONST DEFAULT_TIMESTAMP_FORMAT_MYSQL = 'Y-m-d H:i:s';
+
+    public CONST DEFAULT_TIMESTAMP_FORMAT_SQL_SERVER = 'Y-m-d H:i:s.u';
+
+    protected $hidden = [
+        // 'created_at',
+        // 'updated_at'
+    ];
+
+    public function getAttributes()
+    {
+        $attributeAttachment = preg_grep('/([aA]ttachment|logo)/', array_keys($this->attributes));
+
+        if ($attributeAttachment && !request()->routeIs('app.asset.store')) {
+            $foundAttribute = array_values($attributeAttachment);
+
+            $casts = [];
+            foreach ($foundAttribute as $attribute) {
+                $casts += [
+                    $attribute => Attachment::class,
+                ];
+            }
+
+            $this->mergeCasts($casts);
+        }
+
+        return parent::getAttributes();
+    }
+}

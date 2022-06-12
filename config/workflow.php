@@ -1,35 +1,137 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ZG==
+<?php
+
+// Full workflow, annotated.
+return [
+    // Name of the workflow is the key
+    'tender' => [
+        'type' => 'state_machine', // or 'state_machine', defaults to 'workflow' if omitted
+        // The marking store can be omitted, and will default to 'multiple_state'
+        // for workflow and 'single_state' for state_machine if the type is omitted
+        'marking_store' => [
+            'type' => 'single_state', // or 'single_state', can be omitted to default to workflow type's default
+            'property' => 'currentPlace', // this is the property on the model, defaults to 'marking'
+            'class' => \ZeroDaHero\LaravelWorkflow\MarkingStores\EloquentMarkingStore::class, // optional, uses EloquentMethodMarkingStore by default (for Eloquent models)
+        ],
+        // optional top-level metadata
+        'metadata' => [
+            // any data
+        ],
+        'supports' => [\App\Models\v1\Tender::class], // objects this workflow supports
+        // Specifies events to dispatch (only in 'workflow', not 'state_machine')
+        // - set `null` to dispatch all events (default, if omitted)
+        // - set to empty array (`[]`) to dispatch no events
+        // - set to array of events to dispatch only specific events
+        // Note that announce will dispatch a guard event on the next transition
+        // (if announce isn't dispatched the next transition won't guard until checked/applied)
+        'events_to_dispatch' => [
+            Symfony\Component\Workflow\WorkflowEvents::ENTER,
+            Symfony\Component\Workflow\WorkflowEvents::LEAVE,
+            Symfony\Component\Workflow\WorkflowEvents::TRANSITION,
+            Symfony\Component\Workflow\WorkflowEvents::ENTERED,
+            Symfony\Component\Workflow\WorkflowEvents::COMPLETED,
+            Symfony\Component\Workflow\WorkflowEvents::ANNOUNCE,
+        ],
+        'places' => [
+            'draft',
+            'inProgress',
+            'inApprovalLevelOne',
+            'inApprovalLevelTwo',
+            'inApprovalLevelThree',
+            'inApprovalLevelFour',
+            'inApprovalLevelFive',
+            'inApprovalLevelSix',
+            'done',
+            'rejected'
+        ],
+        'initial_places' => ['draft'], // defaults to the first place if omitted
+        'transitions' => [
+            'start_progress' => [
+                'from' => 'draft',
+                'to' => 'inProgress',
+                // optional transition-level metadata
+                'metadata' => [
+                    // any data
+                ]
+            ],
+            'mark_as_reject_to_draft' => [
+                'from' => 'rejected',
+                'to' => 'draft'
+            ],
+            'mark_as_in_approval_level_one' => [
+                'from' => 'inProgress',
+                'to' => 'inApprovalLevelOne',
+                'metadata' => [
+                    'role' => 'approveTenderLevelOne',
+                    'note' => [
+
+                    ],
+                ]
+            ],
+            'mark_as_in_approval_level_two' => [
+                'from' => 'inApprovalLevelOne',
+                'to' => 'inApprovalLevelTwo',
+                'metadata' => [
+                    'role' => 'approveTenderLevelTwo',
+                    'note' => [
+
+                    ],
+                ]
+            ],
+            'mark_as_in_approval_level_three' => [
+                'from' => 'inApprovalLevelTwo',
+                'to' => 'inApprovalLevelThree',
+                'metadata' => [
+                    'role' => 'approveTenderLevelThree',
+                    'note' => [
+
+                    ],
+                ]
+            ],
+            'mark_as_in_approval_level_four' => [
+                'from' => 'inApprovalLevelThree',
+                'to' => 'inApprovalLevelFour',
+                'metadata' => [
+                    'role' => 'approveTenderLevelFour',
+                    'note' => [
+
+                    ],
+                ]
+            ],
+            'mark_as_in_approval_level_five' => [
+                'from' => 'inApprovalLevelFour',
+                'to' => 'inApprovalLevelFive',
+                'metadata' => [
+                    'role' => 'approveTenderLevelFive',
+                    'note' => [
+
+                    ],
+                ]
+            ],
+            'mark_as_in_approval_level_six' => [
+                'from' => 'inApprovalLevelFive',
+                'to' => 'inApprovalLevelSix',
+                'metadata' => [
+                    'role' => 'approveTenderLevelSix',
+                    'note' => [
+
+                    ],
+                ]
+            ],
+            'mark_as_reject' => [
+                'from' => [
+                    'inApprovalLevelOne',
+                    'inApprovalLevelTwo',
+                    'inApprovalLevelThree',
+                    'inApprovalLevelFour',
+                    'inApprovalLevelFive',
+                    'inApprovalLevelSix',
+                ],
+                'to' => 'inProgress'
+            ],
+            'mark_as_done' => [
+                'from' => 'inApprovalLevelSix',
+                'to' => 'done'
+            ]
+        ],
+    ]
+];

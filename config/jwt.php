@@ -1,33 +1,306 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+/*
+ * This file is part of jwt-auth.
+ *
+ * (c) Sean Tymon <tymon148@gmail.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | JWT Authentication Secret
+    |--------------------------------------------------------------------------
+    |
+    | Don't forget to set this in your .env file, as it will be used to sign
+    | your tokens. A helper command is provided for this:
+    | `php artisan jwt:secret`
+    |
+    | Note: This will be used for Symmetric algorithms only (HMAC),
+    | since RSA and ECDSA use a private/public key combo (See below).
+    |
+    */
+
+    'secret' => env('JWT_SECRET'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | JWT Authentication Keys
+    |--------------------------------------------------------------------------
+    |
+    | The algorithm you are using, will determine whether your tokens are
+    | signed with a random string (defined in `JWT_SECRET`) or using the
+    | following public & private keys.
+    |
+    | Symmetric Algorithms:
+    | HS256, HS384 & HS512 will use `JWT_SECRET`.
+    |
+    | Asymmetric Algorithms:
+    | RS256, RS384 & RS512 / ES256, ES384 & ES512 will use the keys below.
+    |
+    */
+
+    'keys' => [
+
+        /*
+        |--------------------------------------------------------------------------
+        | Public Key
+        |--------------------------------------------------------------------------
+        |
+        | A path or resource to your public key.
+        |
+        | E.g. 'file://path/to/public/key'
+        |
+        */
+
+        'public' => env('JWT_PUBLIC_KEY'),
+
+        /*
+        |--------------------------------------------------------------------------
+        | Private Key
+        |--------------------------------------------------------------------------
+        |
+        | A path or resource to your private key.
+        |
+        | E.g. 'file://path/to/private/key'
+        |
+        */
+
+        'private' => env('JWT_PRIVATE_KEY'),
+
+        /*
+        |--------------------------------------------------------------------------
+        | Passphrase
+        |--------------------------------------------------------------------------
+        |
+        | The passphrase for your private key. Can be null if none set.
+        |
+        */
+
+        'passphrase' => env('JWT_PASSPHRASE'),
+
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | JWT time to live
+    |--------------------------------------------------------------------------
+    |
+    | Specify the length of time (in minutes) that the token will be valid for.
+    | Defaults to 1 hour.
+    |
+    | You can also set this to null, to yield a never expiring token.
+    | Some people may want this behaviour for e.g. a mobile app.
+    | This is not particularly recommended, so make sure you have appropriate
+    | systems in place to revoke the token if necessary.
+    | Notice: If you set this to null you should remove 'exp' element from 'required_claims' list.
+    |
+    */
+
+    'ttl' => env('JWT_TTL', 60),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Refresh time to live
+    |--------------------------------------------------------------------------
+    |
+    | Specify the length of time (in minutes) that the token can be refreshed
+    | within. I.E. The user can refresh their token within a 2 week window of
+    | the original token being created until they must re-authenticate.
+    | Defaults to 2 weeks.
+    |
+    | You can also set this to null, to yield an infinite refresh time.
+    | Some may want this instead of never expiring tokens for e.g. a mobile app.
+    | This is not particularly recommended, so make sure you have appropriate
+    | systems in place to revoke the token if necessary.
+    |
+    */
+
+    'refresh_ttl' => env('JWT_REFRESH_TTL', 1440),
+
+    /*
+    |--------------------------------------------------------------------------
+    | JWT hashing algorithm
+    |--------------------------------------------------------------------------
+    |
+    | Specify the hashing algorithm that will be used to sign the token.
+    |
+    | See here: https://github.com/namshi/jose/tree/master/src/Namshi/JOSE/Signer/OpenSSL
+    | for possible values.
+    |
+    */
+
+    'algo' => env('JWT_ALGO', 'HS256'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Required Claims
+    |--------------------------------------------------------------------------
+    |
+    | Specify the required claims that must exist in any token.
+    | A TokenInvalidException will be thrown if any of these claims are not
+    | present in the payload.
+    |
+    */
+
+    'required_claims' => [
+        'iss',
+        'iat',
+        'exp',
+        'nbf',
+        'sub',
+        'jti',
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Persistent Claims
+    |--------------------------------------------------------------------------
+    |
+    | Specify the claim keys to be persisted when refreshing a token.
+    | `sub` and `iat` will automatically be persisted, in
+    | addition to the these claims.
+    |
+    | Note: If a claim does not exist then it will be ignored.
+    |
+    */
+
+    'persistent_claims' => [
+        // 'foo',
+        // 'bar',
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Lock Subject
+    |--------------------------------------------------------------------------
+    |
+    | This will determine whether a `prv` claim is automatically added to
+    | the token. The purpose of this is to ensure that if you have multiple
+    | authentication models e.g. `App\User` & `App\OtherPerson`, then we
+    | should prevent one authentication request from impersonating another,
+    | if 2 tokens happen to have the same id across the 2 different models.
+    |
+    | Under specific circumstances, you may want to disable this behaviour
+    | e.g. if you only have one authentication model, then you would save
+    | a little on token size.
+    |
+    */
+
+    'lock_subject' => true,
+
+    /*
+    |--------------------------------------------------------------------------
+    | Leeway
+    |--------------------------------------------------------------------------
+    |
+    | This property gives the jwt timestamp claims some "leeway".
+    | Meaning that if you have any unavoidable slight clock skew on
+    | any of your servers then this will afford you some level of cushioning.
+    |
+    | This applies to the claims `iat`, `nbf` and `exp`.
+    |
+    | Specify in seconds - only if you know you need it.
+    |
+    */
+
+    'leeway' => env('JWT_LEEWAY', 0),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Blacklist Enabled
+    |--------------------------------------------------------------------------
+    |
+    | In order to invalidate tokens, you must have the blacklist enabled.
+    | If you do not want or need this functionality, then set this to false.
+    |
+    */
+
+    'blacklist_enabled' => env('JWT_BLACKLIST_ENABLED', true),
+
+    /*
+    | -------------------------------------------------------------------------
+    | Blacklist Grace Period
+    | -------------------------------------------------------------------------
+    |
+    | When multiple concurrent requests are made with the same JWT,
+    | it is possible that some of them fail, due to token regeneration
+    | on every request.
+    |
+    | Set grace period in seconds to prevent parallel request failure.
+    |
+    */
+
+    'blacklist_grace_period' => env('JWT_BLACKLIST_GRACE_PERIOD', 0),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Cookies encryption
+    |--------------------------------------------------------------------------
+    |
+    | By default Laravel encrypt cookies for security reason.
+    | If you decide to not decrypt cookies, you will have to configure Laravel
+    | to not encrypt your cookie token by adding its name into the $except
+    | array available in the middleware "EncryptCookies" provided by Laravel.
+    | see https://laravel.com/docs/master/responses#cookies-and-encryption
+    | for details.
+    |
+    | Set it to true if you want to decrypt cookies.
+    |
+    */
+
+    'decrypt_cookies' => false,
+
+    /*
+    |--------------------------------------------------------------------------
+    | Providers
+    |--------------------------------------------------------------------------
+    |
+    | Specify the various providers used throughout the package.
+    |
+    */
+
+    'providers' => [
+
+        /*
+        |--------------------------------------------------------------------------
+        | JWT Provider
+        |--------------------------------------------------------------------------
+        |
+        | Specify the provider that is used to create and decode the tokens.
+        |
+        */
+
+        'jwt' => Tymon\JWTAuth\Providers\JWT\Lcobucci::class,
+
+        /*
+        |--------------------------------------------------------------------------
+        | Authentication Provider
+        |--------------------------------------------------------------------------
+        |
+        | Specify the provider that is used to authenticate users.
+        |
+        */
+
+        //'auth' => Tymon\JWTAuth\Providers\Auth\Illuminate::class,
+
+        'auth' => \App\Contracts\Providers\Auth::class,
+
+        /*
+        |--------------------------------------------------------------------------
+        | Storage Provider
+        |--------------------------------------------------------------------------
+        |
+        | Specify the provider that is used to store tokens in the blacklist.
+        |
+        */
+
+        'storage' => Tymon\JWTAuth\Providers\Storage\Illuminate::class,
+
+    ],
+
+];

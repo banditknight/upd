@@ -1,34 +1,45 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-mIIlWa3ff4tcf+7fdde=
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use App\Traits\ExcelReader;
+
+class WorkflowNodeSeeder extends Seeder
+{
+    use ExcelReader;
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'WFNode');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if ($data[0] === null) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1],
+                'name' => $data[2],
+                'description' => $data[3],
+                'comment' => $data[4],
+                'action' => $data[5],
+                'columnName' => $data[6],
+                'workflowId' => $data[7],
+                'responsibleRoleId' => $data[8],
+            ];
+        }
+
+        DB::table('workflowNodes')->insert($dataSeeder);
+    }
+}

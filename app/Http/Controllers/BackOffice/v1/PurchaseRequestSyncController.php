@@ -1,32 +1,26 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-q8GsBtzFJQ1IfMtT
+<?php
+
+namespace App\Http\Controllers\BackOffice\v1;
+
+use App\Http\Requests\ResourceRequest;
+use Illuminate\Http\JsonResponse;
+use Illuminate\Support\Facades\Artisan;
+
+class PurchaseRequestSyncController extends ResourceController
+{
+    /**
+     * @throws \JsonException
+     */
+    public function store(ResourceRequest $resourceRequest): JsonResponse
+    {
+        Artisan::call('pr:sync');
+        $output = Artisan::output();
+
+        $data['data'] = is_string($output) ?
+            json_decode($output, true, 512, JSON_THROW_ON_ERROR) : [];
+
+        return $this->responseSuccess(
+            $data
+        );
+    }
+}

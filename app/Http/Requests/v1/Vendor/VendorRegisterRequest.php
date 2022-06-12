@@ -1,58 +1,151 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Requests\v1\Vendor;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\AlphaSpaceDotNumber;
+use App\Rules\CityValid;
+use App\Rules\CompanyTypeValid;
+use App\Rules\CountryValid;
+use App\Rules\DistrictValid;
+use App\Rules\DomainValid;
+use App\Rules\FileValid;
+use App\Rules\ProvinceValid;
+use App\Rules\ReferenceValid;
+use App\Rules\VendorTypeInformationValid;
+
+class VendorRegisterRequest extends \App\Http\Requests\AbstractRequest
+{
+    protected function validationData(): array
+    {
+        return $this->all();
+    }
+
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'domainId' => [
+                'required',
+                new DomainValid()
+            ],
+            'companyTypeId' => [
+                'required',
+                new CompanyTypeValid()
+            ],
+            'name' => [
+                'required',
+                new AlphaSpaceDotComma()
+            ],
+            'vendorTypeInformation' => [
+                'required',
+                new VendorTypeInformationValid()
+            ],
+            'presidentDirectorName' => [
+                'required',
+                new AlphaSpaceDotComma()
+            ],
+            // 'referenceId' => [
+            //     'required',
+            //     new ReferenceValid()
+            // ],
+            'secondAddress' => [
+                new AlphaSpaceDotNumber()
+            ],
+            'address' => [
+                'required'
+            ],
+            'countryId' => [
+                'required',
+                new CountryValid()
+            ],
+            'provinceId' => [
+                'required',
+                new ProvinceValid()
+            ],
+            'cityId' => [
+                'required',
+                new CityValid()
+            ],
+            'districtId' => [
+                'required',
+                new DistrictValid()
+            ],
+            'postalCode' => [
+                'required',
+                'integer'
+            ],
+            'phone' => [
+                'required',
+                'numeric',
+                'unique:vendors,phone'
+            ],
+            // 'faxMailNumber' => 'required',
+            'email' => [
+                'required',
+                'unique:vendors,email'
+            ],
+            // 'website' => [
+            //     'url'
+            // ],
+            'picFullName' => [
+                'required',
+                new AlphaSpaceDotComma()
+            ],
+            'picMobileNumber' => [
+                'required',
+                'numeric',
+                'unique:users,phone'
+            ],
+            'picEmail' => [
+                'required',
+                'unique:users,email'
+            ],
+            // 'pkpNumber' => [
+            //     'required',
+            //     'numeric',
+            // ],
+            // 'pkpAttachment' => [
+            //     'required',
+            //     new FileValid()
+            // ],
+            'taxIdentificationNumber' => [
+                'required',
+                'numeric',
+                'digits_between:15,16',
+                'unique:vendors,taxIdentificationNumber'
+            ],
+            'taxIdentificationAttachment' => [
+                'required',
+                new FileValid()
+            ],
+            'isAcceptTermAndCondition' => 'required'
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

@@ -1,30 +1,52 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+/**
+ * App\Models\v1\TenderInvitedVendor
+ *
+ * @property int $id
+ * @property string $description
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderInvitedVendor newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderInvitedVendor newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderInvitedVendor query()
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderInvitedVendor whereCode($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderInvitedVendor whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderInvitedVendor whereDescription($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderInvitedVendor whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|TenderInvitedVendor whereUpdatedAt($value)
+ * @mixin \Eloquent
+ */
+
+class TenderInvitedVendor extends AbstractModel
+{
+    protected $table = 'tenderInvitedVendors';
+
+    protected $fillable = [
+        'tenderId',
+        'invitedVendorId',
+        'description'
+    ];
+
+    protected $hidden = [
+        'tenderId',
+        'invitedVendorId',
+    ];
+
+    protected $appends = [
+        'tender',
+        'vendor',
+    ];
+
+    public function getTenderAttribute()
+    {
+        return Tender::find($this->tenderId)->only(['id','name','registrationNumber']);
+    }
+
+    public function getVendorAttribute()
+    {
+        return Vendor::find($this->invitedVendorId)->only(['id','name','registrationNumber']);
+    }
+}

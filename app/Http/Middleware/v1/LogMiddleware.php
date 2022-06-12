@@ -1,81 +1,106 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPuuCNinSsABZ6SRBxz8jG8DDbhsmvB78EycP1fFEYUe3AIzsHU1a/Bj30vYEFMjwmvtcWmyj
-3/CDd32ssxu/x6/F6vz/GypYU+bH59kL/V73/TXasiDsCtZ07FrCxr6WjUtA+i2h8C2VOemXHN2e
-WmMQPvvWdsMSSKNs5NCQ+SsIPkk0CLmpYnQgwguJUaJlAYma5dx6adGrO7ub6BHsm6nCqh+3DUsS
-QTPkpA6/CazqT43rbnwQinF91DvU8WSLFL7GITRIqy7g1FC8JQXjfhR5mTKdRindS7tHeyMgTMvs
-H+6G182Oxebv1wXFLdNEzhraG8/RhWc61B4IEWyNY0glxOrKvRVNPOw8Iz/aQG8k+YWWrf0f6KlP
-jP4v8RWoI+nt4RhP8Tlzn4aOPSWTKmjmUlsjfIimU5zuWnR8OfvlYYPfAvSsQUb2L8YlGfyK2yZl
-irBt6v1sfse0mva4yr8+PEqU3eJcFNwv+y14r7kejbDjfKTrArZM4VZu16yp9OkfLBN7E4dOShsy
-dcLBTdmB1m68Y3Ay/308IPlgK1n4AXFBmgL1xSyS9UUJ0jykJavhIUYEOm1INNDMjwsaNcJ75elA
-avIIYZQsEK5w32Z6CjDlp3Bmxn8kPCxGxdynqDz756k2pbGmdjwSCSXafsSG64bYDsMeZyoEKMaM
-tT+LTbuX85wg4FCea4SMzSMTEJZfRXZOb9uk6++3oG/7bz3EtjH1SS8Fx0IMm52/QP5Qw2fdxz1U
-GPGHnQAmpIDlWbYpw9ndbKeV2xt3NRF5qe2KzcsyEPr59JOlk79qHyF/zss3M9enWECsDJ/Udtcw
-RJwv51w41qkUUSgRr92kml5/eiPa+UdjaC6AmLrVxf2zjlAWImy3vsExp4J3U+M0RaqOJ7bbwaSr
-4dEGmmnQH3h4qr0uRhmfsNDhGtwCCslwpV4P83PLjebpjdtbMbQ5ql9XbhTwXD1ajMhDrYfyGClL
-dfKnwG2F8SiqtoG6/t4FmYJSxv2Vdtiucu5fRIy0NcwWKaU3LFewRkEGHjx2+g051AOIEBiTxXB+
-PsoCrm/YOJDofiqupN+jBqIm3PaYrqR4DFedfFWClqSTXjEVVltp3oBr9Y2FsCaDp6ieQ5ztSYgt
-m81YEtNlz4/xej17yRSj7v6RiNdFBGprPpsREdRZiTuPWvHQGuMyOjpd5JJZMnLwwGELc0EdfRoP
-WYTWAazHUtsGhlv5yM92YUwPHM5AagyTBziT9p/D9EY5KcByReCLVFHYK1QEPeJ/w0XM/xZ6S5w+
-NWOFUvGqhMN2MeIIHAj9xnlFFlZSjhP2WxvKXkd2riKTMoHF09/1a2J/Xu4tAZqe9oS+9GBxW9kT
-H0ZjpaILAsOl8fhdP1Hez2kGeGoDVGKv3w+gmwnOKHe5C8YVI0vZorUnjN4lWAZpgH4D9zdK4Gxz
-pMiFg86umu9W+EZyuDBVW8TAtTs3+4hM/DAso4FI0/9apgswx2oVoHFtZe24gTRaJuDyJzPdfgO3
-TEBXe8dfECZWHatzHIj+7OpGLljViS9yUyE113/qQq/TVt/LWsgLwRPTTrPXguLDKhCmArPb52Bs
-5gfgFsysU8K6CR1dHeGq16kko62a2+1I1EutJIgbiJ2146hRjVAYWDxiy/7VMseZygn84QrH+OSj
-72VX1pHw8nbUsoDeJ//Z9y9MjhP8UwOz0RmJpDOfXUZGC9LHrTB21pcYG2St5H0gnx9fQExsbK47
-L9PExWDzFL9KCCcgIpqL9S4uL290Jo+bYYNtVur1L7eRLt9WJ2sSOdg2iINaErjM1zCGC+kWpNsN
-6MIVxmrViEHpN3Sq0lPc2pO1cioLpBEorzGDEIxRlcygqokhP21Gbqgq7hMXVOXDyNPgWzMoqwcL
-eIlw8pJR/Lt0gtk7zfMyY7JoHKMkIwn2r57uu7LPLgMIstXhS5frXJ2Yofkt3ZbznGRuQ/9ka0fh
-26PA4ygYo0vNkUbivu/mpHQlD3VBCrFVu+TDvheD1RScboA6htbfBlixTygPEban7Gq0g/yCwXhK
-tauHER5DIpKlRjn6WL8b9ahhMUFgNvtKTGaL9wq3GQnCxj0ekDq+HwMACUIV3a/aIQKFMYb+d8UK
-7U9jH7lqIQ9DlOh4YpfK1pvDyt85FIiwwvW58/ERsTsR98q0CX0+LblVc1DO1xL5cxXsXuHq4RQ7
-K5ciaYiO7XH/cMoOCF60rjBCl2/1jF1EDg7Kq18HLkWb6Sr5KfvU/SkSqShTtoXrYP+M0Xz2lG8e
-CQuArKxuJyGLarWE5Fjm9J4eQKWUV0iPCp0CcxRzyhDBv4PK374Llj0fZHPw50J43KzSS11vIOTQ
-PWPLjbVAeAwCxc13oBTZRJYqDINwP09j7sg2bhwKrZYtXsITg4PfuxBLctWvpcMdYVBGMcRGKN5S
-dJQ5h0uIMoBFbJ7rVAW4Wa0zYUj1E/G1PYUDniiDN2lrI8WtFu/McmW1g0EMkhSsAgirlU1Po75h
-dSs0aacrGSaHNN+WVFxmzmxocpBGV5p9re0sw85gBb6ZxQooAIemMqp4l4SZH1xsHBT310tTebh4
-sP+LVmAXHw1hif0HKnvAGYBS+RUoeP78faSKcCaJIjUw08WmDJLQn5ndGSmZfS502Z5Gl/8dwXVj
-Qt1DFNm6FZ6A6icoVWzMMdGFNFW2waUFK2OYPFBCQ2g+mhpr2Yyp5OpmjqRALRojVbTUX1D/L1pm
-NnqFXJaavju4DXCtS+/kh5eZixdA8ZD2BIhFI/vI4/SmHUcU/Qzoojzu+U4ftvRrGlpwLzVZglSW
-56AhZ61niqp7oJXD+bnKrhfO20BXFT6UOdodlkeQKhjhsGAuRbnye128DHrhGlKjOFrTPnNDp28x
-wFQgHLqCs0FDTOM2dHS54kQFtN+LRln66E/lE3q0dfbsdtUti4JSmNKGMxX2FLrRhcLuFkDoXDoa
-pK5jZdLFgjaxlzeN9QA5f4lJrDw5yKACQIp4kIrrxffNHGhijZ7Pz9jUi5rNrlMb/0zlNwTz8/4A
-c/bBuJkjzI5q12TmPvcHSyTHluMEjpC8j4XiNwCDhLIxpX5mrYDYsONt0YMBuBIGp8gZWZ5sWT+t
-3rwIfQYC4zjAhyyX8NGvzK/X7EZymk5LvF94n/45ssaMzjzee+PSbGaQRUPyJq6D4M6Drhu4Nl+o
-bQWCO4iXkMDElw+0gdIABHTbwcQDJ9WWCW/1oAjeI4PGXQl9kvNwz8/26gRk1XrS5ZU2mJccZ807
-V0ta8c8LBHUu9TbzZiDkp2awldusDSIVu9Ewo/kLjKYajuZC2W9FOOgK1aTNESQbChCtMdevSzJb
-6BSM58skWMmrlQeW+JzhCWqQUYY9Nsqsrk94aH33fJUbZ8gOptQk3W0DqhUTsILpYxjydk79G2vX
-rLh/mzAOyoAWVgj0bAjrtm2/5eHoyerYudymdP/ItVuc6wJoCVULmwLEBGT7heBJd74VnHcsCqu1
-SUPcqcC32WSLRCG36D2+csswIqf7/i9fhl7RQeIj57YRYOhVhgB+gsH9DW6jCsXcToQKfHoZTFZp
-1amaSjdsCxeCyrIUF+p53Bfs6HJJ18kEh9JMUudWC8UzkhJLezKZT6qG9qXotC3arK3dj1gc+NDY
-qzgV8ehfztH2lNe5qdHYQeMxtLLQUoZrZlywFHf5i0K4yTt2G7JaKlRsUtjWe7VcVIYk2HnBhxyx
-Vd5/NC1UbixK9fiDqgi/q4s38lRrj6eWZlP+pU8QSFzbPyDDjfYYIrIxDiZCiLDq0vuiwXhl3Mw9
-KdQd+gParb6c0q39xKY0vBVpB++76cREV+JLTQ3kd77iV2/LXHgntFnqSj0PBG24QXu75+FQgiM3
-MCj0VPiL0KidITx60MhyuGnAUsN1bpvVdG5ZscgPsPhi5kEL0wIwZjrioZrtsFjwOOZ4jNvVmL9A
-uUcFLrhMHBWJNOkXblIdRZgRM9pWBOfT/7PL6/hZWleGQGDAW6gXYJukb/K5oDZEe0ZDnjjdElqh
-aNlULineTGkqrogoJx5IwXFh9kEXaivLJM9h4AMDBoiQ9SM83gxqP3erkkjrpFXdBgwQzk+KzQUb
-xarm/qDWkuvYWrDaZOHTW2rh2jfOYad40xmT7NCkXJYQwV/sUySJQgic/hVvn9HB0Ud3L4DtEIn+
-YPRnmkpydHUVHsD4Z9fbj8GmhDUMOd8DbsoyeqGbjeFVRZQgbBxIjaxrsMi2c/XxlD1i/VvYbUVy
-JYhjI/tR3xdcMM+oykqO7jlHP6g2+vRK5nukCfLisNM8JTBzi/40hhtVR+ZdwIG6QB3YL9AfRrul
-W8tqOYZpjwmnidd+vcjCvAVTbuuALxgf6Cg7BSoHdBsRhO+cEqIvaaBc8lvGs5pmnjU9mDETfJRg
-I9Tb1rYGmbonen/pzsaCXdzY9528yic5rshkeRytypt/ui1LZgbern0sKujlOmd6JyCneTUQQzKO
-3u/mbSkxZ3WME1nRp/Fi4WojNxHSQz7cNSIaB2yFl3xBPPGKnLeCDlXjPVbvfONwR+hb5id+JAgJ
-BhrbW86x/KjKsIwZOzgS9KiLyPIlGSwBT6wO6dohWhuDPof/Xy/tiX7jdC47bnJFutBd49WcVksN
-spbAisgou81i1HsKU7usZ/vgDzna/NjxI/nWKsYzQsVK6UDEuHR2sQKwsxwvthM3a9ZWEes9Oxsv
-1+zoOsb/IQ0dy09P5kfPdggqYLfn8NCB2iRvU+AqL0kGnyrbNuMwAwD7jnm1M1TbRcUez2jH5jPJ
-UCRNH5dfd8fvfW4PZyY3yQxabKXoE3J6wqrDwVnH1F/PBnHrdsIHyX2uJHw39sCKh6AFoABlGoEz
-vnUIHIRr5qHKDU+UkTONZzzt8rA/WAfzeA2lBGVfcZgfooClg8GzEALzImoN9cHkNpFPqBpT3gqW
-VTRo0b7BGiiESceS++Sxp7ScWxeffC4agP09FsYr6+u//tutU6v/v4t3tHQTznDWxy0oQM4+UdPA
-JgU3/w1z/zISQ4IBziTnHG8n8sR0/aJdz3xczyVY8owTqNpEUPgxPxESSNuj/DWgwO2iNIPw1qjs
-9AaTPlGOqD9n7kIxaF3jtMCc0R+SBo8iS14mlgFs4Td8GXylC8TYntiGLxa/cWy5tXHE6/Hdk8bI
-4de2TWXk00iI1K1wYcEh9TG9Uy2zTuC/7PeoDey67RZ16Hv0gnAMAekk/Nglt7Z6Ryt4yDn6NCEp
-jVgawsB6Iiv7wYboGu2kb8KlKnFJ0uqA2g0wydc0J5r4dBcxi9dxahgghg59/hsHC2JynxT9VIeh
-6SeN7RAo37r+yNc3uBJ+o98BqT4DgTWt+h5Ws0KB6yWDcQAFL6g7DepWK9G4qP16WfQkmLhCtCxf
-wtvldIY6FywA7iZEA+mTnU9dvhZOo3WMk3WwCv12BkQ9wCBUBn/8/j3ZAHnLdNzJ5HliTPH6L7vz
-9cauwc2ICaWex4f1+Jl/1oAOC5C/ELENxs3l5KMwTYLq78Dutd2Hk/Df291B3D6L06UEqEB6NmIn
-i6/tDkp81JbDPwuvMlJhOsXJCR3nqyiM1YWty+lwGwWHTZzKW4B33W2DABnDdGsgoEdc4XSMStLK
-0xxiB7G/KGpwjFohDUDise0kkQGPTPd+FK4DFg4oFtQEojXdXItmaLDZtiPzGfw3z0QFXnY2Cr+V
-5hmw5mH/xlxmw+ki0Q9C2iyG2Ayz4y4eeYAAffOvHR6Lkno94H7oLq1l/1Zd/wpm97PM4uZurbh2
-wwU2BmJXPVRKa1KjoOAc7QLvvqyJuHoqkJOd6hzmQJyLnjPu3sR1p94wDWpmAKPhJJBMq++cWWMp
-OGzotW==
+<?php
+
+namespace App\Http\Middleware\v1;
+
+use App\Traits\Log;
+use Closure;
+use Illuminate\Database\Eloquent\Model;
+use Symfony\Component\HttpFoundation\Request;
+
+class LogMiddleware
+{
+    use Log;
+
+    /**
+     * Handle an incoming request.
+     *
+     * @param \Illuminate\Http\Request $request
+     * @param \Closure $next
+     * @return mixed
+     * @throws \JsonException
+     */
+    public function handle($request, Closure $next)
+    {
+        // Pre-Middleware Action
+        $method = $request->getMethod();
+
+        $logData['request'] = $request->all();
+        $logData['header'] = $request->headers->all();
+        $logData['httpMethod'] = $method;
+        $logData['oldValue'] = null;
+        $logData['newValue'] = null;
+        $logData['table'] = null;
+        $logData['recordID'] = null;
+        $logData['ipAddress'] = $request->ip();
+        $logData['action'] = 0;
+        $logData['token'] = empty(request()->header('Authorization')) ? null : explode(' ',request()->header('Authorization'))[1];
+
+        $logData['userId'] = $request->get('userId');
+        $logData['vendorId'] = $request->get('vendorId');
+
+        $model = null;
+        $modelId = null;
+
+        unset( $logData['request']['password']);
+
+        if ($method === Request::METHOD_PUT || $method === Request::METHOD_POST || $method === Request::METHOD_DELETE) {
+
+            if($method === Request::METHOD_POST) $logData['action'] = 2; // CREATE
+            if($method === Request::METHOD_PUT) $logData['action'] = 3; // UPDATE
+            if($method === Request::METHOD_DELETE) $logData['action'] = 4; // DELETE
+
+            $route = request()->route();
+
+            if(!empty($route[1]['model'])){
+                $model = $route[1]['model'];
+                $logData['table'] = app($model)->getTable();
+                
+                if(!empty($route[2]['id'])){
+                    $modelId = $route[2]['id'];
+                    $oldValue = [];
+                    if(class_exists($model)){
+                        $logData['recordID'] = $modelId;
+
+                        $oldValue = $model::find($modelId);
+                        if($oldValue instanceof Model){
+                            $oldValue = $oldValue->toArray();
+                        }else{
+                            $oldValue = [];
+                        }
+                    }
+
+                    $logData['oldValue'] = $oldValue;
+                }
+            }
+
+        }
+
+        $response = $next($request);
+
+        // Post-Middleware Action
+        if($response instanceof \Illuminate\Http\JsonResponse){
+            $logData['response'] = $response->getData(true);
+            if(!empty($logData['response']['data']['accessToken'])){
+                $logData['action'] = 1;
+                $logData['token'] = $logData['response']['data']['accessToken'];
+                $logData['userId'] = $logData['response']['data']['id'];
+            }
+        }
+
+        if($model != null){
+            if(!empty($response->getData(true)['data']['id'])){
+                $modelId = $response->getData(true)['data']['id'];
+                $logData['recordID'] = $modelId;
+                $logData['newValue'] = $model::find($modelId) ? $model::find($modelId)->toArray() : [];
+            }
+        }
+
+        $logData['status'] = $response->status();
+
+        if($logData['action'] == 1){
+            $this->info($logData);
+        }
+
+        return $response;
+    }
+}

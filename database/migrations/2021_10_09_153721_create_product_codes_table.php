@@ -1,34 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateProductCodesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('productCodes', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('productGroupCodeId');
+            $table->string('code')->unique();
+            $table->string('name');
+            $table->string('description')->nullable();
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('productCodes');
+    }
+}

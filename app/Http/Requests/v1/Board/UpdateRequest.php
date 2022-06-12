@@ -1,54 +1,102 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Requests\v1\Board;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\BoardTypeNotValid;
+use App\Rules\FileValid;
+use App\Rules\NationalityValid;
+
+class UpdateRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'boardTypeId' => [
+                'required',
+                'integer',
+                new BoardTypeNotValid()
+            ],
+            'nationalityId' => [
+                'required',
+                'integer',
+                new NationalityValid()
+            ],
+            'isListed' => [
+                'required',
+                'boolean'
+            ],
+            'isCompanyHead' => [
+                'required',
+                'boolean'
+            ],
+            'name' => [
+                'required',
+                'min:3',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+            'position' => [
+                'required',
+                'min:2',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+            'taxIdentificationNumber' => [
+                'required',
+                'numeric',
+                'digits_between:15,16',
+                sprintf('unique:boards,taxIdentificationNumber,%s', $this->modelId())
+            ],
+            'taxIdentificationAttachment' => [
+                new FileValid()
+            ],
+            'ktpNumber' => [
+                'required_if:nationalityId,1',
+                'numeric',
+                'digits_between:15,16',
+                sprintf('unique:boards,ktpNumber,%s', $this->modelId())
+            ],
+            'ktpAttachment' => [
+                new FileValid()
+            ],
+            'kitasNumber' => [
+                'exclude_if:nationalityId,1',
+                'required',
+                'digits_between:10,16',
+                sprintf('unique:boards,kitasNumber,%s', $this->modelId())
+            ],
+            'kitasAttachment' => [
+                'exclude_if:nationalityId,1',
+                new FileValid()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

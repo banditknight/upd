@@ -1,38 +1,76 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use Carbon\Carbon;
+
+/**
+ * App\Models\v1\Certification
+ *
+ * @property int $id
+ * @property int $userId
+ * @property int $vendorId
+ * @property int $certificationTypeId
+ * @property string $description
+ * @property int $validFrom
+ * @property int $validThruDate
+ * @property string $attachment
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-write mixed $valid_from
+ * @property-write mixed $valid_thru_date
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification whereAttachment($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification whereCertificationTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification whereDescription($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification whereValidFrom($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification whereValidThruDate($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Certification whereVendorId($value)
+ * @mixin \Eloquent
+ * @property-read mixed $certification_type
+ */
+class Certification extends AbstractModel
+{
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'certificationTypeId',
+        'description',
+        'validFrom',
+        'validThruDate',
+        'attachment'
+    ];
+
+    protected $hidden = [
+        'userId',
+        'vendorId',
+        'certificationTypeId',
+        'updated_at',
+        'created_at'
+    ];
+
+    protected $appends = [
+        'certificationType'
+    ];
+
+    public function setValidFromAttribute($value)
+    {
+        $this->attributes['validFrom'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function setValidThruDateAttribute($value)
+    {
+        $this->attributes['validThruDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
+    }
+
+    public function getCertificationTypeAttribute()
+    {
+        return CertificationType::find($this->certificationTypeId);
+    }
+}

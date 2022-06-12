@@ -1,32 +1,42 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\SubBusinessType;
+use Illuminate\Database\Seeder;
+use App\Traits\ExcelReader;
+use Illuminate\Support\Facades\DB;
+
+class SubBusinessTypeSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'SubBusiness');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if (!is_numeric($data[0])) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'businessTypeId' => $data[0],
+                'code' => $data[1],
+                'name' => $data[2]
+            ];
+        }
+
+        DB::table('subBusinessTypes')->insert($dataSeeder);
+    }
+}

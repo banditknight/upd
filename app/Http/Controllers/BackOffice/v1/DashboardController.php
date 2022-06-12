@@ -1,76 +1,200 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPrmrIpwkbayoj/pU7V5gfAwR0vCJZO4HuP2uDx4e6JdmqVZVPhMKYZX7m5fA9L7/3eu5Xav3
-J5Psjhi3p6mVEN5SeAe9yE/IIn0nBzqJak2+MLDHTI2ccRx/uiK+TZMnIc+6Wsi73/QW+MIz66fW
-1029/zkdISGjpzheDxdCiCpa/915gum6QUC2b2GiE+Qzz/19FmE03kYrf1MI5Bz1+CSGoQUFxXcH
-RwwOkBCQRtRYILwvBjzNSmq+eVHCAePvlwlrrjBJmUe4ymXDg6scjiN1rILhp7soFmBJf+jYMdR7
-yevsDRYZV0WYD/RykPbTIme5TTBQOIn7q6kwvkWLrvt1hSedMkBIWeNm6a2GL4ilEsN3vqA4w3tc
-bj86OBWRnfc/WTMoYt7+8BrkUZBv4EjT3yBTw6t5p/mFmqsht1I2kXeMAZZpZndtx6wmbXLuMDEI
-1Xpkfbc/3EeX1TZtUeUqFfso1V0+VWAq3bvAoViehXF1/tUf13GPJCrBr8Pm3mljWePfWMBDY+rh
-LuyqU2yoHvHq3/bbsB7k1ekB9yY35o5mi/Bwx92YRy/WGbPWvCmWdsZuXpkWTsFkYFJVc9XF7Ioe
-IlKDgC22kX3eFiKWWGu0mIOOSfvAZLeMOnQpwb+ygrlOBpLKRWRrkhOQPHZuaBmN0Gyc+4QojdnB
-7U+ba+f7EcuuU4BY1u0GbXFr/nEo00Bh6v2+357nvblv65PxphyD0NMce0YAaqb2FLHjtutVz3/P
-iWVlWnQcZZ5h9Tt+0O3hhu+8m5jtDdT8yRhAT/O88zn/ALzIFms06ztogz5CykttYHQvEoEAkdA0
-dN/NSGUBdU3qcXtkv7Rima4GAIHUPeGiG4c5AYOMrCNvUZCVBcDcHJ1GTIkkbCed4PbYuM5VM3qi
-1AduSAXnQwAL1RsD+dF2RfShcpuMu6zFgA4VdGN5amSvs1LIt/ikg2cDuyXB0e5x/HMDI3BeMmHh
-mpCk3h43Qo6Ofpq6gVG1Z2bmMfvT5WGS0HgHZr7vLOu/hc2Q0czJB+KNqR135YhkLR19dX/glrST
-4o2+WwiqFZzI/8AxKn/95zPd3RVb97H3mFEx+dCnwuWZ0ugjKDVEtllePYMXESAGGWfEowLp+/aS
-QGKMuLCwRLEWaUaiWkSaInhaS4SFvFJnMTw1JtQ40NAyMCEHuXRyQvuQaQGTDvMx32DAHLdK9jcG
-7hg9IF9qqvekHc2Yvr3JTeP775hDPPG4GDNo5ABZYfZvubp04+/p6rTCPbhQFe7ZKTJUptSVDQeY
-ltSONblXghG3ljF0z+3HOeL0pWG4Bgx1TFG3dJYrih63bbsjD86Ruvxz3KWH1GzsV4bd/nxnFsHE
-6zoZUblsd5ZasbaEyNN2Edt/dp+H7VHUQROTXD23rNsxkzr5M4Clioq3KyfDYMDUcJXnJaBEqaGG
-Hp1+8fgjr9ZSLkA6EyKq6Fto4N/0WlnPZ73mWxp0SauaAMa4bMuO1jLHdV8wZp+3r0l7OKSX6rgp
-XlsvZEl97vCCOPz3ZC1/wmbzRG03yKTMv9fl7VG9sf558/r3nDFriA+iW/O6A/gHOtU6Km4Qf/aW
-JNHu+iRssOjbUNkZV6SmwmMBO8uo4Q0OS5JSxXg+HUXPJKozXY5kyALDWUnnHP2m9TZrOxG3e2+g
-UxvxePwBqhkgMQFj88MI4nrVWRt3Onx/F/G+s09/xjskPAgfugmLlB5oEu/WLc8KZWvlBWpls0xG
-14M6AXTp7Xn6pMOvNNbFyeJ1ofGNGsl2lZeFMjHKO10WOj3uw+Du64X3dNl+SfWOmRLg2pjur9Wk
-780wWGgjvqMrDfzcHhtUbcFelfoLeCRRPZEqYFuEqcKDaeNkgK6AFv8I8BRa9B2OY2ba2qyZ2/WQ
-BjDoblCMeenVR8wg3MNInsFcTYUObV9ZHlMhSVWnBp8FxHM751P144yMjQpjQfulKjq040nelbJ9
-DStwIWYVIJfkrRmKHpCk8oXmSTcaXyDMgLYlD2d/OxS8OgBZHpu5vlMO09Y0DLeKGmVq9/yDRFTc
-zakkZ6WJnoI1CFZx4zMYEe6SN1UxsSA5dJke02U/C7cq4I9l6fQShura299/24MUzuLmvl6Itoiz
-lLGYEHUmZHLLuqfwn5Vbtr/6dtdvpjI0hzREb0k3QiTUhDztpj2qXqKWPWlyD/9CS+mMAJJ6nYEI
-T7iK2JNZieAU8dEZLrJiPjvLjRzaMuqfgJfLf5Icf67XNZjcaRj12ka9+OO77HqdLb57CRgiVakV
-dAbK3o6h0lm9MCN04Xtqi4PFVNhWA1OtcqUbQ7DxcqaiG7jvwZdWYSl61jlQ+TqLCqsg6bIoX1mn
-xGhpUJ3xmb6cc5zNTnrXRFULZM/kxsvYA2wHyTb2HkPOyDBEaGlwhgzG6cxBcNRX6jz3pszzknwX
-Ndmv0iy+qUo2boUtDb6BhRRNEc1/oKV5HRgmbFnNktfw4F41JOozixPVT6x8rcV52NrOkT1fV50U
-QvIc3xCoZa7nRRkAOrrMLl97o2ylmzAAsJ4DNmBZEK8o2e88ZjJPVWo5lvHqR222KQ6H/LlkWgVD
-S7btMhi27kdytTEVHQ5dYH9+Va1U/aXRtxGkxkTQ9151hB5A75e7WCdaUbfyQy+HEvgnyFK2IX2l
-9sFuNWqFaTOxdPhE4i7psgYBQsAReg2DXmXD4D9ErKmQblVZgjb6RMT1uh2D8oaDUXIaIBbzhyzD
-B+f8IZewqkpObwrqIx0wPB+OocH8kj02+v+03setwmbuS1hbbNuxscPCGPelS9YIXmYdUVPbkzkV
-e3KsckYSEPemQSJHuxi1VeVZoyl4ZRE+zh7PhemFXd807L6kXRuwizseBfKzAiIWdeEjSJMYQPo1
-t6d36T1kkw2QM4TUkiKsW+/BR5E81pWvpv0QoEo8gVq1ZK2dJSL6FkmYsC0I5e3OEdAiMcyhUgkA
-Yx1iwXL3ao+Wt8ibwyLUOYg6CUM8DF5svpiuTJFLafeCc5lFLNTL7bTLzzEnJ3ACYPMMtLlSR0BR
-0kGTGCRxPUwCHWopl+4q5hx7CUjq09w7DBhqQc8FRZzsb+U+4+PjywT5U32/WkrlCv4aN9YWQZUl
-LMIYlgh+G+t9hKbQAU0nyZ5fSVfetblONTGLGMT9lKClrgsOBUAVSZC1Hlvdohqur2EF5KUwWnDY
-DhVFn4NhhpCXetKGBtUC/OqCpXgkSpw99UdxEhgmSQqLhhRlsXOGcEwT9/fZwpGwx92YS/wRw4tK
-simDlMrE8w6YwWXO8OLrUYN2BXsHLWkdD9jc2jXkT2XigQPeuiGRA85VmRMsyEwuNhBdNeZi8Erq
-4cUtThfVvFII1VHoIcCGrfS6egLX/e7VM7U/kVhQiFF0vCoJenAhufCc3HY+OHAROWKcCTomcubs
-CKtdV2BLaMlw64bj/pD+ua5Us37vyVmK2g/Sa8CsKzHI8uf9r8vAKjHZTkhUV//LIsLDn4PHxxRf
-SQYR4g7k4JwE750jyl8zJprsT+DyWX5yyoKjN0flM3MGJV4Ei4rp1qkFLb9rYDcD+qaVB3ZiT46M
-ks5JqxfNN5vLw7qRzypU5nJHH2R22nvX7Rz3SWrmJFN4ydqNvyzOluM0QpqqeU1txUHwyxIJpFNq
-hWNyIhfbnFwx5snZTNHhBc75CrHbztEZFpZr1wMgy1vxzqp/w1vxEnNCB8I86XZnfCRpooQBFu83
-zWGxhqHNo47ZgW8ddelIMvkE52MIsXjymEU6M9cntW7GvewDYNeqfnB/bks1fTHVmUdsDqIF5WWb
-2VuermkBL2bL8V/YMtTwdzNI6V+kpmJNh7Spp7OlbTmX+mU2sfPuzrRRxOC8xYs6WzjWsD1y8gZK
-H0Xc56RKMHYOMHRGO/oZ/kXbyZ5ITPa1DuMCLMD2Zmpvmj8whQWxVZzk8GFS2PUnEjua2vJ9lSAI
-TpsybUGVh9YuZ2gzoTJ1CyDB3OFle1V7c8V20Li08GGVqSr6junZzimgjzse0q38no/cLN/Rs0+r
-CInCk1QjvgBJDhap1iytR5/DQkZr5ZEpJYVGCFtJpSIGhUDn/Ws6rklJRJjcRxxoQAlQ9s4QXbD7
-0GPXLLMfXjysWuYtGo1FrrQT2QBHFi++T+4dQ7plBlUaKI1+Emns0C4MDXEe9OF4SWiHNXReswFa
-5oPWXvAuJjBRG1hQLSKbZgoqzzyRwQSLcfNkUwRKAQ8z52HaE9piYbp6KLGNpSOVLcic1Mmq6Cdh
-3GrgJZwZg1nDpXwpKgJXOLYRB/dIoGy3PSI2fgQJueUS4+f9t3JYarByC9Ts+FL3ezQGO9RAZpJv
-w4YYrXwoGSoWpFTyRDvqM7ynoDARmoXX/co7G6kcQZGauAFeGl19oAGXLuymQ3ILEcsyYxMh1YLg
-qjD1jhYe8aVimcgNpazrctubJUAoK5xBa+X0Zwz+hbZXMRZVtbWzKMLcOHXwtLHlKxrYEIlVygRL
-refWhZErINkjhu0S/9uia4sqY7idnAKjM1hXgrx+igeLRaWfTDcLSOqg3USkzksSBlGneusTzw+m
-VtafCq07IntO1mdM76nsGanPZu1PgwCEpCHAgmJ6+1WGXGd8BxpSVeXFTklLA8fJEaXlnvvb28na
-RSEMSb+tuYjwkMiG9CxqCZqO9k3YPr4VP85DpCoNbDOM0fN5BpweOQjAIulNupB0ZnZtJ0WjztxP
-oei34rnKxeQnOqnK/pLgwjhP5F6sOcrwMznmDtaMZXFSow5FFQVLyGfHcBgYUUHv/NcALN5OQ6n2
-e2n0EFZPJK2nrUJadXh5ZXxF2fZikWPGoF/N5rHeSDBf2vJXZBMe+FoAUMfP+fh4CUws6MsPZj/E
-1jvBHR1x/CXdEMuVRhoZTeWED4RlBK1g9OD+mEhBQ1TZ6wkG3MKDKVHbs2xvDNo6xK+koMV5oQM1
-rZOWnG1ouZ/WRCzmRpNeY/+Zer+1fE+F0JXqkQXuUVYRsZ5q9RuPJ0006xiKry0QVWLuN9QC4yjY
-j/AgkqdSxVnuYcgq7IAwK+HVf2fHaYCxJLMEpGEYS9r5bYxpOXiBIJ5kUkL04TzMmxpSlu1uuhPr
-3yWBbTdxIW971xN2VBNMwr1NPIMYoUcGApOG4z09BzxjEZVhVNMqZYQ1xCTengPdGaRS4tuGVPWJ
-fqWqWuHZD/JXS5h+tHkaW05QGxCblLwcxX5jQ+vAmOdvMf0xI47lYCEqD4cVczKa7s3c6AX8PFij
-6GNlONtAtFTDOeBY5sFgkigZ6tmp4jU/T1MnHHSbcfBdiyFrM3OQKpZxPw6DjsI8bGaenNbU4pcN
-alPeU2iUnkBrVRj+sBIqp8NPTOFtKBXnFx2D1doehYxDpxis5PqCQJhr3C8hpqI/u1lgT1hTeC3U
-jGZdmJWfrvbLDvRiW9ia7arCAL/mHYoI1IEbJHSFfEA5oukTfRTGqJSXYIST1YBhV3Bz4ftMR0dP
-4nZjVQvRDR2eG8JZ+G==
+<?php
+
+namespace App\Http\Controllers\BackOffice\v1;
+
+use App\Http\Controllers\Controller;
+use App\Models\v1\PurchaseRequest;
+use App\Models\v1\RequestForQuotation;
+use App\Models\v1\Tender;
+use App\Models\v1\TenderItem;
+use App\Models\v1\Vendor;
+use Carbon\Carbon;
+use Illuminate\Http\Request;
+
+class DashboardController extends Controller
+{
+    public function index()
+    {
+        $spent = 0 ;
+
+        $ts = Tender::where('docStatusId',4)->get();
+        foreach ($ts as $t) {
+            foreach ($t->items as $e) {
+                $value = (int)$e->value * (int)$e->quantity;
+                $spent += $value;
+            }
+        }
+
+        return response()->json([
+            'status' => [
+                'code'    => 200,
+                'message' => 'Success'
+            ],
+            'data' => [
+                'spent' => [
+                    'total' => $spent
+                ],
+                'tender' => [
+                    'total' => Tender::count()
+                ],
+                'rfq' => [
+                    'total' => RequestForQuotation::count()
+                ],
+                'vendor' => [
+                    'total' => Vendor::count()
+                ],
+                'expenses' => [
+                    'options' => [
+                        'chart' => [
+                            'id' => 'expense-chart'
+                        ],
+                        'xaxis' => [
+                            'categories' => [2017, 2018, 2019, 2020, 2021],
+                        ],
+                        'plotOptions' => [
+                            'bar' => [
+                                'columnWidth' => '40%',
+                                'borderRadius' => 4
+                            ]
+                        ],
+                        'colors' => ['#01902c', '#E91E63', '#9C27B0']
+                    ],
+                    'series' => [
+                        [
+                            'name' => 'Volume',
+                            'data' => [
+                                210, 228, 378, 50, 289
+                            ]
+                        ]
+                    ]
+                ],
+                'expensesByProject' => [
+                    'series' => [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                    ],
+                    'options' => [
+                        'chart' => [
+                            'type' => 'donut',
+                        ],
+                        'labels' => [
+                            'Upgrade Pompa Utama',
+                            'Upgrade Filter Limbah',
+                            'E-Procurement',
+                            'IT Security',
+                            'Renovasi Kantor',
+                        ],
+                        'responsive' => [
+                            [
+                                'breakpoint' => 480,
+                                'options' => [
+                                    'chart' => [
+                                        'width' => '100%',
+                                        'height' => 300,
+                                    ],
+                                    'legend' => [
+                                        'position' => 'bottom',
+                                    ],
+                                ],
+                            ],
+                        ],
+                    ],
+                ],
+                'expensesBySupplier' => [
+                    'series' => [
+                        [
+                            'data' => [1, 2, 3, 5, 5, 3]
+                        ]
+                    ],
+                    'options' => [
+                        'chart' => [
+                            'type' => 'bar',
+                        ],
+                        'plotOptions' => [
+                            'bar' => [
+                                'borderRadius' => 4,
+                                'horizontal' => true,
+                            ],
+                        ],
+                        'dataLabels' => [
+                            'enabled' => false,
+                        ],
+                        'xaxis' => [
+                            'categories' => [
+                                'PT. Jaya Abadi',
+                                'PT. PMA',
+                                'PT. YES',
+                                'Asia Jaya Perkasa',
+                                'PT. Langit Digital',
+                                'Sentral Nusa',
+                            ],
+                        ],
+                    ]
+                ],
+                'approvalRequest' => [
+                    [
+                        'code' => 'BID-000013',
+                        'name' => 'Pengadaan Bearing Gearbox Sucker Rod Pump Lapangan Langgak',
+                        'date' => Carbon::now()->addDays(-7)->timestamp,
+                        'progress' => '60%'
+                    ],
+                    [
+                        'code' => 'BID-000014',
+                        'name' => 'Lelang ulang Jasa Penyediaan Katering dan Jasa Pendukungnya untuk Area Operasi PT SPR Langgak',
+                        'date' => Carbon::now()->addDays(-1)->timestamp,
+                        'progress' => '70%'
+                    ],
+                    [
+                        'code' => 'BID-000017',
+                        'name' => 'Jasa Angkut dan Penyediaan Bahan Bakar Solar Industri Secara Call Off Order (COO) untuk Operasional Lapangan PT SPR Langgak',
+                        'date' => Carbon::now()->addDays(10)->timestamp,
+                        'progress' => '80%'
+                    ]
+                ],
+                'spentPerBuyer' => [
+                    'series' => [
+                        [
+                            'data' => [400, 430, 448, 470, 540, 580]
+                        ]
+                    ],
+                    'options' => [
+                        'chart' => [
+                            'type' => 'bar',
+                        ],
+                        'plotOptions' => [
+                            'bar' => [
+                                'borderRadius' => 4,
+                                'horizontal' => true,
+                            ],
+                        ],
+                        'dataLabels' => [
+                            'enabled' => false,
+                        ],
+                        'xaxis' => [
+                            'categories' => [
+                                'IT Dept.',
+                                'Shipment',
+                                'Warehouse',
+                                'Director',
+                                'Marketing',
+                                'Production',
+                            ],
+                        ],
+                    ]
+                ],
+                'latestPurchaseRequisition' => PurchaseRequest::query()
+                    ->orderByDesc('id')
+                    ->limit(5)
+                    ->get()
+                    ->toArray()
+                ,
+                'latestQuotation' => [
+
+                ],
+            ]
+        ], 200);
+    }
+}

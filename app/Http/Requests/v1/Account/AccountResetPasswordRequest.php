@@ -1,33 +1,53 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP/QiSKAaTqfsiHlaOItcIpxCBY6ahPU4awUuo7ZV/wrERRYLAfIuBVq7FPPiLg7nbn+/ziIO
-WIL2T4wH+6/fjPxGvx/oZ5GUbDY45Yv5FLJBatSI50ZUsdbjTzsTEUYC5xBNJSnllTjMKEQcHI1b
-2JOpUWIQ999J4ZJ2McvAX4U28wntt/vLbnrHIWD4T9lhiZvmfZ/HAzXBtLyDtCNmKOWF8nOdzO3O
-maoFhlZ38QGVCC9IH1HsBSSzVooIntBdgbURrjBJmUe4ymXDg6scjiN1rL5gyWxb2fTizoClt7O7
-w91i/qJsrZeVeUdxUoxXQewGXg718r6+0sItedHz05eikJBAsMNHYw5Y2yRFwpW49AVnqHnei/IW
-kQbWvbKsAmHgZzXJUyYJXTaITUsloqwzhOhdHTsLkRuanTSvOCQMbMB0ydhbb5kl62TRW8lVyQD+
-k5sS4scbL5cauDLHyc1+HwJUaOA0IkPmIhJuY91C/ydITjh2aGlW4xC+n6rB1dphae5k15FDDtP4
-uImPmjqzUxkteUGe7W523X1Z5ph9igVy2S9hPGANhZKoQ9oqvrh/SJbg6dftdPPuuuJ4EqVYzZTd
-ekckg2G3vUa1M1LFyU4Z9kOmy30L5/skvpSQP1/0saV/lnXYxtXbXetmEBKXrIUVI4tQqBtoJK8S
-E8D495TYN/cao0ADSIzTUrGgmY68AnrWT34EcWoG2TUrLr7uuBUjC+Eys+pFJo3KqUWteWeingBv
-ZcGrM1rr9xBEuBdsurmCUcTSAoIz4jvhwZwwx8VlLYnjLsP3YsN3E37WWsBlkhw3sXn3wBHH5KPY
-q+366F9qcUyDqY1FZCgnsovI2u4fi9ZDf5ll106WN0dmUeonQUAeXS0JzMW6RsF0aCsCLG9PC8bR
-OXZUQ7iNMl3XrG1tW3ilG31uKo1XX4xJj7Tlm9YMDlI4qrJ9negzXYsW/1K8O8ND3faNLZEcutW9
-/LENTh8ED9kmEQtIFZrayFASa8a4hGE2k9Mjsnd+TtQ/ewHX5KOpm09EjzsGpuoD8KkyjYtQb4hh
-dAWX6HZOM6xKTYgT1AHxF+tzqpzSpPMx7KwCoAAUPl2usX+tajZyHBwPn0t91dnD2cH4+URIOwEJ
-hypf0fDH3Jc4DR4DIHwRkBmREHqPMzbdvjXoEiyjQYAMe8zDV6y9p75Bz/tUGunhWzvXBmUdIIdX
-PJE7lIcmnu+ElRpLbWG2J4QVjn662leg6tuN5g64XsaZRgpy9BB3e0TOJ9JnH0TcO6K1Kj3R10/D
-Aqi9gqhYpzd/ylUFJDjxppwdH72mb/v9RhCwYnap5FsBOjnPEmKrswz+uCR4Fr7uzhLjDyGoEExJ
-GTn7ZQrhREJ/1+NCA/h0hJEAj1K1DB/l6xQMLUw+lk2SpfTD+xotcSjmmnuR55B2qYOumgwxcyzL
-TKimWgYp25vwjLYZ/cIOzzcV4qHGqB4HNAscLEtmKTCjM/WRO7xxGJiNno0IxYgc9Ouia3U5hn+S
-m2/YPuvowkdT/fMKNQmXoMvbCe0JfbSHUsVbsD21anvj51y5DgydjtGIThVjCxjsNUd/fe24JllK
-z/bsMm69sUAAPYUwgvxr/v0H5WLeuReQNVjRnZF5zYleRhysL4Da4YMKlVA9hpemOcpbpQwmmp2x
-is1dptTYsiPnD5/d+vy9kEfYeA/7Ja5g2+SVBHsYwvesIDMkC2DhUlSdNB+f6dJhbO6DHn6vTvFe
-rewmnvwqZCoSRWT+/EF95+3i5pL3q1LXa2QD9kOVGFhy2vcPKoipvNQSPp8+gUVjiGBPyainFuQv
-HKfinzAMiZbyblvnA/6W4Cpb+Ozsz3Ke5jJHX0mHWtGTp6QPX8GglgGGkBj5RNPEDUDIXIZdHJcj
-szz+zFSOAsm96kU7huJi8UIyR3bNtLf29lhFw/6Da+w1h6VxXaIJEPVKyWvwFM0G22zf+lrRebnO
-J9SEtipi/uAISeDqQ+I2drqe5thgQ5oQqZvlrbOHflhUmzYfy+X0VoXQTtwQRaV5YU7HYV4Mg/wP
-r7AxvriXLz3cT0b5qKqXiykUwpIV57pbOQCYvOkTRSMrM22aLa9diU+97y2lk9V73lDwvViW6a3P
-ibDwqNEW9YHA2CvkvTVTpjgFwSEkfzVoAwAKsdTE3LEHktN9iwT9lhC0tGrN4rGToGUdtU5BtEcy
-nDg5hm==
+<?php
+
+namespace App\Http\Requests\v1\Account;
+
+use App\Rules\Confirmed;
+use Illuminate\Validation\Rules\Password;
+
+class AccountResetPasswordRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'token' => [
+                'required'
+            ],
+            'password' => [
+                'required',
+                Password::min(6)->mixedCase()->numbers(),
+                new Confirmed()
+            ],
+            'confirmPassword' => [
+                'required'
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

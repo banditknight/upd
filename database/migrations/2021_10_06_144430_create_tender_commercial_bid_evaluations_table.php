@@ -1,35 +1,39 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-mr5ENsGqjRcO0eQJ
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateTenderCommercialBidEvaluationsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('tenderCommercialBidEvaluations', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('tenderId');
+            $table->string('criteriaCode');
+            $table->string('criteriaName');
+
+            $table->string('requirement');
+            $table->string('weight');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('tenderCommercialBidEvaluations');
+    }
+}

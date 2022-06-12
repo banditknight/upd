@@ -1,122 +1,130 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Ggy6/BIZYcLMxHu2DRktWx9JJW==
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\User;
+use App\Traits\DateTrait;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use Spatie\Permission\Models\Role;
+
+class UsersTableSeeder extends Seeder
+{
+    use ExcelReader, DateTrait;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        DB::table('users')->insert([
+            'code' => 'U001',
+            'name' => 'Administrator',
+            'address' => 'Jl Sudirman 5',
+            'phone' => '08123456781',
+            'email' => 'eproc@kpi.co.id',
+            'password' => app('hash')->make('eproc2022'),
+            'vendorId' => 1,
+            'isPrimary' => true,
+            'jobTitleId' => 2,
+        ]);
+
+        DB::table('users')->insert([
+            'code' => 'U002',
+            'name' => 'Procurement 1',
+            'address' => 'Jl Sudirman 5',
+            'phone' => '08123456780',
+            'email' => 'procurement1@kpi.co.id',
+            'password' => app('hash')->make('proc1@2022'),
+            'vendorId' => 1,
+            'jobTitleId' => 3,
+        ]);
+
+        DB::table('users')->insert([
+            'code' => 'U003',
+            'name' => 'Procurement 2',
+            'address' => 'Jl Sudirman 5',
+            'phone' => '08123456782',
+            'email' => 'producrement2@kpi.co.id',
+            'password' => app('hash')->make('proc1@2022'),
+            'vendorId' => 1,
+            'jobTitleId' => 1,
+        ]);
+
+        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'PersonInCharge');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if ($data[0] === null) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'vendorId' => $data[0],
+                'name' => $data[2],
+                'address' => $data[4],
+                'phone' => $data[6],
+                'code' => $data[7],
+                'email' => $data[3],
+                'password' => app('hash')->make($data[5]),
+            ];
+        }
+
+        DB::table('users')->insert($dataSeeder);
+
+        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'Admin');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if ($data[0] === null) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'vendorId' => $data[0],
+                'name' => $data[2],
+                'address' => $data[4],
+                'phone' => $data[6],
+                'code' => $data[7],
+                'email' => $data[3],
+                'password' => app('hash')->make($data[5]),
+            ];
+        }
+
+        DB::table('users')->insert($dataSeeder);
+
+        Role::findByName('superAdmin')->users()->sync(User::where('id', '=', 1)->pluck('id'));
+        Role::findByName('vendor')->users()->sync(User::where('id', '>', 1)->where('id', '<', 14)->pluck('id'));
+
+        Role::findByName('buyer')->users()->sync(User::where('id', '=', 14)->pluck('id'));
+        Role::findByName('superVisor')->users()->sync(User::where('id', '=', 15)->pluck('id'));
+        Role::findByName('superIntendent')->users()->sync(User::where('id', '=', 16)->pluck('id'));
+        Role::findByName('manager')->users()->sync(User::where('id', '=', 17)->pluck('id'));
+        Role::findByName('generalManager')->users()->sync(User::where('id', '=', 18)->pluck('id'));
+        Role::findByName('vicePresidentDirector')->users()->sync(User::where('id', '=', 19)->pluck('id'));
+        Role::findByName('buyer')->users()->sync(User::where('id', '=', 20)->pluck('id'));
+
+        // DB::table('users')->insert([
+        //     'code' => 'U100',
+        //     'name' => 'Admin Procurement',
+        //     'address' => 'Fill with admin Procurement Address',
+        //     'phone' => '08123456783',
+        //     'email' => 'eproc@sentralnusa.com',
+        //     'password' => app('hash')->make('eproc123'),
+        //     'vendorId' => 2
+        // ]);
+        // Role::findByName('superAdmin')->users()->sync(User::where('id', '=', 21)->pluck('id'));
+
+    }
+}

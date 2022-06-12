@@ -1,33 +1,36 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Yr1qJBrYekaEOeEHZkzvsdUjmjQe3m==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateSubBusinessTypesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('subBusinessTypes', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('businessTypeId');
+            $table->string('code')->unique();
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('subBusinessTypes');
+    }
+}

@@ -1,71 +1,129 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Traits;
+
+use App\Models\v1\AbstractModel;
+use App\Models\v1\Sanction;
+use App\Models\v1\SanctionType;
+use App\Models\v1\Vendor;
+
+trait VendorStatusTrait
+{
+
+    public function approvalStatus($astatus){
+        $st = 'noDocs';
+
+        switch($astatus){
+            case 0:
+                $st = 'noDocs';
+                break;
+            case 1:
+                $st = 'docsSubmitted';
+                break;
+            case 2:
+                $st = 'docsChecking';
+                break;
+            case 3:
+                $st = 'docsAccepted';
+                break;
+            case 4:
+                $st = 'docsRejected';
+                break;
+            case 5:
+                $st = 'docsExpired';
+                break;
+            default:
+                $st = 'noDocs';
+                break;
+        }
+
+        return $st;
+    }
+
+    public function vendorStatus(AbstractModel $vendor)
+    {
+        if (!$vendor instanceof Vendor) {
+            return null;
+        }
+
+        $data = [
+            'code' => '00',
+            'name' => 'Active'
+        ];
+
+        $sanctions = Sanction::where('vendorId', '=', $vendor->id)->get();
+
+        $calculatedSanctionScore = 0;
+        foreach ($sanctions as $sanction) {
+            /** @var SanctionType */
+            $calculatedSanctionScore += $sanction && $sanction->sanctionType ? $sanction->sanctionType->score : 0;
+        }
+
+        if ($calculatedSanctionScore >= 60) {
+            $data['code'] = '02';
+            $data['name'] = 'Banned';
+        }
+
+        if ($calculatedSanctionScore >= 30 && $calculatedSanctionScore <= 60) {
+            $data['code'] = '01';
+            $data['name'] = 'Warning';
+        }
+
+        if (!$vendor->isActive) {
+            $data = [
+                'code' => '04',
+                'name' => 'Inactive'
+            ];
+        }
+
+        return $data;
+    }
+
+    public function vendorCanJoinTender(AbstractModel $vendor)
+    {
+        if (!$vendor instanceof Vendor) {
+            return null;
+        }
+
+        $isComplete = $vendor
+            ->select([
+                'deeds.id AS deedId',
+                'shareHolders.id AS shareHolderId',
+                'boards.id AS boardId',
+                'businessPermits.id AS businessPermitId',
+                'users.id AS userId',
+
+                'competencies.id AS competencyId',
+                'certifications.id AS certificationId',
+                'tools.id AS toolId',
+                'employees.id AS employeeId',
+                'experiences.id AS experienceId',
+
+                'bankAccounts.id AS bankAccountId',
+                'financialStatements.id AS financialStatementId',
+                'taxDocuments.id AS taxDocumentId',
+            ])
+            // Administrator Data.
+            ->join('deeds', 'deeds.vendorId', '=', 'vendors.id')
+            ->join('shareHolders', 'shareHolders.vendorId', '=', 'vendors.id')
+            ->join('boards', 'boards.vendorId', '=', 'vendors.id')
+            ->join('businessPermits', 'businessPermits.vendorId', '=', 'vendors.id')
+            ->join('users', 'users.vendorId', '=', 'vendors.id')
+
+            // Competency and Experience
+            ->join('competencies', 'competencies.vendorId', '=', 'vendors.id')
+            ->join('certifications', 'certifications.vendorId', '=', 'vendors.id')
+            ->join('tools', 'tools.vendorId', '=', 'vendors.id')
+            ->join('employees', 'employees.vendorId', '=', 'vendors.id')
+            ->join('experiences', 'experiences.vendorId', '=', 'vendors.id')
+
+            // Financial
+            ->join('bankAccounts', 'bankAccounts.vendorId', '=', 'vendors.id')
+            ->join('financialStatements', 'financialStatements.vendorId', '=', 'vendors.id')
+            ->join('taxDocuments', 'taxDocuments.vendorId', '=', 'vendors.id')
+            ->limit(1)
+        ;
+
+        return (boolean)$isComplete->count();
+    }
+}

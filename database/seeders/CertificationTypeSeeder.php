@@ -1,30 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\CertificationType;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class CertificationTypeSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'CertificationType');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if (!$data[1] || !$data[2]) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1],
+                'name' => $data[2]
+            ];
+        }
+
+        DB::table('certificationTypes')->insert($dataSeeder);
+    }
+}

@@ -1,36 +1,42 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-B/YO
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateSanctionsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('sanctions', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('vendorId');
+            $table->bigInteger('sanctionTypeId');
+
+            $table->text('description')->nullable();
+
+            $table->bigInteger('issuedDate');
+            $table->bigInteger('expiredDate');
+
+            $table->bigInteger('actionId');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('sanctions');
+    }
+}

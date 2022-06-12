@@ -1,33 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Criteria;
+
+use App\Contracts\CriteriaInterface;
+use App\Contracts\RepositoryInterface;
+use App\Models\v1\User;
+use App\Traits\User as UserTrait;
+use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Database\Eloquent\Model;
+
+class AuthModelBelongToVendorCriteria implements CriteriaInterface
+{
+    use UserTrait;
+
+    public function apply($model, RepositoryInterface $repository)
+    {
+        $user = $this->getUser();
+
+        if ($user && !$user->hasRole('vendor')) {
+            return $model;
+        }
+
+        $modelFillAble = $model instanceof Model ? $model->getFillAble() : $model->getModel()->getFillAble();
+
+        /**
+         * @var User $user
+         * @var Model $model
+         */
+        if ($user && in_array('vendorId', $modelFillAble, false) && !request()->has('vendorId')) {
+            /** @var Builder $model */
+            $model = $model->where('vendorId', '=', $user->vendorId);
+        }
+
+        return $model;
+    }
+}

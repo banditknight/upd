@@ -1,31 +1,44 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-DueIvApLp/Umb6gZcBv6d4uK6wWDaNRD
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\FieldOfStudy;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class FieldOfStudySeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        // FieldOfStudy::factory()->count(10)->create();
+
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'FieldOfStudy');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if (!$data[1] || !$data[2]) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1],
+                'name' => $data[2],
+                'educationId' => $data[3]
+            ];
+        }
+
+        DB::table('fieldOfStudies')->insert($dataSeeder);        
+    }
+}

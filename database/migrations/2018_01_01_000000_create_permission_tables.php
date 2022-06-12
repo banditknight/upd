@@ -1,144 +1,144 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Database\Migrations\Migration;
+use Spatie\Permission\PermissionRegistrar;
+
+class CreatePermissionTables extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        $tableNames = config('permission.table_names');
+        $columnNames = config('permission.column_names');
+        $teams = config('permission.teams');
+
+        if (empty($tableNames)) {
+            throw new \Exception('Error: config/permission.php not loaded. Run [php artisan config:clear] and try again.');
+        }
+        if ($teams && empty($columnNames['team_foreign_key'] ?? null)) {
+            throw new \Exception('Error: team_foreign_key on config/permission.php not loaded. Run [php artisan config:clear] and try again.');
+        }
+
+        Schema::create($tableNames['permissions'], function (Blueprint $table) {
+            $table->bigIncrements('id');
+            $table->string('name');       // For MySQL 8.0 use string('name', 125);
+            $table->string('guard_name'); // For MySQL 8.0 use string('guard_name', 125);
+            $table->timestamps();
+
+            $table->unique(['name', 'guard_name']);
+        });
+
+        Schema::create($tableNames['roles'], function (Blueprint $table) use ($teams, $columnNames) {
+            $table->bigIncrements('id');
+            if ($teams || config('permission.testing')) { // permission.testing is a fix for sqlite testing
+                $table->unsignedBigInteger($columnNames['team_foreign_key'])->nullable();
+                $table->index($columnNames['team_foreign_key'], 'roles_team_foreign_key_index');
+            }
+            $table->string('name');       // For MySQL 8.0 use string('name', 125);
+            $table->string('guard_name'); // For MySQL 8.0 use string('guard_name', 125);
+            $table->timestamps();
+            if ($teams || config('permission.testing')) {
+                $table->unique([$columnNames['team_foreign_key'], 'name', 'guard_name']);
+            } else {
+                $table->unique(['name', 'guard_name']);
+            }
+
+            $table->string('code')->unique();
+            $table->string('description')->nullable();
+        });
+
+        Schema::create($tableNames['model_has_permissions'], function (Blueprint $table) use ($tableNames, $columnNames, $teams) {
+            $table->unsignedBigInteger(PermissionRegistrar::$pivotPermission);
+
+            $table->string('model_type');
+            $table->unsignedBigInteger($columnNames['model_morph_key']);
+            $table->index([$columnNames['model_morph_key'], 'model_type'], 'model_has_permissions_model_id_model_type_index');
+
+            $table->foreign(PermissionRegistrar::$pivotPermission)
+                ->references('id')
+                ->on($tableNames['permissions'])
+                ->onDelete('cascade');
+            if ($teams) {
+                $table->unsignedBigInteger($columnNames['team_foreign_key']);
+                $table->index($columnNames['team_foreign_key'], 'model_has_permissions_team_foreign_key_index');
+
+                $table->primary([$columnNames['team_foreign_key'], PermissionRegistrar::$pivotPermission, $columnNames['model_morph_key'], 'model_type'],
+                    'model_has_permissions_permission_model_type_primary');
+            } else {
+                $table->primary([PermissionRegistrar::$pivotPermission, $columnNames['model_morph_key'], 'model_type'],
+                    'model_has_permissions_permission_model_type_primary');
+            }
+
+        });
+
+        Schema::create($tableNames['model_has_roles'], function (Blueprint $table) use ($tableNames, $columnNames, $teams) {
+            $table->unsignedBigInteger(PermissionRegistrar::$pivotRole);
+
+            $table->string('model_type');
+            $table->unsignedBigInteger($columnNames['model_morph_key']);
+            $table->index([$columnNames['model_morph_key'], 'model_type'], 'model_has_roles_model_id_model_type_index');
+
+            $table->foreign(PermissionRegistrar::$pivotRole)
+                ->references('id')
+                ->on($tableNames['roles'])
+                ->onDelete('cascade');
+            if ($teams) {
+                $table->unsignedBigInteger($columnNames['team_foreign_key']);
+                $table->index($columnNames['team_foreign_key'], 'model_has_roles_team_foreign_key_index');
+
+                $table->primary([$columnNames['team_foreign_key'], PermissionRegistrar::$pivotRole, $columnNames['model_morph_key'], 'model_type'],
+                    'model_has_roles_role_model_type_primary');
+            } else {
+                $table->primary([PermissionRegistrar::$pivotRole, $columnNames['model_morph_key'], 'model_type'],
+                    'model_has_roles_role_model_type_primary');
+            }
+        });
+
+        Schema::create($tableNames['role_has_permissions'], function (Blueprint $table) use ($tableNames) {
+            $table->unsignedBigInteger(PermissionRegistrar::$pivotPermission);
+            $table->unsignedBigInteger(PermissionRegistrar::$pivotRole);
+
+            $table->foreign(PermissionRegistrar::$pivotPermission)
+                ->references('id')
+                ->on($tableNames['permissions'])
+                ->onDelete('cascade');
+
+            $table->foreign(PermissionRegistrar::$pivotRole)
+                ->references('id')
+                ->on($tableNames['roles'])
+                ->onDelete('cascade');
+
+            $table->primary([PermissionRegistrar::$pivotPermission, PermissionRegistrar::$pivotRole], 'role_has_permissions_permission_id_role_id_primary');
+        });
+
+        app('cache')
+            ->store(config('permission.cache.store') !== 'default' ? config('permission.cache.store') : null)
+            ->forget(config('permission.cache.key'));
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        $tableNames = config('permission.table_names');
+
+        if (empty($tableNames)) {
+            throw new \Exception('Error: config/permission.php not found and defaults could not be merged. Please publish the package configuration before proceeding, or drop the tables manually.');
+        }
+
+        Schema::drop($tableNames['role_has_permissions']);
+        Schema::drop($tableNames['model_has_roles']);
+        Schema::drop($tableNames['model_has_permissions']);
+        Schema::drop($tableNames['roles']);
+        Schema::drop($tableNames['permissions']);
+    }
+}

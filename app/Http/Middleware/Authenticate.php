@@ -1,34 +1,54 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-rJ7Ecq061WFn5DpIRBr5zlBJ
+<?php
+
+namespace App\Http\Middleware;
+
+use App\Exceptions\Custom\Account\UnauthorizedException;
+use App\Models\v1\User;
+use Closure;
+use Illuminate\Contracts\Auth\Factory as Auth;
+use Illuminate\Http\Request;
+
+class Authenticate
+{
+    /**
+     * The authentication guard factory instance.
+     *
+     * @var \Illuminate\Contracts\Auth\Factory
+     */
+    protected $auth;
+
+    /**
+     * Create a new middleware instance.
+     *
+     * @param  \Illuminate\Contracts\Auth\Factory  $auth
+     * @return void
+     */
+    public function __construct(Auth $auth)
+    {
+        $this->auth = $auth;
+    }
+
+    /**
+     * Handle an incoming request.
+     *
+     * @param Request $request
+     * @param \Closure $next
+     * @param string|null $guard
+     * @return mixed
+     * @throws UnauthorizedException
+     */
+    public function handle($request, Closure $next, $guard = null)
+    {
+        if ($this->auth->guard($guard)->guest()) {
+            throw new UnauthorizedException();
+        }
+
+        /** @var User $authUser */
+        $authUser = $this->auth->guard($guard)->user();
+
+        $request->request->set('userId', $authUser->id);
+        $request->request->set('vendorId', $authUser->vendorId);
+
+        return $next($request);
+    }
+}

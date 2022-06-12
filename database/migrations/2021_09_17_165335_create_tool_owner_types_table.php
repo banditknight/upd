@@ -1,31 +1,35 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateToolOwnerTypesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('toolOwnerTypes', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code');
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('toolOwnerTypes');
+    }
+}

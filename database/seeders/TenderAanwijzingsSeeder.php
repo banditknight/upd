@@ -1,33 +1,46 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-B93RZkhWBe3JxollCTzWFrw6Axa/qpGu
+<?php
+
+namespace Database\Seeders;
+
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class TenderAanwijzingsSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        //TenderSchedule tenderSchedules
+        $dataOnSheets = $this->read(storage_path('seeders/TenderSeeder.xlsx'), 'TenderAanwijzing');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if ($data[0] === null) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'tenderId' => $data[0],
+                'eventName' => $data[1],
+                'venue' => $data[2],
+                'from' => $data[3],
+                'to' => $data[4],
+                'stateId' => $data[5],
+                'note' => $data[6]
+            ];
+        }
+
+        DB::table('tenderAanwijzings')->insert($dataSeeder);
+    }
+}

@@ -1,37 +1,72 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Http\Requests\v1\BankAccount;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\AlphaSpaceDotNumber;
+use App\Rules\BankValid;
+use App\Rules\CurrencyValid;
+
+class StoreRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'bankId' => [
+                'required',
+                'numeric',
+                new BankValid()
+            ],
+            'accountNumber' => [
+                'required',
+                'numeric',
+                'digits_between:5,32',
+                'unique:bankAccounts,accountNumber'
+            ],
+            'accountHolderName' => [
+                'required',
+                'min:3',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+            'bankAddress' => [
+                'required',
+                'min:3',
+                'max:256',
+                new AlphaSpaceDotNumber()
+            ],
+            'currencyId' => [
+                'required',
+                'numeric',
+                new CurrencyValid()
+            ],
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

@@ -1,30 +1,40 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-eXY1wja=
+<?php
+
+namespace Database\Seeders;
+
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class PurchasingGroupSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/ScopeOfSupply.xlsx'), 'PurchasingGroup');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            if (!$data[0]) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[0],
+                'name' => $data[1]
+            ];
+        }
+
+        DB::table('purchasingGroups')->insert($dataSeeder);
+    }
+}

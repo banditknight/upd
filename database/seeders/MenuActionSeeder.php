@@ -1,33 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPopsermYNHYJEq4sVrJG47LzCdwBW6IezP6u/56gvUqdkY0eIeg5ggzfSjSbLPLCOhhxHw9X
-45Baf8tRmvlPVnQ8YfTvB57EczzXIpDdnU9mqrhbuN8TVgVqsX8G3CB33ha4ECeiTLhnQLDcRnRG
-dUVqHwfBQbkxSk5HzK9YEk5m5xmrvUKDDWalEJDGGs2yEO0MHU7oC/aNeX3K+ElD2NDIVyCVosrw
-ET7Udaq/wxaEs64Vq8C/7EkjVfeeKfDH3HvMrjBJmUe4ymXDg6scjiN1rS1epBkg5J/LchsHiyOv
-KvO+qpWkdxCfl2nEjmD9zr6wak7a4TBRwTR8ifygP6zoQlVm+wxBK7xe1RaU+J63xPcqWOLqFXY3
-OkMoc088KUXHjK5ikrO5xY4XHdPRdQLyjKlWg+pMUMzCvO3UocX/eI78ZC1Vb3eDbvDho83Af23e
-8d64U1Obo71k/gDEiX6g8ZCr/9FBwTNvROAr9vFVPBFbdSCQ9Or7BuJnfbpL7tvExLh7Q8+HxVAX
-nM2/Y28XHKs7YjP0r5fyjh3WmQV3eDnbYPk/56oVcVeHu4HfHvHAAXHRB/EUX64R/FCQ86MNHr+X
-IKjhKwESEzx+CwR88+J+mVhrWQGj3mHzZwUkHERNfTjXlEavlc0Q92uhyBECOUKcahJYLMxOr+iv
-NkOjFSpKKk20Ub0L97vR68vtdczWgD47RZGOfs6LHq/xaCaD8kQXNGCshlBNUtMOU0QRLbLriq/l
-gyy+mV7AdWkdMBK/2iUDx3ghJlQkuPw+8BGszjtFyYOKLQ4hkBDMlDSOz1tAKHhqCzj+jrxpPsTE
-89oIOZG+M3Q6msgt/eG40hF0WId1pWAJ1mYzYVWByfYDE2JDVu6MhdQACTbhoMbvp2jdKBgO3vNw
-G5XAtYpeFfp6ghspnXDhzVjtuMVZ74vjgaiYvKmhvmhE4nXVdG7CZQ1bps0ZpjgP84WSDt9sv0Tc
-vbdGS8d7E3aB80rPN8fB6IYjVY8rYZDOy84w2A1F1yj01e+Bjd6U/+5OYmWACgGHJnTFQ/n2dZDO
-Lh9Md274tnQEnLQEk08LyyarWB1iG55gLl7P3nXlA0wFP2solfYQo+xjsWMzXomcjxr5z07Ql40E
-DLgisVRTaSLDhhzVec8B+MedsuytrSMkncnxVMGucCX91C272C29NbfsKvMNohc/u3YKLv65vzYN
-dGYW/+dviU/tEAUPWaSSpPcGJBaTyhhoIohosFR9fKfhSpKkvz/5eqQlMbxabT9OdY+sILyYzulj
-zU0bqk6svPaoO126fsTM4b8BOEtiiC6NNBjrTb8G/Xv2n9OGTmsJVjDKhCKtVveJQ0a0K0QrPv4J
-oPq669UfJv4v9ehnXery+xboAuzI5sC4rugBWuRkJUOZbi/1RcaPu4TxGh9YaAIv2SVOuLVBMOyb
-zh/dlpa9+HP7vIcBk1OTnyqWqKUSWlNzZv//pVEyVExwgT3zsj2H8Bm67h7wU/LkIgRqJrwet/rf
-S5ph12NVnf9wJXOIfFQRvToArQgL/EiLd8+fLhK5nBuWIae2lR/CuWEWkmVHM+beRkZFgiCkwDC9
-rXv1jFTsA29EKMrPbhioLt01DhFPsvczeOWWHV58q2pWs5WpmXlMLoE3RJv9uVO8h1x1NHy2uHwm
-DcnHHFw4lfjtbctl5g15hBGG93ET91nmciSsuNy/JjWaaLEpgN4SHVN2QLvZxcT73QNZJJ3CYNH4
-6CNR22cSbtkG+0yAgojgduG9QF75+ZDjwW0tNCxhILfU8+y6AIDa6e6F4fxZ7f8DdMLnT4lum+R+
-6gkFOCnvFMzBi4rEdgg2+BK6UBUC7PEny6f8XULteTEHGyk6z3jG+KI6Yumuj2o8Q4zQpEpXG9k4
-iwQssXbHuCB3ucXP3aTG8gBAY8wLkC0rjZQ3ifO2Z7Ul9pXnXSQIQfmsQb6JXMfBDR0QAGExz7nb
-9d4XGMFihh2Q7voHSnxVe/oFhpadRrhqzCrTDt+IrRxmvnOrykgRw76fkKnySzniI9lmutCddfXR
-O+/ZNDFH97UK19O152FidtALl/86oRgRytF8i904FLicV/0L3748Bsn31+MXaalMhDNKCIHnOuZj
-ypta5/syVK1x/V42SC/UV23TkvBm55DvCwaqwVoh2U2eW4c10bveyXZXX4wSrU9OwnyYjnS1gxAm
-CWLu9qhH5kcosq8KmsYjwN60G7yMbZW3f/ix50HOPs+OxA2sGCbHxopcHckf/7+kNUsREm==
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\MenuAction;
+use Illuminate\Database\Seeder;
+
+class MenuActionSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        MenuAction::factory()->count(3)->create()->each(function($item, $key) {
+            if ($key === 0) {
+                $item->code = 'WINDOW';
+                $item->name = 'Window';
+            }
+
+            if ($key === 1) {
+                $item->code = 'CUSTOM_PAGE';
+                $item->name = 'Custom Page';
+            }
+
+            if ($key === 2) {
+                $item->code = 'PROCESS';
+                $item->name = 'Process';
+            }
+
+            if ($key === 3) {
+                $item->code = 'REPORT';
+                $item->name = 'Report';
+            }
+
+            $item->save();
+        });
+    }
+}

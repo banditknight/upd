@@ -1,94 +1,219 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-KVrLzqh6633t1E5PE3wxiGUD/VW=
+<?php
+
+namespace App\Models\v1;
+
+use App\Models\MailableInterface;
+use Illuminate\Auth\Authenticatable;
+use Illuminate\Contracts\Auth\Access\Authorizable as AuthorizableContract;
+use Illuminate\Contracts\Auth\Authenticatable as AuthenticatableContract;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Support\Carbon;
+use Illuminate\Support\Facades\Hash;
+use Laravel\Lumen\Auth\Authorizable;
+use Spatie\Permission\Traits\HasRoles;
+use Tymon\JWTAuth\Contracts\JWTSubject;
+
+/**
+ * App\Models\v1\User
+ *
+ * @property int $id
+ * @property string $name
+ * @property string $address
+ * @property string $phone
+ * @property string $email
+ * @property string $password
+ * @property Carbon|null $createdAt
+ * @property Carbon|null $updatedAt
+ * @property bool $isActive
+ * @method static \Database\Factories\v1\UserFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|User newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|User newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|User query()
+ * @method static \Illuminate\Database\Eloquent\Builder|User whereAddress($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|User whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|User whereEmail($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|User whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|User whereIsActive($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|User whereName($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|User wherePassword($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|User wherePhone($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|User whereUpdatedAt($value)
+ * @mixin \Eloquent
+ * @property string|null $resetPasswordToken
+ * @property int|null $resetPasswordExpired
+ * @method static \Illuminate\Database\Eloquent\Builder|User whereResetPasswordExpired($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|User whereResetPasswordToken($value)
+ * @property int|null $vendorId
+ * @property int|null $isPrimary
+ * @property-read mixed $role
+ * @property-read mixed $vendor
+ * @property-read \Illuminate\Database\Eloquent\Collection|\Spatie\Permission\Models\Permission[] $permissions
+ * @property-read int|null $permissions_count
+ * @property-read \Illuminate\Database\Eloquent\Collection|\Spatie\Permission\Models\Role[] $roles
+ * @property-read int|null $roles_count
+ * @method static \Illuminate\Database\Eloquent\Builder|User permission($permissions)
+ * @method static \Illuminate\Database\Eloquent\Builder|User role($roles, $guard = null)
+ * @method static \Illuminate\Database\Eloquent\Builder|User whereIsPrimary($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|User whereVendorId($value)
+ */
+class User extends AbstractModel implements AuthenticatableContract, AuthorizableContract, JWTSubject, MailableInterface
+{
+    use Authenticatable, Authorizable, HasFactory, HasRoles;
+
+    /**
+     * The name of the "created at" column.
+     *
+     * @var string
+     */
+    const CREATED_AT = 'createdAt';
+
+    /**
+     * The name of the "updated at" column.
+     *
+     * @var string
+     */
+    const UPDATED_AT = 'updatedAt';
+
+    /** @var string $accessToken */
+    protected $accessToken;
+
+    /** @var int $expiredIn */
+    protected $expiredIn;
+
+    protected $table = 'users';
+
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+        'name',
+        'email',
+        'address',
+        'phone',
+        'password',
+        'isPrimary',
+        'vendorId',
+        'code',
+        'departmentId',
+        'attachment',
+        'jobTitleId',
+    ];
+
+    /**
+     * The attributes excluded from the model's JSON form.
+     *
+     * @var array
+     */
+    protected $hidden = [
+        'password',
+        'departmentId',
+        'created_at',
+        'updated_at',
+        'jobTitleId',
+    ];
+
+    protected $appends = [
+        'vendor',
+        'role',
+        'roleId',
+        'department',
+        'jobTitle',
+    ];
+
+    public function getJWTIdentifier()
+    {
+        return $this->getKey();
+    }
+
+    public function getJWTCustomClaims()
+    {
+        return [];
+    }
+
+    /**
+     * @return string
+     */
+    public function getAccessToken(): string
+    {
+        return $this->accessToken;
+    }
+
+    /**
+     * @param string $accessToken
+     */
+    public function setAccessToken(string $accessToken): void
+    {
+        $this->accessToken = $accessToken;
+    }
+
+    public function resetPasswordToken()
+    {
+        return $this->belongsTo(ResetPasswordToken::class, 'userId')
+            ->where('isActive', '=', 1);
+    }
+
+    /**
+     * @return int
+     */
+    public function getExpiredIn(): int
+    {
+        return $this->expiredIn;
+    }
+
+    /**
+     * @param int $expiredIn
+     */
+    public function setExpiredIn(int $expiredIn): void
+    {
+        $this->expiredIn = $expiredIn;
+    }
+
+    public function setPasswordAttribute($pass)
+    {
+        $this->attributes['password'] = Hash::make($pass);
+    }
+
+    public function toEmailAddress(): string
+    {
+        return $this->email;
+    }
+
+    public function toCcEmailAddress(): string
+    {
+        return '';
+    }
+
+    public function getVendorAttribute()
+    {
+        return $this->belongsTo(Vendor::class, 'vendorId')->first();
+    }
+
+    public function getRoleAttribute()
+    {
+        return $this->getRoleNames();
+    }
+
+    public function getRoleIdAttribute()
+    {
+        $roles = $this->belongsToMany(SpatieRole::class,'spatieModelHasRoles','model_id','role_id')->first();
+        if($roles){
+            return $roles->id;
+        }
+        return null;
+    }
+
+    public function getDepartmentAttribute()
+    {
+        return $this->belongsTo(Department::class, 'departmentId')->first();
+    }
+
+    public function isSuperAdmin(){
+        return $this->hasRole('superAdmin');
+    }
+
+    public function getJobTitleAttribute(){
+        return JobTitle::find($this->jobTitleId);
+    }
+}

@@ -1,63 +1,68 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Zw5D8R71
+<?php
+
+namespace App\Traits;
+
+use App\Models\v1\PurchaseRequestItem;
+use App\Models\v1\Tender;
+use App\Models\v1\TenderItem;
+use App\Models\v1\PurchaseRequest;
+use Illuminate\Support\Facades\DB;
+
+trait TenderPurchaseRequestTrait
+{
+    public function purchaseRequestToTender($data) : array
+    {
+
+        DB::beginTransaction();
+
+        try {
+
+            $data['number'] = "TD".sprintf('%06d',Tender::count());
+
+            $tender = Tender::create($data);
+
+            $purchaseRequestIds = array_column($data['purchaseRequest'] ?? [],'id');
+
+            $purchaseRequestItems = PurchaseRequestItem::join(
+                'purchaseRequests',
+                'purchaseRequests.id', '=', 'purchaseRequestItems.purchaseRequestId'
+            )->join(
+                'unitOfMeasures',
+                'unitOfMeasures.code', '=', 'purchaseRequestItems.uom'
+            )->whereIn('purchaseRequests.id', $purchaseRequestIds)->get([
+                'purchaseRequestItems.id',
+                'purchaseRequestItems.qty AS quantity',
+                'unitOfMeasures.id AS unitOfMeasureId',
+                'purchaseRequestItems.description AS description',
+                'purchaseRequestItems.estimationUnitCost AS value',
+                'purchaseRequests.currencyId AS currencyId',
+            ])->each(static function($purchaseRequestItem, $index) use ($tender) {
+                /** @var PurchaseRequestItem $purchaseRequestItem */
+                /** @var Tender $tender */
+                $purchaseRequestItem->setAttribute('tenderId', $tender->id);
+                $purchaseRequestItem->setAttribute('productCodeId', 1);
+                $purchaseRequestItem->setAttribute('productGroupCodeId', 1);
+                $purchaseRequestItem->setAttribute('purchaseRequestItemId', $purchaseRequestItem->id);
+
+                TenderItem::create($purchaseRequestItem->toArray());
+            });
+
+            foreach ($purchaseRequestIds as $pri) {
+                $pr = PurchaseRequest::find($pri);
+                $pr->docStatusId = 4; // complete PR
+                $pr->save();
+            }
+
+            DB::commit();
+
+        } catch (\Exception $e) {
+            DB::rollBack();
+            throw $e;
+        } catch (\Throwable $e) {
+            DB::rollback();
+            throw $e;
+        }
+
+        return $tender->toArray();
+    }
+}

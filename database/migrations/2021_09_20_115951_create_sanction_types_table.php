@@ -1,33 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateSanctionTypesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('sanctionTypes', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code');
+            $table->string('name');
+            $table->text('description')->nullable();
+
+            $table->bigInteger('score');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('sanctionTypes');
+    }
+}

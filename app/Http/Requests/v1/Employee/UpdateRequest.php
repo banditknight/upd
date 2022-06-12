@@ -1,49 +1,94 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-jeW7pBDpgacFiGy=
+<?php
+
+namespace App\Http\Requests\v1\Employee;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\EducationValid;
+use App\Rules\EmployeeStatusValid;
+use App\Rules\FieldOfStudyValid;
+use App\Rules\FileValid;
+use App\Rules\WorkPeriodValid;
+
+class UpdateRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'employeeStatusId' => [
+                'required',
+                'numeric',
+                new EmployeeStatusValid()
+            ],
+            'dob' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'pob' => [
+                'required',
+                'min:5',
+                'max:256',
+                new AlphaSpaceDotComma()
+            ],
+            'name' => [
+                'required',
+                'min:5',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+            'educationId' => [
+                'required',
+                'numeric',
+                new EducationValid()
+            ],
+            'fieldOfStudyId' => [
+                'required',
+                'numeric',
+                new FieldOfStudyValid()
+            ],
+            'ktpNumber' => [
+                'required',
+                'numeric',
+                'digits_between:16,16',
+                sprintf('unique:employees,ktpNumber,%s', $this->modelId())
+            ],
+            'jobExperienceAttachment' => [
+                new FileValid()
+            ],
+            'workPeriodId' => [
+                'required',
+                'numeric',
+                new WorkPeriodValid()
+            ],
+            'certificateAttachment' => [
+                new FileValid()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

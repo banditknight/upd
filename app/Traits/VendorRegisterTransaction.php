@@ -1,42 +1,48 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-jtfYZVBgFG2v6hMyxG==
+<?php
+
+namespace App\Traits;
+
+use App\Events\v1\VendorRegistered;
+use App\Exceptions\Custom\Vendor\RegisterFailedException;
+use App\Models\v1\Vendor;
+use Illuminate\Database\QueryException;
+use Illuminate\Support\Facades\DB;
+use Ramsey\Uuid\Uuid;
+use Symfony\Component\HttpFoundation\Response;
+
+trait VendorRegisterTransaction
+{
+    use Asset;
+
+    public function transaction(\Laravel\Lumen\Http\Request $request)
+    {
+        try {
+            DB::beginTransaction();
+            /** @var Vendor $registerVendor */
+
+            $latestid = 'TMP001';
+            $latest = DB::table('vendors')->latest()->first();
+            if(!empty($latest->id)){
+                $latestid = 'TMP'.sprintf('%03d'.$latest->id);
+            }
+
+            $request->request->set('registrationNumber', $latestid);
+            // $request->request->set('registrationNumber', Uuid::uuid4()->toString());
+            $registerVendor = $this->repo->create($request->request->all());
+
+            event(new VendorRegistered($registerVendor));
+
+            DB::commit();
+
+            return $registerVendor;
+        } catch (QueryException $queryException) {
+            DB::rollback();
+
+            return new RegisterFailedException();
+        } catch (\Exception $exception) {
+            DB::rollback();
+
+            return $exception;
+        }
+    }
+}

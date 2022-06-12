@@ -1,35 +1,38 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ij617joezzYASrYkNGM1jpa1jay=
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateCurrenciesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('currencies', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code')->unique();
+            $table->string('name');
+            $table->string('symbol')->nullable();
+
+            $table->boolean('isActive')->default(true);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('currencies');
+    }
+}

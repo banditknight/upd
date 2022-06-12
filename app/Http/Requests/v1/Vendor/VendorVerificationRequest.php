@@ -1,32 +1,62 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-1s6ncRi2bph5
+<?php
+
+namespace App\Http\Requests\v1\Vendor;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\CityValid;
+use App\Rules\CompanyTypeValid;
+use App\Rules\CountryValid;
+use App\Rules\DistrictValid;
+use App\Rules\DomainValid;
+use App\Rules\ProvinceValid;
+use App\Rules\ReferenceValid;
+use App\Rules\VendorTypeInformationValid;
+
+class VendorVerificationRequest extends \App\Http\Requests\AbstractRequest
+{
+    protected function validationData(): array
+    {
+        return $this->all();
+    }
+
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'vendorId' => [
+                'unique:vendorVerifications,vendorId'
+            ],
+            'comment' => [
+                'required',
+                'min:20',
+                'max:256'
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            'vendorId.unique' => __('validation.vendor_verification_should_be_unique')
+        ];
+    }
+}

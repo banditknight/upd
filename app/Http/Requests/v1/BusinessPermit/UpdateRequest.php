@@ -1,43 +1,82 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ZA8StZ6Q
+<?php
+
+namespace App\Http\Requests\v1\BusinessPermit;
+
+use App\Rules\AlphaSpaceDotComma;
+use App\Rules\BusinessPermitTypeValid;
+use App\Rules\FileValid;
+
+class UpdateRequest extends \App\Http\Requests\AbstractRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize(): bool
+    {
+        return true;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules(): array
+    {
+        return [
+            'businessPermitTypeId' => [
+                'required',
+                new BusinessPermitTypeValid()
+            ],
+            'attachment' => [
+                new FileValid()
+            ],
+            'legalOrganizationScaleId' => [
+                'required_if:businessPermitTypeId,3',
+                'nullable',
+                'numeric'
+            ],
+            'number' => [
+                'required',
+                'min:8',
+                'max:16',
+                sprintf('unique:businessPermits,number,%s', $this->modelId())
+            ],
+            'validFromDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'validThruDate' => [
+                'required',
+                'date_format:d-m-Y'
+            ],
+            'issuedBy' => [
+                'required',
+                'min:8',
+                'max:100',
+                new AlphaSpaceDotComma()
+            ],
+            'otherBusinessPermitType' => [
+                'required_if:businessPermitTypeId,8',
+                'nullable',
+                'min:10',
+                'max:256',
+                new AlphaSpaceDotComma()
+            ]
+        ];
+    }
+
+    /**
+     * Get custom messages for validator errors.
+     *
+     * @return array
+     */
+    public function messages(): array
+    {
+        return [
+            //
+        ];
+    }
+}

@@ -1,38 +1,70 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Models\v1;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+/**
+ * App\Models\v1\Competency
+ *
+ * @property int $id
+ * @property int $userId
+ * @property int $vendorId
+ * @property int $businessTypeId
+ * @property int $subBusinessTypeId
+ * @property string $descriptionOfExperience
+ * @property int $vendorTypeId
+ * @property \Illuminate\Support\Carbon|null $created_at
+ * @property \Illuminate\Support\Carbon|null $updated_at
+ * @method static \Database\Factories\v1\CompetencyFactory factory(...$parameters)
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency newModelQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency newQuery()
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency query()
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency whereBusinessTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency whereCreatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency whereDescriptionOfExperience($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency whereId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency whereSubBusinessTypeId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency whereUpdatedAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency whereUserId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency whereVendorId($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|Competency whereVendorTypeId($value)
+ * @mixin \Eloquent
+ */
+class Competency extends AbstractModel
+{
+    use HasFactory;
+
+    protected $fillable = [
+        'userId',
+        'vendorId',
+        'businessTypeId',
+        'subBusinessTypeId',
+        'descriptionOfExperience',
+        'vendorTypeId',
+    ];
+
+    protected $hidden = [
+        'userId',
+        'vendorId',
+        'businessTypeId',
+        'subBusinessTypeId',
+        'vendorTypeId',
+    ];
+
+    protected $appends = [
+        'businessType',
+        'subBusinessType',
+        'vendorType',
+    ];
+
+    public function getBusinessTypeAttribute(){
+        return BusinessType::find($this->businessTypeId)->only(['id','code','name']);
+    }
+    public function getSubBusinessTypeAttribute(){
+        return SubBusinessType::find($this->subBusinessTypeId)->only(['id','code','name']);
+    }
+    public function getVendorTypeAttribute(){
+        return VendorTypeInformation::find($this->vendorTypeId)->only(['id','code','name']);
+    }
+}

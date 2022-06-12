@@ -1,29 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\Nationality;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class NationalitySeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Nationality');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1],
+                'name' => $data[2]
+            ];
+        }
+
+        DB::table('nationalities')->insert($dataSeeder);
+    }
+}

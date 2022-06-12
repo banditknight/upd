@@ -1,36 +1,46 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-soApfoOczRG=
+<?php
+
+namespace App\Http\Middleware\v1;
+
+use App\Traits\HasRouteModel;
+use App\Traits\ResponseToModel;
+use App\Traits\RoleAssigner;
+use Closure;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
+
+class RoleAssignerMiddleware
+{
+    use HasRouteModel, ResponseToModel, RoleAssigner;
+
+    /**
+     * Handle an incoming request.
+     *
+     * @param \Illuminate\Http\Request $request
+     * @param \Closure $next
+     * @return mixed
+     * @throws \App\Exceptions\Custom\Repository\RepositoryModelNotFoundException
+     */
+    public function handle($request, Closure $next)
+    {
+        // Pre-Middleware Action
+        $routeModel = $this->routeModel($request->route());
+
+        /** @var \Illuminate\Http\JsonResponse $response */
+        $response = $next($request);
+
+        // Post-Middleware Action
+
+        if (
+            $routeModel &&
+            $request->getMethod() === Request::METHOD_POST &&
+            method_exists($routeModel, 'roles') &&
+            $response->getStatusCode() === Response::HTTP_OK
+        ) {
+            $model = $this->jsonToModel($response,$routeModel);
+            $this->assignDefaultRole($model);
+        }
+
+        return $response;
+    }
+}

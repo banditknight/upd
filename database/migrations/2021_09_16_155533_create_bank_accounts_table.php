@@ -1,37 +1,41 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPsXkNZiZiAB/XZhUonWE9j8LpCHr2Wmm7g2urCmKXYo2IvbVA8E9IjqmWVwM7p8OYexQtnqh
-hpkUrTC0SS4co1Cv0jPZbMwoDkbHtiHlCZSd5CeHJmLrmniBB4rnSp4MkCBLGQ7j1A7/Pp/TPyc9
-OyewWPwCpDz5twZYcnoNGx+xstsny9X4t9UEyE5VqX4n0ETHykPsuiHSrgaIFMAb0QY6ilcD2oK9
-c09Tx+JVrHMhWvXUkenDFgnhXbrmSeiD3ViSrjBJmUe4ymXDg6scjiN1rMbe0W80Z5s+kyMmmiRv
-AeSX9KEfhsVD6cykSZ5Xr1W5en8Dpfd0PJ2UuGbrIsk5ZwZW5CKXfwM183/PglgeruLVDIgUjaB2
-+tyOEEiSYtyhrwVrrWLPHSTVNkzWSmkX6OgKMXufgzxjBT5QzFUgx23JeknSB1m7Mehrmu667Bep
-G8bhQbUpy7a5zoidyOF3vcgR6Pr4q0YCLRpZFN2270W328BNICeV+yN1Lh63FRE6NPEv0YO9g39Q
-oWVWs/ectPSzMsUsR/6AkJP35ynzpg4UFejHllsOOrijrH1Vb2lXA56/OBVJMqPxpv11RUaFHk67
-qojgCe3c+X+65ietl4NYr4mxqNEMsQyQloK7iUi6bea5i3rpm66Ii5V/rYDUNkXLr2XOZBI+STV5
-IUO8e6qTfQafbROQEpApI/ysyvRrolrQSbKFs2fLZV+eiRiw7PqGCb3hl1rzqymw2TQkLsH548jb
-pFekFyJpFo0I91p/F/uQPhgzQUSi9RSQiUKKMsYsoOfNzJ4K6ft38elaWwAyXGedXCC8PkqnrFrv
-/MNwR+9qf2LHtD/HccRCZaOrIC+7OOnk4QuKGlFtkeC/KOgVQZ2YpiJ48xlJIo4WtxUdv0F+4dj3
-3fIeUSth1KK1MO8Oqvy3RkOFbMs4QoGk/QH5YwAb/bTwf4QSA6fWN2ZXvRaZt2bOHtwf9QM9CuAc
-yGloCemiiR7oPSPIl2kVOo1CGZvvAQQ4joKEzwZM00AzuYSgcn6eCj5RYeMW6GC39XPXBaYP/UeG
-E1DluSBCSmb5liJUnRihoHHG7Zi4P4qqufVaopsLdujUzSVHVffATGWbsC4Z2ZAB2m1dUN5thVt7
-jDd1r4Q9eAhk3m4YV2K4+sGJjGKvU8/CtYtWVIPEEMY1X9+A1Oup57FT2P2xKuBZSQCW1btxQpZH
-5M2JHcTFERR8ABcLCdleK7sJ5TamYOWhbqUy8/SkKNcViuec3DU5HquuGkDlW7kobVk79fGQTkyW
-n6bTJpfrK5vhNry7n2Mt98VJR6DJqQWK3aDcFvNdRfQOHQBCtGmLWPvP//f9acHYIX1NJvSMJHnk
-hWuj2vBJ0om2Zt8z/lbk7MP8lgrdtVVazRWxaNozNjNsrbzqNFcGVnr+WuwOgXvGXGUCqzObB6S7
-HJIniz0AEvz1BvTi60L+9R2aqttH4wcUeuxanMeUydVAfniWsYNqMfwGHbFz6eSjYLIATZuq1gX9
-QjVX6CZxW4QXUOasKOVlI1m1OgjOBXV8ZgqlE9bQR7HJPW2lWzlEeRTwqobWudEf121l9CZwl0sC
-6mgPX/iEAGgpXOA9EWc2P/gj8424sYpqRkXtcmrX/WQ3g8JhSOR8efyQlsVy16bEEv8gbRjUKuLz
-23VwX0ZNSIwXEJiNfWDUPci6dNaYrOkpHh2OXkjjg8WX9koDHA9Qim1VDqwSZNyWJErZGjcRJTzC
-lCwji1VND09djDJbTFEixiP+53aD8TP3pj8SQ6WAn33q1vbLZwMIUiyNCG1W7WxplGcYfOFH5w33
-DQoAtqw8J4epP/hJ4+VxKKIgr2NUFeLhHCJH0bklrlcKzK/0nnus62GbwssXntRyrUbuqUNuciAi
-oP53kO1RRxKklyFOJeeBJG2owcCmBXKCRg2ilNOaAoLL1HOYObn0NGlLbeMi5A3RO8uDPym6d+g2
-jCLWnlBUCv1t+2471Z3US1SNB+7+Wmy/TJwdVR9as0P2Ik6an+EdJ7VWETffHV/rTrR2/90tFv1j
-yytF1Mdg1vMgYTOasPsLYxYV7n3uc7uSeQgE5N1lrpyJRYn71H6SADp4WT8LMMFt+HcExs64JAu4
-IFS6rvzdlRpyHZKfPT9CMETpX9I1qN610+26zyyrKHLwsJDFSBi2G/UKG2c1MDE7/fHdrpKu6DdR
-KAG0WITEaWBw3HyuMUveR8r3vfV15KF7c3rQv1l9aSBvMAAiUXFYRX/5VtPqlHEhGyWnSxxM5own
-VNOAezUcQhsnyQQTDfkAJer01pE2TZl7wvNssdSO2nwGG+mYk0yIZwnlY2AkdWEHbKobjFdiev1u
-JZqu8njK9NDApdx+0ibM+ynJP77MXXMHPXxemLEf+e3zOx3QptXV+D9XheqmBXenBwlMkBV2iVvb
-1Otd7yjfowqiSMpTWcJ3zHOY3qU71uOCRf4lMM+/r4yAvL0VttxXN4BbKfZHdgZ4Z1UW+PytB+yG
-XpySECoJyqa5Oe2ayJ6vsYDoYG==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateBankAccountsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('bankAccounts', function (Blueprint $table) {
+            $table->id();
+
+            $table->bigInteger('userId');
+            $table->bigInteger('vendorId');
+            $table->bigInteger('bankId');
+            $table->string('accountNumber')->unique();
+            $table->string('accountHolderName');
+            $table->string('bankAddress');
+
+            $table->bigInteger('currencyId');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('bankAccounts');
+    }
+}

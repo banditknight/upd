@@ -1,36 +1,98 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-Rm0+gvuS/Se=
+<?php
+
+use Monolog\Handler\NullHandler;
+use Monolog\Handler\StreamHandler;
+use Monolog\Handler\SyslogUdpHandler;
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Log Channel
+    |--------------------------------------------------------------------------
+    |
+    | This option defines the default log channel that gets used when writing
+    | messages to the logs. The name specified in this option should match
+    | one of the channels defined in the "channels" configuration array.
+    |
+    */
+
+    'default' => env('LOG_CHANNEL', 'stack'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Log Channels
+    |--------------------------------------------------------------------------
+    |
+    | Here you may configure the log channels for your application. Out of
+    | the box, Laravel uses the Monolog PHP logging library. This gives
+    | you a variety of powerful log handlers / formatters to utilize.
+    |
+    | Available Drivers: "single", "daily", "slack", "syslog",
+    |                    "errorlog", "monolog",
+    |                    "custom", "stack"
+    |
+    */
+
+    'channels' => [
+        'stack' => [
+            'driver' => 'stack',
+            'channels' => ['daily'],
+        ],
+
+        'single' => [
+            'driver' => 'single',
+            'path' => storage_path('logs/lumen.log'),
+            'level' => 'debug',
+        ],
+
+        'daily' => [
+            'driver' => 'daily',
+            'path' => storage_path('logs/lumen.log'),
+            'level' => 'debug',
+            'days' => 14,
+        ],
+
+        'slack' => [
+            'driver' => 'slack',
+            'url' => env('LOG_SLACK_WEBHOOK_URL'),
+            'username' => 'Lumen Log',
+            'emoji' => ':boom:',
+            'level' => 'critical',
+        ],
+
+        'papertrail' => [
+            'driver' => 'monolog',
+            'level' => 'debug',
+            'handler' => SyslogUdpHandler::class,
+            'handler_with' => [
+                'host' => env('PAPERTRAIL_URL'),
+                'port' => env('PAPERTRAIL_PORT'),
+            ],
+        ],
+
+        'stderr' => [
+            'driver' => 'monolog',
+            'handler' => StreamHandler::class,
+            'with' => [
+                'stream' => 'php://stderr',
+            ],
+        ],
+
+        'syslog' => [
+            'driver' => 'syslog',
+            'level' => 'debug',
+        ],
+
+        'errorlog' => [
+            'driver' => 'errorlog',
+            'level' => 'debug',
+        ],
+
+        'null' => [
+            'driver' => 'monolog',
+            'handler' => NullHandler::class,
+        ],
+    ],
+
+];

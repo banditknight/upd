@@ -1,29 +1,37 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\v1\Education;
+use App\Traits\ExcelReader;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+
+class EducationSeeder extends Seeder
+{
+    use ExcelReader;
+
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Education');
+
+        $dataSeeder = [];
+        foreach ($dataOnSheets as $key => $data) {
+            if ($key === 0) {
+                continue;
+            }
+
+            $dataSeeder[] = [
+                'code' => $data[1],
+                'name' => $data[2]
+            ];
+        }
+
+        DB::table('education')->insert($dataSeeder);
+    }
+}

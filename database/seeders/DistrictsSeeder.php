@@ -1,44 +1,31 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace Database\Seeders;
+
+use Carbon\Carbon;
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use Laravolt\Indonesia\Seeds\CsvtoArray;
+
+class DistrictsSeeder extends Seeder
+{
+    public function run()
+    {
+        $now = Carbon::now();
+        $csv = new CsvtoArray();
+        $file = __DIR__.'/../../resources/csv/districts.csv';
+        $header = ['id', 'city_id', 'name', 'lat', 'long'];
+        $data = $csv->csv_to_array($file, $header);
+        $data = array_map(function ($arr) use ($now) {
+            $arr['meta'] = json_encode(['lat' => $arr['lat'], 'long' => $arr['long']]);
+            unset($arr['lat'], $arr['long']);
+
+            return $arr + ['created_at' => $now, 'updated_at' => $now];
+        }, $data);
+
+        $collection = collect($data);
+        foreach ($collection->chunk(50) as $chunk) {
+            DB::table(config('volt.indonesia.table_prefix').'districts')->insert($chunk->toArray());
+        }
+    }
+}

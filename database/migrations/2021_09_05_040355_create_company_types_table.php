@@ -1,33 +1,36 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-eW==
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateCompanyTypesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('companyTypes', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('code')->unique();
+            $table->string('name');
+            $table->bigInteger('domainId');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('companyTypes');
+    }
+}

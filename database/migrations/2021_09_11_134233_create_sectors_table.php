@@ -1,30 +1,34 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-ar7TEvSOqmuZXxr7TSA6
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateSectorsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('sectors', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('name');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('sectors');
+    }
+}

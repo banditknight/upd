@@ -1,96 +1,176 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPyKhAaoXeAvZlEw/RyG211AWmGYCxiFjRREuFvo9UpN4RiMRTZz9j28ViM1PIliiwq4HjDUn
-VtXDoq0q5J4Y3ArvSbp2ccnqMk+wSBb3eQpBSIT0MTojau7wKJK4EUl5QzLlsQCRxo5RADeQ2INb
-T5Q3FZd2mlWvBc9PCXcYNjIe3LtEeatzTMfIZulIfbl9S4a9rkWWyD7rKowtZ6xS7aS0oZdrrynN
-gTuT/JUC3jKSJs+KZoHrRTYdM7svjM5/XVRgrjBJmUe4ymXDg6scjiN1rHnhDRJKU1XBWJgRx7Q7
-it1fIVsZ/rWNwad6ejzyua8NNbKjzq8dP88haBYJLRHAmq0DsyH/59twD3M8LpJp6tg+52mYPhxE
-aPyba1mKSo5D8Kr6oljmqKZ60ug9DYsrD9sXmSST8eDUPzDXYzLGko5AC3JaihfF4seMsp1kCoaP
-Urtwm7czM0XfRazDdx+tiH7Uisth4tJMOetRpFPKC1JqAFGhswpk8BphWEv0zgNNRS98Vx6Jrjv1
-kgGZb6NFkFxddgWqCsxvtZtRqoWkeWsDvevrUIjXdsMQcmwgDCHLCyPfG1WDYKH21jh4xso9VETc
-aM7nJzZeR4RfyEIufiIU8+K877fI5vvolv5iazpY9/DlOMR/V/TrE0QfgjkuVWAaGJ3gEWfTtiWc
-5mqHSeV3hNdO83AVFg6aFT6pvvdy5hlTU6uaknQIXLRQn1ZghVkOcgXsoF2BrcPV2b6cRcPfqXbD
-mSNphRpfY3XUbZyJKVDhueF+jnWIKWj+riCDTUbHguOHVqIqnNJpM04zhL4a0S38wYXmrMS4ot38
-QGn51PwPRrOtOX93WwbcYdUdJRROIh5V7v9oiD5H2P1yHpl1et94CnpojaFIUvDvvVnhqN09/Qjp
-GVtn0xZ0KB3xWqrEASqB2Wbop60ek6BGz5rAATWOiEtj2Nt2uWFzMNUocHS4KjLYoMklgxurALYA
-NE4pXSMxFGnavxP1vczBRwngAU2TppRonYexc6QQvfPVrR/HafEMX5d5KGOwV9kg2N5oy9LPQuRq
-eXaK/GBpOTdDt1vxZeYltiUYBdt86caA3MV2OEYXzlELJJeB8VH7P2vLVzbNSXp6Jx53meFtR0LJ
-PKW3iIUAGG0b0s21xeKNpjqtrZlsA6jznGQEjXwouj4gt6wped46cKZG98RP37E9OnplGqX92QrV
-hWypY2pZz+trDp2Y/7dYVNYSv9BYZbGxUkSmCdnUDXg1xyLYfpaQ/jciHiqVNHo7uLZu2txgJrCI
-uvwx2msdiiBFCF8crevly3TG8UfrNSIKNohTO9cIkVfIUfnwNkj+WlevTTPqlR2VAgvToiawPLW2
-bCn/FRZRiRitla7tez6FPIGDCiT0u1ijOSNY/8fu5vyclde1ny0mS2K7yW2pPME+TJaFdQJBLNXC
-ikQejqKsCBigvG4KzZ9B3JzrMyfKIQnYHED5Xl26cB9SWD1Tvh2m+ube3qBtD45Isb+StC1zM8EU
-QIPyT0rQ57vEXTZGs3+9Y+8WIYJu9JFa6M2dD/hQ2O07BEn/3eXxh9es1XBMQagv6cpRmxbr7y5Z
-fcmX7HuTCyNBeT0raEKwxzkbaEyC2xMwYCNj4ObZeYjpKR3UNUsxPpc/T8u6B6CkagGH//hf5QSU
-kbE+IR1GhnIriXClHbcu8zjghQkuQHrh2R+TcAqsVcpgFWV9mVJN5FB115uzb/FzEFaKXXUf/FiA
-tsWFjx+gaO3Y1r+xsoJg/iMZ/tvrGwlY1e58WHl0ixLnd9SEsGIQI5iR0g7s/2T50amA8XUNGQt4
-EeeR4XN8OoO/sqlXfaeKB64J2xkKaq0AfnD2P2cqN8KdGEaJd5iSom2r095LAJYEmWrCWKYmOXaF
-EFWOOsbpSf345/7OnqqaHelQIbDom6gsGpJQmvdH6KP9n+rOp91ziZLfSo0DUJKww16B0j6jLRKa
-+qRFV9/Y8POi/ITYAEPjhUk1/BgOQgXTfmO6tFI2pv84yy52BbJTL40O1yIn90kx2/AXqlYojRhO
-v8GaSDogdjWln0CIfVI0eHSkFsa+5I+YFMKWeXVrEXgSn2AxWkxP4jD7qo6T/z7bfOaf+cPZCFuk
-6HYOPiD0qFLr+LFq/r1P6/7HFM1LZIzIjzpHa0Bo/re1Je4wHh52gAhp1r4cHlrGDQ1aseHPCedC
-DrPpGVuigYLmu6fQTk8SyC9Ciq8/ugWjBH5FpfMIal5ZsKHgREi4OJhqG+su2fqTdS6zP3q19bVJ
-uiqdP9vkCk74WdoBtPL25WQbL76aIDhUH0b7I+V53UhOpU2hcAzC14YcBSYGDANF2YprVbk0a4bI
-5kvLA5scgnW89viVWBH7C52i9qTrBuP4LM4xchRM8sDxA0M7Sw1n4r5EKm/Dz8rdZZbhkGfcUTg/
-lEFNK6yxZBYFVVOQv24MUHCo3ZAfkwy3fXtDHeCpS1ECgJ3CxlprtO6ImlpZOgEdYh7vBzw4x7ra
-EDZcB7pNw86UEZH1LPfdWxZJyOh2NWCdu1MIxg2JpIjZ5j7X8+F8nVm48idIBWOXrVTtTMeMuI/k
-49a1egv1pQkZOuBGl4S15rnjJrKKJPSCda53VwiZ7OMlHj22M+oWED6zBPtAN4IxPMfu5DMv+vd7
-lIyAj4NcHey+eZzeOmIYrWLoPSGziB4i6P1IIPu75H1QZ1msLEwEMpio1Ng2FUbH8hwWc+gIV5y1
-BGF/lrz33/dFNTXZrfu2jQCKHZdaWSdusHDiAR9PcXVoMUSm38KMa8aKtuFgRtuB1NiN0uIr305G
-2nPC/va5JnyzmeePSUtTo9ciK+VSpuBwKvZeeZ9d1a0jeD3owe1n+ZK6DEEaOljlIBIi8TnugALp
-X4sSDUXPREh4/S1dDsCjWQDPxnc3zgVg6eKzWZyPeYs2Ox+2Mf8P8XGPPjCINofVu8ShtgtWgQiS
-DOGXn+d6ktp7qN60TDNI6S+JD6A0sqHQAWQJAX2EeUEoJlxL261MTcTD528AK1o2bNQaODFD4spf
-CouVUUU/fQkh2qOaOw6wcdXK9kthRDIqacrJLgb3R/z6+oEx8wI4fmxSh5TMRmFFO3yIXqsFGAYI
-SR1/oEkP2lmBNDjzTwb2zcIZegqSr3EQOpJCEhtxfoKaKmYBzojO///MoMBgk6qi5J6Ir28QaS68
-n6+2l9dyT9nerptJlzQly5qabjEXMs/oL7GPzDNCv0iTGbdq0fwCOpRNhJfWojptV1Dg/mzq7lNL
-jApSiof3A7QEBRIw8i/iJYx1eycocscw/vKQlrk5+iI/TriCq1RPVIJXxA2uhtjnB5/GqkA0p5xa
-C3U0O/iBxAjIqfuu2Lacre0UL8SQ++vNHokca+3KLALieqp0DRxO9LkZpm6ZQJcmrZJX1pgWs5+M
-9KyC//w3lAhuTa9BzXjRYWfWt8U3Y0HCsQZeBlJiLXG0b+GohgwmNVbO+UiHq+HYBj1Irp7KzFFt
-AigPTIWDYgnOkoW3AbUZf0HkccbIBr0RenvAs9ZoQ3e9qFfvuTCvBr+ch3DMALVqnNOuOuzLpLGH
-yrNL87zCNhUOTpaFIr9Y12ruLFXQboQu3WBEgAZo60/4Humw1zc1hu9H3q3o+30LI3CPk2SJkAw0
-XmFNT7VyjNBKjeW/1tdfp7l2w+lwsB27prapMzZqSJevmE58LPSkgA7GZPbE5fTG+Pq1dKRJCnbd
-bQJ3sdTewLFue5vQymPttm2kiPf5cXX38+6guxiqA4l/0L+FM/aKr/VzJAYiq8kHXffZB2R4iKVZ
-5j0+OxAaXggv2W1lz1c5tdeQDZXSvdFixt3Kdfs+ezAhj5VB/+cLZ0dspOwJqNNU5qXzggoy7iLP
-8p/JwjJkVi4dJb1VbBqf0RHF12NIWQ6C812S6pcyh3C+jiipaGH9bPZcE8U7I2r8UXKqzE77t74c
-ItV5S8UBopM5Tb3BAShQGEj67/nU3iWFUw19BWVgYOp/CEKdW0vTt3MqgTltkiFQAd59M3jXoTZr
-rC6EfXBod817nyMXMQmwkwvUSjno7RCWlEyZFfb9OGwCXoTD86qhbTtdWqcQNB6NS4HzMFbzx5z6
-e913E46BXA3G4UoI9UFuhmTfU2/5SVzGshahIT8swKV32Ncip1oWt6pRu5mFlNpFKHX6pbukxySh
-rzIqXwhHVGLpnxtFzvYD4Kx6SFkhlshR+E5yPqltToMRaZGNn3HySXFpXZeOvSKZkaRkenuPyeRv
-8Q7SdQ1bxTDi1UZ3/u57CylXJriflFax30V7pB7xHNlKPHUet3MH4cnPUQjP9yVwrSCuhNe/EXEB
-7B2rJYab4YFf6o6+hu9pAbzCfzeehIr7Y1aM1QQ3jG9XT/dzzKeFMlEmDq5pKjUXWCKBlAegHSj2
-2tLi05PTBAjAU5MbmEKO3uYCBMqKGL8JA4hDmgTkZeBzVQJzaWefROOY/vt8p9fwyxNrvv529ZOZ
-SEMmm9I8bHZvN+vSY8RQRGfD5xmsUKo/FdGClsQkZENlW2TrwZYZIJ1WX2DN8g5kpwSh27ZDUQYN
-dAfCIsEagqtyrDeOD3ULTCDiIh5reKNDoCuKvI5+dHTiXbZrv4+Or3s3nRwtuLNHyvfVcPMcKfIf
-MRJSK6Logbrvj38eUWl+7/K5+KSkRwFU9zqYvmGHB08IWg2trf7kQkHDKkxV3abFoJNLLmUfDNlW
-zN+SqbVd4jeOO3Ir673J8WykaFB5nvD0rfztCyEVEF4EBZ45zghor2hD1/ROBwOMWOviou5OsjWa
-5kQblZu/ytDeEVzX5st/yfIULpFL0cKxLVmkeOYe1HtI9TW6SKuu5/nct5+lmjchDy0U3y8Yjvhr
-SAM23rve9Z9Xe5Ym8Z3xrSLJpRA8Qqa2MiOJWOJbj9wI3kKtnmnDfJhvXXFRecaY4+9hcyPs8qIC
-PSRHWg1uGnuRqp+cT94WfCohMksed3k/Zgktx+j1slDDthuCipRHbh54o4yL1CQMowCKrVUEGjKn
-LYLdASl9vvPaZ7Ao0j6URDlIPnZY1nkBQSGd+v3tJEFy2PAESkKKS63sDYJia6/sm6MJuCj0oaj7
-s/jymnNEMPXUM1YZ4/thWHMq+DoDhCzw2g9MyLMvm+H7JojxP8NLuMnFVdie9pgi3ybIRaGd8SB6
-XAKk5GaiBaTII3W0keMxe8jk/8jQOCE+LG7F8hpNEVU9JgRu2XfPXzniNFh36CtHgwXPbe+CAW1w
-NueEgi87KjRjqJuUT8c0bK3StmamkDOmWL5chnld1URC6qPIVA1sZG1KIkEm9LuXHnOext6UAXb4
-Ts6QXGt7EZyBQVpjEUFNHeHFu0dpcdRcrmi7hItzh7RmKEbVI/2hX1NPHtTyGQnP3VHI/oK8u21b
-866m8iHYz8FkQDUPdmm+Vdtk+Dfyny4RRw38MGwFDm69uORuc/gk1epsYAg8WOojypAfkXDUOAUm
-HbFfeo97RYUxPOQYGPPm+HvQSLaYCdq/ttc44x1ZLrdwWndtwtz5oaFhqoM4FNqIxOcKiWzoETRp
-Z5SjEPz+OmfTrxud2mrPWhjAFXvTR9hpsXazhdDrL7fUxWpbLEAUGHlJyvH6rjJPTMJrwswl7MPj
-KFRKI9iNceyGbKYM5KI18PNEGhtMyhqsYgWiZR8an4vjuuoEQh34Ysr/qyl8V5rqP49y7Bstpuej
-/AUUuWCoZMKI0/KRazHivL9pq4MmBWT5sabNzk7A54LVsdI010RWhlLq0wp+WbyHfnX7l0ylw01d
-WYKUISKS7sqrprnVshcDjMOCMsBS+bQCcMnZUI0Ku7ib9mdf70Nk9NGKMRV5B6BhqlO6oqU4M2j+
-+tKhRCQqQMVmJ3Fo15u0g6BX6OrSl4PDKiYjSii7nTUWrdvycs6FvD/HWzsLrat10YlB0GD1sYBV
-z2SlmOVLW7B8dRhJCtUc3ZHHtZuEW2SEQkQ6Pa8GOFUUK8GwNWJvwFd026UyaOkckZRjCvy11ZVY
-oiM6N0UT3cL/pgWOYuWFW7/ubMYtjMwe3FKpdAgpcvfPyDk8KCsL6mg4zGhVBJ2Kv7ZuDKKdn1b5
-lkBuhMH3Fp6chotec8NTv83ErNAeKV4tEGlQ8hDuNIq0o0zZIL6fG2dI5+lYgNTCZPWF2QjwqAfx
-ehLwU40jlCOPHZOotE4Uvd6kQJ/aGaDojRpKKr0CMhWun/UixN/1seIBVuDnU3LD2lypNAq9ZEJj
-8dcKbGmoKqWvwmVKax3EM1C/3dIkX3q+aW+7+5P6FwF67AR6/pBqoM+3tz3e+n8LZ3UDR9mj/Q3S
-g4D517Jzhblvvk/4Q3sPjl0SMCVXzTxQPHGQQu30js9IUOrVCc/QsgoXoFx2apQR6PLbQg6/ecQE
-0lTfKQOwyU8PtdIXBWGluIBEtWWg5EUFanLZQAguRHgszTdLn4Xkq5bB9A6Xca4ZHeqYMc7X3uRm
-m0qW+6Pyua8CyhotMhRZrYvL3MMenJGPrkM/dXrshArA7JMr0xwQameUp0HsG9S5zoz4CuiALxZx
-zEy5/9T+/smjgTb9NHzmDjr8iEAox8glSrwj8Nhu4HHxlFIpZXpSdmXQjRq1/SAw74ZPgclRSA2o
-teb+1QAOC6O0PtPlo0h1wmTyN6rS19W8NQvuxc85aFJmZHekMUUbN9pHV36Nn8wrm7PMEaBmzVRh
-MysUoV799BxKhvGvzBTAHKfd9bIQXdgN+SCNwCiotSP6v5LxRROUSDoEWCtVBfwIQSezbpXAXPYO
-O3v0W7MUz5ufKm9XSitwI9WI6MU8MsloyakL8+sb8d8S0fRxImmESMIItiEOoSWoB8oO210mlvdr
-ic9CpgMcfhyMYFwPzDPbogqYZKh/rve5HVau1K+lWHTtK4b4LtJGB8NUCb9wmsmgMn3D4yWYuvYg
-2L8G28szWXX6X98/0dSIl7P/r6codthSVsd4B+/MJKuLYlvPNv8YadpwQIXcvK+9DKmCB5WjCb+w
-25S+AM6mgkEwdVG=
+<?php
+
+namespace App\Traits;
+
+use Monolog\Handler\StreamHandler;
+use Monolog\Logger;
+use Symfony\Component\HttpFoundation\Request;
+
+trait Log
+{
+    protected $logName = 'usage';
+
+    protected $fileName = 'usage.log';
+
+    protected $filePath;
+
+    private $logLevel;
+
+    /**
+     * @throws \JsonException
+     */
+    public function info($message = null)
+    {
+        if (!is_array($message)) {
+            $this->instance()->info($message);
+
+            return null;
+        }
+
+        $userId = $message['userId'];
+        $vendorId = $message['vendorId'];
+        $method = $message['httpMethod'];
+        $oldValue = $message['oldValue'];
+        $newValue = $message['newValue'];
+        $ipAddress = $message['ipAddress'];
+        $status = $message['status'];
+        $table = $message['table'];
+        $rid = $message['recordID'];
+        $token = $message['token'];
+        $action = $message['action'];
+
+        unset($message['userId'], $message['vendorId']);
+
+        if ($method === Request::METHOD_OPTIONS || $method === Request::METHOD_GET || $status !== 200) {
+            return null;
+        }
+
+        if ($method === Request::METHOD_PUT) {
+            foreach($oldValue as $e => $val){
+                if($val === $newValue[$e]){
+                    unset($oldValue[$e],$newValue[$e]);
+                }
+            }
+        }
+
+        $oldValue = empty($oldValue) ? null : json_encode($oldValue, JSON_THROW_ON_ERROR);
+        $newValue = empty($newValue) ? null : json_encode($newValue, JSON_THROW_ON_ERROR);
+
+        $encodedMessage = json_encode($message, JSON_THROW_ON_ERROR);
+
+        \App\Models\v1\Log::create([
+            'userId' => $userId,
+            'vendorId' => $vendorId,
+            'content' => $encodedMessage,
+            'method' => $method,
+            'oldValue' => $oldValue,
+            'table' => $table,
+            'recordID' => $rid,
+            'token' => sha1($token),
+            'newValue' => $newValue,
+            'ipAddress' => $ipAddress,
+            'action' => $action
+        ]);
+
+        $this->instance()->info($encodedMessage);
+    }
+
+    /**
+     * @return string
+     */
+    public function getLogName(): string
+    {
+        return $this->logName;
+    }
+
+    /**
+     * @param string $logName
+     */
+    public function setLogName(string $logName): void
+    {
+        $this->logName = $logName;
+    }
+
+
+    /**
+     * @return string
+     */
+    public function getFileName(): string
+    {
+        return $this->fileName;
+    }
+
+    /**
+     * @param string $fileName
+     */
+    public function setFileName(string $fileName): void
+    {
+        $this->fileName = $fileName;
+    }
+
+    /**
+     * @return string
+     */
+    public function getFilePath()
+    {
+        return $this->filePath ?: storage_path('logs');
+    }
+
+    /**
+     * @param string $filePath
+     */
+    public function setFilePath(string $filePath): void
+    {
+        $this->filePath = $filePath;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getInstanceLog()
+    {
+        if ($this->instanceLog === null) {
+            $this->instance();
+        }
+        return $this->instanceLog;
+    }
+
+    /**
+     * @param mixed $instanceLog
+     */
+    public function setInstanceLog($instanceLog): void
+    {
+        $this->instanceLog = $instanceLog;
+    }
+
+    /**
+     * @return int
+     */
+    public function getLogLevel()
+    {
+        return $this->logLevel ?: Logger::INFO;
+    }
+
+    /**
+     * @param int $logLevel
+     */
+    public function setLogLevel(int $logLevel): void
+    {
+        $this->logLevel = $logLevel;
+    }
+
+    public function instance()
+    {
+        $log = new Logger($this->logName);
+        $log->pushHandler(
+            new StreamHandler(
+                sprintf('%s/%s', $this->getFilePath(), $this->fileName),
+                $this->getLogLevel()
+            )
+        );
+
+        $this->setInstanceLog($log);
+
+        return $log;
+    }
+}

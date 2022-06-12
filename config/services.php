@@ -1,29 +1,43 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Third Party Services
+    |--------------------------------------------------------------------------
+    |
+    | This file is for storing the credentials for third party services such
+    | as Stripe, Mailgun, SparkPost and others. This file provides a sane
+    | default location for this type of information, allowing packages
+    | to have a conventional place to find your various credentials.
+    |
+    */
+
+    'mailgun' => [
+        'domain' => env('MAILGUN_DOMAIN'),
+        'secret' => env('MAILGUN_SECRET'),
+        'endpoint' => env('MAILGUN_ENDPOINT', 'api.mailgun.net'),
+    ],
+
+    'ses' => [
+        'key' => env('SES_KEY'),
+        'secret' => env('SES_SECRET'),
+        'region' => env('SES_REGION', 'us-east-1'),
+    ],
+
+    'sparkpost' => [
+        'secret' => env('SPARKPOST_SECRET'),
+    ],
+
+    'stripe' => [
+        'model' => App\Models\v1\User::class,
+        'key' => env('STRIPE_KEY'),
+        'secret' => env('STRIPE_SECRET'),
+        'webhook' => [
+            'secret' => env('STRIPE_WEBHOOK_SECRET'),
+            'tolerance' => env('STRIPE_WEBHOOK_TOLERANCE', 300),
+        ],
+    ],
+
+];
