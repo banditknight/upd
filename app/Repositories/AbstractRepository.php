@@ -1,1300 +1,587 @@
-<?php
-
-namespace App\Repositories;
-
-use App\Contracts\CriteriaInterface;
-use App\Contracts\Presentable;
-use App\Contracts\PresenterInterface;
-use App\Contracts\RepositoryCriteriaInterface;
-use App\Contracts\RepositoryInterface;
-use App\Criteria\AuthModelBelongToVendorCriteria;
-use App\Events\v1\RepositoryEntityCreated;
-use App\Events\v1\RepositoryEntityCreating;
-use App\Events\v1\RepositoryEntityDeleted;
-use App\Events\v1\RepositoryEntityDeleting;
-use App\Events\v1\RepositoryEntityUpdated;
-use App\Events\v1\RepositoryEntityUpdating;
-use App\Exceptions\Custom\Repository\RepositoryException;
-use App\Traits\CriteriaResolverTrait;
-use Closure;
-use Exception;
-use Illuminate\Contracts\Pagination\LengthAwarePaginator;
-use Illuminate\Database\Eloquent\Builder;
-use Illuminate\Database\Eloquent\Model;
-use Illuminate\Support\Collection;
-use Prettus\Validator\Contracts\ValidatorInterface;
-use Prettus\Validator\Exceptions\ValidatorException;
-use Prettus\Validator\LaravelValidator;
-use App\Traits\RepositoryLog;
-
-abstract class AbstractRepository implements RepositoryCriteriaInterface, RepositoryInterface
-{
-    use CriteriaResolverTrait, RepositoryLog;
-
-    /** @var Model $model */
-    protected $model;
-
-    /**
-     * @var array
-     */
-    protected $fieldSearchable = [];
-
-    /**
-     * @var PresenterInterface
-     */
-    protected $presenter;
-
-    /**
-     * @var ValidatorInterface
-     */
-    protected $validator;
-
-    /**
-     * Validation Rules
-     *
-     * @var array
-     */
-    protected $rules;
-
-    /**
-     * Collection of Criteria
-     *
-     * @var Collection
-     */
-    protected $criteria;
-
-    /**
-     * @var bool
-     */
-    protected $skipCriteria = false;
-
-    /**
-     * @var bool
-     */
-    protected $skipPresenter = false;
-
-    /**
-     * @var Closure
-     */
-    protected $scopeQuery;
-
-
-    /**
-     * @throws RepositoryException
-     */
-    public function __construct(Model $model)
-    {
-        $this->model = $model;
-        $this->criteria = new Collection();
-        $this->makeModel();
-        $this->makePresenter();
-        $this->makeValidator();
-        $this->boot();
-    }
-
-    /**
-     *
-     */
-    public function boot(): void
-    {
-        $criteria = $this->getCriterias() ?? [];
-
-        foreach($criteria as $criterion) {
-            if (!class_exists($criterion)) {
-                continue;
-            }
-
-            $criteriaInstance = new $criterion();
-
-            if (!$criteriaInstance instanceof CriteriaInterface) {
-                continue;
-            }
-
-            $this->pushCriteria($criteriaInstance);
-        }
-    }
-
-    /**
-     * Returns the current Model instance
-     *
-     * @return Model
-     */
-    public function getModel(): Model
-    {
-        return $this->model;
-    }
-
-    /**
-     * @throws RepositoryException
-     */
-    public function resetModel(): void
-    {
-        $this->makeModel();
-    }
-
-    /**
-     * Specify Model class name
-     *
-     * @return Model
-     */
-    public function model()
-    {
-        return $this->model;
-    }
-
-    /**
-     * Specify Presenter class name
-     *
-     * @return string
-     */
-    public function presenter(): ?string
-    {
-        return null;
-    }
-
-    /**
-     * Specify Validator class name of Prettus\Validator\Contracts\ValidatorInterface
-     *
-     * @return null
-     * @throws Exception
-     */
-    public function validator()
-    {
-        if (isset($this->rules) && is_array($this->rules) && !empty($this->rules)) {
-            if (class_exists(LaravelValidator::class)) {
-                $validator = app(LaravelValidator::class);
-                if ($validator instanceof ValidatorInterface) {
-                    $validator->setRules($this->rules);
-
-                    return $validator;
-                }
-            } else {
-                throw new Exception(trans('repository::packages.prettus_laravel_validation_required'));
-            }
-        }
-
-        return null;
-    }
-
-    /**
-     * Set Presenter
-     *
-     * @param $presenter
-     *
-     * @return $this
-     * @throws RepositoryException
-     */
-    public function setPresenter($presenter): AbstractRepository
-    {
-        $this->makePresenter($presenter);
-
-        return $this;
-    }
-
-    /**
-     * @return Model
-     * @throws RepositoryException
-     */
-    public function makeModel(): Model
-    {
-        $model = $this->model();
-
-        if ($model  instanceof Builder) {
-            return $this->model = $model->getModel();
-        }
-
-        if (!$model instanceof Model) {
-            throw new RepositoryException("Class {$this->model()} must be an instance of Illuminate\\Database\\Eloquent\\Model");
-        }
-
-        return $this->model = $model;
-    }
-
-    /**
-     * @param null $presenter
-     *
-     * @return PresenterInterface
-     * @throws RepositoryException
-     */
-    public function makePresenter($presenter = null)
-    {
-        $presenter = !is_null($presenter) ? $presenter : $this->presenter();
-
-        if (!is_null($presenter)) {
-            $this->presenter = is_string($presenter) ? new $presenter() : $presenter;
-
-            if (!$this->presenter instanceof PresenterInterface) {
-                throw new RepositoryException("Class $presenter must be an instance of App\\Contracts\\PresenterInterface");
-            }
-
-            return $this->presenter;
-        }
-
-        return null;
-    }
-
-    /**
-     * @param null $validator
-     *
-     * @return null|ValidatorInterface
-     * @throws RepositoryException
-     * @throws Exception
-     */
-    public function makeValidator($validator = null): ?ValidatorInterface
-    {
-        $validator = !is_null($validator) ? $validator : $this->validator();
-
-        if (!is_null($validator)) {
-            $this->validator = is_string($validator) ? new $validator() : $validator;
-
-            if (!$this->validator instanceof ValidatorInterface) {
-                throw new RepositoryException("Class $validator must be an instance of App\\Contracts\\ValidatorInterface");
-            }
-
-            return $this->validator;
-        }
-
-        return null;
-    }
-
-    /**
-     * Get Searchable Fields
-     *
-     * @return array
-     */
-    public function getFieldsSearchable(): array
-    {
-        return $this->fieldSearchable;
-    }
-
-    /**
-     * Query Scope
-     *
-     * @param Closure $scope
-     *
-     * @return $this
-     */
-    public function scopeQuery(Closure $scope): AbstractRepository
-    {
-        $this->scopeQuery = $scope;
-
-        return $this;
-    }
-
-    /**
-     * Retrieve data array for populate field select
-     *
-     * @param string      $column
-     * @param string|null $key
-     *
-     * @return Collection|array
-     */
-    public function lists($column, $key = null)
-    {
-        $this->applyCriteria();
-
-        return $this->model->lists($column, $key);
-    }
-
-    /**
-     * Retrieve data array for populate field select
-     * Compatible with Laravel 5.3
-     *
-     * @param string      $column
-     * @param string|null $key
-     *
-     * @return Collection|array
-     */
-    public function pluck($column, $key = null)
-    {
-        $this->applyCriteria();
-
-        return $this->model->pluck($column, $key);
-    }
-
-    /**
-     * Sync relations
-     *
-     * @param      $id
-     * @param      $relation
-     * @param      $attributes
-     * @param bool $detaching
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function sync($id, $relation, $attributes, $detaching = true)
-    {
-        return $this->find($id)->{$relation}()->sync($attributes, $detaching);
-    }
-
-    /**
-     * SyncWithoutDetaching
-     *
-     * @param $id
-     * @param $relation
-     * @param $attributes
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function syncWithoutDetaching($id, $relation, $attributes)
-    {
-        return $this->sync($id, $relation, $attributes, false);
-    }
-
-    /**
-     * Retrieve all data of repository
-     *
-     * @param array $columns
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function all($columns = ['*'])
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-
-        if ($this->model instanceof Builder) {
-            $results = $this->model->get($columns);
-        } else {
-            $results = $this->model::all($columns);
-        }
-
-        $this->resetModel();
-        $this->resetScope();
-
-        return $this->parserResult($results);
-    }
-
-    /**
-     * Count results of repository
-     *
-     * @param array $where
-     * @param string $columns
-     *
-     * @return int
-     * @throws RepositoryException
-     */
-    public function count(array $where = [], string $columns = '*'): int
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-
-        if ($where) {
-            $this->applyConditions($where);
-        }
-
-        $result = $this->model->count($columns);
-
-        $this->resetModel();
-        $this->resetScope();
-
-        return $result;
-    }
-
-    /**
-     * Alias of All method
-     *
-     * @param array $columns
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function get(array $columns = ['*'])
-    {
-        return $this->all($columns);
-    }
-
-    /**
-     * Retrieve first data of repository
-     *
-     * @param array $columns
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function first(array $columns = ['*'])
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-
-        $results = $this->model->first($columns);
-
-        $this->resetModel();
-
-        return $this->parserResult($results);
-    }
-
-    /**
-     * Retrieve first data of repository, or return new Entity
-     *
-     * @param array $attributes
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function firstOrNew(array $attributes = [])
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-
-        $temporarySkipPresenter = $this->skipPresenter;
-        $this->skipPresenter(true);
-
-        $model = $this->model->firstOrNew($attributes);
-        $this->skipPresenter($temporarySkipPresenter);
-
-        $this->resetModel();
-
-        return $this->parserResult($model);
-    }
-
-    /**
-     * Retrieve first data of repository, or create new Entity
-     *
-     * @param array $attributes
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function firstOrCreate(array $attributes = [])
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-
-        $temporarySkipPresenter = $this->skipPresenter;
-        $this->skipPresenter(true);
-
-        $model = $this->model->firstOrCreate($attributes);
-        $this->skipPresenter($temporarySkipPresenter);
-        RepositoryLog::log('create', null, $model);
-
-        $this->resetModel();
-
-        return $this->parserResult($model);
-    }
-
-    /**
-     * Retrieve data of repository with limit applied
-     *
-     * @param int $limit
-     * @param array $columns
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function limit($limit, $columns = ['*'])
-    {
-        // Shortcut to all with `limit` applied on query via `take`
-        $this->take($limit);
-
-        return $this->all($columns);
-    }
-
-    /**
-     * Retrieve all data of repository, paginated
-     *
-     * @param null|int $limit
-     * @param array $columns
-     * @param string $method
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function paginate($limit = null, $columns = ['*'], string $method = "paginate")
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-        $limit = $limit ?: 25;
-        $results = $this->model->{$method}($limit, $columns);
-        $results->appends(app('request')->query());
-        $this->resetModel();
-
-        return $this->parserResult($results);
-    }
-
-    /**
-     * Retrieve all data of repository, simple paginated
-     *
-     * @param null|int $limit
-     * @param array $columns
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function simplePaginate($limit = null, $columns = ['*'])
-    {
-        return $this->paginate($limit, $columns, "simplePaginate");
-    }
-
-    /**
-     * Find data by id
-     *
-     * @param       $id
-     * @param array $columns
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function find($id, $columns = ['*'])
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-        $model = $this->model->findOrFail($id, $columns);
-        $this->resetModel();
-
-        return $this->parserResult($model);
-    }
-
-    /**
-     * Find data by field and value
-     *
-     * @param       $field
-     * @param       $value
-     * @param array $columns
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function findByField($field, $value = null, $columns = ['*'])
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-        $model = $this->model->where($field, '=', $value)->get($columns);
-        $this->resetModel();
-
-        return $this->parserResult($model);
-    }
-
-    /**
-     * Find data by multiple fields
-     *
-     * @param array $where
-     * @param array $columns
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function findWhere(array $where, $columns = ['*'])
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-
-        $this->applyConditions($where);
-
-        $model = $this->model->get($columns);
-        $this->resetModel();
-
-        return $this->parserResult($model);
-    }
-
-    /**
-     * Find data by multiple values in one field
-     *
-     * @param       $field
-     * @param array $values
-     * @param array $columns
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function findWhereIn($field, array $values, $columns = ['*'])
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-        $model = $this->model->whereIn($field, $values)->get($columns);
-        $this->resetModel();
-
-        return $this->parserResult($model);
-    }
-
-    /**
-     * Find data by excluding multiple values in one field
-     *
-     * @param       $field
-     * @param array $values
-     * @param array $columns
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function findWhereNotIn($field, array $values, $columns = ['*'])
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-        $model = $this->model->whereNotIn($field, $values)->get($columns);
-        $this->resetModel();
-
-        return $this->parserResult($model);
-    }
-
-    /**
-     * Find data by between values in one field
-     *
-     * @param       $field
-     * @param array $values
-     * @param array $columns
-     *
-     * @return mixed
-     * @throws RepositoryException
-     */
-    public function findWhereBetween($field, array $values, $columns = ['*'])
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-        $model = $this->model->whereBetween($field, $values)->get($columns);
-        $this->resetModel();
-
-        return $this->parserResult($model);
-    }
-
-    /**
-     * Save a new entity in repository
-     *
-     * @param array $attributes
-     *
-     * @return mixed
-     * @throws ValidatorException|RepositoryException
-     *
-     */
-    public function create(array $attributes)
-    {
-        if (!is_null($this->validator)) {
-            // we should pass data that has been casts by the model
-            // to make sure data type are same because validator may need to use
-            // this data to compare with data that fetch from database.
-            if ($this->versionCompare(null, "5.2.*", ">")) {
-                $attributes = $this->model->newInstance()->forceFill($attributes)->makeVisible($this->model->getHidden())->toArray();
-            } else {
-                $model = $this->model->newInstance()->forceFill($attributes);
-                $model->makeVisible($this->model->getHidden());
-                $attributes = $model->toArray();
-            }
-
-            $this->validator->with($attributes)->passesOrFail(ValidatorInterface::RULE_CREATE);
-        }
-
-        event(new RepositoryEntityCreating($this, $attributes));
-
-        $model = $this->model->newInstance($attributes);
-        $model->save();
-        $this->resetModel();
-
-        event(new RepositoryEntityCreated($this, $model));
-        RepositoryLog::log('create', null, $model);
-
-        return $this->parserResult($model);
-    }
-
-    /**
-     * Update a entity in repository by id
-     *
-     * @param array $attributes
-     * @param       $id
-     *
-     * @return mixed
-     * @throws ValidatorException|RepositoryException
-     *
-     */
-    public function update(array $attributes, $id)
-    {
-        $this->applyScope();
-
-        if (!is_null($this->validator)) {
-            // we should pass data that has been casts by the model
-            // to make sure data type are same because validator may need to use
-            // this data to compare with data that fetch from database.
-            $model = $this->model->newInstance();
-            $model->setRawAttributes([]);
-            $model->setAppends([]);
-            if ($this->versionCompare(null, "5.2.*", ">")) {
-                $attributes = $model->forceFill($attributes)->makeVisible($this->model->getHidden())->toArray();
-            } else {
-                $model->forceFill($attributes);
-                $model->makeVisible($this->model->getHidden());
-                $attributes = $model->toArray();
-            }
-
-            $this->validator->with($attributes)->setId($id)->passesOrFail(ValidatorInterface::RULE_UPDATE);
-        }
-
-        $temporarySkipPresenter = $this->skipPresenter;
-
-        $this->skipPresenter(true);
-
-        $model = $this->model->findOrFail($id);
-        $originalModel = clone $model;
-
-        event(new RepositoryEntityUpdating($this, $model));
-
-        $model->fill($attributes);
-        $model->save();
-
-        $this->skipPresenter($temporarySkipPresenter);
-        $this->resetModel();
-
-        event(new RepositoryEntityUpdated($this, $model));
-        RepositoryLog::log('update', $originalModel, $model);
-
-        return $this->parserResult($model);
-    }
-
-    /**
-     * Update or Create an entity in repository
-     *
-     * @param array $attributes
-     * @param array $values
-     *
-     * @return mixed
-     * @throws ValidatorException|RepositoryException
-     *
-     */
-    public function updateOrCreate(array $attributes, array $values = [])
-    {
-        $this->applyScope();
-
-        if (!is_null($this->validator)) {
-            $this->validator->with(array_merge($attributes, $values))->passesOrFail(ValidatorInterface::RULE_CREATE);
-        }
-
-        $temporarySkipPresenter = $this->skipPresenter;
-
-        $this->skipPresenter(true);
-
-        event(new RepositoryEntityCreating($this, $attributes));
-
-        $model = $this->model->updateOrCreate($attributes, $values);
-
-        $this->skipPresenter($temporarySkipPresenter);
-        $this->resetModel();
-
-        event(new RepositoryEntityUpdated($this, $model));
-        RepositoryLog::log('update', json_encode($attributes), $model);
-
-        return $this->parserResult($model);
-    }
-
-    /**
-     * Delete a entity in repository by id
-     *
-     * @param $id
-     *
-     * @return int
-     * @throws RepositoryException
-     */
-    public function delete($id)
-    {
-        $this->applyScope();
-
-        $temporarySkipPresenter = $this->skipPresenter;
-        $this->skipPresenter(true);
-
-        $model = $this->find($id);
-        $originalModel = clone $model;
-
-        $this->skipPresenter($temporarySkipPresenter);
-        $this->resetModel();
-
-        event(new RepositoryEntityDeleting($this, $model));
-
-        $deleted = $model->delete();
-
-        event(new RepositoryEntityDeleted($this, $originalModel));
-        RepositoryLog::log('delete', $originalModel, null);
-
-        return $deleted;
-    }
-
-    /**
-     * Delete multiple entities by given criteria.
-     *
-     * @param array $where
-     *
-     * @return int
-     * @throws RepositoryException
-     */
-    public function deleteWhere(array $where)
-    {
-        $this->applyScope();
-
-        $temporarySkipPresenter = $this->skipPresenter;
-        $this->skipPresenter(true);
-
-        $this->applyConditions($where);
-
-        event(new RepositoryEntityDeleting($this, $this->model->getModel()));
-
-        $deleted = $this->model->delete();
-
-        event(new RepositoryEntityDeleted($this, $this->model->getModel()));
-
-        $this->skipPresenter($temporarySkipPresenter);
-        $this->resetModel();
-
-        return $deleted;
-    }
-
-    /**
-     * Check if entity has relation
-     *
-     * @param string $relation
-     *
-     * @return $this
-     */
-    public function has($relation)
-    {
-        $this->model = $this->model->has($relation);
-
-        return $this;
-    }
-
-    /**
-     * Load relations
-     *
-     * @param array|string $relations
-     *
-     * @return $this
-     */
-    public function with($relations)
-    {
-        $this->model = $this->model::with($relations);
-
-        return $this;
-    }
-
-    /**
-     * Add subselect queries to count the relations.
-     *
-     * @param mixed $relations
-     *
-     * @return $this
-     */
-    public function withCount($relations)
-    {
-        $this->model = $this->model->withCount($relations);
-        return $this;
-    }
-
-    /**
-     * Load relation with closure
-     *
-     * @param string  $relation
-     * @param Closure $closure
-     *
-     * @return $this
-     */
-    public function whereHas($relation, $closure)
-    {
-        $this->model = $this->model->whereHas($relation, $closure);
-
-        return $this;
-    }
-
-    /**
-     * Set hidden fields
-     *
-     * @param array $fields
-     *
-     * @return $this
-     */
-    public function hidden(array $fields)
-    {
-        $this->model->setHidden($fields);
-
-        return $this;
-    }
-
-    /**
-     * Set the "orderBy" value of the query.
-     *
-     * @param mixed  $column
-     * @param string $direction
-     *
-     * @return $this
-     */
-    public function orderBy($column, $direction = 'asc')
-    {
-        $this->model = $this->model->orderBy($column, $direction);
-
-        return $this;
-    }
-
-    /**
-     * Set the "limit" value of the query.
-     *
-     * @param int $limit
-     *
-     * @return $this
-     */
-    public function take($limit)
-    {
-        // Internally `take` is an alias to `limit`
-        $this->model = $this->model->limit($limit);
-
-        return $this;
-    }
-
-    /**
-     * Set visible fields
-     *
-     * @param array $fields
-     *
-     * @return $this
-     */
-    public function visible(array $fields)
-    {
-        $this->model->setVisible($fields);
-
-        return $this;
-    }
-
-    /**
-     * Push Criteria for filter the query
-     *
-     * @param $criteria
-     *
-     * @return $this
-     * @throws RepositoryException
-     */
-    public function pushCriteria($criteria)
-    {
-        if (is_string($criteria)) {
-            $criteria = new $criteria;
-        }
-        if (!$criteria instanceof CriteriaInterface) {
-            throw new RepositoryException("Class " . get_class($criteria) . " must be an instance of App\\Contracts\\CriteriaInterface");
-        }
-        $this->criteria->push($criteria);
-
-        return $this;
-    }
-
-    /**
-     * Pop Criteria
-     *
-     * @param $criteria
-     *
-     * @return $this
-     */
-    public function popCriteria($criteria)
-    {
-        $this->criteria = $this->criteria->reject(function ($item) use ($criteria) {
-            if (is_object($item) && is_string($criteria)) {
-                return get_class($item) === $criteria;
-            }
-
-            if (is_string($item) && is_object($criteria)) {
-                return $item === get_class($criteria);
-            }
-
-            return get_class($item) === get_class($criteria);
-        });
-
-        return $this;
-    }
-
-    /**
-     * Get Collection of Criteria
-     *
-     * @return Collection
-     */
-    public function getCriteria()
-    {
-        return $this->criteria;
-    }
-
-    /**
-     * Find data by Criteria
-     *
-     * @param CriteriaInterface $criteria
-     *
-     * @return mixed
-     */
-    public function getByCriteria(CriteriaInterface $criteria)
-    {
-        $this->model = $criteria->apply($this->model, $this);
-        $results = $this->model->get();
-        $this->resetModel();
-
-        return $this->parserResult($results);
-    }
-
-    /**
-     * Skip Criteria
-     *
-     * @param bool $status
-     *
-     * @return $this
-     */
-    public function skipCriteria($status = true)
-    {
-        $this->skipCriteria = $status;
-
-        return $this;
-    }
-
-    /**
-     * Reset all Criterias
-     *
-     * @return $this
-     */
-    public function resetCriteria()
-    {
-        $this->criteria = new Collection();
-
-        return $this;
-    }
-
-    /**
-     * Reset Query Scope
-     *
-     * @return $this
-     */
-    public function resetScope()
-    {
-        $this->scopeQuery = null;
-
-        return $this;
-    }
-
-    /**
-     * Apply scope in current Query
-     *
-     * @return $this
-     */
-    protected function applyScope()
-    {
-        if (isset($this->scopeQuery) && is_callable($this->scopeQuery)) {
-            $callback = $this->scopeQuery;
-            $this->model = $callback($this->model);
-        }
-
-        return $this;
-    }
-
-    /**
-     * Apply criteria in current Query
-     *
-     * @return $this
-     */
-    protected function applyCriteria()
-    {
-        if ($this->skipCriteria === true) {
-            return $this;
-        }
-
-        $criteria = $this->getCriteria();
-
-        if ($criteria) {
-            foreach ($criteria as $c) {
-                if ($c instanceof CriteriaInterface) {
-                    $this->model = $c->apply($this->model, $this);
-                }
-            }
-        }
-
-        return $this;
-    }
-
-    /**
-     * Applies the given where conditions to the model.
-     *
-     * @param array $where
-     *
-     * @return void
-     * @throws RepositoryException
-     */
-    protected function applyConditions(array $where)
-    {
-        foreach ($where as $field => $value) {
-            if (is_array($value)) {
-                list($field, $condition, $val) = $value;
-                //smooth input
-                $condition = preg_replace('/\s\s+/', ' ', trim($condition));
-
-                //split to get operator, syntax: "DATE >", "DATE =", "DAY <"
-                $operator = explode(' ', $condition);
-                if (count($operator) > 1) {
-                    $condition = $operator[0];
-                    $operator = $operator[1];
-                } else {
-                    $operator = null;
-                }
-                switch (strtoupper($condition)) {
-                    case 'IN':
-                        if (!is_array($val)) {
-                            throw new RepositoryException("Input {$val} mus be an array");
-                        }
-                        $this->model = $this->model->whereIn($field, $val);
-                        break;
-                    case 'NOTIN':
-                        if (!is_array($val)) {
-                            throw new RepositoryException("Input {$val} mus be an array");
-                        }
-                        $this->model = $this->model->whereNotIn($field, $val);
-                        break;
-                    case 'DATE':
-                        if (!$operator) {
-                            $operator = '=';
-                        }
-                        $this->model = $this->model->whereDate($field, $operator, $val);
-                        break;
-                    case 'DAY':
-                        if (!$operator) {
-                            $operator = '=';
-                        }
-                        $this->model = $this->model->whereDay($field, $operator, $val);
-                        break;
-                    case 'MONTH':
-                        if (!$operator) {
-                            $operator = '=';
-                        }
-                        $this->model = $this->model->whereMonth($field, $operator, $val);
-                        break;
-                    case 'YEAR':
-                        if (!$operator) {
-                            $operator = '=';
-                        }
-                        $this->model = $this->model->whereYear($field, $operator, $val);
-                        break;
-                    case 'EXISTS':
-                        if (!($val instanceof Closure)) {
-                            throw new RepositoryException("Input {$val} must be closure function");
-                        }
-                        $this->model = $this->model->whereExists($val);
-                        break;
-                    case 'HAS':
-                        if (!($val instanceof Closure)) {
-                            throw new RepositoryException("Input {$val} must be closure function");
-                        }
-                        $this->model = $this->model->whereHas($field, $val);
-                        break;
-                    case 'HASMORPH':
-                        if (!($val instanceof Closure)) {
-                            throw new RepositoryException("Input {$val} must be closure function");
-                        }
-                        $this->model = $this->model->whereHasMorph($field, $val);
-                        break;
-                    case 'DOESNTHAVE':
-                        if (!($val instanceof Closure)) {
-                            throw new RepositoryException("Input {$val} must be closure function");
-                        }
-                        $this->model = $this->model->whereDoesntHave($field, $val);
-                        break;
-                    case 'DOESNTHAVEMORPH':
-                        if (!($val instanceof Closure)) {
-                            throw new RepositoryException("Input {$val} must be closure function");
-                        }
-                        $this->model = $this->model->whereDoesntHaveMorph($field, $val);
-                        break;
-                    case 'BETWEEN':
-                        if (!is_array($val)) {
-                            throw new RepositoryException("Input {$val} mus be an array");
-                        }
-                        $this->model = $this->model->whereBetween($field, $val);
-                        break;
-                    case 'BETWEENCOLUMNS':
-                        if (!is_array($val)) {
-                            throw new RepositoryException("Input {$val} mus be an array");
-                        }
-                        $this->model = $this->model->whereBetweenColumns($field, $val);
-                        break;
-                    case 'NOTBETWEEN':
-                        if (!is_array($val)) {
-                            throw new RepositoryException("Input {$val} mus be an array");
-                        }
-                        $this->model = $this->model->whereNotBetween($field, $val);
-                        break;
-                    case 'NOTBETWEENCOLUMNS':
-                        if (!is_array($val)) {
-                            throw new RepositoryException("Input {$val} mus be an array");
-                        }
-                        $this->model = $this->model->whereNotBetweenColumns($field, $val);
-                        break;
-                    case 'RAW':
-                        $this->model = $this->model->whereRaw($val);
-                        break;
-                    default:
-                        $this->model = $this->model->where($field, $condition, $val);
-                }
-            } else {
-                $this->model = $this->model->where($field, '=', $value);
-            }
-        }
-    }
-
-    /**
-     * Skip Presenter Wrapper
-     *
-     * @param bool $status
-     *
-     * @return $this
-     */
-    public function skipPresenter($status = true): AbstractRepository
-    {
-        $this->skipPresenter = $status;
-
-        return $this;
-    }
-
-    /**
-     * Wrapper result data
-     *
-     * @param mixed $result
-     *
-     * @return mixed
-     */
-    public function parserResult($result)
-    {
-        if ($this->presenter instanceof PresenterInterface) {
-            if ($result instanceof Collection || $result instanceof LengthAwarePaginator) {
-                $result->each(function ($model) {
-                    if ($model instanceof Presentable) {
-                        $model->setPresenter($this->presenter);
-                    }
-
-                    return $model;
-                });
-            } else if ($result instanceof Presentable) {
-                $result = $result->setPresenter($this->presenter);
-            }
-
-            if (!$this->skipPresenter) {
-                return $this->presenter->present($result);
-            }
-        }
-
-        return $result;
-    }
-
-    /**
-     * Trigger static method calls to the model
-     *
-     * @param $method
-     * @param $arguments
-     *
-     * @return mixed
-     */
-    public static function __callStatic($method, $arguments)
-    {
-        return call_user_func_array([new static(), $method], $arguments);
-    }
-
-    /**
-     * Trigger method calls to the model
-     *
-     * @param string $method
-     * @param array  $arguments
-     *
-     * @return mixed
-     */
-    public function __call($method, $arguments)
-    {
-        $this->applyCriteria();
-        $this->applyScope();
-
-        return call_user_func_array([$this->model, $method], $arguments);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+qesv0dREQ7t6u1AslQUDkm==

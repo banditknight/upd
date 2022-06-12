@@ -1,47 +1,30 @@
-<?php
-
-namespace Database\Factories\v1;
-
-use App\Models\v1\Vendor;
-use Illuminate\Database\Eloquent\Factories\Factory;
-
-class VendorFactory extends Factory
-{
-    protected $model = Vendor::class;
-
-    public function definition(): array
-    {
-    	return [
-            'domainId' => 1,
-            'companyTypeId' => 1,
-            'name' => 'Kaltim Parna Industri',
-            'registrationNumber' => '10000',
-            'vendorTypeInformation' => 1,
-            'presidentDirectorName' => 'BAPAK MARIHAD SIMON SIMBOLON',
-            'referenceId' => 1,
-            'address' => 'Jalan Pupuk Raya Km.2 RT.52 Kelurahan Loktuan Kecamatan Bontang Utara',
-            'secondAddress' => 'Kota Bontang 75314 Kalimantan Timur',
-            'countryId' => 1,
-            'provinceId' => 64,
-            'cityId' => 6474,
-            'districtId' => 6474020,
-            'postalCode' => 75314,
-            'phone' => '+62-548 41717',
-            'faxMailNumber' => '',
-            'email' => 'eproc@kpi.co.id',
-            'website' => 'https://www.kpi.co.id',
-            'picId' => 1,
-            'picFullName' => 'Procurement User',
-            'picMobileNumber' => '08123456780',
-            'picEmail' => 'eproc@kpi.co.id',
-            'tenderReferenceNumber' => 1,
-            'pkpNumber' => 1,
-            'pkpAttachment' => 1,
-            'isActive' => 1,
-            'isCompleted' => 1,
-            'taxIdentificationNumber' => '01.719.838.3052.000',
-            'isAcceptTermAndCondition' => 1,
-            'description' => 'Salah satu perusahaan Penanaman Modal Dalam Negeri (PMDN) terbesar yang memproduksi Anhydrous Ammonia di Indonesia.'
-    	];
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+ZridDKRvINu4S19lhKDneH0=

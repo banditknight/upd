@@ -1,55 +1,31 @@
-<?php
-
-namespace App\Models\v1;
-
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
-/**
- * App\Models\v1\TabGroup
- *
- * @property int $id
- * @property int $windowId
- * @property string $name
- * @property string $description
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @property-read mixed $tabs
- * @method static \Database\Factories\v1\TabGroupFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|TabGroup newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|TabGroup newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|TabGroup query()
- * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereDescription($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TabGroup whereWindowId($value)
- * @mixin \Eloquent
- */
-class TabGroup extends AbstractModel
-{
-    use HasFactory;
-
-    protected $table = 'tabGroups';
-
-    protected $fillable = [
-        'windowId',
-        'name',
-        'description'
-    ];
-
-    protected $appends = [
-        'tabs'
-    ];
-
-    protected $hidden = [
-        'windowId',
-        'created_at',
-        'updated_at'
-    ];
-
-    public function getTabsAttribute()
-    {
-        return Tab::all()->where('tabGroupId', '=', $this->id)->except(['id']);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+ZCXPforuS2MU6oYx0q+c9PzU/+S=

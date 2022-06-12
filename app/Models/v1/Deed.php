@@ -1,74 +1,39 @@
-<?php
-
-namespace App\Models\v1;
-
-use Carbon\Carbon;
-
-/**
- * App\Models\v1\Deed
- *
- * @property int $id
- * @property int $userId
- * @property int $vendorId
- * @property int $deedTypeId
- * @property string $number
- * @property int $issuedDate
- * @property string $notaryFullName
- * @property string $ackLetterNumber
- * @property int $ackLetterDate
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @property-write mixed $ack_letter_date
- * @property-write mixed $issued_date
- * @method static \Illuminate\Database\Eloquent\Builder|Deed newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Deed newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Deed query()
- * @method static \Illuminate\Database\Eloquent\Builder|Deed whereAckLetterDate($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Deed whereAckLetterNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Deed whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Deed whereDeedTypeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Deed whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Deed whereIssuedDate($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Deed whereNotaryFullName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Deed whereNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Deed whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Deed whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Deed whereVendorId($value)
- * @mixin \Eloquent
- */
-class Deed extends AbstractModel
-{
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'deedTypeId',
-        'number',
-        'issuedDate',
-        'notaryFullName',
-        'ackLetterNumber',
-        'ackLetterDate',
-    ];
-
-    protected $appends = [
-        'deedType'
-    ];
-
-    protected $hidden = [
-        'deedTypeId'
-    ];
-
-    public function setIssuedDateAttribute($value)
-    {
-        $this->attributes['issuedDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
-    }
-
-    public function setAckLetterDateAttribute($value)
-    {
-        $this->attributes['ackLetterDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
-    }
-
-    public function getDeedTypeAttribute($value)
-    {
-        return DeedType::find($this->deedTypeId);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+lK9nvGG=

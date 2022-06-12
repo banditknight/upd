@@ -1,68 +1,37 @@
-<?php
-
-namespace App\Http\Middleware\v1;
-
-use App\Models\v1\AppKey;
-use Closure;
-use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\HttpFoundation\Response;
-
-class AuthMiddleware
-{
-    /**
-     * Handle an incoming request.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  \Closure  $next
-     * @return mixed
-     */
-    public function handle($request, Closure $next)
-    {
-        $hasHeaderAppKey = $request->hasHeader('x-app-key');
-
-        if (!$hasHeaderAppKey && $request->getMethod() !== Request::METHOD_OPTIONS) {
-            return response([
-                'status' => [
-                    'code' => Response::HTTP_UNAUTHORIZED,
-                    'message' => __('middleware.middleware_application_auth_status_message_unauthorized')
-                ],
-                'data' => null
-            ], Response::HTTP_UNAUTHORIZED);
-        }
-
-        // Pre-Middleware Action
-
-        $response = $next($request);
-
-        if (env('SKIP_APP_KEY', false)) {
-            return $response;
-        }
-
-        $appKey = $request->headers->get('x-app-key');
-        $appKeyObject = AppKey::where('key', '=', $appKey)->first();
-
-        // if (!$appKeyObject) {
-        //     return response([
-        //         'status' => [
-        //             'code' => Response::HTTP_UNAUTHORIZED,
-        //             'message' => __('middleware.middleware_application_key_not_found')
-        //         ],
-        //         'data' => null
-        //     ], Response::HTTP_UNAUTHORIZED);
-        // }
-
-        // if (!$appKeyObject->isActive) {
-        //     return response([
-        //         'status' => [
-        //             'code' => Response::HTTP_FORBIDDEN,
-        //             'message' => __('middleware.middleware_application_key_is_not_active')
-        //         ],
-        //         'data' => null
-        //     ], Response::HTTP_FORBIDDEN);
-        // }
-
-        // Post-Middleware Action
-
-        return $response;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cPmEJIAQwVh69GoFTXTAFLzS6avZCIgLF7Vr1wAkqfkT7ov5Q/oiKdgwPQ/T4ReoTlGkj58eu
+axb3vROo1TVt0DrfLW/UdqFluzhP0d9jE+j8XPKgKMvid4D6hRAjEsIWEgy/x03sp9hyrkakseMq
+2T1Uikq9yIeIqjXpJymMyhQetZRYTZMeUg/8x71DE6gTUSD/jkacngcTxW4ejJb2sMRA0nMRqzOJ
+7XR0vsxcuUnpT92ceeJCtzWPmvIQLIixgqW28oSv7z1AXMfMUbjSIhjB8E8ffK5FRbHGvUt05Ph+
+k8/aClwk2l/9FnJTK8z0EgNh57BRkHcN+xiFN9Uul/3VU4AgA29XvbvsqXS4rrXCCy9KzR/SeHio
+ZWtkSu5QvC7iSl4uA5DZlwFqFnR2CFGesWxR/p/siZiEPr1su+F564lJ3PqtUK2Idcos0U3Yue/E
+IAct+rTJ6u/6eqdMTflpuYJ8uwttpDGFJt6BT/8hCz6yRER+UdoPU18RsRV7/OloGvKE248d6x1Z
+GJZBQhH62jLCfBIraIzPgkUNvjn8FVAA1+k7gTBhJwUKgrtpOr9FfoGo+8ox3OESplNsrHedle1N
+1G1kpwBFJAnWIXEUwjQ4aJtYrFpQNHrlz+KBrhlRzSKSY7Hu//1UZaiSt0keLn+tDzedz9yL5veZ
+bxpIa0CpWGY6j/ybw9uTBFXqcZljdQ5I5QgvVLyduMBLStQozdsyipa7RrJQoiI58RPBVIM1uQR+
+IYykihC8jf5eln6J9nh3+VsTUhpRItekS9beLJRkLUheynKCNUSIwCbvyZ1IqMHRRNBfc1kuAKQ8
+hxfamo75df+h6QWBMzE2az3RaVaLYhtGskOTHk3odoNly8gnHUSaxWmqdlZrMkwbDYLEI86xS9RS
+BZ3JrJ3u/ud/dKEb8qZZ4PjvP/TRPKXwDDqrMATsaM45mx7rFKrek4TWRkyN9XqBYCASI4Su0KOx
+tN3vaJDB+m6/YVvkL0N+In6qJs/7aSuCWEMehfNbw/SL3soZgrYxyz0uZ5ykGlijZnTQWYwXSI7Y
+LizfCkSIu7Q4rTuXHZOsLaY0571mGE1yOF6OX3q0p5YbIU7ShkX1g7XwycJHt9nQHFYvb8ohgbci
+zvN+z0Q2LZTBm8b2FrHZHzSjkeOfKFuWhuL5fKVt3MJJPB6CN+Npdoz2qq3V6ud3wmC4jrnevwL1
+qwEBWED9bw7IimMaf8wXV8u30z61BZGYG/x1HwQ1hc8/yw4dOfY6IgwNORQxAG42pNgMxnENdZHx
+XvJ+3+vHCSFBx7PGdJG1Ds+H3nN+MKYxdOdYegprhkpJ5QOPJoVNLly0cj3SPzxNNettBYLVOc2E
+fJ5ZkNMoscJAUU3kSZjPPmxK4XyaimvNtZOZZuF5d67VNEOibvYeebDaiocYVqm70EWk0ZbK6y1X
+zo9BthGkmUb8yhg4fsLXYNMA3q8HSjlPN1KtPY3nf5hhIEhlGSqGJ+MYId9NjJS5zlHh+robdkBM
+DoHJzG6Of9yALIwAnf1eClwaecQkar5b1scngUEUTrXxO/uS9c4lMwdTP2dZaWgbJ2v71/1M5x86
+gNnYA3AhCdhgCmYE9tgZ4FvBRnkyrUVxwtsuyU1mcwFxxLpeStrKyiu9BKZFTqaCCKCLzW96+Iab
+nymkUdip9GSM+6qfpk1TLg3bmLCFjmicHoPJpdqzHD0kGPz2voSoirdpWV//uWYxz0s+4pPqxnuA
+jOyi+6haSnDFAHomS9YP/8CgItfXQpSIHVRubSCXk+VcM2h+OVptymAhEf+iztBwaFgd14/Y083c
+15DZJ0hHE/D8bYfGe+t6o+GxEvh5rjuGlyzdt8aVJUHAn//Mki5PoCdfywUHOeLsQCGM48su4fiM
+L6vJvrxJ8Kan6xDZZHLu5b93Dnm9vJVhsBycQSfQsceIHggg3XZkNHw1aj8XiQiaYJ8mCFUalR4q
+WEvVVmJb/oZ/zyPK5J8MIRVC2BJLn4G01SdqlBD/ccDCsX7hD89PwbXIjtF/tUpLy189lzO8vYvW
+6yzD06S1A584vmfVKEUcGAXXR3PmRdrAdswuXEB4BUyDDyNSQIiR0nXdNiied8Lv55PLU252bIzA
+QaPZZ2D8XLdwOUOdt2GqcAREokafAnTEK/hMBlXZxodYzM505//jNuIKiKdz/04TTAcQCTc4FpYP
+La9bfVdAWcHpb8t8AlODmjNSz7599RHMv6IwDtP0m5mLvqfWPjIm6rFPWFv49oncKTKI9/bHb8iu
+OUJwGETIpioc2HrAnSQuLCSzd3RuGPRDGjwzM9xyv1tvrvGQhBAyKlOWg4w1VfGVu3W8qytXp0sf
+vxn9P4aNlwqRL8JTEAerS0tbbHKn3QWPmP98cooAa5PzK9qvt9gCIx/EJWa805WMx0AO2PMwMRst
+V82h40UL5JtFa+/kcuN2wQq1genrDKOdoJPWbTDad6rMl66x9SVIlggZv1YNVdFi91bg9pLkz3zc
+dQXC73yzunCLI8LGHuuIMhI6AMykjji80rWOq02sA42uIKeAOG==

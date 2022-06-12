@@ -1,93 +1,43 @@
-<?php
-
-namespace App\Models\v1;
-
-use Carbon\Carbon;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
-/**
- * App\Models\v1\BusinessPermit
- *
- * @property int $id
- * @property int $userId
- * @property int $vendorId
- * @property int $businessPermitTypeId
- * @property string $attachment
- * @property string $number
- * @property int $validFromDate
- * @property int $validThruDate
- * @property string $issuedBy
- * @property string|null $otherBusinessPermitType
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @property-write mixed $valid_from_date
- * @property-write mixed $valid_thru_date
- * @method static \Database\Factories\v1\BusinessPermitFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit query()
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereAttachment($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereBusinessPermitTypeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereIssuedBy($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereOtherBusinessPermitType($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereValidFromDate($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereValidThruDate($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BusinessPermit whereVendorId($value)
- * @mixin \Eloquent
- */
-class BusinessPermit extends AbstractModel
-{
-    use HasFactory;
-
-    protected $table = 'businessPermits';
-
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'businessPermitTypeId',
-        'legalOrganizationScaleId',
-        'attachment',
-        'number',
-        'validFromDate',
-        'validThruDate',
-        'issuedBy',
-        'otherBusinessPermitType',
-    ];
-
-    protected $hidden = [
-        'userId',
-        'vendorId',
-        'created_at',
-        'updated_at'
-    ];
-
-    protected $appends = [
-        'businessPermitType',
-        'legalOrganizationScale',
-    ];
-
-    public function setValidFromDateAttribute($value)
-    {
-        $this->attributes['validFromDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
-    }
-
-    public function setValidThruDateAttribute($value)
-    {
-        $this->attributes['validThruDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
-    }
-
-    public function getBusinessPermitTypeAttribute()
-    {
-        return BusinessPermitType::find($this->businessPermitTypeId);
-    }
-
-    public function getLegalOrganizationScaleAttribute()
-    {
-        return [];
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

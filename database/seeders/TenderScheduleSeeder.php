@@ -1,96 +1,64 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Traits\DateTrait;
-use App\Traits\ExcelReader;
-use Carbon\Carbon;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class TenderScheduleSeeder extends Seeder
-{
-    use ExcelReader, DateTrait;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        //TenderSchedule tenderSchedules
-        $dataOnSheets = $this->read(storage_path('seeders/TenderSeeder.xlsx'), 'TenderSchedule');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            // $dataSeeder[] = [
-            //     'tenderId' => $data[0],
-            //     'fromDate' => $this->dateToTimestamp($data[1]),
-            //     'toDate' => Carbon::now()->addDays(30)->timestamp,
-            //     'registrationFromDate' => $this->dateToTimestamp($data[3]),
-            //     'registrationToDate' => Carbon::now()->addDays(15)->timestamp,
-            //     'preQualificationFromDate' => $this->dateToTimestamp($data[5]),
-            //     'preQualificationToDate' => Carbon::now()->addDays(15)->timestamp,
-            //     'downloadDocumentTenderFromDate' => $this->dateToTimestamp($data[7]),
-            //     'downloadDocumentTenderToDate' => Carbon::now()->addDays(15)->timestamp,
-            //     'aanwijzingFromDate' => $this->dateToTimestamp($data[9]),
-            //     'aanwijzingToDate' => Carbon::now()->addDays(15)->timestamp,
-            //     'tenderFromDate' => $this->dateToTimestamp($data[11]),
-            //     'tenderToDate' => Carbon::now()->addDays(15)->timestamp,
-            //     'bidOpeningFromDate' => $this->dateToTimestamp($data[13]),
-            //     'bidOpeningToDate' => Carbon::now()->addDays(15)->timestamp,
-            //     'clarificationFromDate' => $this->dateToTimestamp($data[15]),
-            //     'clarificationToDate' => Carbon::now()->addDays(15)->timestamp,
-            //     'auctionFromDate' => $this->dateToTimestamp($data[17]),
-            //     'auctionToDate' => Carbon::now()->addDays(15)->timestamp,
-            //     'listOfWinnerFromDate' => $this->dateToTimestamp($data[19]),
-            //     'listOfWinnerToDate' => Carbon::now()->addDays(15)->timestamp,
-            //     'approvalListOfWinnerFromDate' => $this->dateToTimestamp($data[21]),
-            //     'approvalListOfWinnerToDate' => Carbon::now()->addDays(15)->timestamp,
-            //     'objectionFromDate' => $this->dateToTimestamp($data[23]),
-            //     'objectionToDate' => Carbon::now()->addDays(15)->timestamp,
-            // ];
-
-            $dataSeeder[] = [
-                'tenderId' => $data[0],
-                'fromDate' => Carbon::now()->timestamp,
-                'toDate' => $this->tomorrow(30),
-                'registrationFromDate' => Carbon::now()->timestamp,
-                'registrationToDate' => $this->tomorrow(5),
-                'preQualificationFromDate' => $this->tomorrow(6),
-                'preQualificationToDate' => $this->tomorrow(12),
-                'downloadDocumentTenderFromDate' => $this->tomorrow(1),
-                'downloadDocumentTenderToDate' => $this->tomorrow(12),
-                'aanwijzingFromDate' => $this->tomorrow(13),
-                'aanwijzingToDate' => $this->tomorrow(14),
-                'tenderFromDate' => $this->tomorrow(15),
-                'tenderToDate' => $this->tomorrow(20),
-                'bidOpeningFromDate' => $this->tomorrow(21),
-                'bidOpeningToDate' => $this->tomorrow(25),
-                'clarificationFromDate' => $this->tomorrow(26),
-                'clarificationToDate' => $this->tomorrow(30),
-                'auctionFromDate' => $this->tomorrow(21),
-                'auctionToDate' => $this->tomorrow(25),
-                'listOfWinnerFromDate' => $this->tomorrow(31),
-                'listOfWinnerToDate' => $this->tomorrow(33),
-                'approvalListOfWinnerFromDate' => $this->tomorrow(32),
-                'approvalListOfWinnerToDate' => $this->tomorrow(32),
-                'objectionFromDate' => $this->tomorrow(32),
-                'objectionToDate' => $this->tomorrow(33),
-            ];
-
-        }
-
-        DB::table('tenderSchedules')->insert($dataSeeder);
-
-    }
-
-    function tomorrow($n){
-        return Carbon::now()->addDays($n)->timestamp;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

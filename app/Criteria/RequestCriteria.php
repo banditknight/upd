@@ -1,147 +1,105 @@
-<?php
-namespace App\Criteria;
-
-use App\Contracts\CriteriaInterface;
-use App\Contracts\RepositoryInterface;
-use App\Traits\QueryOperatorManipulator;
-use App\Traits\User;
-use Illuminate\Database\Eloquent\Builder;
-use Illuminate\Database\Eloquent\Model;
-use Illuminate\Support\Facades\Schema;
-use Illuminate\Support\Str;
-
-/**
- * Class RequestCriteria
- * @package App\Criteria
- * @author Anderson Andrade <contato@andersonandra.de>
- */
-class RequestCriteria implements CriteriaInterface
-{
-    use User, QueryOperatorManipulator;
-
-    public CONST SORT_BY = [
-        'ASC',
-        'DESC'
-    ];
-
-    protected $request;
-
-    public function __construct()
-    {
-        $this->request = request();
-    }
-
-    public function apply($model, RepositoryInterface $repository)
-    {
-        $route = $this->request->route();
-
-        if (!isset($route[1])) {
-            return $model;
-        }
-
-        if (!isset($route[1]['model'])) {
-            return $model;
-        }
-
-        $requestedModel = $route[1]['model'];
-
-        if (!class_exists($requestedModel)) {
-            return $model;
-        }
-
-        if ($model instanceof Model && !method_exists($model, 'getTable')) {
-            return $model;
-        }
-
-        $tableName = $model instanceof Builder ? $model->getModel()->getTable() : $model->getTable();
-        $allRequest = $this->request->all();
-
-        if (!$allRequest) {
-            return $model;
-        }
-
-        $hasQueryAndFieldParams = isset($allRequest['fields'], $allRequest['q']);
-        $fields = $hasQueryAndFieldParams ? $allRequest['fields'] : '';
-        $explodedFields = explode(',', $fields);
-        $allRequest = $hasQueryAndFieldParams ? array_merge($allRequest, array_flip($explodedFields)) : $allRequest;
-
-        $joins = $model instanceof Builder ? $model->getQuery()->joins : null;
-        $joinedTable = $joins ? array_merge([$tableName], array_column($joins, 'table')) : null;
-
-        $sortKey = null;
-        $sortBy = null;
-        $isShouldSort = false;
-        if (isset($allRequest['sortKey'])) {
-            $sortKey = $allRequest['sortKey'] ?? null;
-
-            $isShouldSort = Schema::hasColumn($tableName, $sortKey) || Schema::hasColumn($tableName, Str::snake($sortKey));
-
-            $sortBy = strtoupper($allRequest['sortBy'] ?? '');
-            $sortBy = in_array($sortBy, self::SORT_BY) ? $sortBy : 'ASC';
-
-            unset($allRequest['sortKey'], $allRequest['sortBy']);
-        }
-
-        if ($isShouldSort) {
-            $model = $model->orderBy($sortKey, $sortBy);
-        }
-
-        if (isset($allRequest['docStatus'])) {
-            $model = $model->where('docStatusId',$allRequest['docStatus']);
-        }
-
-        foreach ($allRequest as $key => $value) {
-            $inFields = in_array($key, $explodedFields, false);
-            $value = $inFields ? $allRequest['q'] : $value;
-
-            if ($key === 'fields' || $key === 'q') {
-                continue;
-            }
-
-            if (
-                ($key === 'userId' || $key === 'vendorId') &&
-                $this->getUser() &&
-                $this->getUser()->hasRole('superAdmin')
-            ) {
-                continue;
-            }
-
-            if (
-                $key === 'userId' &&
-                $this->getUser() &&
-                $this->getUser()->isPrimary &&
-                $this->getUser()->hasRole('vendor')
-            ) {
-                continue;
-            }
-
-            $explodedKey = $joins ? explode('_', $key) : [];
-            if ($joins && count($explodedKey) === 2) {
-                $model = in_array($explodedKey[0], $joinedTable, false) ?
-                    $model->where(sprintf('%s.%s', $explodedKey[0], $explodedKey[1]), '=', $value) : $model;
-
-                continue;
-            }
-
-            $queryOperatorDecider = $this->queryOperatorDecider($key, $value);
-            if (Schema::hasColumn($tableName, $queryOperatorDecider['key'])) {
-                $model = $model->{$queryOperatorDecider['where']}(
-                    $queryOperatorDecider['key'],
-                    $queryOperatorDecider['operator'],
-                    $queryOperatorDecider['value']
-                );
-                continue;
-            }
-
-            if (Schema::hasColumn($tableName, Str::snake($queryOperatorDecider['key']))) {
-                $model = $model->{$queryOperatorDecider['where']}(
-                    Str::snake($queryOperatorDecider['key']),
-                    $queryOperatorDecider['operator'],
-                    $queryOperatorDecider['value']
-                );
-            }
-        }
-
-        return $model;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

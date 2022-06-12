@@ -1,96 +1,40 @@
-<?php
-
-use Illuminate\Support\Str;
-
-return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Default Cache Store
-    |--------------------------------------------------------------------------
-    |
-    | This option controls the default cache connection that gets used while
-    | using this caching library. This connection is used when another is
-    | not explicitly specified when executing a given caching function.
-    |
-    | Supported: "apc", "array", "database", "file", "memcached", "redis"
-    |
-    */
-
-    'default' => env('CACHE_DRIVER', 'file'),
-
-    /*
-    |--------------------------------------------------------------------------
-    | Cache Stores
-    |--------------------------------------------------------------------------
-    |
-    | Here you may define all of the cache "stores" for your application as
-    | well as their drivers. You may even define multiple stores for the
-    | same cache driver to group types of items stored in your caches.
-    |
-    */
-
-    'stores' => [
-
-        'apc' => [
-            'driver' => 'apc',
-        ],
-
-        'array' => [
-            'driver' => 'array',
-        ],
-
-        'database' => [
-            'driver' => 'database',
-            'table' => env('CACHE_DATABASE_TABLE', 'cache'),
-            'connection' => env('CACHE_DATABASE_CONNECTION', null),
-        ],
-
-        'file' => [
-            'driver' => 'file',
-            'path' => storage_path('framework/cache/data'),
-        ],
-
-        'memcached' => [
-            'driver' => 'memcached',
-            'persistent_id' => env('MEMCACHED_PERSISTENT_ID'),
-            'sasl' => [
-                env('MEMCACHED_USERNAME'),
-                env('MEMCACHED_PASSWORD'),
-            ],
-            'options' => [
-                // Memcached::OPT_CONNECT_TIMEOUT => 2000,
-            ],
-            'servers' => [
-                [
-                    'host' => env('MEMCACHED_HOST', '127.0.0.1'),
-                    'port' => env('MEMCACHED_PORT', 11211),
-                    'weight' => 100,
-                ],
-            ],
-        ],
-
-        'redis' => [
-            'driver' => 'redis',
-            'connection' => env('CACHE_REDIS_CONNECTION', 'default'),
-        ],
-
-    ],
-
-    /*
-    |--------------------------------------------------------------------------
-    | Cache Key Prefix
-    |--------------------------------------------------------------------------
-    |
-    | When utilizing a RAM based store such as APC or Memcached, there might
-    | be other applications utilizing the same cache. So, we'll specify a
-    | value to get prefixed to all our keys so we can avoid collisions.
-    |
-    */
-
-    'prefix' => env(
-        'CACHE_PREFIX',
-        Str::slug(env('APP_NAME', 'lumen'), '_').'_cache'
-    ),
-
-];
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

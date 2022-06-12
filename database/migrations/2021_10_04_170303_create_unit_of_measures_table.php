@@ -1,36 +1,34 @@
-<?php
-
-use Illuminate\Database\Migrations\Migration;
-use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Support\Facades\Schema;
-
-class CreateUnitOfMeasuresTable extends Migration
-{
-    /**
-     * Run the migrations.
-     *
-     * @return void
-     */
-    public function up()
-    {
-        Schema::create('unitOfMeasures', function (Blueprint $table) {
-            $table->id();
-
-            $table->string('code')->unique();
-            $table->string('name');
-            $table->text('description')->nullable();
-
-            $table->timestamps();
-        });
-    }
-
-    /**
-     * Reverse the migrations.
-     *
-     * @return void
-     */
-    public function down()
-    {
-        Schema::dropIfExists('unitOfMeasures');
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+hGu=

@@ -1,219 +1,93 @@
-<?php
-
-namespace App\Models\v1;
-
-use App\Models\MailableInterface;
-use Illuminate\Auth\Authenticatable;
-use Illuminate\Contracts\Auth\Access\Authorizable as AuthorizableContract;
-use Illuminate\Contracts\Auth\Authenticatable as AuthenticatableContract;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-use Illuminate\Support\Carbon;
-use Illuminate\Support\Facades\Hash;
-use Laravel\Lumen\Auth\Authorizable;
-use Spatie\Permission\Traits\HasRoles;
-use Tymon\JWTAuth\Contracts\JWTSubject;
-
-/**
- * App\Models\v1\User
- *
- * @property int $id
- * @property string $name
- * @property string $address
- * @property string $phone
- * @property string $email
- * @property string $password
- * @property Carbon|null $createdAt
- * @property Carbon|null $updatedAt
- * @property bool $isActive
- * @method static \Database\Factories\v1\UserFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|User newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|User newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|User query()
- * @method static \Illuminate\Database\Eloquent\Builder|User whereAddress($value)
- * @method static \Illuminate\Database\Eloquent\Builder|User whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|User whereEmail($value)
- * @method static \Illuminate\Database\Eloquent\Builder|User whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|User whereIsActive($value)
- * @method static \Illuminate\Database\Eloquent\Builder|User whereName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|User wherePassword($value)
- * @method static \Illuminate\Database\Eloquent\Builder|User wherePhone($value)
- * @method static \Illuminate\Database\Eloquent\Builder|User whereUpdatedAt($value)
- * @mixin \Eloquent
- * @property string|null $resetPasswordToken
- * @property int|null $resetPasswordExpired
- * @method static \Illuminate\Database\Eloquent\Builder|User whereResetPasswordExpired($value)
- * @method static \Illuminate\Database\Eloquent\Builder|User whereResetPasswordToken($value)
- * @property int|null $vendorId
- * @property int|null $isPrimary
- * @property-read mixed $role
- * @property-read mixed $vendor
- * @property-read \Illuminate\Database\Eloquent\Collection|\Spatie\Permission\Models\Permission[] $permissions
- * @property-read int|null $permissions_count
- * @property-read \Illuminate\Database\Eloquent\Collection|\Spatie\Permission\Models\Role[] $roles
- * @property-read int|null $roles_count
- * @method static \Illuminate\Database\Eloquent\Builder|User permission($permissions)
- * @method static \Illuminate\Database\Eloquent\Builder|User role($roles, $guard = null)
- * @method static \Illuminate\Database\Eloquent\Builder|User whereIsPrimary($value)
- * @method static \Illuminate\Database\Eloquent\Builder|User whereVendorId($value)
- */
-class User extends AbstractModel implements AuthenticatableContract, AuthorizableContract, JWTSubject, MailableInterface
-{
-    use Authenticatable, Authorizable, HasFactory, HasRoles;
-
-    /**
-     * The name of the "created at" column.
-     *
-     * @var string
-     */
-    const CREATED_AT = 'createdAt';
-
-    /**
-     * The name of the "updated at" column.
-     *
-     * @var string
-     */
-    const UPDATED_AT = 'updatedAt';
-
-    /** @var string $accessToken */
-    protected $accessToken;
-
-    /** @var int $expiredIn */
-    protected $expiredIn;
-
-    protected $table = 'users';
-
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array
-     */
-    protected $fillable = [
-        'name',
-        'email',
-        'address',
-        'phone',
-        'password',
-        'isPrimary',
-        'vendorId',
-        'code',
-        'departmentId',
-        'attachment',
-        'jobTitleId',
-    ];
-
-    /**
-     * The attributes excluded from the model's JSON form.
-     *
-     * @var array
-     */
-    protected $hidden = [
-        'password',
-        'departmentId',
-        'created_at',
-        'updated_at',
-        'jobTitleId',
-    ];
-
-    protected $appends = [
-        'vendor',
-        'role',
-        'roleId',
-        'department',
-        'jobTitle',
-    ];
-
-    public function getJWTIdentifier()
-    {
-        return $this->getKey();
-    }
-
-    public function getJWTCustomClaims()
-    {
-        return [];
-    }
-
-    /**
-     * @return string
-     */
-    public function getAccessToken(): string
-    {
-        return $this->accessToken;
-    }
-
-    /**
-     * @param string $accessToken
-     */
-    public function setAccessToken(string $accessToken): void
-    {
-        $this->accessToken = $accessToken;
-    }
-
-    public function resetPasswordToken()
-    {
-        return $this->belongsTo(ResetPasswordToken::class, 'userId')
-            ->where('isActive', '=', 1);
-    }
-
-    /**
-     * @return int
-     */
-    public function getExpiredIn(): int
-    {
-        return $this->expiredIn;
-    }
-
-    /**
-     * @param int $expiredIn
-     */
-    public function setExpiredIn(int $expiredIn): void
-    {
-        $this->expiredIn = $expiredIn;
-    }
-
-    public function setPasswordAttribute($pass)
-    {
-        $this->attributes['password'] = Hash::make($pass);
-    }
-
-    public function toEmailAddress(): string
-    {
-        return $this->email;
-    }
-
-    public function toCcEmailAddress(): string
-    {
-        return '';
-    }
-
-    public function getVendorAttribute()
-    {
-        return $this->belongsTo(Vendor::class, 'vendorId')->first();
-    }
-
-    public function getRoleAttribute()
-    {
-        return $this->getRoleNames();
-    }
-
-    public function getRoleIdAttribute()
-    {
-        $roles = $this->belongsToMany(SpatieRole::class,'spatieModelHasRoles','model_id','role_id')->first();
-        if($roles){
-            return $roles->id;
-        }
-        return null;
-    }
-
-    public function getDepartmentAttribute()
-    {
-        return $this->belongsTo(Department::class, 'departmentId')->first();
-    }
-
-    public function isSuperAdmin(){
-        return $this->hasRole('superAdmin');
-    }
-
-    public function getJobTitleAttribute(){
-        return JobTitle::find($this->jobTitleId);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

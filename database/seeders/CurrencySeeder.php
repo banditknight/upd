@@ -1,38 +1,29 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Models\v1\Currency;
-use App\Traits\ExcelReader;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class CurrencySeeder extends Seeder
-{
-    use ExcelReader;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Currency');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            $dataSeeder[] = [
-                'code' => $data[1],
-                'name' => $data[2],
-                'symbol' => $data[3],
-            ];
-        }
-
-        DB::table('currencies')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

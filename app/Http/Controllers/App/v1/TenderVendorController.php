@@ -1,32 +1,31 @@
-<?php
-
-namespace App\Http\Controllers\App\v1;
-
-use App\Http\Requests\ResourceRequest;
-use App\Repositories\ResourceRepository;
-use App\Criteria\TenderOpenedCriteria;
-use App\Criteria\OnGoingTenderCriteria;
-use Illuminate\Http\JsonResponse;
-
-class TenderVendorController extends AbstractController
-{
-    public $repo;
-
-    public function index(ResourceRequest $resourceRequest): JsonResponse
-    {
-        $index = $this->repo->pushCriteria(new TenderOpenedCriteria())->paginate($resourceRequest->get('limit', 0));
-        // $index = $this->repo->pushCriteria(new TenderOpenedCriteria())
-        //     ->pushCriteria(new OnGoingTenderCriteria())
-        //     ->orderBy('id','desc')->all();
-
-        return $this->responseSuccess($index);
-    }
-
-    public function show(int $id): JsonResponse
-    {
-        $show = $this->repo->find($id);
-
-        return $this->responseSuccess($show);
-    }
-
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

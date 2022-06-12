@@ -1,133 +1,98 @@
-<?php
-
-namespace App\Http\Controllers\BackOffice\v1;
-
-use App\Application\ResourceTransformer;
-use App\Http\Controllers\AbstractController as BaseAbstractController;
-use App\Traits\RepositoryModelDeciderTrait;
-use Illuminate\Database\Eloquent\Model;
-use Illuminate\Http\Request;
-use Illuminate\Pagination\LengthAwarePaginator;
-use Illuminate\Support\Collection;
-use League\Fractal\Manager;
-use League\Fractal\Pagination\IlluminatePaginatorAdapter;
-use League\Fractal\Serializer\ArraySerializer;
-use Tymon\JWTAuth\JWTAuth;
-
-abstract class AbstractController extends BaseAbstractController
-{
-    use RepositoryModelDeciderTrait;
-
-    protected $fractal;
-
-    protected $request;
-
-    public function __construct(Manager $fractal, Request $request, JWTAuth $JWTAuth)
-    {
-        parent::__construct($JWTAuth);
-
-        $this->repo = $this->getRepo();
-        $this->fractal = $fractal;
-        $this->request = $request;
-    }
-
-    protected function responseSuccess($data, $httpStatusCode = 200, $message = 'Success'): \Illuminate\Http\JsonResponse
-    {
-        return $this->jsonResponseSuccess($this->transformToArray($data), $httpStatusCode, $message);
-    }
-
-    private function transformToArray($data): ?array
-    {
-        $paginator = null;
-
-        if (is_array($data)) return $data;
-
-        //Replace paginator data to collection
-        if ($data instanceof LengthAwarePaginator) {
-            $paginator = $data; //Copy data into paginator before replace it with collection
-            $data = $data->getCollection();
-        }
-
-        if ($this->isNoNeedToTransform($data)) return [];
-
-        $resourceType = 'League\\Fractal\\Resource\\';
-
-        if (
-            $data instanceof \Illuminate\Database\Eloquent\Collection &&
-            $data->count() === 1 &&
-            !$this->request->get('isPagination', true)
-        ) {
-            $paginator = null;
-            $data = $data->get(0);
-        }
-
-        $resourceType .= $data instanceof Model ? 'Item' : 'Collection';
-        $transformerClass = $this->getTransformer($data);
-        $resource = new $resourceType($data, $transformerClass);
-
-        //Set paginator if there is page param
-        if ($paginator instanceof LengthAwarePaginator) {
-            $resource->setPaginator(new IlluminatePaginatorAdapter($paginator));
-        }
-
-        if (is_null($this->request->get('include'))) {
-            return $this->fractal->setSerializer(new ArraySerializer)->createData($resource)->toArray();
-        }
-
-        return $this->fractal->parseIncludes($this->request->get('include'))->setSerializer(new ArraySerializer)->createData($resource)->toArray();
-    }
-
-    private function jsonResponseSuccess(array $data, $httpStatusCode = 200, $message = 'Success'): \Illuminate\Http\JsonResponse
-    {
-        return response()->json([
-            'status' => [
-                'code'    => 200,
-                'message' => $message
-            ],
-            'data' => empty($data) ? null : $data
-        ], $httpStatusCode);
-    }
-
-    private function getTransformer($obj)
-    {
-        $temp = explode('\\', get_class($obj));
-        $transformerClass = end($temp);
-
-        if ($transformerClass === 'Collection') {
-            return $this->getTransformer($obj->first());
-        }
-
-        $transformerClass = 'App\\Application\\Transformers\\' . $transformerClass . 'Transformer';
-
-        if (!class_exists($transformerClass)) {
-            $transformerClass = ResourceTransformer::class;
-        }
-
-        return new $transformerClass;
-    }
-
-    /**
-     * Check the data if no need to transform
-     *
-     * @param Collection $data
-     * @return boolean
-     * @throws \Exception
-     */
-    private function isNoNeedToTransform($data): bool
-    {
-        //Model always need to transform
-        if ($data instanceof Model) return false;
-
-
-        if ($data instanceof \Exception) {
-            throw new $data();
-        }
-
-        if ($data instanceof \Yajra\DataTables\CollectionDataTable) return false;
-
-        if ($data === null) return true;
-
-        //If Collection is empty, no need to transform
-        return $data->count() === 0;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

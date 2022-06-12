@@ -1,200 +1,76 @@
-<?php
-
-namespace App\Http\Controllers\BackOffice\v1;
-
-use App\Http\Controllers\Controller;
-use App\Models\v1\PurchaseRequest;
-use App\Models\v1\RequestForQuotation;
-use App\Models\v1\Tender;
-use App\Models\v1\TenderItem;
-use App\Models\v1\Vendor;
-use Carbon\Carbon;
-use Illuminate\Http\Request;
-
-class DashboardController extends Controller
-{
-    public function index()
-    {
-        $spent = 0 ;
-
-        $ts = Tender::where('docStatusId',4)->get();
-        foreach ($ts as $t) {
-            foreach ($t->items as $e) {
-                $value = (int)$e->value * (int)$e->quantity;
-                $spent += $value;
-            }
-        }
-
-        return response()->json([
-            'status' => [
-                'code'    => 200,
-                'message' => 'Success'
-            ],
-            'data' => [
-                'spent' => [
-                    'total' => $spent
-                ],
-                'tender' => [
-                    'total' => Tender::count()
-                ],
-                'rfq' => [
-                    'total' => RequestForQuotation::count()
-                ],
-                'vendor' => [
-                    'total' => Vendor::count()
-                ],
-                'expenses' => [
-                    'options' => [
-                        'chart' => [
-                            'id' => 'expense-chart'
-                        ],
-                        'xaxis' => [
-                            'categories' => [2017, 2018, 2019, 2020, 2021],
-                        ],
-                        'plotOptions' => [
-                            'bar' => [
-                                'columnWidth' => '40%',
-                                'borderRadius' => 4
-                            ]
-                        ],
-                        'colors' => ['#01902c', '#E91E63', '#9C27B0']
-                    ],
-                    'series' => [
-                        [
-                            'name' => 'Volume',
-                            'data' => [
-                                210, 228, 378, 50, 289
-                            ]
-                        ]
-                    ]
-                ],
-                'expensesByProject' => [
-                    'series' => [
-                        1,
-                        2,
-                        3,
-                        4,
-                        5,
-                    ],
-                    'options' => [
-                        'chart' => [
-                            'type' => 'donut',
-                        ],
-                        'labels' => [
-                            'Upgrade Pompa Utama',
-                            'Upgrade Filter Limbah',
-                            'E-Procurement',
-                            'IT Security',
-                            'Renovasi Kantor',
-                        ],
-                        'responsive' => [
-                            [
-                                'breakpoint' => 480,
-                                'options' => [
-                                    'chart' => [
-                                        'width' => '100%',
-                                        'height' => 300,
-                                    ],
-                                    'legend' => [
-                                        'position' => 'bottom',
-                                    ],
-                                ],
-                            ],
-                        ],
-                    ],
-                ],
-                'expensesBySupplier' => [
-                    'series' => [
-                        [
-                            'data' => [1, 2, 3, 5, 5, 3]
-                        ]
-                    ],
-                    'options' => [
-                        'chart' => [
-                            'type' => 'bar',
-                        ],
-                        'plotOptions' => [
-                            'bar' => [
-                                'borderRadius' => 4,
-                                'horizontal' => true,
-                            ],
-                        ],
-                        'dataLabels' => [
-                            'enabled' => false,
-                        ],
-                        'xaxis' => [
-                            'categories' => [
-                                'PT. Jaya Abadi',
-                                'PT. PMA',
-                                'PT. YES',
-                                'Asia Jaya Perkasa',
-                                'PT. Langit Digital',
-                                'Sentral Nusa',
-                            ],
-                        ],
-                    ]
-                ],
-                'approvalRequest' => [
-                    [
-                        'code' => 'BID-000013',
-                        'name' => 'Pengadaan Bearing Gearbox Sucker Rod Pump Lapangan Langgak',
-                        'date' => Carbon::now()->addDays(-7)->timestamp,
-                        'progress' => '60%'
-                    ],
-                    [
-                        'code' => 'BID-000014',
-                        'name' => 'Lelang ulang Jasa Penyediaan Katering dan Jasa Pendukungnya untuk Area Operasi PT SPR Langgak',
-                        'date' => Carbon::now()->addDays(-1)->timestamp,
-                        'progress' => '70%'
-                    ],
-                    [
-                        'code' => 'BID-000017',
-                        'name' => 'Jasa Angkut dan Penyediaan Bahan Bakar Solar Industri Secara Call Off Order (COO) untuk Operasional Lapangan PT SPR Langgak',
-                        'date' => Carbon::now()->addDays(10)->timestamp,
-                        'progress' => '80%'
-                    ]
-                ],
-                'spentPerBuyer' => [
-                    'series' => [
-                        [
-                            'data' => [400, 430, 448, 470, 540, 580]
-                        ]
-                    ],
-                    'options' => [
-                        'chart' => [
-                            'type' => 'bar',
-                        ],
-                        'plotOptions' => [
-                            'bar' => [
-                                'borderRadius' => 4,
-                                'horizontal' => true,
-                            ],
-                        ],
-                        'dataLabels' => [
-                            'enabled' => false,
-                        ],
-                        'xaxis' => [
-                            'categories' => [
-                                'IT Dept.',
-                                'Shipment',
-                                'Warehouse',
-                                'Director',
-                                'Marketing',
-                                'Production',
-                            ],
-                        ],
-                    ]
-                ],
-                'latestPurchaseRequisition' => PurchaseRequest::query()
-                    ->orderByDesc('id')
-                    ->limit(5)
-                    ->get()
-                    ->toArray()
-                ,
-                'latestQuotation' => [
-
-                ],
-            ]
-        ], 200);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+EFlLjV/7StiA

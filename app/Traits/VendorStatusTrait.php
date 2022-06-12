@@ -1,129 +1,72 @@
-<?php
-
-namespace App\Traits;
-
-use App\Models\v1\AbstractModel;
-use App\Models\v1\Sanction;
-use App\Models\v1\SanctionType;
-use App\Models\v1\Vendor;
-
-trait VendorStatusTrait
-{
-
-    public function approvalStatus($astatus){
-        $st = 'noDocs';
-
-        switch($astatus){
-            case 0:
-                $st = 'noDocs';
-                break;
-            case 1:
-                $st = 'docsSubmitted';
-                break;
-            case 2:
-                $st = 'docsChecking';
-                break;
-            case 3:
-                $st = 'docsAccepted';
-                break;
-            case 4:
-                $st = 'docsRejected';
-                break;
-            case 5:
-                $st = 'docsExpired';
-                break;
-            default:
-                $st = 'noDocs';
-                break;
-        }
-
-        return $st;
-    }
-
-    public function vendorStatus(AbstractModel $vendor)
-    {
-        if (!$vendor instanceof Vendor) {
-            return null;
-        }
-
-        $data = [
-            'code' => '00',
-            'name' => 'Active'
-        ];
-
-        $sanctions = Sanction::where('vendorId', '=', $vendor->id)->get();
-
-        $calculatedSanctionScore = 0;
-        foreach ($sanctions as $sanction) {
-            /** @var SanctionType */
-            $calculatedSanctionScore += $sanction && $sanction->sanctionType ? $sanction->sanctionType->score : 0;
-        }
-
-        if ($calculatedSanctionScore >= 60) {
-            $data['code'] = '02';
-            $data['name'] = 'Banned';
-        }
-
-        if ($calculatedSanctionScore >= 30 && $calculatedSanctionScore <= 60) {
-            $data['code'] = '01';
-            $data['name'] = 'Warning';
-        }
-
-        if (!$vendor->isActive) {
-            $data = [
-                'code' => '04',
-                'name' => 'Inactive'
-            ];
-        }
-
-        return $data;
-    }
-
-    public function vendorCanJoinTender(AbstractModel $vendor)
-    {
-        if (!$vendor instanceof Vendor) {
-            return null;
-        }
-
-        $isComplete = $vendor
-            ->select([
-                'deeds.id AS deedId',
-                'shareHolders.id AS shareHolderId',
-                'boards.id AS boardId',
-                'businessPermits.id AS businessPermitId',
-                'users.id AS userId',
-
-                'competencies.id AS competencyId',
-                'certifications.id AS certificationId',
-                'tools.id AS toolId',
-                'employees.id AS employeeId',
-                'experiences.id AS experienceId',
-
-                'bankAccounts.id AS bankAccountId',
-                'financialStatements.id AS financialStatementId',
-                'taxDocuments.id AS taxDocumentId',
-            ])
-            // Administrator Data.
-            ->join('deeds', 'deeds.vendorId', '=', 'vendors.id')
-            ->join('shareHolders', 'shareHolders.vendorId', '=', 'vendors.id')
-            ->join('boards', 'boards.vendorId', '=', 'vendors.id')
-            ->join('businessPermits', 'businessPermits.vendorId', '=', 'vendors.id')
-            ->join('users', 'users.vendorId', '=', 'vendors.id')
-
-            // Competency and Experience
-            ->join('competencies', 'competencies.vendorId', '=', 'vendors.id')
-            ->join('certifications', 'certifications.vendorId', '=', 'vendors.id')
-            ->join('tools', 'tools.vendorId', '=', 'vendors.id')
-            ->join('employees', 'employees.vendorId', '=', 'vendors.id')
-            ->join('experiences', 'experiences.vendorId', '=', 'vendors.id')
-
-            // Financial
-            ->join('bankAccounts', 'bankAccounts.vendorId', '=', 'vendors.id')
-            ->join('financialStatements', 'financialStatements.vendorId', '=', 'vendors.id')
-            ->join('taxDocuments', 'taxDocuments.vendorId', '=', 'vendors.id')
-            ->limit(1)
-        ;
-
-        return (boolean)$isComplete->count();
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+ZYVahUeusglsGBf6jfmd4Jq=

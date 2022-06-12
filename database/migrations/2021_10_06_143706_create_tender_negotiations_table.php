@@ -1,41 +1,36 @@
-<?php
-
-use Illuminate\Database\Migrations\Migration;
-use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Support\Facades\Schema;
-
-class CreateTenderNegotiationsTable extends Migration
-{
-    /**
-     * Run the migrations.
-     *
-     * @return void
-     */
-    public function up()
-    {
-        Schema::create('tenderNegotiations', function (Blueprint $table) {
-            $table->id();
-
-            $table->bigInteger('tenderId');
-            $table->bigInteger('tenderItemId');
-
-            $table->string('status');
-            $table->string('initiatorName');
-
-            $table->decimal('price',15,2);
-            $table->decimal('additionalCost',15,2);
-
-            $table->timestamps();
-        });
-    }
-
-    /**
-     * Reverse the migrations.
-     *
-     * @return void
-     */
-    public function down()
-    {
-        Schema::dropIfExists('tenderNegotiations');
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

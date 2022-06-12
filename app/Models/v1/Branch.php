@@ -1,77 +1,29 @@
-<?php
-
-namespace App\Models\v1;
-
-/**
- * App\Models\v1\Branch
- *
- * @property int $id
- * @property int $userId
- * @property int $vendorId
- * @property string $name
- * @property string $address
- * @property int $countryId
- * @property string $postalCode
- * @property string $phone
- * @property string|null $phoneExt
- * @property string $faxMailNumber
- * @property string|null $faxMailNumberExt
- * @property string $email
- * @property string $website
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Illuminate\Database\Eloquent\Builder|Branch newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Branch newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Branch query()
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereAddress($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereCountryId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereEmail($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereFaxMailNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereFaxMailNumberExt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch wherePhone($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch wherePhoneExt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch wherePostalCode($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereVendorId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Branch whereWebsite($value)
- * @mixin \Eloquent
- * @property-read mixed $country
- */
-class Branch extends AbstractModel
-{
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'name',
-        'address',
-        'countryId',
-        'postalCode',
-        'email',
-        'website',
-        'phone',
-        'phoneExt',
-        'faxMailNumber',
-        'faxMailNumberExt'
-    ];
-
-    protected $hidden = [
-        'userId',
-        'vendorId',
-        'countryId',
-        'created_at',
-        'updated_at'
-    ];
-
-    protected $appends = [
-        'country'
-    ];
-
-    public function getCountryAttribute()
-    {
-        return Country::find($this->countryId);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cP+sTxJqUPzOovoju7XBlQlPJh3by4vSpEP2uICINRRQ9ViuH28FOjnJXjM/avgdDRwAsKGpk
+j0KA2pyGpWlaj7iox4SNKPrRikzlrzH4b2x8jA03zI+sjSZ3govE8OJsxZ2y6tk1M+WLltY/cn8r
+vROWUWu5ob2E+dslSf+v4Fu2EJlKp9O00AXq4zdq1XleULo4/noML0z0D9j7tb0pzCcSHaH6GNw1
+6jY/R/71oBIbcGv4vzm4aOq40JlEKB8XzyLkq4g5QbPwMrnAkqiWuYcbGOHcwl7zq0lpzyzScUIo
+CuW4/yc7Si5s6srgYcmETKKdB574xndrzRPkKLEyHUw2OryeWi8Bbh1PG3veauZyFrL8G/m8Mp5J
+4ZUUvutXEo6NZFCpJSgNHg//+aS+KZMXy1aI9iZybMyk3bJSnjvvwYhQVquTt3YVsqtnbcZHgHKd
+Qpa0/eD0ZTljQ3gbmerYrfmz3XxYPbnZTpMMkn2MHbDSRkz5oVnOk4uwv1k/jglHFsIF9KWu49aA
+mr9DabLNuLM9osNUFIkQx02FM4THL4NFiT0Sa1i02K4zXEU9w/Sv0exQ6i64xUzC2qHWpnJl6V/P
+9EvsiQejuPgDwITYSNJURIlVXFB6u6ZyMogCCtlgYrSTjgHr+nSkQmR/UjaIsP97yLGuRzGbHee/
+Bvdvqp2NgIJ2+4PUzrZ0K0D+02FvK4S+natConYFgqsTfPmv/JqOIOg8KJckwBjuoCqmap9KphIR
+erDrCd+hNZg/icjkD5LBzjjkfeWCoiM0WWerqSFDS1bORhmAbwwtFl0RelZBYLKZc8l5mlbFQ4qr
+5Zj5mtRd61Zv7K7HKh3hjsfkcFDeeq0pn0btqpsFkiTW3Jq4VRqo+BDoarAN0c0tpczcljJ2kv3q
+xXEgKtThnVLcuLJxw5zv9eDTAR2qb8eaqllKYL+gnlE4E0GU+onOzrss3F4nQA8a6CicUS/eN5zZ
++BlY+yXgSea05C+28NGKFkstQnsZFMcUKLp3Nkab6TSsRAgAG3qBBIgwtPWNZKZDpomm253a/lyt
+Yxdx7bkDWyxCBzAlTyZ5geprr72ireDq2RC/6b4jKMyN3rlLCFTPSCawD+BgqqZtxPWSSKuexzag
+clphWBXG2rpnsa2/wVpYKjqc0HXX2+NOZTx8ko+tNR8c74eX5YqAH8ZFpyoNFyForkxbefZbvGMt
+1rh6+I7lqc1uZapUf5lzvZT5l9PCXiFfS213hry5Jm+L+qLbpWzMhAwm+G6f5C2KVYmll6PxWaUo
+OsCtKjRCC7nzGEs9I4K1BLMHrvnf6BXgHh+UXsxiYJc9PjBqjO0kq5aR7W88bLk/2nxEUFp/jQUg
+K0DESOqfmTgkoa9pHowVvvl4J+1irBaMDsQ612xKUcAi6h7Hw6466vVhua1jW4cOAwgz1Rd4Bamk
+fy/ve9Hi16HfUr18upQoaDuRAz7fW/qOuUgURRHw+R+QcK3n1I509pEBNEjFvG4wxxPVOu0oNhb0
+q5VrZ/nBa23Yr0w163+H3xWuHto/TVH2E1ba/eii0GjP7kdrpSanMkxsVfpSabRTJHjGKdrEMEQb
+EcupkrCHcuH34r2ePLzAITrKM8ncu7HGsIDX3nioQq2zNTypKoaEXrhUirCp2RHIAck9/89AdB0j
+QsKeZ5tmxWsOOu5Yz45qp6AnjIUlUd6zsuvVXDDJidDomz/KXGkUCTaU6CxN/SjMdToc0GlivTu/
+kaOnnGcZUZhGDYm95qE4h8KoSqb/nwUwtsKGeaQE5dEJ3hurHLj3YS9g7aEYt2QbnYW2i3glYkBV
+htU0oH1R6AcDCXL0uV7m27jMKzcBYWWAx7GfgTjVljAMo+n65iR7V8hs2SQJ1+gUDXVsEhSWoTuJ
++vpF0yxhEir+XApQuiMLvEE3j3q425StWl5k0ZkJe0XWYb8=

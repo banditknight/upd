@@ -1,170 +1,87 @@
-<?php
-
-namespace App\Models\v1;
-
-use Carbon\Carbon;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
-/**
- * App\Models\v1\RequestForQuotation
- *
- * @property int $id
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Database\Factories\v1\RequestForQuotationFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation query()
- * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|RequestForQuotation whereUpdatedAt($value)
- * @mixin \Eloquent
- */
-class RequestForQuotation extends AbstractModel
-{
-    use HasFactory;
-
-    protected $table = 'requestForQuotations';
-
-
-    protected $fillable = [
-        'number',
-        'name',
-        'purchasingOrganizationId',
-        'scopeOfWorkId',
-        'tenderTypeId',
-        'tenderDetailId',
-        'dateRequired',
-        'sectorId',
-        'projectId',
-        'docStatusId',
-        'deliveryLocation',
-        'purchasingGroupId',
-        'incotermId',
-        'noteForVendor',
-        'lingkupPekerjaan',
-        'marking',
-        'buyerId',
-    ];
-
-    protected $hidden = [
-        'scopeOfWorkId',
-        'purchasingOrganizationId',
-        'purchasingGroupId',
-        'incotermId',
-        'sectorId',
-        'dateRequired',
-        'docStatusId',
-        'updated_at',
-        'created_at',
-        'buyerId',
-    ];
-
-
-    protected $appends = [
-        'scopeOfWork',
-        'purchasingOrganization',
-        'purchasingGroup',
-        'incoterm',
-        'sector',
-        'status',
-        'docStatus',
-        'buyer',
-        'dateRequiredFormatted'
-        // 'project',
-
-    ];
-
-    public function getDateRequiredFormattedAttribute($value)
-    {
-        return [
-            'timestamp' => $this->dateRequired,
-            'humanReadAbleDate' => Carbon::createFromTimestamp($this->dateRequired)->format('d-m-Y'),
-            'humanReadAbleDateTime' => Carbon::createFromTimestamp($this->dateRequired)->format('d-m-Y H:i')
-        ];
-    }
-
-    public function getScopeOfWorkAttribute($value)
-    {
-        return ScopeOfWork::find($this->scopeOfWorkId);
-    }
-
-    public function getPurchasingOrganizationAttribute($value)
-    {
-        $purchasingOrganization = PurchasingOrganization::find($this->purchasingOrganizationId);
-
-        if (!$purchasingOrganization) {
-            return null;
-        }
-
-        return $purchasingOrganization->only(['id', 'code', 'name']);
-    }
-
-    public function getSectorAttribute($value)
-    {
-        return Sector::find($this->sectorId);
-    }
-
-    public function getPurchasingGroupAttribute($value)
-    {
-        $purchasingGroup = PurchasingGroup::find($this->purchasingGroupId);
-
-        if (!$purchasingGroup) {
-            return null;
-        }
-
-        return $purchasingGroup->only(['id', 'code', 'name']);
-    }
-
-    public function getIncotermAttribute($value)
-    {
-        $incoterm = TenderIncoterm::find($this->incotermId);
-
-        if(!$incoterm){
-            return null;
-        }
-
-        return $incoterm->only(['id','code','description']);
-    }
-
-    public function getDocStatusAttribute()
-    {
-        $docStatus = DocStatus::find($this->docStatusId);
-
-        if (!$docStatus) {
-            return 666;
-        }
-
-        return $docStatus;
-    }
-
-    public function getStatusAttribute()
-    {
-        $user = auth()->user();
-
-        if (!$user) {
-            return null;
-        }
-
-        if (!$user->hasRole('vendor')) {
-            return null;
-        }
-
-        $joinStatusId = TenderParticipant::where([
-            ['tenderId', '=', $this->id], ['vendorId', '=', $user->vendorId]
-        ])->first();
-
-        return $joinStatusId ? $joinStatusId['status'] : null;
-    }
-
-    public function getBuyerAttribute($value)
-    {
-        $buyer = User::find($this->buyerId);
-
-        if(!$buyer){
-            return null;
-        }
-
-        return $buyer;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

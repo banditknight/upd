@@ -1,29 +1,30 @@
-<?php
-
-namespace App\Rules;
-
-use App\Models\v1\AssessmentCriteria;
-use Illuminate\Contracts\Validation\Rule;
-
-class AssessmentCriteriaValid implements Rule
-{
-    public function passes($attribute, $value)
-    {
-        $assessmentCriteria = AssessmentCriteria::find($value);
-
-        if (!$assessmentCriteria) {
-            return false;
-        }
-
-        $tenderId = $assessmentCriteria->tenderId;
-        $tenderItemId = $assessmentCriteria->tenderItemId;
-        $request = request();
-
-        return !($tenderId !== $request->request->get('tenderId') || $tenderItemId !== $request->request->get('tenderItemId'));
-    }
-
-    public function message()
-    {
-        return __('validation.rule_assessment_criteria_valid');
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

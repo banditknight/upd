@@ -1,40 +1,30 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Models\v1\TaxDocumentType;
-use App\Traits\ExcelReader;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class TaxDocumentTypeSeeder extends Seeder
-{
-    use ExcelReader;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'TaxDocumentType');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            if (!$data[0]) {
-                continue;
-            }
-
-            $dataSeeder[] = [
-                'name' => $data[0]
-            ];
-        }
-
-        DB::table('taxDocumentTypes')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+Usl9hG==

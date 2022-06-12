@@ -1,71 +1,40 @@
-<?php
-
-namespace App\Models\v1;
-
-/**
- * App\Models\v1\Asset
- *
- * @property int $id
- * @property int|null $userId
- * @property string $attachment
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Illuminate\Database\Eloquent\Builder|Asset newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Asset newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Asset query()
- * @method static \Illuminate\Database\Eloquent\Builder|Asset whereAttachment($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Asset whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Asset whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Asset whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Asset whereUserId($value)
- * @mixin \Eloquent
- * @property int|null $vendorId
- * @property-read mixed $raw_path_attachment
- * @property-read mixed $url
- * @method static \Illuminate\Database\Eloquent\Builder|Asset whereVendorId($value)
- */
-class Asset extends AbstractModel
-{
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'attachment',
-        'mimeType',
-    ];
-
-    protected $hidden = [
-        // 'userId',
-        'attachment',
-        'created_at',
-        'updated_at'
-    ];
-
-    protected $appends = [
-    //    'rawPathAttachment',
-        'url'
-    ];
-
-    public function getAttachmentAttribute()
-    {
-        return str_replace(env('REPLACE_ATTACHMENT_PATH'), env('ASSET_BASE_URL'), $this->attributes['attachment']);
-    }
-
-    public function getRawPathAttachmentAttribute()
-    {
-        return $this->attributes['attachment'];
-    }
-
-    public function getUrlAttribute()
-    {
-        $path = 'pdf';
-        if($this->mimeType !== 'application/pdf'){
-            $path = 'assets';
-        }
-
-        return sprintf('%s%s?id=%d',
-            env('ASSET_BASE_URL'),
-            $path,
-            $this->id
-        );
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+kkraSEJqgvGOOwmsHymJmw+rbZQ1

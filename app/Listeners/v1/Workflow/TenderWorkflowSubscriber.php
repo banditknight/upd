@@ -1,99 +1,69 @@
-<?php
-
-namespace App\Listeners\v1\Workflow;
-
-use App\Models\v1\SpatiePermission;
-use App\Traits\User;
-use Illuminate\Events\Dispatcher;
-use Illuminate\Support\Facades\Log;
-use ZeroDaHero\LaravelWorkflow\Events\LeaveEvent;
-use ZeroDaHero\LaravelWorkflow\Events\TransitionEvent;
-use ZeroDaHero\LaravelWorkflow\Events\EnterEvent;
-use ZeroDaHero\LaravelWorkflow\Events\EnteredEvent;
-use ZeroDaHero\LaravelWorkflow\Events\GuardEvent;
-
-// https://github.com/zerodahero/laravel-workflow
-class TenderWorkflowSubscriber
-{
-    use User;
-    /**
-     * Handle workflow guard events.
-     */
-    public function onGuard(GuardEvent $event)
-    {
-        /** @var \Symfony\Component\Workflow\Event\GuardEvent $originalEvent */
-        $originalEvent = $event->getOriginalEvent();
-
-        $transition = $originalEvent->getTransition();
-
-        $currentMetaData = $transition ? $originalEvent
-            ->getWorkflow()->getMetadataStore()->getTransitionMetadata($transition) : [];
-
-        $role = $currentMetaData['role'] ?? null;
-
-        $user = $this->getUser();
-
-        /** @var \App\Models\v1\User $user */
-        if ($user && !$user->can($role)) {
-            $originalEvent->setBlocked(true);
-        }
-    }
-
-    /**
-     * Handle workflow leave event.
-     */
-    public function onLeave($event)
-    {
-        // The event can also proxy to the original event
-        /** @var \Symfony\Component\Workflow\Event\GuardEvent $originalEvent */
-        $originalEvent = $event->getOriginalEvent();
-
-        $transition = $originalEvent->getTransition();
-
-        $currentMetaData = $transition ? $originalEvent
-            ->getWorkflow()->getMetadataStore()->getTransitionMetadata($transition) : [];
-
-        $role = $currentMetaData['role'] ?? null;
-        $note = $currentMetaData['note'] ?? null;
-
-        $user = SpatiePermission::join(
-            'spatieRoleHasPermissions', 'spatieRoleHasPermissions.permission_id', '=', 'spatiePermissions.id'
-        )->join(
-            'spatieModelHasRoles', 'spatieModelHasRoles.role_id', '=', 'spatieRoleHasPermissions.role_id'
-        )->where('spatiePermissions.name', '=', $role)
-            ->where('spatieModelHasRoles.model_type', '=', \App\Models\v1\User::class)
-            ->get(['spatieModelHasRoles.model_id'])->toArray();
-
-        if ($user && is_countable($user)) {
-            $modelIds = array_column($user, 'model_id');
-            $findUser = \App\Models\v1\User::whereIn('id', $modelIds)->get(['email'])->toArray();
-            $emails = array_column($findUser, 'email');
-
-            // dispatch email;
-            Log::info('Dispatch email to correspondent user.');
-        }
-    }
-
-    /**
-     * Register the listeners for the subscriber.
-     *
-     * @param Dispatcher  $events
-     */
-    public function subscribe($events)
-    {
-        $events->listen(
-            GuardEvent::class,
-            'App\Listeners\v1\Workflow\TenderWorkflowSubscriber@onGuard'
-        );
-
-        $events->listen(
-            LeaveEvent::class,
-            'App\Listeners\v1\Workflow\TenderWorkflowSubscriber@onLeave'
-        );
-    }
-
-    public function __invoke()
-    {
-        //
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

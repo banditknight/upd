@@ -1,81 +1,42 @@
-<?php
-
-namespace App\Models\v1;
-
-use App\Traits\AssessmentCriteriaItemTrait;
-
-/**
- * App\Models\v1\TenderTechnicalBidEvaluation
- *
- * @property int $id
- * @property int $tenderId
- * @property string $criteriaCode
- * @property string $criteriaName
- * @property string $requirement
- * @property string $weight
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation query()
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereCriteriaCode($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereCriteriaName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereRequirement($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereTenderId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereWeight($value)
- * @mixin \Eloquent
- * @property int $tenderItemId
- * @property int $assessmentCriteriaId
- * @property-read mixed $assessment_criteria
- * @property mixed $assessment_criteria_item
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereAssessmentCriteriaId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TenderTechnicalBidEvaluation whereTenderItemId($value)
- */
-class TenderTechnicalBidEvaluation extends AbstractModel
-{
-    use AssessmentCriteriaItemTrait;
-
-    protected $table = 'tenderTechnicalBidEvaluations';
-
-    protected $fillable = [
-        'tenderId',
-        'tenderItemId',
-        'assessmentCriteriaId',
-        'assessmentCriteriaItem',
-        'requirement',
-        'weight'
-    ];
-
-    protected $hidden = [
-        'assessmentCriteriaId',
-        'tenderId',
-        'tenderItemId',
-        'created_at',
-        'updated_at'
-    ];
-
-    protected $appends = [
-        'assessmentCriteria',
-    ];
-
-    public function getAssessmentCriteriaAttribute()
-    {
-        return AssessmentCriteria::query()
-            ->where('tenderItemId', '=', $this->tenderItemId)
-            ->where('tenderId', '=', $this->tenderId)
-            ->get(['id', 'code', 'name']);
-    }
-
-    public function setAssessmentCriteriaItemAttribute($value)
-    {
-        $this->submitItem($value, $this->tenderId, $this->tenderItemId, $this->assessmentCriteriaId);
-    }
-
-    public function getAssessmentCriteriaItemAttribute()
-    {
-        //
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+RoO=

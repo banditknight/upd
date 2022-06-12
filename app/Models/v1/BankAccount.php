@@ -1,77 +1,35 @@
-<?php
-
-namespace App\Models\v1;
-
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
-/**
- * App\Models\v1\BankAccount
- *
- * @property int $id
- * @property int $userId
- * @property int $vendorId
- * @property int $bankId
- * @property string $accountNumber
- * @property string $accountHolderName
- * @property string $bankAddress
- * @property int $currencyId
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @property-read mixed $bank
- * @property-read mixed $currency
- * @method static \Database\Factories\v1\BankAccountFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount query()
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereAccountHolderName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereAccountNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereBankAddress($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereBankId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereCurrencyId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|BankAccount whereVendorId($value)
- * @mixin \Eloquent
- */
-class BankAccount extends AbstractModel
-{
-    use HasFactory;
-
-    protected $table = 'bankAccounts';
-
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'bankId',
-        'accountNumber',
-        'accountHolderName',
-        'bankAddress',
-        'currencyId'
-    ];
-
-    protected $hidden = [
-        'userId',
-        'vendorId',
-        'bankId',
-        'currencyId',
-        'created_at',
-        'updated_at'
-    ];
-
-    protected $appends = [
-        'bank',
-        'currency'
-    ];
-
-    public function getBankAttribute()
-    {
-        return Bank::find($this->bankId, ['id', 'name']);
-    }
-
-    public function getCurrencyAttribute()
-    {
-        return Currency::find($this->currencyId, ['id', 'code', 'name', 'symbol']);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+Sib9ZiVLcRIiEXRRBX+qiFYY+W==

@@ -1,139 +1,74 @@
-<?php
-
-namespace App\Models\v1;
-
-use Carbon\Carbon;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
-/**
- * App\Models\v1\PurchaseRequest
- *
- * @property int $id
- * @property string $name
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Database\Factories\v1\PurchaseRequestFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest query()
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereUpdatedAt($value)
- * @mixin \Eloquent
- * @property int|null $tenderId
- * @property string $no
- * @property int $departmentId
- * @property int $itemTypeId
- * @property int $currencyId
- * @property string $woNo
- * @property string $woTitle
- * @property string $document
- * @property-read mixed $currency
- * @property-read mixed $department
- * @property-read mixed $grand_total
- * @property-read mixed $item
- * @property-read mixed $item_type
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereCurrencyId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereDepartmentId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereDocument($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereItemTypeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereNo($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereTenderId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereWoNo($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequest whereWoTitle($value)
- */
-class PurchaseRequest extends AbstractModel
-{
-    use HasFactory;
-
-    protected $table = 'purchaseRequests';
-
-    protected $fillable = [
-        'no',
-        'name',
-        'departmentId',
-        'itemTypeId',
-        'currencyId',
-        'woNo',
-        'woTitle',
-        'document',
-        'confirmedDate',
-        'totalAmount',
-        'totalQty',
-        'docStatusId',
-        'prType',
-    ];
-
-    protected $hidden = [
-        'tenderId',
-        'departmentId',
-        'itemTypeId',
-        'currencyId',
-        'updated_at',
-        'created_at',
-    ];
-
-    protected $appends = [
-        'department',
-        'itemType',
-        'currency',
-        'createdAt',
-        'item',
-        'grandTotal',
-        'confirmDate'
-    ];
-
-    public function getDepartmentAttribute()
-    {
-        return Department::find($this->departmentId);
-    }
-
-    public function getItemTypeAttribute()
-    {
-        return null;
-    }
-
-    public function getCreatedAtAttribute()
-    {
-        if (!isset($this->attributes['created_at'])) {
-            return null;
-        }
-
-        return $this->attributes['created_at'] ?
-            Carbon::createFromFormat(
-                env('TIMESTAMP_FORMAT') === 'SQL_SERVER' ?
-                    self::DEFAULT_TIMESTAMP_FORMAT_SQL_SERVER : self::DEFAULT_TIMESTAMP_FORMAT_MYSQL,
-                $this->attributes['created_at']
-            )->timestamp : 0;
-    }
-
-    public function getConfirmDateAttribute()
-    {
-        return [
-            'timestamp' => Carbon::parse($this->confirmedDate)->unix(),
-            'diffForHumans' => Carbon::parse($this->confirmedDate)->diffForHumans(),
-        ];
-    }
-
-    public function getCurrencyAttribute()
-    {
-        if (!$this->currencyId) {
-            return null;
-        }
-        return Currency::find($this->currencyId)->only(['id', 'code', 'name']);
-    }
-
-    public function getItemAttribute()
-    {
-        return PurchaseRequestItem::where('purchaseRequestId', $this->id)->get();
-    }
-
-    public function getGrandTotalAttribute()
-    {
-        $sumamnt = PurchaseRequestItem::where('purchaseRequestId', $this->id)->sum('estimationUnitCost');
-        $sumqty = PurchaseRequestItem::where('purchaseRequestId', $this->id)->sum('qty');
-
-        return $sumamnt * $sumqty;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

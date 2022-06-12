@@ -1,37 +1,50 @@
-<?php
-
-namespace Database\Seeders;
-
-use Carbon\Carbon;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-use Illuminate\Support\Facades\File;
-use Laravolt\Indonesia\Seeds\CsvtoArray;
-
-class VillagesSeeder extends Seeder
-{
-    public function run()
-    {
-        $now = Carbon::now();
-        $csv = new CsvtoArray();
-        $resourceFiles = File::allFiles(__DIR__.'/../../resources/csv/villages');
-        foreach ($resourceFiles as $file) {
-            $header = ['id', 'district_id', 'name', 'lat', 'long'];
-            $data = $csv->csv_to_array($file->getRealPath(), $header);
-
-            $data = array_map(function ($arr) use ($now) {
-                $arr['meta'] = json_encode(['lat' => $arr['lat'], 'long' => $arr['long']]);
-                unset($arr['lat'], $arr['long']);
-
-                $arr['name'] = ucwords(strtolower($arr['name']));
-
-                return $arr + ['created_at' => $now, 'updated_at' => $now];
-            }, $data);
-
-            $collection = collect($data);
-            foreach ($collection->chunk(200) as $chunk) {
-                DB::table(config('volt.indonesia.table_prefix').'villages')->insert($chunk->toArray());
-            }
-        }
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+jl+MMAqufKI/5WnnauUDkhrxiR8n

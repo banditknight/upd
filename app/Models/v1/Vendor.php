@@ -1,175 +1,68 @@
-<?php
-
-namespace App\Models\v1;
-
-use App\Models\MailableInterface;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-use Illuminate\Support\Carbon;
-
-/**
- * App\Models\v1\Vendor
- *
- * @property int $id
- * @property string $domain
- * @property int $companyTypeId
- * @property string $name
- * @property int $vendorTypeInformation
- * @property string $presidentDirectorName
- * @property string $referenceId
- * @property string $address
- * @property string|null $secondAddress
- * @property int $countryId
- * @property int $provinceId
- * @property int $cityId
- * @property int $subDistrictId
- * @property string $postalCode
- * @property string $phone
- * @property string|null $phoneExt
- * @property string $faxMailNumber
- * @property string|null $faxMailNumberExt
- * @property string $email
- * @property string $website
- * @property string $picFullName
- * @property string $picMobileNumber
- * @property string $picEmail
- * @property string|null $tenderReferenceNumber
- * @property string $pkpNumber
- * @property string $pkpAttachment
- * @property string $taxIdentificationNumber
- * @property string $taxIdentificationAttachment
- * @property bool $isAcceptTermAndCondition
- * @property Carbon|null $created_at
- * @property Carbon|null $updated_at
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor query()
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereAddress($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereCityId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereCompanyTypeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereCountryId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereDomain($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereEmail($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereFaxMailNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereFaxMailNumberExt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereIsAcceptTermAndCondition($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor wherePhone($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor wherePhoneExt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor wherePicEmail($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor wherePicFullName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor wherePicMobileNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor wherePkpAttachment($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor wherePkpNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor wherePostalCode($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor wherePresidentDirectorName($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereProvinceId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereReferenceId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereSecondAddress($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereSubDistrictId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereTaxIdentificationAttachment($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereTaxIdentificationNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereTenderReferenceNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereVendorTypeInformation($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereWebsite($value)
- * @mixin \Eloquent
- * @property int|null $picId
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor wherePicId($value)
- * @property int $domainId
- * @property int|null $districtId
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereDistrictId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereDomainId($value)
- * @property string|null $registrationNumber
- * @property int $isActive
- * @property-read mixed $company_type
- * @method static \Database\Factories\v1\VendorFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereIsActive($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereRegistrationNumber($value)
- * @property int $isCompleted
- * @method static \Illuminate\Database\Eloquent\Builder|Vendor whereIsCompleted($value)
- */
-class Vendor extends AbstractModel implements MailableInterface
-{
-    use HasFactory;
-
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array
-     */
-    protected $fillable = [
-        'domainId',
-        'companyTypeId',
-        'name',
-        'vendorTypeInformation',
-        'presidentDirectorName',
-        'referenceId',
-        'secondAddress',
-        'address',
-        'countryId',
-        'provinceId',
-        'cityId',
-        'districtId',
-        'postalCode',
-        'phone',
-        'phoneExt',
-        'faxMailNumber',
-        'faxMailNumberExt',
-        'email',
-        'website',
-        'picId',
-        'picFullName',
-        'picMobileNumber',
-        'picEmail',
-        'tenderReferenceNumber',
-        'pkpNumber',
-        'pkpAttachment',
-        'taxIdentificationNumber',
-        'taxIdentificationAttachment',
-        'isAcceptTermAndCondition',
-        'isCompleted',
-        'isActive',
-        'registrationNumber',
-        'description',
-        'logo',
-        'rating',
-    ];
-
-    protected $appends = [
-        'companyType',
-        'liquidity',
-        'competency',
-    ];
-
-    public function toEmailAddress(): string
-    {
-        return $this->email;
-    }
-
-    public function toCcEmailAddress(): string
-    {
-        return $this->picEmail;
-    }
-
-    public function getCompanyTypeAttribute()
-    {
-        return $this->belongsTo(CompanyType::class, 'companyTypeId')->first();
-    }
-
-    public function getLiquidityAttribute()
-    {
-        $finance = FinancialStatement::where('vendorId',$this->id)->orderBy('year','desc')->first();
-        if(!empty($finance)){
-            return round(($finance->currentAssets+$finance->nonCurrentAssets+$finance->otherAssets)/($finance->currentPayable+$finance->otherPayable),2);
-        }
-        return null;
-    }
-
-    public function getCompetencyAttribute()
-    {
-        return $this->hasMany(Competency::class,'vendorId')->get();
-    }
-
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
++NvNeGfpl4bffqV3upjAHgmcfEBN

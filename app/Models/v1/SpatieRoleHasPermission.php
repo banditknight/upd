@@ -1,44 +1,30 @@
-<?php
-
-namespace App\Models\v1;
-
-/**
- * App\Models\v1\SpatieRoleHasPermission
- *
- * @property int $permission_id
- * @property int $role_id
- * @property-read mixed $permission
- * @property-read mixed $role
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRoleHasPermission newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRoleHasPermission newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRoleHasPermission query()
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRoleHasPermission wherePermissionId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|SpatieRoleHasPermission whereRoleId($value)
- * @mixin \Eloquent
- */
-class SpatieRoleHasPermission extends AbstractModel
-{
-    protected $table = 'spatieRoleHasPermissions';
-
-    protected $hidden = [
-        'permission_id',
-        'role_id',
-        'created_at',
-        'updated_at'
-    ];
-
-    protected $appends = [
-        'permission',
-        'role'
-    ];
-
-    public function getPermissionAttribute()
-    {
-        return SpatiePermission::find($this->permission_id)->only(['id', 'name']);
-    }
-
-    public function getRoleAttribute()
-    {
-        return SpatieRole::find($this->role_id)->only(['id', 'name']);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

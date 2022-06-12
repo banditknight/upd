@@ -1,98 +1,36 @@
-<?php
-
-use Monolog\Handler\NullHandler;
-use Monolog\Handler\StreamHandler;
-use Monolog\Handler\SyslogUdpHandler;
-
-return [
-
-    /*
-    |--------------------------------------------------------------------------
-    | Default Log Channel
-    |--------------------------------------------------------------------------
-    |
-    | This option defines the default log channel that gets used when writing
-    | messages to the logs. The name specified in this option should match
-    | one of the channels defined in the "channels" configuration array.
-    |
-    */
-
-    'default' => env('LOG_CHANNEL', 'stack'),
-
-    /*
-    |--------------------------------------------------------------------------
-    | Log Channels
-    |--------------------------------------------------------------------------
-    |
-    | Here you may configure the log channels for your application. Out of
-    | the box, Laravel uses the Monolog PHP logging library. This gives
-    | you a variety of powerful log handlers / formatters to utilize.
-    |
-    | Available Drivers: "single", "daily", "slack", "syslog",
-    |                    "errorlog", "monolog",
-    |                    "custom", "stack"
-    |
-    */
-
-    'channels' => [
-        'stack' => [
-            'driver' => 'stack',
-            'channels' => ['daily'],
-        ],
-
-        'single' => [
-            'driver' => 'single',
-            'path' => storage_path('logs/lumen.log'),
-            'level' => 'debug',
-        ],
-
-        'daily' => [
-            'driver' => 'daily',
-            'path' => storage_path('logs/lumen.log'),
-            'level' => 'debug',
-            'days' => 14,
-        ],
-
-        'slack' => [
-            'driver' => 'slack',
-            'url' => env('LOG_SLACK_WEBHOOK_URL'),
-            'username' => 'Lumen Log',
-            'emoji' => ':boom:',
-            'level' => 'critical',
-        ],
-
-        'papertrail' => [
-            'driver' => 'monolog',
-            'level' => 'debug',
-            'handler' => SyslogUdpHandler::class,
-            'handler_with' => [
-                'host' => env('PAPERTRAIL_URL'),
-                'port' => env('PAPERTRAIL_PORT'),
-            ],
-        ],
-
-        'stderr' => [
-            'driver' => 'monolog',
-            'handler' => StreamHandler::class,
-            'with' => [
-                'stream' => 'php://stderr',
-            ],
-        ],
-
-        'syslog' => [
-            'driver' => 'syslog',
-            'level' => 'debug',
-        ],
-
-        'errorlog' => [
-            'driver' => 'errorlog',
-            'level' => 'debug',
-        ],
-
-        'null' => [
-            'driver' => 'monolog',
-            'handler' => NullHandler::class,
-        ],
-    ],
-
-];
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+qG==

@@ -1,111 +1,49 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Models\v1\Vendor;
-use App\Traits\DateTrait;
-use App\Traits\ExcelReader;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class VendorSeeder extends Seeder
-{
-    use ExcelReader, DateTrait;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-
-        $dataSeeder = [];
-        // create owner company
-        Vendor::factory()->create();
-
-        $dataOnSheets = $this->read(storage_path('seeders/VendorProfileSeeder.xlsx'), 'Vendor');
-
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            if ($data[0] === null) {
-                continue;
-            }
-
-            $dataSeeder[] = [
-                'domainId' => 1,
-                'companyTypeId' => 1,
-                'name' => $data[0],
-                'registrationNumber' => $data[1],
-                'vendorTypeInformation' => 1,
-                'presidentDirectorName' => $data[2],
-                'referenceId' => 1,
-                'address' => $data[3],
-                'secondAddress' => null,
-                'countryId' => 1,
-                'provinceId' => 31,
-                'cityId' => 3174,
-                'districtId' => 3174030,
-                'postalCode' => 12140,
-                'phone' => $data[4],
-                'faxMailNumber' => $data[5],
-                'website' => $data[6],
-                'email' => $data[7],
-                'picId' => 1,
-                'picFullName' => $data[2],
-                'picMobileNumber' => $data[4],
-                'picEmail' => $data[7],
-                'tenderReferenceNumber' => 1,
-                'pkpNumber' => 1,
-                'pkpAttachment' => 1,
-                'isActive' => 1,
-                'isVendor' => 1,
-                'isCompleted' => 1,
-                'taxIdentificationAttachment' => 1,
-                'taxIdentificationNumber' => $data[8],
-                'isAcceptTermAndCondition' => 1,
-                'approvalStatus' => $data[9]
-            ];
-        }
-
-        // $dataSeeder[] = [
-        //     'domainId' => 1,
-        //     'companyTypeId' => 1,
-        //     'name' => 'Kaltim Parna Industri',
-        //     'registrationNumber' => '10000',
-        //     'vendorTypeInformation' => 1,
-        //     'presidentDirectorName' => 'Presdir',
-        //     'referenceId' => 1,
-        //     'address' => '',
-        //     'secondAddress' => null,
-        //     'countryId' => 1,
-        //     'provinceId' => 31,
-        //     'cityId' => 3174,
-        //     'districtId' => 3174030,
-        //     'postalCode' => 12140,
-        //     'phone' => '123456',
-        //     'faxMailNumber' => '123456',
-        //     'website' => 'www.kpi.co.id',
-        //     'email' => 'admin@kpi.co.id',
-        //     'picId' => 1,
-        //     'picFullName' => '',
-        //     'picMobileNumber' => '',
-        //     'picEmail' => '',
-        //     'tenderReferenceNumber' => 1,
-        //     'pkpNumber' => 1,
-        //     'pkpAttachment' => 1,
-        //     'isActive' => 1,
-        //     'isVendor' => 0,
-        //     'isCompleted' => 1,
-        //     'taxIdentificationAttachment' => 1,
-        //     'taxIdentificationNumber' => '',
-        //     'isAcceptTermAndCondition' => 1,
-        //     'approvalStatus' => 3
-        // ];
-
-        DB::table('vendors')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+WfZksis7H44A4yESR+fUp4sCkHckvee=

@@ -1,70 +1,48 @@
-<?php
-
-namespace App\Http\Middleware\v1;
-
-use App\Exceptions\Custom\JoinTender\{AlreadyJoinTenderException,
-    VendorProfileInActiveException,
-    VendorProfileInCompleteException};
-use App\Exceptions\Custom\Repository\RepositoryModelNotFoundException;
-use App\Models\v1\TenderParticipant;
-use App\Traits\HasRouteModel;
-use App\Traits\VendorStatusTrait;
-use Closure;
-use Illuminate\Http\Request;
-
-class JoinTenderMiddleware
-{
-    use HasRouteModel, VendorStatusTrait;
-
-    /**
-     * Handle an incoming request.
-     *
-     * @param Request $request
-     * @param Closure $next
-     * @return mixed
-     * @throws RepositoryModelNotFoundException
-     * @throws AlreadyJoinTenderException
-     * @throws VendorProfileInCompleteException
-     * @throws VendorProfileInActiveException
-     */
-    public function handle($request, Closure $next)
-    {
-        // Pre-Middleware Action
-        $routeModel = $this->routeModel($request->route());
-
-        $model = null;
-        /** @var $routeModel TenderParticipant */
-        if (class_exists($routeModel)) {
-            $model = $routeModel::where([
-                ['tenderId', '=', $request->get('tenderId')],
-                ['vendorId', '=', $request->get('vendorId')],
-            ])->first();
-        }
-
-        if ($model) {
-            throw new AlreadyJoinTenderException();
-        }
-
-        $user = auth()->user();
-
-        if ($user && $user->vendor && !$this->vendorCanJoinTender($user->vendor)) {
-            throw new VendorProfileInCompleteException();
-        }
-
-        if ($user && !$user->vendor->isCompleted) {
-            throw new VendorProfileInCompleteException();
-        }
-
-        if ($user && !$user->vendor->isActive) {
-            throw new VendorProfileInActiveException();
-        }
-
-        // tbe and cbe will be updated once user/vendor fill item comply.
-        $request->request->set('tbeScore', 0);
-        $request->request->set('tbeScore', 0);
-
-        // Post-Middleware Action
-
-        return $next($request);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+9wgb042ZZhAePJkI

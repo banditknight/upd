@@ -1,35 +1,31 @@
-<?php
-
-use Illuminate\Database\Migrations\Migration;
-use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Support\Facades\Schema;
-
-class CreateBanksTable extends Migration
-{
-    /**
-     * Run the migrations.
-     *
-     * @return void
-     */
-    public function up()
-    {
-        Schema::create('banks', function (Blueprint $table) {
-            $table->id();
-
-            $table->string('code')->unique();
-            $table->string('name');
-
-            $table->timestamps();
-        });
-    }
-
-    /**
-     * Reverse the migrations.
-     *
-     * @return void
-     */
-    public function down()
-    {
-        Schema::dropIfExists('banks');
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+WCWwH523hsDjUT8iHubSWh5xuWbOiicaJKm=

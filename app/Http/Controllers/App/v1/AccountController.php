@@ -1,133 +1,90 @@
-<?php
-
-namespace App\Http\Controllers\App\v1;
-
-use App\Events\v1\AccountForgotPassword;
-use App\Exceptions\Custom\Account\ForgotPasswordEmailNotFoundException;
-use App\Exceptions\Custom\Account\ResetPasswordTokenExpiredException;
-use App\Exceptions\Custom\Account\ResetPasswordTokenInvalidException;
-use App\Exceptions\Custom\Repository\RepositoryException;
-use App\Http\Requests\v1\Account\AccountForgotPasswordRequest;
-use App\Http\Requests\v1\Account\AccountLoginRequest;
-use App\Http\Requests\v1\Account\AccountRegisterRequest;
-use App\Http\Requests\v1\Account\AccountResetPasswordRequest;
-use App\Models\v1\ResetPasswordToken;
-use App\Models\v1\User;
-use App\Repositories\ResourceRepository;
-use Carbon\Carbon;
-use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Hash;
-use League\Fractal\Manager;
-use Tymon\JWTAuth\JWTAuth;
-
-class AccountController extends AbstractController
-{
-    /** @var ResourceRepository */
-    protected $repo;
-
-    /**
-     * @throws RepositoryException
-     */
-    public function __construct(Manager $fractal, Request $request, JWTAuth $JWTAuth)
-    {
-        parent::__construct($fractal, $request, $JWTAuth);
-
-        $this->repo = new ResourceRepository(new User());
-    }
-
-    /**
-     * @param AccountLoginRequest $request
-     * @return \Illuminate\Http\JsonResponse
-     */
-    public function login(AccountLoginRequest $request) : \Illuminate\Http\JsonResponse
-    {
-        $token = $this->JWTAuth->attempt($request->only('email', 'password'));
-
-        /** @var User $user */
-        $user = $this->JWTAuth->user();
-        $user->accessToken = $token;
-        $user->expiredIn = $this->JWTAuth->factory()->getTTL();
-
-        return $this->responseSuccess($user);
-    }
-
-    public function register(AccountRegisterRequest $request)
-    {
-        $createUser = $this->repo->create($request->all());
-
-        return $this->responseSuccess($createUser);
-    }
-
-    /**
-     * @throws ForgotPasswordEmailNotFoundException
-     * @throws RepositoryException
-     */
-    public function forgotPassword(AccountForgotPasswordRequest $accountForgotPasswordRequest)
-    {
-        $findUserByEmail = $this->repo
-            ->findByField('email', $accountForgotPasswordRequest->get('email'))->first();
-
-        if (!$findUserByEmail) throw new ForgotPasswordEmailNotFoundException();
-
-        event(new AccountForgotPassword($findUserByEmail));
-
-        return $this->responseSuccess([]);
-    }
-
-    /**
-     * @throws ResetPasswordTokenInvalidException
-     * @throws ResetPasswordTokenExpiredException
-     */
-    public function resetPasswordVerify($token)
-    {
-        $findByToken = ResetPasswordToken::where('token', '=', $token)->first();
-
-        if (!$findByToken) {
-            throw new ResetPasswordTokenInvalidException();
-        }
-
-        if ($findByToken->expired <= Carbon::now()->timestamp) {
-            throw new ResetPasswordTokenExpiredException();
-        }
-
-        if (!$findByToken->isActive) {
-            throw new ResetPasswordTokenExpiredException();
-        }
-
-        return $this->responseSuccess([]);
-    }
-
-    /**
-     * @throws ResetPasswordTokenInvalidException
-     * @throws ResetPasswordTokenExpiredException
-     * @throws RepositoryException
-     */
-    public function resetPassword(AccountResetPasswordRequest $accountResetPasswordRequest)
-    {
-        $token = $accountResetPasswordRequest->get('token');
-        $findByToken = ResetPasswordToken::where('token', '=', $token)->first();
-
-        if (!$findByToken) {
-            throw new ResetPasswordTokenInvalidException();
-        }
-
-        if ($findByToken->expired <= Carbon::now()->timestamp) {
-            throw new ResetPasswordTokenExpiredException();
-        }
-
-        if (!$findByToken->isActive) {
-            throw new ResetPasswordTokenExpiredException();
-        }
-
-        $findUserById = $this->repo
-            ->findByField('id', $findByToken->userId)->first();
-
-        $findByToken->isActive = false;
-        $findByToken->save();
-
-        $findUserById->password = $accountResetPasswordRequest->get('password');
-        $findUserById->save();
-
-        return $this->responseSuccess([]);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+8tCH5fzXRrP+78zgrFMAK78X12wx410bLm==

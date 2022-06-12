@@ -1,35 +1,31 @@
-<?php
-
-use Illuminate\Database\Migrations\Migration;
-use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Support\Facades\Schema;
-
-class CreateUserManualsTable extends Migration
-{
-    /**
-     * Run the migrations.
-     *
-     * @return void
-     */
-    public function up()
-    {
-        Schema::create('userManuals', function (Blueprint $table) {
-            $table->id();
-
-            $table->string('title');
-            $table->text('content');
-
-            $table->timestamps();
-        });
-    }
-
-    /**
-     * Reverse the migrations.
-     *
-     * @return void
-     */
-    public function down()
-    {
-        Schema::dropIfExists('userManuals');
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+hWkov5i=

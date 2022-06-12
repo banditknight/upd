@@ -1,181 +1,80 @@
-<?php
-
-require_once __DIR__.'/../vendor/autoload.php';
-
-(new Laravel\Lumen\Bootstrap\LoadEnvironmentVariables(
-    dirname(__DIR__)
-))->bootstrap();
-
-date_default_timezone_set(env('APP_TIMEZONE', 'UTC'));
-
-/*
-|--------------------------------------------------------------------------
-| Create The Application
-|--------------------------------------------------------------------------
-|
-| Here we will load the environment and create the application instance
-| that serves as the central piece of this framework. We'll use this
-| application as an "IoC" container and router for this framework.
-|
-*/
-
-$app = new Yuliusardian\LumenResourceRouting\Application(
-    dirname(__DIR__)
-);
-
-$app->withFacades();
-
-$app->withEloquent();
-
-/*
-|--------------------------------------------------------------------------
-| Register Container Bindings
-|--------------------------------------------------------------------------
-|
-| Now we will register a few bindings in the service container. We will
-| register the exception handler and the console kernel. You may add
-| your own bindings here if you like or you can make another file.
-|
-*/
-
-$app->singleton(
-    Illuminate\Contracts\Debug\ExceptionHandler::class,
-    App\Exceptions\Handler::class
-);
-
-$app->singleton(
-    Illuminate\Contracts\Console\Kernel::class,
-    App\Console\Kernel::class
-);
-
-/*
-|--------------------------------------------------------------------------
-| Register Config Files
-|--------------------------------------------------------------------------
-|
-| Now we will register the "app" configuration file. If the file exists in
-| your configuration directory it will be loaded; otherwise, we'll load
-| the default version. You may register other files below as needed.
-|
-*/
-
-$app->configure('app');
-$app->configure('queue');
-$app->configure('volt');
-$app->configure('mail');
-$app->configure('permission');
-$app->configure('repository');
-$app->configure('workflow');
-
-/*
-|--------------------------------------------------------------------------
-| Register Middleware
-|--------------------------------------------------------------------------
-|
-| Next, we will register the middleware with the application. These can
-| be global middleware that run before and after each request into a
-| route or middleware that'll be assigned to some specific routes.
-|
-*/
-
-// $app->middleware([
-//     App\Http\Middleware\ExampleMiddleware::class
-// ]);
-
-// $app->routeMiddleware([
-//     'auth' => App\Http\Middleware\Authenticate::class,
-// ]);
-
-$app->routeMiddleware([
-    'auth' => App\Http\Middleware\Authenticate::class,
-    'role' => Spatie\Permission\Middlewares\RoleMiddleware::class,
-    'permission' => Spatie\Permission\Middlewares\PermissionMiddleware::class,
-    'roleOrPermission' => Spatie\Permission\Middlewares\RoleOrPermissionMiddleware::class,
-    'cors' => App\Http\Middleware\v1\CorsMiddleware::class,
-    'app.v1.lang' => App\Http\Middleware\v1\LangMiddleware::class,
-    'app.v1.auth' => App\Http\Middleware\v1\AuthMiddleware::class,
-    'log' => App\Http\Middleware\v1\LogMiddleware::class,
-    'join.tender' => App\Http\Middleware\v1\JoinTenderMiddleware::class,
-    'request.filter' => App\Http\Middleware\v1\RequestFilterMiddleware::class,
-    'delete.account' => App\Http\Middleware\v1\DeleteAccountMiddleware::class,
-    'update.account' => App\Http\Middleware\v1\UpdateAccountMiddleware::class,
-    'create.account' => App\Http\Middleware\v1\CreateAccountMiddleware::class,
-    'role.assigner' => App\Http\Middleware\v1\RoleAssignerMiddleware::class,
-    'tender.item.comply' => App\Http\Middleware\v1\TenderItemComplyMiddleware::class,
-    'tender.item.component.comply' => App\Http\Middleware\v1\TenderItemComponentComplyMiddleware::class,
-    'notification' => App\Http\Middleware\v1\NotificationMiddleware::class,
-    'activation' => App\Http\Middleware\v1\ActivationMiddleware::class,
-]);
-
-/*
-|--------------------------------------------------------------------------
-| Register Service Providers
-|--------------------------------------------------------------------------
-|
-| Here we will register all of the application's service providers which
-| are used to bind services into the container. Service providers are
-| totally optional, so you are not required to uncomment this line.
-|
-*/
-
-$app->register(App\Providers\AppServiceProvider::class);
-//$app->register(App\Providers\AuthServiceProvider::class);
-$app->register(App\Providers\EventServiceProvider::class);
-$app->register(App\Providers\ApplicationServiceProvider::class);
-
-$app->register(Flipbox\LumenGenerator\LumenGeneratorServiceProvider::class);
-$app->register(Tymon\JWTAuth\Providers\LumenServiceProvider::class);
-$app->register(Pearl\RequestValidate\RequestServiceProvider::class);
-$app->register(Laravolt\Indonesia\ServiceProvider::class);
-$app->register(Illuminate\Mail\MailServiceProvider::class);
-$app->register(Yajra\DataTables\DataTablesServiceProvider::class);
-$app->register(Spatie\Permission\PermissionServiceProvider::class);
-$app->register(ZeroDaHero\LaravelWorkflow\WorkflowServiceProvider::class);
-
-if ($app->environment() !== 'production') {
-    $app->register(\Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class);
-}
-
-$app->alias('Indonesia', Laravolt\Indonesia\Facade::class);
-$app->alias('mailer', Illuminate\Mail\Mailer::class);
-$app->alias('mailer', Illuminate\Contracts\Mail\Mailer::class);
-$app->alias('mailer', Illuminate\Contracts\Mail\MailQueue::class);
-$app->alias('cache', Illuminate\Cache\CacheManager::class);
-$app->alias('Workflow', ZeroDaHero\LaravelWorkflow\Facades\WorkflowFacade::class);
-
-/*
-|--------------------------------------------------------------------------
-| Load The Application Routes
-|--------------------------------------------------------------------------
-|
-| Next we will include the routes file so that they can all be added to
-| the application. This will provide all of the URLs the application
-| can respond to, as well as the controllers that may handle them.
-|
-*/
-
-$app->router->group([
-    'namespace' => 'App\Http\Controllers',
-], function ($router) {
-    require __DIR__.'/../routes/web.php';
-});
-
-$app->router->group([
-    'prefix' => 'v1',
-    'namespace' => 'App\Http\Controllers\App\v1',
-    'middleware' => ['cors', 'app.v1.lang', 'app.v1.auth', 'request.filter', 'role.assigner', 'log'],
-    'as' => 'app'
-], function ($router) {
-    require __DIR__ . '/../routes/App/v1/api.php';
-});
-
-$app->router->group([
-    'prefix' => 'v1/bo',
-    'namespace' => 'App\Http\Controllers\BackOffice\v1',
-    'middleware' => ['cors', 'app.v1.lang', 'app.v1.auth', 'request.filter', 'log', 'auth', 'permission:accessBackOffice'],
-    'as' => 'bo'
-], function ($router) {
-    require __DIR__ . '/../routes/BackOffice/v1/api.php';
-});
-
-return $app;
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

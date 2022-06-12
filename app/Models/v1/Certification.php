@@ -1,76 +1,38 @@
-<?php
-
-namespace App\Models\v1;
-
-use Carbon\Carbon;
-
-/**
- * App\Models\v1\Certification
- *
- * @property int $id
- * @property int $userId
- * @property int $vendorId
- * @property int $certificationTypeId
- * @property string $description
- * @property int $validFrom
- * @property int $validThruDate
- * @property string $attachment
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @property-write mixed $valid_from
- * @property-write mixed $valid_thru_date
- * @method static \Illuminate\Database\Eloquent\Builder|Certification newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Certification newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Certification query()
- * @method static \Illuminate\Database\Eloquent\Builder|Certification whereAttachment($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Certification whereCertificationTypeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Certification whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Certification whereDescription($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Certification whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Certification whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Certification whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Certification whereValidFrom($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Certification whereValidThruDate($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Certification whereVendorId($value)
- * @mixin \Eloquent
- * @property-read mixed $certification_type
- */
-class Certification extends AbstractModel
-{
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'certificationTypeId',
-        'description',
-        'validFrom',
-        'validThruDate',
-        'attachment'
-    ];
-
-    protected $hidden = [
-        'userId',
-        'vendorId',
-        'certificationTypeId',
-        'updated_at',
-        'created_at'
-    ];
-
-    protected $appends = [
-        'certificationType'
-    ];
-
-    public function setValidFromAttribute($value)
-    {
-        $this->attributes['validFrom'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
-    }
-
-    public function setValidThruDateAttribute($value)
-    {
-        $this->attributes['validThruDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
-    }
-
-    public function getCertificationTypeAttribute()
-    {
-        return CertificationType::find($this->certificationTypeId);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+ET15KstXjQpf2qW5WM5YygHGmZgmlJHfqWm=

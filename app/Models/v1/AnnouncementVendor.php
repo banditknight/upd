@@ -1,59 +1,37 @@
-<?php
-
-namespace App\Models\v1;
-
-use Carbon\Carbon;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-use App\Traits\Log as LogAble;
-
-/**
- * App\Models\v1\AnnouncementVendor
- *
- * @property int $id
- * @property int $userId
- * @property int $vendorId
- * @property string $title
- * @property string $description
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Database\Factories\v1\AnnouncementVendorFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementVendor newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementVendor newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementVendor query()
- * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementVendor whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementVendor whereDescription($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementVendor whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementVendor whereTitle($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementVendor whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementVendor whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|AnnouncementVendor whereVendorId($value)
- * @mixin \Eloquent
- */
-class AnnouncementVendor extends AbstractModel
-{
-    use HasFactory, LogAble;
-
-    protected $table = 'announcementVendors';
-
-    protected $appends = [
-        'createdAt'
-    ];
-
-    public function getCreatedAtAttribute()
-    {
-        $createdAt = null;
-
-        try {
-            $createdAt = $this->attributes['created_at'] ?
-                Carbon::createFromFormat(
-                    env('TIMESTAMP_FORMAT') === 'SQL_SERVER' ?
-                        self::DEFAULT_TIMESTAMP_FORMAT_SQL_SERVER : self::DEFAULT_TIMESTAMP_FORMAT_MYSQL
-                    , $this->attributes['created_at'])->timestamp :
-                null;
-        } catch (\Exception $ex) {
-            $this->info($ex->getMessage());
-        }
-
-        return $createdAt;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

@@ -1,89 +1,56 @@
-<?php
-
-namespace App\Traits;
-
-use App\Contracts\FormRequestInterface;
-use Illuminate\Support\Str;
-
-trait FormRequestDeciderTrait
-{
-    /**
-     * Determine if the user is authorized to make this request.
-     *
-     * @return bool
-     */
-    public function authorize(): bool
-    {
-        return true;
-    }
-
-    /**
-     * Get the validation rules that apply to the request.
-     *
-     * @return array
-     */
-    public function rules(): array
-    {
-        return $this->resolveFormRequest()['rules'];
-    }
-
-    /**
-     * Get custom messages for validator errors.
-     *
-     * @return array
-     */
-    public function messages(): array
-    {
-        return $this->resolveFormRequest()['messages'];
-    }
-
-    public function resolveFormRequest()
-    {
-        $route = request()->route();
-
-        $data['messages'] = [];
-        $data['rules'] = [];
-
-        if (!isset($route[1]['model'])) {
-            return $data;
-        }
-
-        $model = $route[1]['model'];
-
-        $instanceModel = new $model;
-
-        $data['messages'] = method_exists($instanceModel, 'getMessages') ? $instanceModel->getMessages() : [];
-        $data['rules'] = method_exists($instanceModel, 'getRules') ? $instanceModel->getRules() : [];
-
-        $formRequestNameSpace = Str::replaceFirst('Models', 'Http\Requests', $model);
-
-        $method = $route[1]['method'];
-
-        if (
-            method_exists($instanceModel, 'getAllowedMethod') &&
-            !in_array($method, $instanceModel->getAllowedMethod(), false)
-        ) {
-            $data['messages'] = [];
-            $data['rules'] = [];
-
-            return $data;
-        }
-
-        $method = ucfirst($method);
-        $suffix = 'Request';
-
-        $formRequestClass = sprintf('%s\%s%s', $formRequestNameSpace, $method, $suffix);
-
-        if (!class_exists($formRequestClass)) {
-            return $data;
-        }
-
-        /** @var FormRequestInterface $instanceFormRequestClass */
-        $instanceFormRequestClass = new $formRequestClass();
-
-        $data['messages'] = $instanceFormRequestClass->messages();
-        $data['rules'] = $instanceFormRequestClass->rules();
-
-        return $data;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

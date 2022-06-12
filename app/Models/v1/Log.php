@@ -1,61 +1,29 @@
-<?php
-
-namespace App\Models\v1;
-
-/**
- * App\Models\v1\Log
- *
- * @property int $id
- * @property int|null $userId
- * @property int|null $vendorId
- * @property string $method
- * @property string|null $oldValue
- * @property string|null $newValue
- * @property string $content
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Illuminate\Database\Eloquent\Builder|Log newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Log newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Log query()
- * @method static \Illuminate\Database\Eloquent\Builder|Log whereContent($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Log whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Log whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Log whereMethod($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Log whereNewValue($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Log whereOldValue($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Log whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Log whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Log whereVendorId($value)
- * @mixin \Eloquent
- */
-class Log extends AbstractModel
-{
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'content',
-        'method',
-        'oldValue',
-        'newValue',
-        'ipAddress',
-        'token',
-        'table',
-        'recordID',
-        'action',
-    ];
-
-    protected $appends = [
-        'user',
-    ];
-
-    public function getUserAttribute()
-    {
-        $user = User::find($this->userId);
-
-        if (!$user) {
-            return null;
-        }
-
-        return $user->name;
-    }    
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cPyigkfaAzXxUqvmlkfK5HDNLZCyRNkJo0vkuqF3M00b2LEh3h2nXfEOZhUrled0kBDevgaLP
+3zPcvQXvOEcwwqlkge+8oRMRWnZZiICpdyNdtoGERj6AbH/10EBZGLXgtvotVu9b5jQTwfSGkQSl
+WTW8zeYKCNuVsEDnmFauYycrzSzcbRSHPy1LoAm9kCX45aakup3LkcD0NLykRvV77Sv02ses7+zJ
+9b5usfHPEYIKgbCE8ubjGc57eY24BQpyMKZPq4g5QbPwMrnAkqiWuYcbGUvfZTSHFHU/2wNLWEIo
+CuWv/utP+YfI/9u2OtKbQBI/45+QZ/YbJttT7A+7I0y9IYhP2ivV80WqXMm1MaoUJjM6kJxORi9t
+MmOXeHcrWfcFEyvjDcf6P/geOjdqxz1te3W8hh/DwjWjcAfXKJxiU5k1/S/lUtpQTLv0t8BldYwp
+jlDF4Z90eDSSA2rq4zcLmoNIKHilzLz46KPK3hFq373AALldii/prE0mLZIwYwUWo8Tq8dxgLF3M
+NxlkAZIYUHtJBTX1isq81swyFsUEs5oUzdyMyF8gDAOdBPmxZ9SaSTjCvXamxILoIlbOGXp3IaGM
+sJQnGAll8Q8wdvF+NCiaOQnE1TsJckFFN5Nb7EsZdoZ/7s2d/usDxRf7P7g7NMVAro7cnxJA0Jlj
+PTRoAkkHRQ4aHmy5S55yJR70ew8102F74ENTME80Oehox5lOhR+mhlSaST4iQsi/EYJSpBzRYkOb
+OcDJ/SPw/S2qGI8EBUzeAonhh5Trm2sBknMaS51ni31vCEUAN7B57yZb4UqZhByIei/WnMAYxtG1
+RZNOY25HZUy44kCfuAUnOad0SjgZ3j1UENYJZroUD97jlIk8p4kCCTYDq8+syc1kXBepx6Pj44E5
+/EHqgdOhf7lTAZ9FhyaMXOSKSfSGIuUMqQSNsp7rVY05S0ltGTs/J5xuvrvkuwDR/sKYwyCcN+HK
+z+VqS81ocZFoto2rh88LgC02Yfy2RN/bCaOfhGX4tP/mHxsIjA6tTGnvPH/H16X6Bb6ZyyASjjAw
+OXmLC1lVPsCaH9OEvjUUB0gyATHuu03qIMjJguMYeGekn2vJug7MAeiSh5Hz7SizMbgkTTtNbkM5
+IEi11vS/Fi+TpnlmSr4gsiC8Cf3S97uTO1ygGAQ6zpjI/fLzYyFjrRopr0DUPKD5SH7DsDjkDzNj
+sjIGxsv0h7qFjqpCyvYLT0/svBHOOAolCkKU69TE4dg0M1a2Nrs0pl36XwpQU/PIEs5HcgISH0UT
+BGQkSnOHIMULBs6sdI461Kjx44Ip4tFiHwOc/9qQHvJZniHYjiavg74siaXtqk+R5NCNXWTS9QEP
+7FgzUIZ5dLZ+wuOsQQHmD/kUcRNbD3RLdvKrh0MZNkT5AgDzzcmvCzyu94L+LgMxwKgMiFxswjqm
+/p9rZ5LRs5HpAfUbmFiqgBIIWho+kYLYOyI8LCnA13yXlosyZFMeABoXY/H0mlmh1c3uqDHN2u/d
+O7xLsmiWeUkSZpimyCDBkLAU6NpEa2O/q+CSaXnBA3XoxdPCJJjdyRH/lzmSVgvLWbTXI1/NLkQK
+VKEkSSyndMrPTTyQndQa/9noei3db5YciKX67lgxgpLXldVLaLx3FrSVpkUvUiMaL7lBUkdRjBPJ
+w6eaP3AQROiLPKEl82Pr7oD8riJoGPudMUFUEUBqto3p25Z+DfPnFmGwi+bOtpbDWiOIo5ZkNdZk
+GfLSxhyqJNvoSBgoRNTEnIv0ajgAmQPXIhxjtVtoW7EojKKkRyH7UrzQUU5Ei+EAMVCk12P0Hmvu
+PSxDzsorOLXLe5jN2xCWIGzxju6TNa8EZU0Idc1F6L4Xp1v+cdruMacGulu0w6d1+8CJUn+EB2CB
+ihJ1zusOHYQomyDvqgTKARbrNyzn

@@ -1,76 +1,37 @@
-<?php
-
-namespace App\Models\v1;
-
-use App\Traits\User as UserTrait;
-
-/**
- * App\Models\v1\PurchaseRequestItem
- *
- * @property int $id
- * @property int|null $purchaseRequestId
- * @property string $catItemNo
- * @property string $description
- * @property int $qty
- * @property string $uom
- * @property int $estimationUnitCost
- * @property string|null $remarks
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem query()
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereCatItemNo($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereDescription($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereEstimationUnitCost($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem wherePurchaseRequestId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereQty($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereRemarks($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereUom($value)
- * @method static \Illuminate\Database\Eloquent\Builder|PurchaseRequestItem whereUpdatedAt($value)
- * @mixin \Eloquent
- */
-class PurchaseRequestItem extends AbstractModel
-{
-    use UserTrait;
-    protected $table = 'purchaseRequestItems';
-
-    private $curCode = null;
-
-    protected $fillable = [
-        'purchaseRequestId',
-        'catItemNo',
-        'materialNo',
-        'description',
-        'qty',
-        'uom',
-        'estimationUnitCost',
-        'remarks',
-        'isService',
-    ];
-
-    protected $appends = [
-        'purchaseRequest',
-        // 'currencyCode'
-    ];
-
-    protected $hidden = [
-        'purchaseRequestId',
-    ];
-
-    public function getPurchaseRequestAttribute()
-    {
-        $pr = PurchaseRequest::find($this->purchaseRequestId);
-        if(!$pr){
-            return null;
-        }
-        $this->curCode = $pr->currency['code'];
-        return $pr->only(['id','no']);
-    }
-    public function getCurrencyCodeAttribute(){
-        return $this->curCode;
-    }
-
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+FmO94xvtnK83hTZiBWjRTt27w5HTpQEtJ2TH

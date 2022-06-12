@@ -1,46 +1,36 @@
-<?php
-
-namespace App\Http\Middleware\v1;
-
-use App\Traits\HasRouteModel;
-use App\Traits\ResponseToModel;
-use App\Traits\RoleAssigner;
-use Closure;
-use Symfony\Component\HttpFoundation\Request;
-use Symfony\Component\HttpFoundation\Response;
-
-class RoleAssignerMiddleware
-{
-    use HasRouteModel, ResponseToModel, RoleAssigner;
-
-    /**
-     * Handle an incoming request.
-     *
-     * @param \Illuminate\Http\Request $request
-     * @param \Closure $next
-     * @return mixed
-     * @throws \App\Exceptions\Custom\Repository\RepositoryModelNotFoundException
-     */
-    public function handle($request, Closure $next)
-    {
-        // Pre-Middleware Action
-        $routeModel = $this->routeModel($request->route());
-
-        /** @var \Illuminate\Http\JsonResponse $response */
-        $response = $next($request);
-
-        // Post-Middleware Action
-
-        if (
-            $routeModel &&
-            $request->getMethod() === Request::METHOD_POST &&
-            method_exists($routeModel, 'roles') &&
-            $response->getStatusCode() === Response::HTTP_OK
-        ) {
-            $model = $this->jsonToModel($response,$routeModel);
-            $this->assignDefaultRole($model);
-        }
-
-        return $response;
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+tj4=

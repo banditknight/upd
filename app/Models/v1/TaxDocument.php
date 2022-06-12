@@ -1,73 +1,36 @@
-<?php
-
-namespace App\Models\v1;
-
-use Carbon\Carbon;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
-/**
- * App\Models\v1\TaxDocument
- *
- * @property int $id
- * @property int $userId
- * @property int $vendorId
- * @property int $taxDocumentTypeId
- * @property string $number
- * @property int $issuedDate
- * @property string $attachment
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @property-write mixed $issued_date
- * @method static \Database\Factories\v1\TaxDocumentFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument query()
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereAttachment($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereIssuedDate($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereNumber($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereTaxDocumentTypeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|TaxDocument whereVendorId($value)
- * @mixin \Eloquent
- * @property-read mixed $tax_document_type
- */
-class TaxDocument extends AbstractModel
-{
-    use HasFactory;
-
-    protected $table = 'taxDocuments';
-
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'taxDocumentTypeId',
-        'number',
-        'issuedDate',
-        'attachment',
-    ];
-
-    protected $hidden = [
-        'userId',
-        'vendorId',
-        'taxDocumentTypeId',
-        'created_at',
-        'updated_at'
-    ];
-
-    protected $appends = [
-        'taxDocumentType'
-    ];
-
-    public function setIssuedDateAttribute($value)
-    {
-        $this->attributes['issuedDate'] = Carbon::createFromFormat('d-m-Y', $value)->timestamp;
-    }
-
-    public function getTaxDocumentTypeAttribute()
-    {
-        return TaxDocumentType::find($this->taxDocumentTypeId);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

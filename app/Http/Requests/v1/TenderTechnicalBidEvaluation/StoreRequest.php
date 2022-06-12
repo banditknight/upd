@@ -1,83 +1,37 @@
-<?php
-
-namespace App\Http\Requests\v1\TenderTechnicalBidEvaluation;
-
-use App\Rules\AlphaSpaceDotComma;
-use App\Rules\AlphaUnderScore;
-use App\Rules\AlphaUpperUnderScore;
-use App\Rules\AssessmentCriteriaValid;
-use Pearl\RequestValidate\RequestAbstract;
-
-class StoreRequest extends RequestAbstract
-{
-    /**
-     * Determine if the user is authorized to make this request.
-     *
-     * @return bool
-     */
-    public function authorize(): bool
-    {
-        return true;
-    }
-
-    /**
-     * Get the validation rules that apply to the request.
-     *
-     * @return array
-     */
-    public function rules(): array
-    {
-        return [
-            'tenderId' => [
-                'required'
-            ],
-            'tenderItemId' => [
-                'required'
-            ],
-            'assessmentCriteriaId' => [
-                'required',
-                new AssessmentCriteriaValid()
-            ],
-            'assessmentCriteriaItem.*' => [
-                'required'
-            ],
-            'assessmentCriteriaItem.*.name' => [
-                'required',
-                new AlphaSpaceDotComma()
-            ],
-            'assessmentCriteriaItem.*.code' => [
-                'required',
-                'string'
-            ],
-            'assessmentCriteriaItem.*.description' => [
-                'nullable',
-                'string'
-            ],
-            'assessmentCriteriaItem.*.point' => [
-                'required',
-                'numeric'
-            ],
-            'assessmentCriteriaItem.*.isSummary' => [
-                'boolean'
-            ],
-            'requirement' => [
-                'required'
-            ],
-            'weight' => [
-                'required',
-            ],
-        ];
-    }
-
-    /**
-     * Get custom messages for validator errors.
-     *
-     * @return array
-     */
-    public function messages(): array
-    {
-        return [
-            //
-        ];
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

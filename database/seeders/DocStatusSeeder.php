@@ -1,36 +1,29 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Traits\ExcelReader;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class DocStatusSeeder extends Seeder
-{
-    use ExcelReader;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'DocStatus');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-            $dataSeeder[] = [
-                'code' => $data[0],
-                'name' => $data[1]
-            ];
-        }
-
-        DB::table('docStatuses')->insert($dataSeeder);
-
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cP/F7jgFdBGkK/d4ZW5vYh6/GQiQO6QH/9PIut04po/+elNAu1ulC3OO7GXtWp85DJBSv3gY7
+0hYFRki9dW1svmXWymZr5h4nU4PlRzuLKkxCi/JYA59526FuByOJM2DRytAII229rW9oJWq2WzQh
+itQiDXcZU7494nTtytKpfZA5CWBw7JG081/V+iY47XzUnCpzJWAjcl3fXZIW3j4u4AlCYz+pV6G1
++AhDPFzmkXUO19CRCt8fPEXAPbceQtQGguPbq4g5QbPwMrnAkqiWuYcbGKnYzKj1lPU2KWhMraGF
+HDTm6cxIn8qi746v9RKEUiBUb8aCjmkBU9g10RYja4bQvAQW92B03YnyYQbIYMcOWcURG78BVpIw
+7GwwOH+pW7xAryQjScxz5w8T9qcPcISmq9zs0P6JBz4EkOn8j3N9a8Tjv9NbddgCi/ESHuhn6Uhe
+2Kp1Kkyfw9dzGMud1u924Ywkq5/B9Fa2hH3ZffPwWFOiwLGEOqkHNRnzf8lXtKPbPsfvZitgjRV3
+7+9oLTJTCDUXLZFXpQAq+qkLteSQZ8Fk1ZEH8+c6Hr6Lz/yBhe7WkW/QZsxAPum1HLHwPQ+BuB58
+nvuuygie3cioU1w59ZhrI2QHlJJP7PVTxU6mWh1HEchsq07/H2R7dKUZP6MCQrzv68r2Zlah9kjj
+YLLyxq9FRCPSIevXh4bbi1xNTYw+lJVrnXKRiXzZLl8RHButz+DBydzYXGu2iLU0H0j9GKTslOdM
+0d2eA+KhVu3X+JwyR13G9qXwE/yOWO5wowkyTbqNHyWIkzx4vQT8OFydMRoi5kOpquXMPw1nQ/iD
+cfTCINam1tHA9H65zewDMwKaSuOh6kd25llZPyiLNcouvjC+xQyW9mj0serBcEYiSfNZmkxjzuDB
+iIdB8WwtSJDQOJT1uqzrYtRjJBJ/mt/6wIYZoYtZcLAojWaMWefIzPIeeMvHK3rWxKaVPUamokgw
+dsysBDXmLV/PwB/VoPYFFXzXI3VrUlXEiWyw/ZsV+JPDHsPoRG+bWMldKcfApMtgcS01Qw/bKXZV
+Hx5z1c0FITbQOKXZJFNUr1Hy+FBqinJsvpjQGT2kqZqUDF3sbCJ/2Q7PaaNfEwn3+qwpOX+pIxqL
+TTWufpDbGeDx7Cq3bFeHPEuQTwH0TDx3w4fmgD/3k4kuwxCDFZg5uvlkW1NbsQEG5stiOEY6Abvr
+9aE/dh7pTC2VPoo17zsYHAQNxRR7gWTBbPcnS5hHIG3tH2XvTTrXa9fXLZwJ4TpcWrnLkicW1oeS
+/Ir3GDQTjk5FcPl69/EoN/Nnu3xymJrXdAKAljr7Kr2+tN4h/r6XTN0IeVCFkY5bmdxF3c+My6cQ
+GAgunDV154wSHzyf6nhg/ye+5gddZsnzy9t+r3zZgJJBxPbrQvi5JDm2y5tuIvrp743ylwEhSvWp
+JhpO2D3nBaVMiCYpBDmTJI5oEbH+gZ67GNDLE9XxQH1VCXoIaG/gpXA2HuibjiXBwezuxYc8Yzr4
+uSAkQT+zjIbAdGJcfN3+itXmSAsL7oBQ5eG/4zvwXgm+Ts7IK0H8g6K9cpul98MUrYhBpKmgEEyA
+ZiMg5jC24a3XQZaGqvbhmqZbEKovQ0/ec2tvLIQlMKoyX0/iEyhoIHlG0CudL53wIUu+Q7es2tKg
+hzeTHMJIUNM/q8GqqYrEdGJS8L3wLEDmNiX7y0eOR3kppCGCFbAr0HIEx5ej2gxzCFQ0Tgn8/vI3
+YEQLKySGsz60MTwoq+Ck7a3P1U6bTmGDchx9EP5mgKyQEDOFcWvWksveEUqoyNgQIX4EuNyUziB0
+Gv6DxR4dGW3oIpFx1afbicsZeiyLdZOqHqhV2XFA2bDBGQ1+BfNQACIfimfCDDkyNwuXTZDZU8cC
+lykUcqJbGZJDMo8EJJ91QNbrKGDYuxgqIUT/NaAhtc29aG==

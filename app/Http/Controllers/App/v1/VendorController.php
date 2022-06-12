@@ -1,58 +1,46 @@
-<?php
-
-namespace App\Http\Controllers\App\v1;
-
-use App\Exceptions\Custom\Repository\RepositoryException;
-use App\Http\Requests\v1\Vendor\VendorRegisterRequest;
-use App\Http\Requests\v1\Vendor\VendorVerificationRequest;
-use App\Models\v1\Vendor;
-use App\Repositories\ResourceRepository;
-use App\Traits\User;
-use App\Traits\VendorRegisterTransaction;
-use App\Traits\VendorVerification;
-use Illuminate\Http\Request;
-use League\Fractal\Manager;
-use Tymon\JWTAuth\JWTAuth;
-
-class VendorController extends AbstractController
-{
-    use VendorRegisterTransaction, VendorVerification, User;
-
-    /**
-     * @throws RepositoryException
-     */
-    public function __construct(Manager $fractal, Request $request, JWTAuth $JWTAuth)
-    {
-        parent::__construct($fractal, $request, $JWTAuth);
-
-        $this->repo = new ResourceRepository(new Vendor());
-    }
-
-    public function register(VendorRegisterRequest $request)
-    {
-        $transaction = $this->transaction($request);
-
-        return $this->responseSuccess($transaction);
-    }
-
-    public function profile()
-    {
-        $user = $this->getUser();
-
-        return $this->responseSuccess($user->vendor ?? []);
-    }
-
-    public function index()
-    {
-        $user = $this->getUser();
-
-        return $this->responseSuccess($user->vendor ?? []);
-    }
-
-    public function verification(VendorVerificationRequest $request)
-    {
-        $verify = $this->verify($this->getUser(), $request->get('comment'));
-
-        return $this->responseSuccess($verify);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

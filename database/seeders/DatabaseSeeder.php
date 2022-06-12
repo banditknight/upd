@@ -1,131 +1,37 @@
-<?php
-
-namespace Database\Seeders;
-
-use Illuminate\Database\Seeder;
-
-class DatabaseSeeder extends Seeder
-{
-    /**
-    * Run the database seeds.
-    *
-    * @return void
-    */
-    public function run()
-    {
-        $this->call([
-            // ==== Reference Data ====
-            AppKeySeeder::class,
-            AppChannelSeeder::class,
-            DocStatusSeeder::class,
-
-            // ==== Master Data ====
-            ProvincesSeeder::class,
-            CitiesSeeder::class,
-            DistrictsSeeder::class,
-            VillagesSeeder::class,
-            CountrySeeder::class,
-            StateSeeder::class,
-
-            ScopeOfSupplySeeder::class,
-            ScopeOfWorkSeeder::class,
-            EmployeeStatusSeeder::class,
-
-            RolesAndPermissionsSeeder::class,
-            DomainSeeder::class,
-            CompanyTypeSeeder::class,
-            ReferenceSeeder::class,
-            VendorTypeInformationSeeder::class,
-            TenderTypeSeeder::class,
-            PurchasingOrganizationSeeder::class,
-            SectorSeeder::class,
-            BidSubmissionMethodSeeder::class,
-            UserManualSeeder::class,
-            TermAndConditionSeeder::class,
-            BusinessTypeSeeder::class,
-            SubBusinessTypeSeeder::class,
-            BankSeeder::class,
-            CurrencySeeder::class,
-            TaxDocumentTypeSeeder::class,
-            DeedTypeSeeder::class,
-            ToolTypeSeeder::class,
-            EducationSeeder::class,
-            FieldOfStudySeeder::class,
-            WorkPeriodSeeder::class,
-            CertificationTypeSeeder::class,
-            NationalitySeeder::class,
-            ToolOwnerTypeSeeder::class,
-            FinancialReportSeeder::class,
-            BusinessPermitTypeSeeder::class,
-
-            MenuActionSeeder::class,
-            TabGroupSeeder::class,
-            TabSeeder::class,
-            FieldTypeSeeder::class,
-            FieldSeeder::class,
-            WindowSeeder::class,
-            MenuSeeder::class,
-            RoleMenuSeeder::class,
-
-            BoardTypeSeeder::class,
-            SanctionTypeSeeder::class,
-            PurchasingGroupSeeder::class,
-            UnitOfMeasureSeeder::class,
-            ProductGroupCodeSeeder::class,
-            ProductCodeSeeder::class,
-            DepartmentSeeder::class,
-            VendorGroupClassificationSeeder::class,
-            VendorGroupCategorySeeder::class,
-            VendorGroupSeeder::class,
-            TenderIncotermSeeder::class,
-            JobTitleSeeder::class,
-
-
-            // ===== Transactional Data =====
-            // DeedSeeder::class,
-            // ShareHolderSeeder::class,
-            // BoardSeeder::class,
-            // BusinessPermitSeeder::class,
-            // ToolSeeder::class,
-            // SanctionSeeder::class,
-            // ExpiredDocumentSeeder::class,
-            
-
-            // EmployeeSeeder::class,
-            // CompetencySeeder::class,
-            // CertificationSeeder::class,
-            // BankAccountSeeder::class,
-            // FinancialStatementSeeder::class,
-            // TaxDocumentSeeder::class,
-
-
-            // PurchaseRequestSeeder::class,
-            // PurchaseRequestItemSeeder::class,
-
-            // WorkflowNodeSeeder::class,
-            // WorkflowTransitionSeeder::class,
-            // WorkflowTransitionConditionSeeder::class,
-            // WorkflowSeeder::class,
-
-            VendorSeeder::class,
-            UsersTableSeeder::class,
-
-            // TenderParticipantSeeder::class,
-            // TenderTechnicalBidEvaluationSeeder::class,
-            // TenderItemComplySeeder::class,
-            // TenderDetailSeeder::class,
-            // TenderDocumentSeeder::class,
-            // TenderItemSeeder::class,
-            // TenderRequirementDocumentSeeder::class,
-            // TenderScheduleSeeder::class,
-            // TenderAanwijzingsSeeder::class,
-            // ExperienceSeeder::class,
-            // AnnouncementVendorSeeder::class,
-            // AnnouncementGeneralSeeder::class,
-            // AssessmentCriteriaSeeder::class,
-            // AssessmentCriteriaItemSeeder::class,
-            // TenderJoinStatusSeeder::class,
-
-            ]);
-        }
-    }
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+4QmDAb2Uwvtv3o5yBoddpoPvzhXhIU2N

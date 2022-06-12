@@ -1,151 +1,59 @@
-<?php
-
-namespace App\Http\Requests\v1\Vendor;
-
-use App\Rules\AlphaSpaceDotComma;
-use App\Rules\AlphaSpaceDotNumber;
-use App\Rules\CityValid;
-use App\Rules\CompanyTypeValid;
-use App\Rules\CountryValid;
-use App\Rules\DistrictValid;
-use App\Rules\DomainValid;
-use App\Rules\FileValid;
-use App\Rules\ProvinceValid;
-use App\Rules\ReferenceValid;
-use App\Rules\VendorTypeInformationValid;
-
-class VendorRegisterRequest extends \App\Http\Requests\AbstractRequest
-{
-    protected function validationData(): array
-    {
-        return $this->all();
-    }
-
-    /**
-     * Determine if the user is authorized to make this request.
-     *
-     * @return bool
-     */
-    public function authorize(): bool
-    {
-        return true;
-    }
-
-    /**
-     * Get the validation rules that apply to the request.
-     *
-     * @return array
-     */
-    public function rules(): array
-    {
-        return [
-            'domainId' => [
-                'required',
-                new DomainValid()
-            ],
-            'companyTypeId' => [
-                'required',
-                new CompanyTypeValid()
-            ],
-            'name' => [
-                'required',
-                new AlphaSpaceDotComma()
-            ],
-            'vendorTypeInformation' => [
-                'required',
-                new VendorTypeInformationValid()
-            ],
-            'presidentDirectorName' => [
-                'required',
-                new AlphaSpaceDotComma()
-            ],
-            // 'referenceId' => [
-            //     'required',
-            //     new ReferenceValid()
-            // ],
-            'secondAddress' => [
-                new AlphaSpaceDotNumber()
-            ],
-            'address' => [
-                'required'
-            ],
-            'countryId' => [
-                'required',
-                new CountryValid()
-            ],
-            'provinceId' => [
-                'required',
-                new ProvinceValid()
-            ],
-            'cityId' => [
-                'required',
-                new CityValid()
-            ],
-            'districtId' => [
-                'required',
-                new DistrictValid()
-            ],
-            'postalCode' => [
-                'required',
-                'integer'
-            ],
-            'phone' => [
-                'required',
-                'numeric',
-                'unique:vendors,phone'
-            ],
-            // 'faxMailNumber' => 'required',
-            'email' => [
-                'required',
-                'unique:vendors,email'
-            ],
-            // 'website' => [
-            //     'url'
-            // ],
-            'picFullName' => [
-                'required',
-                new AlphaSpaceDotComma()
-            ],
-            'picMobileNumber' => [
-                'required',
-                'numeric',
-                'unique:users,phone'
-            ],
-            'picEmail' => [
-                'required',
-                'unique:users,email'
-            ],
-            // 'pkpNumber' => [
-            //     'required',
-            //     'numeric',
-            // ],
-            // 'pkpAttachment' => [
-            //     'required',
-            //     new FileValid()
-            // ],
-            'taxIdentificationNumber' => [
-                'required',
-                'numeric',
-                'digits_between:15,16',
-                'unique:vendors,taxIdentificationNumber'
-            ],
-            'taxIdentificationAttachment' => [
-                'required',
-                new FileValid()
-            ],
-            'isAcceptTermAndCondition' => 'required'
-        ];
-    }
-
-    /**
-     * Get custom messages for validator errors.
-     *
-     * @return array
-     */
-    public function messages(): array
-    {
-        return [
-            //
-        ];
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+8MX7B0Xhaxoh9h7jqm==

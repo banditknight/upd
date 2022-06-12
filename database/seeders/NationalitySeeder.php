@@ -1,37 +1,29 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Models\v1\Nationality;
-use App\Traits\ExcelReader;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-
-class NationalitySeeder extends Seeder
-{
-    use ExcelReader;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        $dataOnSheets = $this->read(storage_path('seeders/Seeder.xlsx'), 'Nationality');
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            $dataSeeder[] = [
-                'code' => $data[1],
-                'name' => $data[2]
-            ];
-        }
-
-        DB::table('nationalities')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

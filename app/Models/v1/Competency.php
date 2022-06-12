@@ -1,70 +1,39 @@
-<?php
-
-namespace App\Models\v1;
-
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
-/**
- * App\Models\v1\Competency
- *
- * @property int $id
- * @property int $userId
- * @property int $vendorId
- * @property int $businessTypeId
- * @property int $subBusinessTypeId
- * @property string $descriptionOfExperience
- * @property int $vendorTypeId
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Database\Factories\v1\CompetencyFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|Competency newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Competency newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Competency query()
- * @method static \Illuminate\Database\Eloquent\Builder|Competency whereBusinessTypeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Competency whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Competency whereDescriptionOfExperience($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Competency whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Competency whereSubBusinessTypeId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Competency whereUpdatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Competency whereUserId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Competency whereVendorId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Competency whereVendorTypeId($value)
- * @mixin \Eloquent
- */
-class Competency extends AbstractModel
-{
-    use HasFactory;
-
-    protected $fillable = [
-        'userId',
-        'vendorId',
-        'businessTypeId',
-        'subBusinessTypeId',
-        'descriptionOfExperience',
-        'vendorTypeId',
-    ];
-
-    protected $hidden = [
-        'userId',
-        'vendorId',
-        'businessTypeId',
-        'subBusinessTypeId',
-        'vendorTypeId',
-    ];
-
-    protected $appends = [
-        'businessType',
-        'subBusinessType',
-        'vendorType',
-    ];
-
-    public function getBusinessTypeAttribute(){
-        return BusinessType::find($this->businessTypeId)->only(['id','code','name']);
-    }
-    public function getSubBusinessTypeAttribute(){
-        return SubBusinessType::find($this->subBusinessTypeId)->only(['id','code','name']);
-    }
-    public function getVendorTypeAttribute(){
-        return VendorTypeInformation::find($this->vendorTypeId)->only(['id','code','name']);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+BgiPRXae

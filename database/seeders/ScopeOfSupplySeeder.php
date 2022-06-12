@@ -1,71 +1,47 @@
-<?php
-
-namespace Database\Seeders;
-
-use App\Models\v1\PurchasingGroup;
-use App\Traits\ExcelReader;
-use Illuminate\Database\Seeder;
-use Illuminate\Support\Facades\DB;
-use PhpOffice\PhpSpreadsheet\Exception;
-
-class ScopeOfSupplySeeder extends Seeder
-{
-    use ExcelReader;
-
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
-    public function run()
-    {
-        $max = 100;
-        // skip 0 since 0 is worksheet for purchasing group.
-        for ($i = 1; $i <= $max; $i++) {
-            $this->perWorkSheet($i);
-        }
-    }
-
-    /**
-     * @throws Exception
-     */
-    private function perWorkSheet(int $sheetIndex)
-    {
-        $dataOnSheets = $this->readWorkSheetByIndex(storage_path('seeders/ScopeOfSupply.xlsx'), $sheetIndex);
-
-        $dataSeeder = [];
-        foreach ($dataOnSheets as $key => $data) {
-            if ($key === 0) {
-                continue;
-            }
-
-            if (!$data[0]) {
-                continue;
-            }
-
-            $purchasingGroupCode = $data[3];
-            $purchasingGroupObject = PurchasingGroup::where('code', '=', $purchasingGroupCode)->first();
-
-            $reCheckFound = false;
-            if (!$purchasingGroupObject) {
-
-                $newPurchasingGroupCode = str_replace('D0', 'D', $purchasingGroupCode);
-
-                $purchasingGroupObject = PurchasingGroup::where('code', '=', $newPurchasingGroupCode)->first();
-                $reCheckFound = (bool)$purchasingGroupObject;
-            }
-
-            if (!$reCheckFound) {
-                continue;
-            }
-
-            $dataSeeder[] = [
-                'code' => $data[0],
-                'name' => $data[1],
-                'purchasingGroupId' => $purchasingGroupObject->id ?? null
-            ];
-        }
-
-        DB::table('scopeOfSupplies')->insert($dataSeeder);
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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

@@ -1,26 +1,32 @@
-<?php
-
-namespace App\Http\Controllers\BackOffice\v1;
-
-use App\Http\Requests\ResourceRequest;
-use Illuminate\Http\JsonResponse;
-use Illuminate\Support\Facades\Artisan;
-
-class PurchaseRequestSyncController extends ResourceController
-{
-    /**
-     * @throws \JsonException
-     */
-    public function store(ResourceRequest $resourceRequest): JsonResponse
-    {
-        Artisan::call('pr:sync');
-        $output = Artisan::output();
-
-        $data['data'] = is_string($output) ?
-            json_decode($output, true, 512, JSON_THROW_ON_ERROR) : [];
-
-        return $this->responseSuccess(
-            $data
-        );
-    }
-}
+<?php //004fb
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+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
+SZiAOiokxvv7ZzOLhWMw8zW=
