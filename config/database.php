@@ -79,6 +79,8 @@ return [
             'password' => env('DB_PASSWORD', ''),
             'charset' => env('DB_CHARSET', 'utf8'),
             'prefix' => env('DB_PREFIX', ''),
+            'encrypt' => 'yes',
+            'trust_server_certificate' => 'true',
         ],
 
         'avantis' => [
@@ -90,6 +92,8 @@ return [
             'password' => env('DB_PASSWORD_AVANTIS', ''),
             'charset' => env('DB_CHARSET', 'utf8'),
             'prefix' => env('DB_PREFIX', ''),
+            'encrypt' => 'yes',
+            'trust_server_certificate' => 'true',
         ],
 
     ],
