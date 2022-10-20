@@ -7,6 +7,7 @@
     "require": {
         "php": "^7.3|^8.0",
         "ext-json": "*",
+        "elibyy/tcpdf-laravel": "^9.1",
         "flipbox/lumen-generator": "^8.2",
         "guzzlehttp/guzzle": "^7.0",
         "illuminate/mail": "^8.59",
