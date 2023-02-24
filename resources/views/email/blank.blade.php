@@ -57,7 +57,7 @@
                                         <br/>
                                         <br/>
                                         @if ($url)
-                                            <a href="{{$url}}" style="background-color:#01902d;color:#ffffff;border-radius:8px;height:40px;line-height:48px;display:inline-block;font-family:Helvetica,Arial,sans-serif;font-weight:bold;font-size:16px;width:200px;text-align:center;text-decoration:none;padding:5px" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://fapp1.tokopedia.com/WSGQHPRTIW?id%3D16114%3DIRlUVgZSAwlXHlADXAAIUwNdB1BRAFJSDlsJDVZdBAFUAFFfB1MADFVbUwIAXQ5XUV8YUFULUg9DCF5cAVBGIwUIBQ9bSlFXDh4ABVMODlUGAFMBAVMAXw5VAUkOTEYTEV9LSVEFQkhSTEVcD1dJBFdQBRxXCltJYDB3ZC5oYDcrMlsPUxhECw%3D%3D%26fl%3DChEQFkReHRcUFUYdEFdSDkNcAFtVS1UJWkxYUApIHQIQEQ0FWwEdSxdPAAFdARQDUl4FW1kEWAcaAFFHBxVHEwYEEAMaF1NUBw0cRgVWXkxWVQFZQBdZCF4IHVgDVFMPFwxJElgPXUgGBlhS&amp;source=gmail&amp;ust=1676952221844000&amp;usg=AOvVaw0RVwZcq1jnSMbXsGasqMvl">
+                                            <a href="{{$url}}" style="background-color:#01902d;color:#ffffff;border-radius:8px;height:40px;line-height:40px;display:inline-block;font-family:Helvetica,Arial,sans-serif;font-weight:bold;font-size:16px;width:200px;text-align:center;text-decoration:none;padding:0px" target="_blank" data-saferedirecturl="{{$url}}">
                                                 Open
                                             </a>
                                         @endif
